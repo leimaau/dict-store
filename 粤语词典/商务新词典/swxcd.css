@@ -1,0 +1,26 @@
+﻿.highlight {color: #0000FF;background:#FFFF00;}
+.highlight2 {color: #0000FF;background:#FFFF00;}
+.sw_XH {display:none}
+.sw_dy {display:none}
+/*.sw_yy {display:none}*/
+.sw_yy:before {content:"  [粤音]";
+                       color: #963;}
+.sw_CMPY {color:green}
+.sw_sylb {list-style: square outside}
+.sw_FYCLB:before {content:" [反]: ";
+                         color:red }
+.sw_FYC:after {content:"；";
+                         color: }
+.sw_TYCLB:before {content:" [同]: ";
+                         color: red}
+.sw_TYC:after {content:"；";
+                         color: }
+.sw_LZ {color: #666; }
+.sw_ZLZ {color: #666; }
+.sw_title {font-weight:bold;text-decoration:underline;color:darkred;}
+.sw_CY {color:darkblue;font-weight:bold;}
+.sw_PYLB {color:green}
+.sw_DYXH {display:none;}
+.sw_JHZ:before {content:"  [简体字]"; color:#369; }
+.sw_YTZ:before {content:"  [异体字]"; color:#963; }
+.sw_CONTENT {border-bottom: 1px #555555 dashed;;}
