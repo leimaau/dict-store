@@ -1751,8 +1751,7 @@
 【哭】huk7(1)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>44</li><li><span style="font-weight: bold">字碼：</span>0584</li></ul>
 </>
 員
-【員】jyun4<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>44</li><li><span style="font-weight: bold">字碼：</span>0585</li><li><span style="font-weight: bold">備註：</span>1)(古人名)wan4</li></ul>
-2)wan6姓員
+【員】jyun4<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>44</li><li><span style="font-weight: bold">字碼：</span>0585</li><li><span style="font-weight: bold">備註：</span>1)(古人名)wan4 2)wan6姓員</li></ul>
 </>
 哨
 【哨】saau3<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>44</li><li><span style="font-weight: bold">字碼：</span>0586</li></ul>
@@ -3507,8 +3506,7 @@
 【平】ping4<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>72</li><li><span style="font-weight: bold">字碼：</span>1169</li></ul>
 </>
 并
-【并】bing6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>72</li><li><span style="font-weight: bold">字碼：</span>1170</li><li><span style="font-weight: bold">備註：</span>(又)bing3</li></ul>
-(地名)bing1冰并州
+【并】bing6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>72</li><li><span style="font-weight: bold">字碼：</span>1170</li><li><span style="font-weight: bold">備註：</span>(又)bing3 (地名)bing1冰并州</li></ul>
 </>
 年
 【年】nin4<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>72</li><li><span style="font-weight: bold">字碼：</span>1171</li></ul>
@@ -4762,8 +4760,7 @@
 【掀】hin1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>92</li><li><span style="font-weight: bold">字碼：</span>1587</li></ul>
 </>
 捻
-【捻】nin2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>92</li><li><span style="font-weight: bold">字碼：</span>1588</li><li><span style="font-weight: bold">備註：</span>(又)nim2</li></ul>
-(語)nan2
+【捻】nin2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>92</li><li><span style="font-weight: bold">字碼：</span>1588</li><li><span style="font-weight: bold">備註：</span>(又)nim2 (語)nan2</li></ul>
 </>
 捨
 【捨】se2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>92</li><li><span style="font-weight: bold">字碼：</span>1589</li></ul>
@@ -10070,8 +10067,7 @@
 【舨】baan2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>175</li><li><span style="font-weight: bold">字碼：</span>3356</li></ul>
 </>
 般
-【般】bun1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>175</li><li><span style="font-weight: bold">字碼：</span>3357</li><li><span style="font-weight: bold">備註：</span>1)(古人名)baan1公輸般</li></ul>
-2)(佛經語)bo1波若
+【般】bun1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>175</li><li><span style="font-weight: bold">字碼：</span>3357</li><li><span style="font-weight: bold">備註：</span>1)(古人名)baan1公輸般 2)(佛經語)bo1波若</li></ul>
 </>
 舵
 【舵】to4<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>175</li><li><span style="font-weight: bold">字碼：</span>3358</li></ul>
@@ -10902,8 +10898,7 @@
 【行】1)hang4:步行 2)hang6:品行，道行 3)hong4:單行<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>189</li><li><span style="font-weight: bold">字碼：</span>3633</li></ul>
 </>
 衍
-【衍】jin2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>189</li><li><span style="font-weight: bold">字碼：</span>3634</li><li><span style="font-weight: bold">備註：</span>(又)jin5</li></ul>
-(俗)*hin2
+【衍】jin2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>189</li><li><span style="font-weight: bold">字碼：</span>3634</li><li><span style="font-weight: bold">備註：</span>(又)jin5 (俗)*hin2</li></ul>
 </>
 術
 【術】seot9(6)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>189</li><li><span style="font-weight: bold">字碼：</span>3635</li></ul>
@@ -11503,8 +11498,7 @@
 【讚】zaan3<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>198</li><li><span style="font-weight: bold">字碼：</span>3833</li></ul>
 </>
 谷
-【谷】guk7(1)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>198</li><li><span style="font-weight: bold">字碼：</span>3834</li><li><span style="font-weight: bold">備註：</span>1)(古地名)juk9(6) 吐谷渾</li></ul>
-2)(古地名)luk9(6) 谷蠡
+【谷】guk7(1)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>198</li><li><span style="font-weight: bold">字碼：</span>3834</li><li><span style="font-weight: bold">備註：</span>1)(古地名)juk9(6) 吐谷渾 2)(古地名)luk9(6) 谷蠡</li></ul>
 </>
 豁
 【豁】kut8(3)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>198</li><li><span style="font-weight: bold">字碼：</span>3835</li></ul>
@@ -13496,8 +13490,7 @@
 【飛】fei1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4497</li></ul>
 </>
 食
-【食】sik9(6)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4498</li><li><span style="font-weight: bold">備註：</span>1)(古)zi6拿東西給人吃</li></ul>
-2)(古人名)ji6食其
+【食】sik9(6)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4498</li><li><span style="font-weight: bold">備註：</span>1)(古)zi6拿東西給人吃 2)(古人名)ji6食其</li></ul>
 </>
 飢
 【飢】gei1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4499</li></ul>
@@ -13554,8 +13547,7 @@
 【餓】ngo6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>230</li><li><span style="font-weight: bold">字碼：</span>4516</li></ul>
 </>
 餒
-【餒】neoi5<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>230</li><li><span style="font-weight: bold">字碼：</span>4517</li><li><span style="font-weight: bold">備註：</span>(又)noi5</li></ul>
-(俗)leoi5
+【餒】neoi5<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>230</li><li><span style="font-weight: bold">字碼：</span>4517</li><li><span style="font-weight: bold">備註：</span>(又)noi5 (俗)leoi5</li></ul>
 </>
 餘
 【餘】jyu4<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>230</li><li><span style="font-weight: bold">字碼：</span>4518</li></ul>
@@ -14161,8 +14153,7 @@
 【龔】gung1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>240</li><li><span style="font-weight: bold">字碼：</span>4718</li></ul>
 </>
 龜
-【龜】gwai1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>241</li><li><span style="font-weight: bold">字碼：</span>4719</li><li><span style="font-weight: bold">備註：</span>1)(古)gwan1不龜手之藥</li></ul>
-2)(古國名)kau1
+【龜】gwai1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>241</li><li><span style="font-weight: bold">字碼：</span>4719</li><li><span style="font-weight: bold">備註：</span>1)(古)gwan1不龜手之藥 2)(古國名)kau1</li></ul>
 </>
 佈
 【佈】bou3<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>241</li><li><span style="font-weight: bold">字碼：</span>4720</li></ul>
