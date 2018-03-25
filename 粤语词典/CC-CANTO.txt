@@ -980,7 +980,7 @@
 【一樣米養百樣人（一样米养百样人）】jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4〔yī yàng mĭ yăng băi yàng rén〕<br/>one kind, the same kind of rice feeds/ raises one hundred types of people, everybody has different opinions, thoughts, behaviors
 </>
 一檔
-【一檔（一档）】jat1 檔:dong2〔yī dàng〕<br/>1. classifier for shops     2. first gear
+【一檔（一档）】jat1 dong2〔yī dàng〕<br/>1. classifier for shops     2. first gear
 </>
 一次起两次止
 @@@LINK=一次起兩次止
@@ -12935,7 +12935,7 @@
 【凜然（凛然）】lam5 jin4〔lĭn rán〕<br/>Awe-inspiring
 </>
 凝眸
-【凝眸】凝:jing4 mau4〔níng móu〕<br/>focus one's eyes upon
+【凝眸】jing4 mau4〔níng móu〕<br/>focus one's eyes upon
 </>
 凝重
 【凝重】jing4 zung6〔níng zhòng〕<br/>serious
@@ -15701,7 +15701,7 @@
 【十字鋤（十字锄）】sap6 zi6 co4〔shí zì chú〕<br/>Hoe
 </>
 十字鎬
-【十字鎬（十字镐）】sap6 zi6 hou6〔shí zì găo〕<br/>Pickaxe
+【十字鎬（十字镐）】sap6 zi6 gou2〔shí zì găo〕<br/>Pickaxe
 </>
 十字锄
 @@@LINK=十字鋤
@@ -16082,7 +16082,7 @@
 @@@LINK=卑路乍灣
 </>
 卑路乍灣
-【卑路乍灣（卑路乍湾）】bei1 lou6 乍:zaa3 waan1〔bēi lù zhà wān〕<br/>Belcher Bay, a bay off the northwest shore of Hong Kong Island in Hong Kong
+【卑路乍灣（卑路乍湾）】bei1 lou6 zaa3 waan1〔bēi lù zhà wān〕<br/>Belcher Bay, a bay off the northwest shore of Hong Kong Island in Hong Kong
 </>
 卑鄙小人
 【卑鄙小人】bei1 pei2 siu2 jan4〔bēi bĭ xiăo rén〕<br/>scum; sneaky or despicable person
@@ -49862,7 +49862,7 @@
 【日月星辰】jat6 jyut6 sing1 san4〔rì yuè xīng chén〕<br/>host of heavens; heavenly bodies; the sun, the moon and the starts
 </>
 日本仔
-【日本仔】jat6 bun2 zi2〔rì bĕn zĭ〕<br/>Japanese men
+【日本仔】jat6 bun2 zai2〔rì bĕn zĭ〕<br/>Japanese men
 </>
 日本动画
 @@@LINK=日本動畫
@@ -88226,7 +88226,7 @@
 【贊頌（赞颂）】zaan3 zung6〔zàn sòng〕<br/>to eulogize; to praise
 </>
 贏錢
-【贏錢（赢钱）】:jeng4 cin2〔yíng qián〕<br/> to win the money(in gambling or betting)
+【贏錢（赢钱）】jeng4 cin2〔yíng qián〕<br/> to win the money(in gambling or betting)
 </>
 贏面
 【贏面（赢面）】jeng4 min6〔yíng miàn〕<br/>chances of winning (spoken)
@@ -94334,7 +94334,7 @@
 【銅錢（铜钱）】tung4 cin4〔tóng qián〕<br/>copper coin
 </>
 銅鑼灣
-【銅鑼灣（铜锣湾）】tung4 lo4 waan4〔tóng luó wān〕<br/>Causeway Bay, a place in Hong Kong, China
+【銅鑼灣（铜锣湾）】tung4 lo4 waan1〔tóng luó wān〕<br/>Causeway Bay, a place in Hong Kong, China
 </>
 銜冤
 【銜冤（衔冤）】ham4 jyun1〔xián yuān〕<br/>to harbour a simmering sense of injustice or being wrongly charged

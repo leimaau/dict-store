@@ -127,6 +127,9 @@
 㠾
 【㠾】jyun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>270</li></ul>
 </>
+㡧
+【㡧】zing3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>272</li></ul>
+</>
 㤅
 【㤅】oi3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>347</li></ul>
 </>
@@ -2030,10 +2033,7 @@
 【免】min5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>91</li></ul>
 </>
 兒
-【兒】ji4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>74</li></ul>
-</>
-兒
-【兒】ji4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>75</li></ul>
+【兒】ji4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>74, 75</li></ul>
 </>
 兔
 【兔】tou3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>91</li></ul>
@@ -2420,10 +2420,7 @@
 【削】soek3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>46</li><li><span style="font-weight: bold">釋義：</span>㈠</li></ul>
 </>
 剋
-【剋】hak1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>46</li></ul>
-</>
-剋
-【剋】hak1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>74</li></ul>
+【剋】hak1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>46, 74</li></ul>
 </>
 剌
 【剌】laa1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>46</li><li><span style="font-weight: bold">釋義：</span>㈡</li></ul>
@@ -5678,10 +5675,7 @@
 【墮】do6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>165</li></ul>
 </>
 墰
-【墰】taam4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>157</li></ul>
-</>
-墰
-【墰】taam4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>157</li></ul>
+【墰】taam4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>157, 157</li></ul>
 </>
 墳
 【墳】fan4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>157</li></ul>
@@ -5837,10 +5831,7 @@
 【夤】jan4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>284</li></ul>
 </>
 夥
-【夥】fo2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>284</li></ul>
-</>
-夥
-【夥】fo2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>57</li></ul>
+【夥】fo2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>57, 284</li></ul>
 </>
 大
 【大】daai6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>195</li></ul>
@@ -8984,10 +8975,7 @@
 【慄】leot6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>377</li></ul>
 </>
 慇
-【慇】jan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>352</li></ul>
-</>
-慇
-【慇】jan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>452</li></ul>
+【慇】jan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>352, 452</li></ul>
 </>
 慈
 【慈】ci4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>351</li></ul>
@@ -9197,10 +9185,7 @@
 【懆】cou2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>132</li></ul>
 </>
 懇
-【懇】han2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>350</li></ul>
-</>
-懇
-【懇】han2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>582</li></ul>
+【懇】han2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>350, 582</li></ul>
 </>
 懈
 【懈】haai6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>132</li></ul>
@@ -9818,10 +9803,7 @@
 【拼】pun3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>212</li><li><span style="font-weight: bold">釋義：</span>㈠ 豁出去：～死。同【拚】</li></ul>
 </>
 拽
-【拽】jai6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>213</li></ul>
-</>
-拽
-【拽】jai6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>413</li></ul>
+【拽】jai6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>213, 413</li></ul>
 </>
 拾
 【拾】gip3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>213</li><li><span style="font-weight: bold">釋義：</span>㈢ 更迭、輪流</li></ul>
@@ -11993,10 +11975,7 @@
 【枑】wu6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>369</li></ul>
 </>
 枒
-【枒】aa1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>1</li></ul>
-</>
-枒
-【枒】aa1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>376</li></ul>
+【枒】aa1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>1, 376</li></ul>
 </>
 枓
 【枓】dau2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>368</li><li><span style="font-weight: bold">釋義：</span>㈠</li></ul>
@@ -12113,10 +12092,7 @@
 【柙】haap6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>373</li><li><span style="font-weight: bold">釋義：</span>㈠</li></ul>
 </>
 柚
-【柚】jau2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>373</li><li><span style="font-weight: bold">釋義：</span>〔白讀〕</li></ul>
-</>
-柚
-【柚】jau2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>373</li><li><span style="font-weight: bold">釋義：</span>〔白讀〕</li></ul>
+【柚】jau2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>373, 373</li><li><span style="font-weight: bold">釋義：</span>〔白讀〕</li></ul>
 </>
 柚
 【柚】jau4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>373</li><li><span style="font-weight: bold">釋義：</span>㈡ 落葉大喬木</li></ul>
@@ -12593,10 +12569,7 @@
 【椎】zeoi1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>383</li><li><span style="font-weight: bold">釋義：</span>㈡ ①～樹。②頸～．腰～</li></ul>
 </>
 椏
-【椏】aa1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>1</li></ul>
-</>
-椏
-【椏】aa1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>376</li></ul>
+【椏】aa1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>1, 376</li></ul>
 </>
 椏
 【椏】ngaa6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>212</li></ul>
@@ -13478,10 +13451,7 @@
 【殼】hok3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>76</li></ul>
 </>
 殽
-【殽】ngaau4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>111</li></ul>
-</>
-殽
-【殽】ngaau4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>452</li></ul>
+【殽】ngaau4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>111, 452</li></ul>
 </>
 殿
 【殿】din6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>452</li></ul>
@@ -14711,10 +14681,7 @@
 【湫】ziu2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>115</li><li><span style="font-weight: bold">釋義：</span>㈡</li></ul>
 </>
 湮
-【湮】jan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>104</li></ul>
-</>
-湮
-【湮】jan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>114</li></ul>
+【湮】jan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>104, 114</li></ul>
 </>
 湯
 【湯】soeng1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>96</li><li><span style="font-weight: bold">釋義：</span>㈡ 急流：河水～～</li></ul>
@@ -15788,10 +15755,7 @@
 【煉】lin6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>340</li></ul>
 </>
 煊
-【煊】hyun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>344</li></ul>
-</>
-煊
-【煊】hyun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>410</li></ul>
+【煊】hyun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>344, 410</li></ul>
 </>
 煌
 【煌】wong4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>344</li></ul>
@@ -15806,10 +15770,7 @@
 【煒】wai5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>339</li></ul>
 </>
 煖
-【煖】nyun5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>344</li></ul>
-</>
-煖
-【煖】nyun5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>411</li></ul>
+【煖】nyun5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>344, 411</li></ul>
 </>
 煗
 【煗】nyun5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>411</li></ul>
@@ -16103,10 +16064,7 @@
 【爐】lou4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>339</li></ul>
 </>
 爓
-【爓】jim6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>343</li></ul>
-</>
-爓
-【爓】jim6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>345</li></ul>
+【爓】jim6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>343, 345</li></ul>
 </>
 爔
 【爔】hei1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>346</li></ul>
@@ -16208,10 +16166,7 @@
 【牓】bong2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>432</li></ul>
 </>
 牕
-【牕】coeng1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>433</li></ul>
-</>
-牕
-【牕】coeng1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>458</li></ul>
+【牕】coeng1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>433, 458</li></ul>
 </>
 牖
 【牖】jau5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>432</li></ul>
@@ -17186,10 +17141,7 @@
 【甙】doi6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>202</li></ul>
 </>
 甚
-【甚】sam6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>55</li></ul>
-</>
-甚
-【甚】sam6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>610</li></ul>
+【甚】sam6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>55, 610</li></ul>
 </>
 甜
 【甜】tim4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>565</li></ul>
@@ -18158,10 +18110,7 @@
 【眼】ngaan5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>486</li></ul>
 </>
 眽
-【眽】mak6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>437</li></ul>
-</>
-眽
-【眽】mak6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>486</li></ul>
+【眽】mak6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>437, 486</li></ul>
 </>
 着
 【着】ziu1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>537</li><li><span style="font-weight: bold">釋義：</span>〔又讀〕</li></ul>
@@ -19298,10 +19247,7 @@
 【稿】gou2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>521</li></ul>
 </>
 穀
-【穀】guk1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>452</li></ul>
-</>
-穀
-【穀】guk1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>605</li></ul>
+【穀】guk1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>452, 605</li></ul>
 </>
 穄
 【穄】zai3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>521</li></ul>
@@ -23174,10 +23120,7 @@
 【萄】tou4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>185</li></ul>
 </>
 萆
-【萆】bei1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>184</li></ul>
-</>
-萆
-【萆】bei1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>189</li></ul>
+【萆】bei1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>184, 189</li></ul>
 </>
 萆
 【萆】bei6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>189</li><li><span style="font-weight: bold">釋義：</span>〔又讀〕</li></ul>
@@ -23783,10 +23726,7 @@
 【薯】syu4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>193</li></ul>
 </>
 薰
-【薰】fan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>194</li></ul>
-</>
-薰
-【薰】fan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>333</li></ul>
+【薰】fan1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>194, 333</li></ul>
 </>
 薳
 【薳】jyun5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>180</li></ul>
@@ -23867,10 +23807,7 @@
 【藤】tang4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>194</li></ul>
 </>
 藥
-【藥】joek6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>180</li></ul>
-</>
-藥
-【藥】joek6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>194</li></ul>
+【藥】joek6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>194, 180</li></ul>
 </>
 藨
 【藨】biu1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>194</li></ul>
@@ -23903,10 +23840,7 @@
 【蘀】tok3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>184</li></ul>
 </>
 蘂
-【蘂】jeoi5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>191</li></ul>
-</>
-蘂
-【蘂】jeoi5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>390</li></ul>
+【蘂】jeoi5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>191, 390</li></ul>
 </>
 蘄
 【蘄】kei4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>191</li></ul>
@@ -25490,10 +25424,7 @@
 【訴】sou3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>28</li></ul>
 </>
 訶
-【訶】ho1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>242</li></ul>
-</>
-訶
-【訶】ho1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>28</li></ul>
+【訶】ho1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>28, 242</li></ul>
 </>
 訸
 【訸】wo4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>28</li></ul>
@@ -26060,10 +25991,7 @@
 【讖】cam3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>35</li></ul>
 </>
 讙
-【讙】fun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>35</li></ul>
-</>
-讙
-【讙】fun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>448</li></ul>
+【讙】fun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>35, 448</li></ul>
 </>
 讚
 【讚】zaan3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>419</li></ul>
@@ -30332,10 +30260,7 @@
 【鞥】ang1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>629</li></ul>
 </>
 鞦
-【鞦】cau1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>517</li></ul>
-</>
-鞦
-【鞦】cau1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>629</li></ul>
+【鞦】cau1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>517, 629</li></ul>
 </>
 鞧
 【鞧】cau1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>629</li></ul>
@@ -30830,10 +30755,7 @@
 【餗】cuk1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>292</li></ul>
 </>
 餘
-【餘】jyu4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>292</li></ul>
-</>
-餘
-【餘】jyu4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>54</li></ul>
+【餘】jyu4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>54, 292</li></ul>
 </>
 餚
 【餚】ngaau4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>436</li></ul>
@@ -30905,10 +30827,7 @@
 【餸】sung3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>293</li></ul>
 </>
 餹
-【餹】tong4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>294</li></ul>
-</>
-餹
-【餹】tong4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>541</li></ul>
+【餹】tong4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>294, 541</li></ul>
 </>
 餺
 【餺】bok3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>294</li></ul>
@@ -31280,10 +31199,7 @@
 【驦】soeng1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>331</li></ul>
 </>
 驩
-【驩】fun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>331</li></ul>
-</>
-驩
-【驩】fun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>448</li></ul>
+【驩】fun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>331, 448</li></ul>
 </>
 驪
 【驪】lei4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>329</li></ul>
@@ -31367,10 +31283,7 @@
 【體】tai2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>60</li></ul>
 </>
 髕
-【髕】ban3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>446</li></ul>
-</>
-髕
-【髕】ban3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>631</li></ul>
+【髕】ban3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>446, 631</li></ul>
 </>
 髖
 【髖】fun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>631</li></ul>
@@ -33228,9 +33141,6 @@
 </>
 𪽇
 【𪽇】ho1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>490</li></ul>
-</>
-㡧
-【㡧】zing3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>272</li></ul>
 </>
 aa1
 <span style="font-weight: bold">音節：</span>aa1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://丫">丫</a>」,「<a href="entry://鴉">鴉</a>」,「<a href="entry://枒">枒</a>」,「<a href="entry://椏">椏</a>」,「<a href="entry://呀">呀</a>」,「<a href="entry://啊">啊</a>」,「<a href="entry://吖">吖</a>」,「<a href="entry://枒">枒</a>」,「<a href="entry://椏">椏</a>」
