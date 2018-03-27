@@ -3863,7 +3863,7 @@
 【唣】zou6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>250</li></ul>
 </>
 唥
-【唥】lang6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>248</li></ul>
+【唥】laang6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>248</li></ul>
 </>
 唧
 【唧】zik1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>250</li><li><span style="font-weight: bold">釋義：</span>㈠</li></ul>
@@ -35962,8 +35962,8 @@ lam6
 lang1
 <span style="font-weight: bold">音節：</span>lang1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㘄">㘄</a>」
 </>
-lang6
-<span style="font-weight: bold">音節：</span>lang6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://唥">唥</a>」
+laang6
+<span style="font-weight: bold">音節：</span>laang6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://唥">唥</a>」
 </>
 lap1
 <span style="font-weight: bold">音節：</span>lap1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://笠">笠</a>」
