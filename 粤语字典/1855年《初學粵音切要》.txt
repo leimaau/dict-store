@@ -367,38 +367,38 @@
 芝
 【芝】 擬音：[ʧi55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>che</li><li><span style="font-weight: bold">反切：</span>之希</li><li><span style="font-weight: bold">反切上字組：</span>之杖</li><li><span style="font-weight: bold">反切下字組：</span>希始至○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>之</li></ul>
 </>
-戶
-【戶】 擬音：[ʧa22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>cha[r]</li><li><span style="font-weight: bold">反切：</span>杖亞</li><li><span style="font-weight: bold">反切上字組：</span>之杖</li><li><span style="font-weight: bold">反切下字組：</span>加也亞○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+乍
+【乍】 擬音：[ʧa22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>cha[r]</li><li><span style="font-weight: bold">反切：</span>杖亞</li><li><span style="font-weight: bold">反切上字組：</span>之杖</li><li><span style="font-weight: bold">反切下字組：</span>加也亞○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 詐
-【詐】 擬音：[ʧa33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>cha[r]</li><li><span style="font-weight: bold">反切：</span>之亞</li><li><span style="font-weight: bold">反切上字組：</span>之杖</li><li><span style="font-weight: bold">反切下字組：</span>加也亞○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【詐】 擬音：[ʧa33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>cha[r]</li><li><span style="font-weight: bold">反切：</span>之亞</li><li><span style="font-weight: bold">反切上字組：</span>之杖</li><li><span style="font-weight: bold">反切下字組：</span>加也亞○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 作
-【作】 擬音：[tsɔk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>則學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【作】 擬音：[tsɔk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>則學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 昨
-【昨】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【昨】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 怍
-【怍】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【怍】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 酢
-【酢】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【酢】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 柞
-【柞】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【柞】 擬音：[tsɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsok</li><li><span style="font-weight: bold">反切：</span>在學</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 祚
-【祚】 擬音：[tsou22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsou</li><li><span style="font-weight: bold">反切：</span>在路</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>刀老路○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【祚】 擬音：[tsou22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsou</li><li><span style="font-weight: bold">反切：</span>在路</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>刀老路○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 胙
-【胙】 擬音：[tsou22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsou</li><li><span style="font-weight: bold">反切：</span>在路</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>刀老路○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【胙】 擬音：[tsou22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsou</li><li><span style="font-weight: bold">反切：</span>在路</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>刀老路○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 阼
-【阼】 擬音：[tsou22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsou</li><li><span style="font-weight: bold">反切：</span>在路</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>刀老路○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【阼】 擬音：[tsou22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tsou</li><li><span style="font-weight: bold">反切：</span>在路</li><li><span style="font-weight: bold">反切上字組：</span>則在</li><li><span style="font-weight: bold">反切下字組：</span>刀老路○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 蚱
-【蚱】 擬音：[ʧɐk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>cha'k</li><li><span style="font-weight: bold">反切：</span>之則</li><li><span style="font-weight: bold">反切上字組：</span>之杖</li><li><span style="font-weight: bold">反切下字組：</span>生等幸則</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>戶</li></ul>
+【蚱】 擬音：[ʧɐk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>cha'k</li><li><span style="font-weight: bold">反切：</span>之則</li><li><span style="font-weight: bold">反切上字組：</span>之杖</li><li><span style="font-weight: bold">反切下字組：</span>生等幸則</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乍</li></ul>
 </>
 乎
 【乎】 擬音：[wu21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>oo</li><li><span style="font-weight: bold">反切：</span>喻烏</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>烏苦父○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>16</li><li><span style="font-weight: bold">部首：</span>丿</li><li><span style="font-weight: bold">字組：</span>乎</li></ul>
@@ -517,14 +517,14 @@
 髢
 【髢】 擬音：[tʰwɐi33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>t'wy</li><li><span style="font-weight: bold">反切：</span>太位</li><li><span style="font-weight: bold">反切上字組：</span>太同</li><li><span style="font-weight: bold">反切下字組：</span>為鬼位○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>乙</li><li><span style="font-weight: bold">字組：</span>也</li></ul>
 </>
-他
-【他】 擬音：[hi21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>he</li><li><span style="font-weight: bold">反切：</span>下希</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>希始至○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>乙</li><li><span style="font-weight: bold">字組：</span>他</li></ul>
+㐌
+【㐌】 擬音：[hi21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>he</li><li><span style="font-weight: bold">反切：</span>下希</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>希始至○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>乙</li><li><span style="font-weight: bold">字組：</span>㐌</li></ul>
 </>
 陁
-【陁】 擬音：[tʰɔ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>t'o[r]</li><li><span style="font-weight: bold">反切：</span>同何</li><li><span style="font-weight: bold">反切上字組：</span>太同</li><li><span style="font-weight: bold">反切下字組：</span>何火個○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>乙</li><li><span style="font-weight: bold">字組：</span>他</li></ul>
+【陁】 擬音：[tʰɔ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>t'o[r]</li><li><span style="font-weight: bold">反切：</span>同何</li><li><span style="font-weight: bold">反切上字組：</span>太同</li><li><span style="font-weight: bold">反切下字組：</span>何火個○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>乙</li><li><span style="font-weight: bold">字組：</span>㐌</li></ul>
 </>
 拖
-【拖】 擬音：[tʰɔ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>t'o[r]</li><li><span style="font-weight: bold">反切：</span>太何</li><li><span style="font-weight: bold">反切上字組：</span>太同</li><li><span style="font-weight: bold">反切下字組：</span>何火個○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>乙</li><li><span style="font-weight: bold">字組：</span>他</li></ul>
+【拖】 擬音：[tʰɔ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>t'o[r]</li><li><span style="font-weight: bold">反切：</span>太何</li><li><span style="font-weight: bold">反切上字組：</span>太同</li><li><span style="font-weight: bold">反切下字組：</span>何火個○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>1</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>乙</li><li><span style="font-weight: bold">字組：</span>㐌</li></ul>
 </>
 亅
 【亅】 擬音：[kʰyt5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>k'üt</li><li><span style="font-weight: bold">反切：</span>啟乙</li><li><span style="font-weight: bold">反切上字組：</span>啟其</li><li><span style="font-weight: bold">反切下字組：</span>全犬寸乙</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>2</li><li><span style="font-weight: bold">行：</span>2</li><li><span style="font-weight: bold">部首：</span>亅</li><li><span style="font-weight: bold">字組：</span>亅</li></ul>
@@ -665,10 +665,10 @@
 【瘂】 擬音：[a35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>a[r]</li><li><span style="font-weight: bold">反切：</span>烏也</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>加也亞○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>2</li><li><span style="font-weight: bold">行：</span>6</li><li><span style="font-weight: bold">部首：</span>二</li><li><span style="font-weight: bold">字組：</span>亞</li></ul>
 </>
 啞
-【啞】 擬音：[kʰi33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>k'e</li><li><span style="font-weight: bold">反切：</span>啟至</li><li><span style="font-weight: bold">反切上字組：</span>啟其</li><li><span style="font-weight: bold">反切下字組：</span>希始至○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>2</li><li><span style="font-weight: bold">行：</span>6</li><li><span style="font-weight: bold">部首：</span>二</li><li><span style="font-weight: bold">字組：</span>亞</li></ul>
+【啞】 擬音：[a35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>a[r]</li><li><span style="font-weight: bold">反切：</span>烏也</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>加也亞○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>2</li><li><span style="font-weight: bold">行：</span>6</li><li><span style="font-weight: bold">部首：</span>二</li><li><span style="font-weight: bold">字組：</span>亞</li></ul>
 </>
 亟
-【亟】 擬音：[kɪk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>kik</li><li><span style="font-weight: bold">反切：</span>見息</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>2</li><li><span style="font-weight: bold">行：</span>6</li><li><span style="font-weight: bold">部首：</span>二</li><li><span style="font-weight: bold">字組：</span>亟</li></ul>
+【亟】 擬音：[kʰi33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>k'e</li><li><span style="font-weight: bold">反切：</span>啟至</li><li><span style="font-weight: bold">反切上字組：</span>啟其</li><li><span style="font-weight: bold">反切下字組：</span>希始至○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>2</li><li><span style="font-weight: bold">行：</span>6</li><li><span style="font-weight: bold">部首：</span>二</li><li><span style="font-weight: bold">字組：</span>亟</li></ul>
 </>
 殛
 【殛】 擬音：[kɪk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>kik</li><li><span style="font-weight: bold">反切：</span>見息</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>2</li><li><span style="font-weight: bold">行：</span>6</li><li><span style="font-weight: bold">部首：</span>二</li><li><span style="font-weight: bold">字組：</span>亟</li></ul>
@@ -1477,8 +1477,8 @@
 輓
 【輓】 擬音：[wan13]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wan</li><li><span style="font-weight: bold">反切：</span>喻挽</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>環挽幻刮</li><li><span style="font-weight: bold">調類：</span>陽上</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>免</li></ul>
 </>
-冕
-【冕】 擬音：[man13]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>man</li><li><span style="font-weight: bold">反切：</span>明晚</li><li><span style="font-weight: bold">反切上字組：</span>乜明</li><li><span style="font-weight: bold">反切下字組：</span>飡晚犯八</li><li><span style="font-weight: bold">調類：</span>陽上</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>免</li></ul>
+晚
+【晚】 擬音：[man13]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>man</li><li><span style="font-weight: bold">反切：</span>明晚</li><li><span style="font-weight: bold">反切上字組：</span>乜明</li><li><span style="font-weight: bold">反切下字組：</span>飡晚犯八</li><li><span style="font-weight: bold">調類：</span>陽上</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>免</li></ul>
 </>
 逸
 【逸】 擬音：[jɐt2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ya't</li><li><span style="font-weight: bold">反切：</span>由不</li><li><span style="font-weight: bold">反切上字組：</span>英由</li><li><span style="font-weight: bold">反切下字組：</span>申忍艮不</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>免</li></ul>
@@ -1501,8 +1501,8 @@
 麑
 【麑】 擬音：[ŋɐi21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngy</li><li><span style="font-weight: bold">反切：</span>岸西</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>兒</li></ul>
 </>
-貌
-【貌】 擬音：[ŋɐi21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngy</li><li><span style="font-weight: bold">反切：</span>岸西</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>兒</li></ul>
+貎
+【貎】 擬音：[ŋɐi21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngy</li><li><span style="font-weight: bold">反切：</span>岸西</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>兒</li></ul>
 </>
 睨
 【睨】 擬音：[ŋɐi13]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngy</li><li><span style="font-weight: bold">反切：</span>岸啟</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陽上</li><li><span style="font-weight: bold">頁：</span>3</li><li><span style="font-weight: bold">行：</span>7</li><li><span style="font-weight: bold">部首：</span>儿</li><li><span style="font-weight: bold">字組：</span>兒</li></ul>
@@ -2419,11 +2419,11 @@
 眶
 【眶】 擬音：[hɔŋ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hong</li><li><span style="font-weight: bold">反切：</span>可當</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>5</li><li><span style="font-weight: bold">行：</span>4</li><li><span style="font-weight: bold">部首：</span>匚</li><li><span style="font-weight: bold">字組：</span>匡</li></ul>
 </>
-夾
-【夾】 擬音：[hap2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hap</li><li><span style="font-weight: bold">反切：</span>下甲</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>監斬鑑甲</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>5</li><li><span style="font-weight: bold">行：</span>4</li><li><span style="font-weight: bold">部首：</span>匚</li><li><span style="font-weight: bold">字組：</span>夾</li></ul>
+匧
+【匧】 擬音：[hap2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hap</li><li><span style="font-weight: bold">反切：</span>下甲</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>監斬鑑甲</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>5</li><li><span style="font-weight: bold">行：</span>4</li><li><span style="font-weight: bold">部首：</span>匚</li><li><span style="font-weight: bold">字組：</span>匧</li></ul>
 </>
 篋
-【篋】 擬音：[hap2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hap</li><li><span style="font-weight: bold">反切：</span>下甲</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>監斬鑑甲</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>5</li><li><span style="font-weight: bold">行：</span>4</li><li><span style="font-weight: bold">部首：</span>匚</li><li><span style="font-weight: bold">字組：</span>夾</li></ul>
+【篋】 擬音：[hap2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hap</li><li><span style="font-weight: bold">反切：</span>下甲</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>監斬鑑甲</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>5</li><li><span style="font-weight: bold">行：</span>4</li><li><span style="font-weight: bold">部首：</span>匚</li><li><span style="font-weight: bold">字組：</span>匧</li></ul>
 </>
 匯
 【匯】 擬音：[wui22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ooey</li><li><span style="font-weight: bold">反切：</span>喻罪</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>回每罪○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>5</li><li><span style="font-weight: bold">行：</span>4</li><li><span style="font-weight: bold">部首：</span>匚</li><li><span style="font-weight: bold">字組：</span>匯</li></ul>
@@ -2869,20 +2869,20 @@
 軛
 【軛】 擬音：[ɐk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>a'k</li><li><span style="font-weight: bold">反切：</span>烏則</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>生等幸則</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>厄</li></ul>
 </>
-圭
-【圭】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>圭</li></ul>
+厓
+【厓】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>厓</li></ul>
 </>
 崖
-【崖】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>圭</li></ul>
+【崖】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>厓</li></ul>
 </>
 涯
-【涯】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>圭</li></ul>
+【涯】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>厓</li></ul>
 </>
 睚
-【睚】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>圭</li></ul>
+【睚】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>厓</li></ul>
 </>
 捱
-【捱】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>圭</li></ul>
+【捱】 擬音：[ŋai21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngea</li><li><span style="font-weight: bold">反切：</span>岸鞋</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>鞋乃界○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>厓</li></ul>
 </>
 厚
 【厚】 擬音：[hɐu22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>how</li><li><span style="font-weight: bold">反切：</span>下又</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>由九又○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>厂</li><li><span style="font-weight: bold">字組：</span>厚</li></ul>
@@ -2995,8 +2995,8 @@
 怯
 【怯】 擬音：[hip5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>heep</li><li><span style="font-weight: bold">反切：</span>可帖</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>廉點欠帖</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>5</li><li><span style="font-weight: bold">部首：</span>厶</li><li><span style="font-weight: bold">字組：</span>去</li></ul>
 </>
-劫
-【劫】 擬音：[kip5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>keep</li><li><span style="font-weight: bold">反切：</span>見帖</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>廉點欠帖</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>5</li><li><span style="font-weight: bold">部首：</span>厶</li><li><span style="font-weight: bold">字組：</span>去</li></ul>
+刧
+【刧】 擬音：[kip5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>keep</li><li><span style="font-weight: bold">反切：</span>見帖</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>廉點欠帖</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>5</li><li><span style="font-weight: bold">部首：</span>厶</li><li><span style="font-weight: bold">字組：</span>去</li></ul>
 </>
 丟
 【丟】 擬音：[tiu55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>tew</li><li><span style="font-weight: bold">反切：</span>丁夭</li><li><span style="font-weight: bold">反切上字組：</span>丁大</li><li><span style="font-weight: bold">反切下字組：</span>夭小照○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>6</li><li><span style="font-weight: bold">行：</span>5</li><li><span style="font-weight: bold">部首：</span>厶</li><li><span style="font-weight: bold">字組：</span>去</li></ul>
@@ -4375,8 +4375,8 @@
 個
 【個】 擬音：[kɔ33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ko[r]</li><li><span style="font-weight: bold">反切：</span>見個</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>何火個○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>7</li><li><span style="font-weight: bold">行：</span>18</li><li><span style="font-weight: bold">部首：</span>囗</li><li><span style="font-weight: bold">字組：</span>固</li></ul>
 </>
-固
-【固】 擬音：[kʰɔk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>k'ok</li><li><span style="font-weight: bold">反切：</span>啟學</li><li><span style="font-weight: bold">反切上字組：</span>啟其</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>7</li><li><span style="font-weight: bold">行：</span>18</li><li><span style="font-weight: bold">部首：</span>囗</li><li><span style="font-weight: bold">字組：</span>固</li></ul>
+涸
+【涸】 擬音：[kʰɔk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>k'ok</li><li><span style="font-weight: bold">反切：</span>啟學</li><li><span style="font-weight: bold">反切上字組：</span>啟其</li><li><span style="font-weight: bold">反切下字組：</span>當綁壯學</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>7</li><li><span style="font-weight: bold">行：</span>18</li><li><span style="font-weight: bold">部首：</span>囗</li><li><span style="font-weight: bold">字組：</span>固</li></ul>
 </>
 圂
 【圂】 擬音：[wɔk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wok</li><li><span style="font-weight: bold">反切：</span>喻國</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>王廣旺國</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>7</li><li><span style="font-weight: bold">行：</span>18</li><li><span style="font-weight: bold">部首：</span>囗</li><li><span style="font-weight: bold">字組：</span>圂</li></ul>
@@ -5380,8 +5380,8 @@
 倭
 【倭】 擬音：[wɔ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wo</li><li><span style="font-weight: bold">反切：</span>烏戈</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>戈果過○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>9</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>女</li><li><span style="font-weight: bold">字組：</span>委</li></ul>
 </>
-崣
-【崣】 擬音：[ŋɐi21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngy</li><li><span style="font-weight: bold">反切：</span>岸西</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>9</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>女</li><li><span style="font-weight: bold">字組：</span>委</li></ul>
+巍
+【巍】 擬音：[ŋɐi21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngy</li><li><span style="font-weight: bold">反切：</span>岸西</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>9</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>女</li><li><span style="font-weight: bold">字組：</span>委</li></ul>
 </>
 魏
 【魏】 擬音：[ŋɐi22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ngy</li><li><span style="font-weight: bold">反切：</span>岸世</li><li><span style="font-weight: bold">反切上字組：</span>○岸</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>9</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>女</li><li><span style="font-weight: bold">字組：</span>委</li></ul>
@@ -6946,9 +6946,6 @@
 訐
 【訐】 擬音：[kʰit5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>k'eet</li><li><span style="font-weight: bold">反切：</span>啟別</li><li><span style="font-weight: bold">反切上字組：</span>啟其</li><li><span style="font-weight: bold">反切下字組：</span>天典見別</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>12</li><li><span style="font-weight: bold">行：</span>2</li><li><span style="font-weight: bold">部首：</span>干</li><li><span style="font-weight: bold">字組：</span>干</li></ul>
 </>
-幷
-【幷】 擬音：[pɪŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ping</li><li><span style="font-weight: bold">反切：</span>並丁</li><li><span style="font-weight: bold">反切上字組：</span>丙並</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>12</li><li><span style="font-weight: bold">行：</span>2</li><li><span style="font-weight: bold">部首：</span>干</li><li><span style="font-weight: bold">字組：</span>干</li><li><span style="font-weight: bold">備註：</span>據錯遺備考#6補上</li></ul>
-</>
 平
 【平】 擬音：[pʰɪŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>p'ing</li><li><span style="font-weight: bold">反切：</span>磐丁</li><li><span style="font-weight: bold">反切上字組：</span>篇磐</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>12</li><li><span style="font-weight: bold">行：</span>2</li><li><span style="font-weight: bold">部首：</span>干</li><li><span style="font-weight: bold">字組：</span>平</li></ul>
 </>
@@ -6995,7 +6992,7 @@
 【笄】 擬音：[kɐi55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ky</li><li><span style="font-weight: bold">反切：</span>見西</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>12</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>干</li><li><span style="font-weight: bold">字組：</span>开</li></ul>
 </>
 并
-【并】 擬音：[pɪŋ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ping</li><li><span style="font-weight: bold">反切：</span>丙丁</li><li><span style="font-weight: bold">反切上字組：</span>丙並</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>12</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>干</li><li><span style="font-weight: bold">字組：</span>并</li><li><span style="font-weight: bold">備註：</span>本作「正丁」，惟「正」非聲母字</li></ul>
+【并】 擬音：[pɪŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ping</li><li><span style="font-weight: bold">反切：</span>並丁</li><li><span style="font-weight: bold">反切上字組：</span>丙並</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>12</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>干</li><li><span style="font-weight: bold">字組：</span>并</li><li><span style="font-weight: bold">備註：</span>原作「正丁」，據錯遺備考#6改正</li></ul>
 </>
 胼
 【胼】 擬音：[pʰɪŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>p'ing</li><li><span style="font-weight: bold">反切：</span>磐丁</li><li><span style="font-weight: bold">反切上字組：</span>篇磐</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>12</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>干</li><li><span style="font-weight: bold">字組：</span>并</li></ul>
@@ -8482,11 +8479,11 @@
 斯
 【斯】 擬音：[sɿ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>sze</li><li><span style="font-weight: bold">反切：</span>心詞</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>詞子士○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>15</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>斤</li><li><span style="font-weight: bold">字組：</span>斯</li></ul>
 </>
-廝
-【廝】 擬音：[sɿ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>sze</li><li><span style="font-weight: bold">反切：</span>心詞</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>詞子士○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>15</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>斤</li><li><span style="font-weight: bold">字組：</span>斯</li></ul>
+厮
+【厮】 擬音：[sɿ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>sze</li><li><span style="font-weight: bold">反切：</span>心詞</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>詞子士○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>15</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>斤</li><li><span style="font-weight: bold">字組：</span>斯</li></ul>
 </>
-斯
-【斯】 擬音：[sɐi55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>sy</li><li><span style="font-weight: bold">反切：</span>心西</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>15</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>斤</li><li><span style="font-weight: bold">字組：</span>斯</li></ul>
+嘶
+【嘶】 擬音：[sɐi55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>sy</li><li><span style="font-weight: bold">反切：</span>心西</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>15</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>斤</li><li><span style="font-weight: bold">字組：</span>斯</li></ul>
 </>
 撕
 【撕】 擬音：[sɐi55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>sy</li><li><span style="font-weight: bold">反切：</span>心西</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>西啟世○</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>15</li><li><span style="font-weight: bold">行：</span>3</li><li><span style="font-weight: bold">部首：</span>斤</li><li><span style="font-weight: bold">字組：</span>斯</li></ul>
@@ -9520,8 +9517,8 @@
 菓
 【菓】 擬音：[kwɔ35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>kwo</li><li><span style="font-weight: bold">反切：</span>見果</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>戈果過○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>16</li><li><span style="font-weight: bold">行：</span>14</li><li><span style="font-weight: bold">部首：</span>木</li><li><span style="font-weight: bold">字組：</span>果</li></ul>
 </>
-裏
-【裏】 擬音：[kwɔ35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>kwo</li><li><span style="font-weight: bold">反切：</span>見果</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>戈果過○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>16</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>木</li><li><span style="font-weight: bold">字組：</span>果</li></ul>
+裹
+【裹】 擬音：[kwɔ35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>kwo</li><li><span style="font-weight: bold">反切：</span>見果</li><li><span style="font-weight: bold">反切上字組：</span>見共</li><li><span style="font-weight: bold">反切下字組：</span>戈果過○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>16</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>木</li><li><span style="font-weight: bold">字組：</span>果</li></ul>
 </>
 顆
 【顆】 擬音：[fɔ35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>fo[r]</li><li><span style="font-weight: bold">反切：</span>非火</li><li><span style="font-weight: bold">反切上字組：</span>非扶</li><li><span style="font-weight: bold">反切下字組：</span>何火個○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>16</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>木</li><li><span style="font-weight: bold">字組：</span>果</li></ul>
@@ -11440,11 +11437,11 @@
 貊
 【貊】 擬音：[mɐk2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ma'k</li><li><span style="font-weight: bold">反切：</span>明則</li><li><span style="font-weight: bold">反切上字組：</span>乜明</li><li><span style="font-weight: bold">反切下字組：</span>生等幸則</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>14</li><li><span style="font-weight: bold">部首：</span>白</li><li><span style="font-weight: bold">字組：</span>百</li></ul>
 </>
-皂
-【皂】 擬音：[hœŋ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>heong</li><li><span style="font-weight: bold">反切：</span>可章</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>章兩上約</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>白</li><li><span style="font-weight: bold">字組：</span>皂</li></ul>
+皀
+【皀】 擬音：[hœŋ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>heong</li><li><span style="font-weight: bold">反切：</span>可章</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>章兩上約</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>白</li><li><span style="font-weight: bold">字組：</span>皀</li></ul>
 </>
 卿
-【卿】 擬音：[hɪŋ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hing</li><li><span style="font-weight: bold">反切：</span>可丁</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>白</li><li><span style="font-weight: bold">字組：</span>皂</li></ul>
+【卿】 擬音：[hɪŋ55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hing</li><li><span style="font-weight: bold">反切：</span>可丁</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>丁丙正息</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>白</li><li><span style="font-weight: bold">字組：</span>皀</li></ul>
 </>
 皃
 【皃】 擬音：[mau22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>maou</li><li><span style="font-weight: bold">反切：</span>明教</li><li><span style="font-weight: bold">反切上字組：</span>乜明</li><li><span style="font-weight: bold">反切下字組：</span>交卯教○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>白</li><li><span style="font-weight: bold">字組：</span>皃</li></ul>
@@ -11569,17 +11566,17 @@
 昷
 【昷】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
-溫
-【溫】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
+温
+【温】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
-氳
-【氳】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
+氲
+【氲】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
 瘟
 【瘟】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
-薀
-【薀】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
+蕰
+【蕰】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
 殟
 【殟】 擬音：[wɐn55]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏君</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰平</li><li><span style="font-weight: bold">頁：</span>20</li><li><span style="font-weight: bold">行：</span>20</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
@@ -11590,11 +11587,11 @@
 韞
 【韞】 擬音：[wɐn35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏尹</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
-蘊
-【蘊】 擬音：[wɐn35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏尹</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
+藴
+【藴】 擬音：[wɐn35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wa'n</li><li><span style="font-weight: bold">反切：</span>烏尹</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>君尹圂骨</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
-慍
-【慍】 擬音：[wɔk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wok</li><li><span style="font-weight: bold">反切：</span>烏國</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>王廣旺國</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
+愠
+【愠】 擬音：[wɔk5]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>wok</li><li><span style="font-weight: bold">反切：</span>烏國</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>王廣旺國</li><li><span style="font-weight: bold">調類：</span>陰入</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
 </>
 媼
 【媼】 擬音：[ou35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ou</li><li><span style="font-weight: bold">反切：</span>烏老</li><li><span style="font-weight: bold">反切上字組：</span>烏喻</li><li><span style="font-weight: bold">反切下字組：</span>刀老路○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>皿</li><li><span style="font-weight: bold">字組：</span>昷</li></ul>
@@ -11896,8 +11893,8 @@
 茅
 【茅】 擬音：[mau21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>maou</li><li><span style="font-weight: bold">反切：</span>明交</li><li><span style="font-weight: bold">反切上字組：</span>乜明</li><li><span style="font-weight: bold">反切下字組：</span>交卯教○</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>10</li><li><span style="font-weight: bold">部首：</span>矛</li><li><span style="font-weight: bold">字組：</span>矛</li></ul>
 </>
-袲
-【袲】 擬音：[mɐu22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>mow</li><li><span style="font-weight: bold">反切：</span>明又</li><li><span style="font-weight: bold">反切上字組：</span>乜明</li><li><span style="font-weight: bold">反切下字組：</span>由九又○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>10</li><li><span style="font-weight: bold">部首：</span>矛</li><li><span style="font-weight: bold">字組：</span>矛</li></ul>
+袤
+【袤】 擬音：[mɐu22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>mow</li><li><span style="font-weight: bold">反切：</span>明又</li><li><span style="font-weight: bold">反切上字組：</span>乜明</li><li><span style="font-weight: bold">反切下字組：</span>由九又○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>10</li><li><span style="font-weight: bold">部首：</span>矛</li><li><span style="font-weight: bold">字組：</span>矛</li></ul>
 </>
 矞
 【矞】 擬音：[lʊt2]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>lut</li><li><span style="font-weight: bold">反切：</span>耒出</li><li><span style="font-weight: bold">反切上字組：</span>拉耒</li><li><span style="font-weight: bold">反切下字組：</span>倫盾盡出</li><li><span style="font-weight: bold">調類：</span>陽入</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>10</li><li><span style="font-weight: bold">部首：</span>矛</li><li><span style="font-weight: bold">字組：</span>矞</li></ul>
@@ -11980,8 +11977,8 @@
 社
 【社】 擬音：[ʃɛ13]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>s'ěa</li><li><span style="font-weight: bold">反切：</span>時者</li><li><span style="font-weight: bold">反切上字組：</span>審時</li><li><span style="font-weight: bold">反切下字組：</span>耶者夜○</li><li><span style="font-weight: bold">調類：</span>陽上</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>14</li><li><span style="font-weight: bold">部首：</span>示</li><li><span style="font-weight: bold">字組：</span>示</li></ul>
 </>
-崇
-【崇】 擬音：[soi22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>soey</li><li><span style="font-weight: bold">反切：</span>士稅</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>垂水稅○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>14</li><li><span style="font-weight: bold">部首：</span>示</li><li><span style="font-weight: bold">字組：</span>示</li></ul>
+祟
+【祟】 擬音：[soi22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>soey</li><li><span style="font-weight: bold">反切：</span>士稅</li><li><span style="font-weight: bold">反切上字組：</span>心士</li><li><span style="font-weight: bold">反切下字組：</span>垂水稅○</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>14</li><li><span style="font-weight: bold">部首：</span>示</li><li><span style="font-weight: bold">字組：</span>示</li></ul>
 </>
 票
 【票】 擬音：[pʰiu33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>p'ew</li><li><span style="font-weight: bold">反切：</span>篇照</li><li><span style="font-weight: bold">反切上字組：</span>篇磐</li><li><span style="font-weight: bold">反切下字組：</span>夭小照○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>21</li><li><span style="font-weight: bold">行：</span>14</li><li><span style="font-weight: bold">部首：</span>示</li><li><span style="font-weight: bold">字組：</span>票</li></ul>
@@ -15103,20 +15100,20 @@
 釁
 【釁】 擬音：[jɐn22]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ya'n</li><li><span style="font-weight: bold">反切：</span>由艮</li><li><span style="font-weight: bold">反切上字組：</span>英由</li><li><span style="font-weight: bold">反切下字組：</span>申忍艮不</li><li><span style="font-weight: bold">調類：</span>陽去</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>酉</li><li><span style="font-weight: bold">字組：</span>釁</li></ul>
 </>
-釆
-【釆】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>釆</li><li><span style="font-weight: bold">字組：</span>釆</li></ul>
+采
+【采】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>采</li><li><span style="font-weight: bold">字組：</span>采</li></ul>
 </>
 採
-【採】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>釆</li><li><span style="font-weight: bold">字組：</span>釆</li></ul>
+【採】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>采</li><li><span style="font-weight: bold">字組：</span>采</li></ul>
 </>
 彩
-【彩】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>釆</li><li><span style="font-weight: bold">字組：</span>釆</li></ul>
+【彩】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>采</li><li><span style="font-weight: bold">字組：</span>采</li></ul>
 </>
 綵
-【綵】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>釆</li><li><span style="font-weight: bold">字組：</span>釆</li></ul>
+【綵】 擬音：[tsʰɔi35]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七宰</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>采</li><li><span style="font-weight: bold">字組：</span>采</li></ul>
 </>
 菜
-【菜】 擬音：[tsʰɔi33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七代</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>釆</li><li><span style="font-weight: bold">字組：</span>釆</li></ul>
+【菜】 擬音：[tsʰɔi33]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>ts'oy</li><li><span style="font-weight: bold">反切：</span>七代</li><li><span style="font-weight: bold">反切上字組：</span>七前</li><li><span style="font-weight: bold">反切下字組：</span>哀宰代○</li><li><span style="font-weight: bold">調類：</span>陰去</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>13</li><li><span style="font-weight: bold">部首：</span>采</li><li><span style="font-weight: bold">字組：</span>采</li></ul>
 </>
 里
 【里】 擬音：[lei13]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>lěy</li><li><span style="font-weight: bold">反切：</span>耒彼</li><li><span style="font-weight: bold">反切上字組：</span>拉耒</li><li><span style="font-weight: bold">反切下字組：</span>非彼利○</li><li><span style="font-weight: bold">調類：</span>陽上</li><li><span style="font-weight: bold">頁：</span>28</li><li><span style="font-weight: bold">行：</span>15</li><li><span style="font-weight: bold">部首：</span>里</li><li><span style="font-weight: bold">字組：</span>里</li></ul>
@@ -15322,8 +15319,8 @@
 闌
 【闌】 擬音：[lan21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>lan</li><li><span style="font-weight: bold">反切：</span>耒飡</li><li><span style="font-weight: bold">反切上字組：</span>拉耒</li><li><span style="font-weight: bold">反切下字組：</span>飡晚犯八</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>29</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>門</li><li><span style="font-weight: bold">字組：</span>闌</li></ul>
 </>
-揀
-【揀】 擬音：[lan21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>lan</li><li><span style="font-weight: bold">反切：</span>耒飡</li><li><span style="font-weight: bold">反切上字組：</span>拉耒</li><li><span style="font-weight: bold">反切下字組：</span>飡晚犯八</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>29</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>門</li><li><span style="font-weight: bold">字組：</span>闌</li></ul>
+攔
+【攔】 擬音：[lan21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>lan</li><li><span style="font-weight: bold">反切：</span>耒飡</li><li><span style="font-weight: bold">反切上字組：</span>拉耒</li><li><span style="font-weight: bold">反切下字組：</span>飡晚犯八</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>29</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>門</li><li><span style="font-weight: bold">字組：</span>闌</li></ul>
 </>
 欄
 【欄】 擬音：[lan21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>lan</li><li><span style="font-weight: bold">反切：</span>耒飡</li><li><span style="font-weight: bold">反切上字組：</span>拉耒</li><li><span style="font-weight: bold">反切下字組：</span>飡晚犯八</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>29</li><li><span style="font-weight: bold">行：</span>1</li><li><span style="font-weight: bold">部首：</span>門</li><li><span style="font-weight: bold">字組：</span>闌</li></ul>
@@ -16228,8 +16225,8 @@
 黃
 【黃】 擬音：[hwɔŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hwong</li><li><span style="font-weight: bold">反切：</span>下王</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>王廣旺國</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>31</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>黃</li><li><span style="font-weight: bold">字組：</span>黃</li></ul>
 </>
-箕
-【箕】 擬音：[hwɔŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hwong</li><li><span style="font-weight: bold">反切：</span>下王</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>王廣旺國</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>31</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>黃</li><li><span style="font-weight: bold">字組：</span>黃</li></ul>
+簧
+【簧】 擬音：[hwɔŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hwong</li><li><span style="font-weight: bold">反切：</span>下王</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>王廣旺國</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>31</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>黃</li><li><span style="font-weight: bold">字組：</span>黃</li></ul>
 </>
 磺
 【磺】 擬音：[hwɔŋ21]<br/><ul type="square"><li><span style="font-weight: bold">原書注音：</span>hwong</li><li><span style="font-weight: bold">反切：</span>下王</li><li><span style="font-weight: bold">反切上字組：</span>可下</li><li><span style="font-weight: bold">反切下字組：</span>王廣旺國</li><li><span style="font-weight: bold">調類：</span>陽平</li><li><span style="font-weight: bold">頁：</span>31</li><li><span style="font-weight: bold">行：</span>8</li><li><span style="font-weight: bold">部首：</span>黃</li><li><span style="font-weight: bold">字組：</span>黃</li></ul>
@@ -16935,9 +16932,6 @@
 </>
 厨
 可能与之相关的繁体字：「<a href="entry://廚">廚</a>」
-</>
-厮
-可能与之相关的繁体字：「<a href="entry://廝">廝</a>」
 </>
 县
 可能与之相关的繁体字：「<a href="entry://縣">縣</a>」
@@ -17659,9 +17653,6 @@
 惯
 可能与之相关的繁体字：「<a href="entry://慣">慣</a>」
 </>
-愠
-可能与之相关的繁体字：「<a href="entry://慍">慍</a>」
-</>
 愤
 可能与之相关的繁体字：「<a href="entry://憤">憤</a>」
 </>
@@ -17763,6 +17754,9 @@
 </>
 拥
 可能与之相关的繁体字：「<a href="entry://擁">擁</a>」
+</>
+拦
+可能与之相关的繁体字：「<a href="entry://攔">攔</a>」
 </>
 拨
 可能与之相关的繁体字：「<a href="entry://撥">撥</a>」
@@ -18139,9 +18133,6 @@
 气
 可能与之相关的繁体字：「<a href="entry://氣">氣</a>」
 </>
-氲
-可能与之相关的繁体字：「<a href="entry://氳">氳</a>」
-</>
 汇
 可能与之相关的繁体字：「<a href="entry://匯">匯</a>」,「<a href="entry://彙">彙</a>」
 </>
@@ -18294,9 +18285,6 @@
 </>
 渗
 可能与之相关的繁体字：「<a href="entry://滲">滲</a>」
-</>
-温
-可能与之相关的繁体字：「<a href="entry://溫">溫</a>」
 </>
 游
 可能与之相关的繁体字：「<a href="entry://遊">遊</a>」
@@ -19408,11 +19396,8 @@
 蔺
 可能与之相关的繁体字：「<a href="entry://藺">藺</a>」
 </>
-蕰
-可能与之相关的繁体字：「<a href="entry://薀">薀</a>」
-</>
 蕴
-可能与之相关的繁体字：「<a href="entry://蘊">蘊</a>」
+可能与之相关的繁体字：「<a href="entry://藴">藴</a>」
 </>
 薮
 可能与之相关的繁体字：「<a href="entry://藪">藪</a>」
