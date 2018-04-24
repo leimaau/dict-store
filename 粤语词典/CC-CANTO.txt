@@ -26455,11 +26455,11 @@
 多只香炉多只鬼
 @@@LINK=多隻香爐多隻鬼
 </>
-多啦A夢
-【多啦A夢（多啦A梦）】do1 laa1 A mung6〔duō la A mèng〕<br/>Doraemon, Japanese cartoon
+哆啦A夢
+【哆啦A夢（哆啦A梦）】do1 laa1 A mung6〔duō la A mèng〕<br/>Doraemon, Japanese cartoon
 </>
-多啦A梦
-@@@LINK=多啦A夢
+哆啦A梦
+@@@LINK=哆啦A夢
 </>
 多啲
 【多啲】do1 di1〔duō dī〕<br/>a bit more
