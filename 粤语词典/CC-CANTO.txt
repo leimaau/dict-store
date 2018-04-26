@@ -1142,7 +1142,7 @@
 【一碟齋（一碟斋）】jat1 dip6 zaai1〔yì dié zhāi〕<br/>a mess
 </>
 一磚豆腐想升仙
-【一磚豆腐想升仙（一砖豆腐想升仙）】jat1 zyun1 dau6 2 fu6 soeng2 sing1 sin1〔yī zhuān dòu fu xiăng shēng xiān〕<br/>(Sarcasm) When someone thinks he/she knows everything by knowing just a part of it
+【一磚豆腐想升仙（一砖豆腐想升仙）】jat1 zyun1 dau6 fu6 soeng2 sing1 sin1〔yī zhuān dòu fu xiăng shēng xiān〕<br/>(Sarcasm) When someone thinks he/she knows everything by knowing just a part of it
 </>
 一窿蛇
 【一窿蛇】jat1 lung4 se4〔yī lóng shé〕<br/>a group of bad guys
@@ -5474,7 +5474,7 @@
 【二叔婆】ji6 suk1 po4〔èr shū pó〕<br/>grandfather's second younger brother's wife
 </>
 二奶仔
-【二奶仔】ji6 naai zai2〔èr năi zĭ〕<br/>1. mistress     2. one who does not get treated equally or discriminated
+【二奶仔】ji6 naai1 zai2〔èr năi zĭ〕<br/>1. mistress     2. one who does not get treated equally or discriminated
 </>
 二奶命
 【二奶命】ji6 naai1 meng6〔èr năi mìng〕<br/>one's destined to be second-in-line, like a concubine
@@ -12017,7 +12017,7 @@
 【冇米粥】mou5 mai5 zuk1〔măo mĭ zhōu〕<br/>no outcome or results (slang)
 </>
 冇精神
-【冇精神】mou5 1 zing1 san4〔măo jīng shen〕<br/>feeling tired
+【冇精神】mou5 zing1 san4〔măo jīng shen〕<br/>feeling tired
 </>
 冇紋冇路
 【冇紋冇路（冇纹冇路）】mou5 man4 mou5 lou6〔măo wén măo lù〕<br/>illogical; doesn't make sense
@@ -14321,7 +14321,7 @@
 【剝牙（剥牙）】mok1 ngaa4〔bō yá〕<br/>dental or tooth extraction
 </>
 剝皮牛
-【剝皮牛（剥皮牛）】1 mok1 pei4 ngau4〔bāo pí niú〕<br/>thamnaconus; filefish
+【剝皮牛（剥皮牛）】mok1 pei4 ngau4〔bāo pí niú〕<br/>thamnaconus; filefish
 </>
 剝花生
 【剝花生（剥花生）】mok1 faa1 sang1〔bāo huā shēng〕<br/>being the outsider; to be a third wheel; rubbernecking; to be an onlooker
@@ -34100,7 +34100,7 @@
 【屙屁】o1 pei3〔ē pì〕<br/>noun; to fart
 </>
 屙屎唔出賴地硬
-【屙屎唔出賴地硬（屙屎唔出赖地硬）】o1 si2  ceot1 laai6 dei6 ngaang6〔ā shĭ ń chū lài dì yìng〕<br/>lit. blame the floor being too hard if one fails to poo, meaning one always can find excuse to dodge responsibilities
+【屙屎唔出賴地硬（屙屎唔出赖地硬）】o1 si2 m4 ceot1 laai6 dei6 ngaang6〔ā shĭ ń chū lài dì yìng〕<br/>lit. blame the floor being too hard if one fails to poo, meaning one always can find excuse to dodge responsibilities
 </>
 屙屎唔出賴地硬，屙尿唔出賴風猛
 【屙屎唔出賴地硬，屙尿唔出賴風猛（屙屎唔出赖地硬，屙尿唔出赖风猛）】o1 si2 m4 ceot1 laai6 dei6 ngaang6, o1 niu6 m4 ceot1 laai6 fung1 maang5〔ā shĭ wú chū lài dì yìng, ē niào ń chū lài fēng mĕng〕<br/>to make blames unreasonably; to blame the tools for badworkmanship
@@ -49463,7 +49463,7 @@
 【於】jyu1〔wū〕<br/>(preposition) 1. On (a particular day/date); 2. In or at (place and time); (verb suffix)  With regarding to
 </>
 於是
-【於是（于是）】jyu1  si6〔yú shì〕<br/>(adverb) therefore
+【於是（于是）】jyu1 si6〔yú shì〕<br/>(adverb) therefore
 </>
 施
 【施】si1〔shī〕<br/>(noun)  Chinese surname
