@@ -12,7 +12,7 @@
 
 ![安卓手机的文件管理夹](http://oyh64ik7j.bkt.clouddn.com/%E6%96%87%E4%BB%B6.png)
 
-三、制作字典的方法可以看论坛[Mdict资料库 - 掌上百科 - Powered by Discuz!](https://www.pdawiki.com/forum/forum-4-1.html)。
+三、关于这份读音表的说明参见[这里](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=23065&extra=page%3D1)。
 
 关于南宁白话的基础知识参看[南宁白话小册子](https://leimaau.gitbooks.io/nnbh/content/)
 
