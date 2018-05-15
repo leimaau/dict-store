@@ -3221,7 +3221,7 @@
 【同】tung4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>49</li></ul>
 </>
 名
-【名】leng2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>237</li><li><span style="font-weight: bold">釋義：</span>〔白讀〕</li></ul>
+【名】meng2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>237</li><li><span style="font-weight: bold">釋義：</span>〔白讀〕</li></ul>
 </>
 名
 【名】ming4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>237</li><li><span style="font-weight: bold">釋義：</span>〔文讀〕</li></ul>
@@ -36013,8 +36013,8 @@ lek6
 leng1
 <span style="font-weight: bold">音節：</span>leng1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://僆">僆</a>」
 </>
-leng2
-<span style="font-weight: bold">音節：</span>leng2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://名">名</a>」
+meng2
+<span style="font-weight: bold">音節：</span>meng2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://名">名</a>」
 </>
 leng3
 <span style="font-weight: bold">音節：</span>leng3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://靚">靚</a>」

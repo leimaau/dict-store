@@ -9647,7 +9647,7 @@
 【蠭】fung1
 </>
 衂
-【衂】nuk6. luk6
+【衂】nuk6, luk6
 </>
 衅
 【衅】jan6
@@ -16580,7 +16580,7 @@ lou6
 <span style="font-weight: bold">音節：</span>lou6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://𡀔">𡀔</a>」,「<a href="entry://㯝">㯝</a>」,「<a href="entry://躼">躼</a>」,「<a href="entry://虂">虂</a>」,「<a href="entry://耮">耮</a>」,「<a href="entry://簵">簵</a>」,「<a href="entry://鏴">鏴</a>」,「<a href="entry://𤫢">𤫢</a>」,「<a href="entry://𤅟">𤅟</a>」
 </>
 luk6
-<span style="font-weight: bold">音節：</span>luk6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://𠯿">𠯿</a>」,「<a href="entry://娽">娽</a>」,「<a href="entry://勠">勠</a>」,「<a href="entry://剹">剹</a>」,「<a href="entry://䐂">䐂</a>」,「<a href="entry://樚">樚</a>」,「<a href="entry://椂">椂</a>」,「<a href="entry://騼">騼</a>」,「<a href="entry://𩣱">𩣱</a>」,「<a href="entry://𤀼">𤀼</a>」,「<a href="entry://𣊭">𣊭</a>」,「<a href="entry://𣊫">𣊫</a>」
+<span style="font-weight: bold">音節：</span>luk6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://𠯿">𠯿</a>」,「<a href="entry://娽">娽</a>」,「<a href="entry://勠">勠</a>」,「<a href="entry://剹">剹</a>」,「<a href="entry://䐂">䐂</a>」,「<a href="entry://樚">樚</a>」,「<a href="entry://椂">椂</a>」,「<a href="entry://騼">騼</a>」,「<a href="entry://𩣱">𩣱</a>」,「<a href="entry://𤀼">𤀼</a>」,「<a href="entry://𣊭">𣊭</a>」,「<a href="entry://𣊫">𣊫</a>」,「<a href="entry://衂">衂</a>」
 </>
 lung1
 <span style="font-weight: bold">音節：</span>lung1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://燶">燶</a>」,「<a href="entry://竉">竉</a>」
@@ -17266,8 +17266,8 @@ nou4
 nou5
 <span style="font-weight: bold">音節：</span>nou5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://碯">碯</a>」,「<a href="entry://憹">憹</a>」,「<a href="entry://垴">垴</a>」,「<a href="entry://胬">胬</a>」
 </>
-nuk6.luk6
-<span style="font-weight: bold">音節：</span>nuk6.luk6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://衂">衂</a>」
+nuk6
+<span style="font-weight: bold">音節：</span>nuk6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://衂">衂</a>」
 </>
 nung1
 <span style="font-weight: bold">音節：</span>nung1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://燶">燶</a>」
