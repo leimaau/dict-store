@@ -1508,7 +1508,7 @@
 【個】go3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>52</li></ul>
 </>
 倌
-【倌】gwun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>66</li></ul>
+【倌】gun1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>66</li></ul>
 </>
 倍
 【倍】pui5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>66</li></ul>
@@ -23621,7 +23621,7 @@
 【蕷】jyu6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>189</li></ul>
 </>
 蕹
-【蕹】ngong3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>192</li><li><span style="font-weight: bold">釋義：</span>〔又讀〕</li></ul>
+【蕹】ngung3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>192</li><li><span style="font-weight: bold">釋義：</span>〔又讀〕</li></ul>
 </>
 蕹
 【蕹】ung3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>192</li></ul>
@@ -27176,7 +27176,7 @@
 【輦】lin5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>397</li></ul>
 </>
 輨
-【輨】gwun2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>397</li></ul>
+【輨】gun2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>397</li></ul>
 </>
 輩
 【輩】bui3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>397</li></ul>
@@ -34748,10 +34748,10 @@ guk6
 <span style="font-weight: bold">音節：</span>guk6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://侷">侷</a>」,「<a href="entry://跼">跼</a>」,「<a href="entry://鋦">鋦</a>」,「<a href="entry://焗">焗</a>」,「<a href="entry://局">局</a>」,「<a href="entry://挶">挶</a>」
 </>
 gun1
-<span style="font-weight: bold">音節：</span>gun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://冠">冠</a>」,「<a href="entry://觀">觀</a>」,「<a href="entry://棺">棺</a>」,「<a href="entry://莞">莞</a>」,「<a href="entry://官">官</a>」
+<span style="font-weight: bold">音節：</span>gun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://冠">冠</a>」,「<a href="entry://觀">觀</a>」,「<a href="entry://棺">棺</a>」,「<a href="entry://莞">莞</a>」,「<a href="entry://官">官</a>」,「<a href="entry://倌">倌</a>」
 </>
 gun2
-<span style="font-weight: bold">音節：</span>gun2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://莞">莞</a>」,「<a href="entry://管">管</a>」,「<a href="entry://筦">筦</a>」,「<a href="entry://𩸘">𩸘</a>」,「<a href="entry://䲘">䲘</a>」,「<a href="entry://痯">痯</a>」,「<a href="entry://脘">脘</a>」,「<a href="entry://琯">琯</a>」,「<a href="entry://斡">斡</a>」,「<a href="entry://館">館</a>」
+<span style="font-weight: bold">音節：</span>gun2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://莞">莞</a>」,「<a href="entry://管">管</a>」,「<a href="entry://筦">筦</a>」,「<a href="entry://𩸘">𩸘</a>」,「<a href="entry://䲘">䲘</a>」,「<a href="entry://痯">痯</a>」,「<a href="entry://脘">脘</a>」,「<a href="entry://琯">琯</a>」,「<a href="entry://斡">斡</a>」,「<a href="entry://館">館</a>」,「<a href="entry://輨">輨</a>」
 </>
 gun3
 <span style="font-weight: bold">音節：</span>gun3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://冠">冠</a>」,「<a href="entry://鸛">鸛</a>」,「<a href="entry://罐">罐</a>」,「<a href="entry://盥">盥</a>」,「<a href="entry://毌">毌</a>」,「<a href="entry://觀">觀</a>」,「<a href="entry://貫">貫</a>」,「<a href="entry://瓘">瓘</a>」,「<a href="entry://祼">祼</a>」,「<a href="entry://灌">灌</a>」,「<a href="entry://涫">涫</a>」
@@ -34869,12 +34869,6 @@ gwong2
 </>
 gwong3
 <span style="font-weight: bold">音節：</span>gwong3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://桄">桄</a>」
-</>
-gwun1
-<span style="font-weight: bold">音節：</span>gwun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倌">倌</a>」
-</>
-gwun2
-<span style="font-weight: bold">音節：</span>gwun2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://輨">輨</a>」
 </>
 gyun1
 <span style="font-weight: bold">音節：</span>gyun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蠲">蠲</a>」,「<a href="entry://鵑">鵑</a>」,「<a href="entry://娟">娟</a>」,「<a href="entry://捐">捐</a>」,「<a href="entry://涓">涓</a>」
@@ -36799,8 +36793,8 @@ ngok6
 ngon6
 <span style="font-weight: bold">音節：</span>ngon6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://厂">厂</a>」,「<a href="entry://犴">犴</a>」,「<a href="entry://岸">岸</a>」
 </>
-ngong3
-<span style="font-weight: bold">音節：</span>ngong3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蕹">蕹</a>」
+ngung3
+<span style="font-weight: bold">音節：</span>ngung3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蕹">蕹</a>」
 </>
 ngong4
 <span style="font-weight: bold">音節：</span>ngong4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://卬">卬</a>」,「<a href="entry://昂">昂</a>」

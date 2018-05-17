@@ -497,7 +497,7 @@
 【俞】jyu4<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>23</li><li><span style="font-weight: bold">字碼：</span>0166</li></ul>
 </>
 倌
-【倌】gwun1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>23</li><li><span style="font-weight: bold">字碼：</span>0167</li></ul>
+【倌】gun1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>23</li><li><span style="font-weight: bold">字碼：</span>0167</li></ul>
 </>
 倍
 【倍】pui5<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>23</li><li><span style="font-weight: bold">字碼：</span>0168</li></ul>
@@ -15647,7 +15647,7 @@ guk6
 <span style="font-weight: bold">音節：</span>guk6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://局">局</a>」,「<a href="entry://跼">跼</a>」
 </>
 gun1
-<span style="font-weight: bold">音節：</span>gun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://冠">冠</a>」,「<a href="entry://觀">觀</a>」,「<a href="entry://棺">棺</a>」,「<a href="entry://官">官</a>」
+<span style="font-weight: bold">音節：</span>gun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://冠">冠</a>」,「<a href="entry://觀">觀</a>」,「<a href="entry://棺">棺</a>」,「<a href="entry://官">官</a>」,「<a href="entry://倌">倌</a>」
 </>
 gun2
 <span style="font-weight: bold">音節：</span>gun2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://管">管</a>」,「<a href="entry://館">館</a>」,「<a href="entry://莞">莞</a>」
@@ -15759,9 +15759,6 @@ gwong1
 </>
 gwong2
 <span style="font-weight: bold">音節：</span>gwong2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://廣">廣</a>」,「<a href="entry://獷">獷</a>」
-</>
-gwun1
-<span style="font-weight: bold">音節：</span>gwun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倌">倌</a>」
 </>
 gyun1
 <span style="font-weight: bold">音節：</span>gyun1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://娟">娟</a>」,「<a href="entry://鵑">鵑</a>」,「<a href="entry://身">身</a>」,「<a href="entry://涓">涓</a>」,「<a href="entry://捐">捐</a>」
