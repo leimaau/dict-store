@@ -1,19 +1,19 @@
-# ÄÏŒŽ°×Ô’³£ÓÃ×Ö×xÒô±í
+# å—å¯§ç™½è©±å¸¸ç”¨å­—è®€éŸ³è¡¨
 
-ÉÏÊöÙYÁÏ°üÀ¨Ò»·ÝÄÏŒŽ°×Ô’³£ÓÃ×Ö×xÒô±í£¬ß€ÔÚ²»”àÐÞÓ†£¬ÆäËû¶¼ÊÇVÖÝÔ’×ÖÔ~µä£¬ÓÃì¶Œ¦±È¡£
+ä¸Šè¿°è³‡æ–™åŒ…æ‹¬ä¸€ä»½å—å¯§ç™½è©±å¸¸ç”¨å­—è®€éŸ³è¡¨ï¼Œé‚„åœ¨ä¸æ–·ä¿®è¨‚ï¼Œå…¶ä»–éƒ½æ˜¯å»£å·žè©±å­—è©žå…¸ï¼Œç”¨æ–¼å°æ¯”ã€‚
 
-²»ÐèÒªÔ]ƒÔ£¬ÓÒÉÏ·½ÓÐ¡¸ÏÂÝd¡¹°´âo£¬üc“ô¼´¿ÉÏÂÝd¡£
+ä¸éœ€è¦è¨»å†Šï¼Œå³ä¸Šæ–¹æœ‰ã€Œä¸‹è¼‰ã€æŒ‰éˆ•ï¼Œé»žæ“Šå³å¯ä¸‹è¼‰ã€‚
 
-Ê¹ÓÃ×ÖÔ~µäÖ®Ç°ÐèÒª°²ÑbÍâ’ìîÔ~µäÜ›¼þ£º
+ä½¿ç”¨å­—è©žå…¸ä¹‹å‰éœ€è¦å®‰è£å¤–æŽ›é¡žè©žå…¸è»Ÿä»¶ï¼š
 
-Ò»¡¢PCÉÏ¿ÉÒÔÊ¹ÓÃGoldenDict£¬ÏÂÝdºÍÊ¹ÓÃ·½·¨ÒŠ[ß@ÑY](http://www.360doc.com/content/17/0130/05/89866_625374607.shtml)¡£¡¸ÉúÆ§×ÖµÄï@Ê¾ÒªÇóëŠÄX°²ÑbÓÐÏà‘ªµÄ×Öów£¬ÀýÈç»¨ˆ@Ã÷³¯ówÅcËÎów-·½Õý³¬´ó×Ö·û¼¯¡¹
+ä¸€ã€PCä¸Šå¯ä»¥ä½¿ç”¨GoldenDictï¼Œä¸‹è¼‰å’Œä½¿ç”¨æ–¹æ³•è¦‹[é€™è£](https://github.com/Dictionaryphile/GoldenDict_zh_manual/blob/master/%E7%BB%86%E8%8A%82%E6%95%99%E7%A8%8B/GoldenDict%20%E4%B8%8B%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%5BWindows%20%E7%89%88%5D.md)ã€‚ã€Œç”Ÿåƒ»å­—çš„é¡¯ç¤ºè¦æ±‚é›»è…¦å®‰è£æœ‰ç›¸æ‡‰çš„å­—é«”ï¼Œä¾‹å¦‚èŠ±åœ’æ˜Žæœé«”èˆ‡å®‹é«”-æ–¹æ­£è¶…å¤§å­—ç¬¦é›†ã€
 
-¶þ¡¢ÒÆ„Ó¶ËÍÆË]Ê¹ÓÃšWÂ·Ô~µä£¬¿ÉÒÔÔÚ‘ªÓÃÊÐˆöËÑË÷µ½KÏÂÝdÏÂí£¬°²ÑbºÃšWÂ·Ô~µäáá£¬Ö»Òª°ÑÉÏÃæµÄmdxÅcmddÎÄ¼þ·Åµ½ÊÖ™CµÄeudb_enÎÄ¼þŠA¼´¿É¡£¡¸ÐèÒªï@Ê¾ÉúÆ§×Ö¿ÉÒÔ°²ÑbÉîË{Ô~µä£¬Ê¹ÓÃ[Íâ’ì×Öów](http://www.ssdlsoft.com/bluedict/help/jiqiao/)¡¹
+äºŒã€ç§»å‹•ç«¯æŽ¨è–¦ä½¿ç”¨æ­è·¯è©žå…¸ï¼Œå¯ä»¥åœ¨æ‡‰ç”¨å¸‚å ´æœç´¢åˆ°ä¸¦ä¸‹è¼‰ä¸‹ä¾†ï¼Œå®‰è£å¥½æ­è·¯è©žå…¸å¾Œï¼Œåªè¦æŠŠä¸Šé¢çš„mdxèˆ‡mddæ–‡ä»¶æ”¾åˆ°æ‰‹æ©Ÿçš„eudb_enæ–‡ä»¶å¤¾å³å¯ã€‚ã€Œéœ€è¦é¡¯ç¤ºç”Ÿåƒ»å­—å¯ä»¥å®‰è£æ·±è—è©žå…¸ï¼Œä½¿ç”¨[å¤–æŽ›å­—é«”](http://www.ssdlsoft.com/bluedict/help/jiqiao/)ã€
 
-![°²×¿ÊÖ™CµÄÎÄ¼þ¹ÜÀíŠA](http://oyh64ik7j.bkt.clouddn.com/%E6%96%87%E4%BB%B6.png)
+![å®‰å“æ‰‹æ©Ÿçš„æ–‡ä»¶ç®¡ç†å¤¾](http://oyh64ik7j.bkt.clouddn.com/%E6%96%87%E4%BB%B6.png)
 
-Èý¡¢êPì¶ß@·Ý×xÒô±íµÄÕfÃ÷…¢ÒŠ[ß@ÑY](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=23065&extra=page%3D1)¡£
+ä¸‰ã€é—œæ–¼é€™ä»½è®€éŸ³è¡¨çš„èªªæ˜Žåƒè¦‹[é€™è£](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=23065&extra=page%3D1)ã€‚
 
-êPì¶ÄÏŒŽ°×Ô’µÄ»ùµAÖª×R…¢¿´[ÄÏŒŽ°×Ô’Ð¡ƒÔ×Ó](https://leimaau.gitbooks.io/nnbh/content/)
+é—œæ–¼å—å¯§ç™½è©±çš„åŸºç¤ŽçŸ¥è­˜åƒçœ‹[å—å¯§ç™½è©±å°å†Šå­](https://leimaau.gitbooks.io/nnbh/content/)
 
-¸½Ù›VÖÝÔ’ÕýÒô×ÖµäˆDÆ¬°æÏÂÝd£º[VÖÝÔ’ÕýÒô×Öµä](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=24908&extra=)
+é™„è´ˆå»£å·žè©±æ­£éŸ³å­—å…¸åœ–ç‰‡ç‰ˆä¸‹è¼‰ï¼š[å»£å·žè©±æ­£éŸ³å­—å…¸](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=24908&extra=)
