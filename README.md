@@ -1,6 +1,8 @@
-# 南寧白話常用字讀音表
+# 南寧白話字詞典
 
-上述資料包括一份南寧白話常用字讀音表，還在不斷修訂，其他都是廣州話字詞典，用於對比。
+## 說明
+
+上述資料包括一份南寧白話常用字讀音表，有時間還會不斷修訂，其他都是廣州話字詞典，用於對比。
 
 不需要註冊，右上方有「下載」按鈕，點擊即可下載。
 
@@ -14,6 +16,16 @@
 
 三、關於這份讀音表的說明參見[這裏](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=23065&extra=page%3D1)。
 
-關於南寧白話的基礎知識參看[南寧白話小冊子](https://leimaau.gitbooks.io/nnbh/content/)
-
 附贈廣州話正音字典圖片版下載：[廣州話正音字典](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=24908&extra=)
+
+## 本站主要链接
+
+[南宁白话小册子](https://leimaau.github.io/book/) 
+
+[南宁白话小册子（备用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
+
+[南宁白话输入方案](https://github.com/leimaau/myself_jyutping) 
+
+[南宁白话字词典](https://github.com/leimaau/NaamBaakDict) 
+
+[南宁白话读音资料文本档](https://github.com/leimaau/bookCollection) 
