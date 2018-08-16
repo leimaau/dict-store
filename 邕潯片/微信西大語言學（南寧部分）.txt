@@ -932,7 +932,7 @@
 【恨】han6 [hɐn22]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://han6">更多</a></li></ul>
 </>
 恩
-【恩】an1 [ɐn55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://an1">更多</a></li><li><span style="font-weight: bold">備註：</span>[A]原註音[ŋɐn55]應爲誤標註。</li></ul>
+【恩】ngan1 [ŋɐn55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ngan1">更多</a></li></ul>
 </>
 恭
 【恭】gung1 [kuŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學]</li><li><span style="font-weight: bold">同音字：</span>公, 宮 <a href="entry://gung1">更多</a></li></ul>
@@ -3076,8 +3076,8 @@ ai2
 am3
 <span style="font-weight: bold">音節：</span>am3 [Øɐm33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://暗">暗</a>」
 </>
-an1
-<span style="font-weight: bold">音節：</span>an1 [ɐn55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://恩">恩</a>」
+ngan1
+<span style="font-weight: bold">音節：</span>ngan1 [ŋɐn55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://恩">恩</a>」
 </>
 baa2
 <span style="font-weight: bold">音節：</span>baa2 [pa35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://把">把</a>」
