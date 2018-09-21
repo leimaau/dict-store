@@ -2,9 +2,7 @@
 
 ## 說明
 
-上述資料爲mdx和mdd文件，還有原始的txt檔，包括一份南寧白話常用字讀音表，有時間還會不斷修訂，其他都是廣州話字詞典，用於對比。
-
-關於這份讀音表的說明還可以參見[這裏](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=23065&extra=page%3D1)。
+上述資料爲mdx和mdd文件，還有原始的txt檔，包括一份南寧白話常用字讀音表和一份南寧白話建議讀音表（leimaau的審音），有時間還會不斷修訂，其他都是廣州話字詞典，用於對比。關於這份讀音表的說明還可以參見[這裏](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=23065&extra=page%3D1)。
 
 ## 安裝及使用方法
 
