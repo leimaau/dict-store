@@ -3917,7 +3917,7 @@
 【唾】toe3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>253</li><li><span style="font-weight: bold">釋義：</span>〔又讀〕</li></ul>
 </>
 唿
-【唿】fut1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>254</li></ul>
+【唿】fat1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>254</li></ul>
 </>
 啁
 【啁】zaau1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>254</li><li><span style="font-weight: bold">釋義：</span>㈡</li></ul>
@@ -18443,7 +18443,7 @@
 【研】jin6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>475</li><li><span style="font-weight: bold">釋義：</span>㈡ 同「硯」</li></ul>
 </>
 研
-【研】ngan4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>475</li><li><span style="font-weight: bold">釋義：</span>㈢ 碾，指滾動摩擦：～藥．～船</li></ul>
+【研】ngaan4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>475</li><li><span style="font-weight: bold">釋義：</span>㈢ 碾，指滾動摩擦：～藥．～船</li></ul>
 </>
 砘
 【砘】deon6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>475</li></ul>
@@ -34295,7 +34295,7 @@ fan6
 <span style="font-weight: bold">音節：</span>fan6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://份">份</a>」,「<a href="entry://分">分</a>」
 </>
 fat1
-<span style="font-weight: bold">音節：</span>fat1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://佛">佛</a>」,「<a href="entry://鮄">鮄</a>」,「<a href="entry://髴">髴</a>」,「<a href="entry://笏">笏</a>」,「<a href="entry://鍃">鍃</a>」,「<a href="entry://窟">窟</a>」,「<a href="entry://矻">矻</a>」,「<a href="entry://黻">黻</a>」,「<a href="entry://氟">氟</a>」,「<a href="entry://韍">韍</a>」,「<a href="entry://祓">祓</a>」,「<a href="entry://忽">忽</a>」,「<a href="entry://歘">歘</a>」,「<a href="entry://欻">欻</a>」,「<a href="entry://紼">紼</a>」,「<a href="entry://紱">紱</a>」,「<a href="entry://㺀">㺀</a>」,「<a href="entry://彿">彿</a>」,「<a href="entry://艴">艴</a>」,「<a href="entry://弗">弗</a>」,「<a href="entry://巿">巿</a>」,「<a href="entry://囫">囫</a>」,「<a href="entry://搰">搰</a>」,「<a href="entry://掘">掘</a>」,「<a href="entry://拂">拂</a>」,「<a href="entry://芾">芾</a>」,「<a href="entry://茀">茀</a>」,「<a href="entry://芴">芴</a>」,「<a href="entry://堀">堀</a>」,「<a href="entry://淴">淴</a>」,「<a href="entry://惚">惚</a>」
+<span style="font-weight: bold">音節：</span>fat1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://佛">佛</a>」,「<a href="entry://鮄">鮄</a>」,「<a href="entry://髴">髴</a>」,「<a href="entry://笏">笏</a>」,「<a href="entry://鍃">鍃</a>」,「<a href="entry://窟">窟</a>」,「<a href="entry://矻">矻</a>」,「<a href="entry://黻">黻</a>」,「<a href="entry://氟">氟</a>」,「<a href="entry://韍">韍</a>」,「<a href="entry://祓">祓</a>」,「<a href="entry://忽">忽</a>」,「<a href="entry://歘">歘</a>」,「<a href="entry://欻">欻</a>」,「<a href="entry://紼">紼</a>」,「<a href="entry://紱">紱</a>」,「<a href="entry://㺀">㺀</a>」,「<a href="entry://彿">彿</a>」,「<a href="entry://艴">艴</a>」,「<a href="entry://弗">弗</a>」,「<a href="entry://巿">巿</a>」,「<a href="entry://囫">囫</a>」,「<a href="entry://搰">搰</a>」,「<a href="entry://掘">掘</a>」,「<a href="entry://拂">拂</a>」,「<a href="entry://芾">芾</a>」,「<a href="entry://茀">茀</a>」,「<a href="entry://芴">芴</a>」,「<a href="entry://堀">堀</a>」,「<a href="entry://淴">淴</a>」,「<a href="entry://惚">惚</a>」,「<a href="entry://唿">唿</a>」
 </>
 fat6
 <span style="font-weight: bold">音節：</span>fat6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://乏">乏</a>」,「<a href="entry://筏">筏</a>」,「<a href="entry://罸">罸</a>」,「<a href="entry://罰">罰</a>」,「<a href="entry://砩">砩</a>」,「<a href="entry://𠲎">𠲎</a>」,「<a href="entry://閥">閥</a>」,「<a href="entry://垡">垡</a>」,「<a href="entry://怫">怫</a>」,「<a href="entry://伐">伐</a>」,「<a href="entry://刜">刜</a>」,「<a href="entry://佛">佛</a>」
@@ -34404,9 +34404,6 @@ fung4
 </>
 fung6
 <span style="font-weight: bold">音節：</span>fung6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://俸">俸</a>」,「<a href="entry://甮">甮</a>」,「<a href="entry://賵">賵</a>」,「<a href="entry://縫">縫</a>」,「<a href="entry://葑">葑</a>」,「<a href="entry://奉">奉</a>」,「<a href="entry://鳳">鳳</a>」
-</>
-fut1
-<span style="font-weight: bold">音節：</span>fut1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://唿">唿</a>」
 </>
 fut3
 <span style="font-weight: bold">音節：</span>fut3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://闊">闊</a>」,「<a href="entry://蛞">蛞</a>」,「<a href="entry://濶">濶</a>」
@@ -36692,7 +36689,7 @@ ngaam4
 <span style="font-weight: bold">音節：</span>ngaam4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://岩">岩</a>」,「<a href="entry://癌">癌</a>」,「<a href="entry://喦">喦</a>」,「<a href="entry://巖">巖</a>」
 </>
 ngaan4
-<span style="font-weight: bold">音節：</span>ngaan4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://顏">顏</a>」
+<span style="font-weight: bold">音節：</span>ngaan4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://顏">顏</a>」,「<a href="entry://研">研</a>」
 </>
 ngaan5
 <span style="font-weight: bold">音節：</span>ngaan5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://眼">眼</a>」
@@ -36737,7 +36734,7 @@ ngan1
 <span style="font-weight: bold">音節：</span>ngan1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://奀">奀</a>」
 </>
 ngan4
-<span style="font-weight: bold">音節：</span>ngan4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://鄞">鄞</a>」,「<a href="entry://齦">齦</a>」,「<a href="entry://齗">齗</a>」,「<a href="entry://銀">銀</a>」,「<a href="entry://研">研</a>」,「<a href="entry://狺">狺</a>」,「<a href="entry://嚚">嚚</a>」,「<a href="entry://圻">圻</a>」,「<a href="entry://誾">誾</a>」,「<a href="entry://垠">垠</a>」
+<span style="font-weight: bold">音節：</span>ngan4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://鄞">鄞</a>」,「<a href="entry://齦">齦</a>」,「<a href="entry://齗">齗</a>」,「<a href="entry://銀">銀</a>」,「<a href="entry://狺">狺</a>」,「<a href="entry://嚚">嚚</a>」,「<a href="entry://圻">圻</a>」,「<a href="entry://誾">誾</a>」,「<a href="entry://垠">垠</a>」
 </>
 ngan6
 <span style="font-weight: bold">音節：</span>ngan6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://垽">垽</a>」,「<a href="entry://韌">韌</a>」

@@ -343,9 +343,6 @@
 升
 【升】sing1 [ʃeŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學] 附：[ʃeŋ55]；[B]語保手冊音系調查單字（260）及中古音韻地位[微信西大語言學] 附：[ʃeŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://sing1">更多</a></li></ul>
 </>
-升
-【升】sing1 [ʃeŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學] 附：[ʃeŋ55]；[B]語保手冊音系調查單字（260）及中古音韻地位[微信西大語言學] 附：[ʃeŋ55]</li><li><span style="font-weight: bold">同音字：</span>星 <a href="entry://sing1">更多</a></li></ul>
-</>
 半
 【半】bun3 [pun33]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學] 附：[pun33]；[B]語保手冊音系調查單字（260）及中古音韻地位[微信西大語言學] 附：[pun33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://bun3">更多</a></li></ul>
 </>
@@ -1205,10 +1202,7 @@
 【明】ming4 [meŋ21]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學] 附：[meŋ21]；[B]語保手冊音系調查單字（260）及中古音韻地位[微信西大語言學] 附：[meŋ21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ming4">更多</a></li><li><span style="font-weight: bold">備註：</span>[B]原註音[meŋ55]應爲誤標註。</li></ul>
 </>
 星
-【星】sing1 [ɬeŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[B]語保手冊音系調查單字（260）及中古音韻地位[微信西大語言學] 附：[ɬeŋ55]</li><li><span style="font-weight: bold">同音字：</span>升 <a href="entry://sing1">更多</a></li></ul>
-</>
-星
-【星】sing1 [ɬeŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[B]語保手冊音系調查單字（260）及中古音韻地位[微信西大語言學] 附：[ɬeŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://sing1">更多</a></li></ul>
+【星】sling1 [ɬeŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[B]語保手冊音系調查單字（260）及中古音韻地位[微信西大語言學] 附：[ɬeŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://sling1">更多</a></li></ul>
 </>
 星
 【星】sleng1 [ɬɛŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>[A]語保手冊調查單字（1000）及中古音韻地位[微信西大語言學]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://sleng1">更多</a></li></ul>
@@ -4894,11 +4888,11 @@ sin3
 sin6
 <span style="font-weight: bold">音節：</span>sin6 [ʃin22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://善">善</a>」
 </>
-sing1
-<span style="font-weight: bold">音節：</span>sing1 [ɬeŋ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://星">星</a>」,「<a href="entry://星">星</a>」
+sling1
+<span style="font-weight: bold">音節：</span>sling1 [ɬeŋ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://星">星</a>」
 </>
 sing1
-<span style="font-weight: bold">音節：</span>sing1 [ʃeŋ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://升">升</a>」,「<a href="entry://升">升</a>」
+<span style="font-weight: bold">音節：</span>sing1 [ʃeŋ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://升">升</a>」
 </>
 sing4
 <span style="font-weight: bold">音節：</span>sing4 [ʃeŋ21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://城">城</a>」,「<a href="entry://繩">繩</a>」
