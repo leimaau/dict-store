@@ -2807,7 +2807,7 @@
 【匡】hong1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>41</li></ul>
 </>
 匣
-【匣】hap6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>41</li></ul>
+【匣】haap6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>41</li></ul>
 </>
 匪
 【匪】fei2<ul type="square"><li><span style="font-weight: bold">頁碼：</span>41</li></ul>
@@ -4283,7 +4283,7 @@
 【嗐】hoi6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>258</li></ul>
 </>
 嗑
-【嗑】hap3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>258</li></ul>
+【嗑】hap6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>258</li></ul>
 </>
 嗒
 【嗒】daap1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>255</li><li><span style="font-weight: bold">釋義：</span>㈢ ～糖</li></ul>
@@ -9749,7 +9749,7 @@
 【拫】hang4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>214</li></ul>
 </>
 括
-【括】gwat3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>214</li><li><span style="font-weight: bold">釋義：</span>㈡ 挺～</li></ul>
+【括】gwaat3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>214</li><li><span style="font-weight: bold">釋義：</span>㈡ 挺～</li></ul>
 </>
 括
 【括】kut3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>214</li><li><span style="font-weight: bold">釋義：</span>㈠</li></ul>
@@ -27338,7 +27338,10 @@
 【迂】jyu1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>147</li></ul>
 </>
 迄
-【迄】ngat3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>148</li></ul>
+【迄】ngat6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>148</li></ul>
+</>
+迄
+【迄】hat1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>148</li><li><span style="font-weight: bold">釋義：</span>〔又讀〕</li></ul>
 </>
 迅
 【迅】seon3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>147</li></ul>
@@ -34796,7 +34799,7 @@ gwaang6
 <span style="font-weight: bold">音節：</span>gwaang6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://逛">逛</a>」
 </>
 gwaat3
-<span style="font-weight: bold">音節：</span>gwaat3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://刮">刮</a>」,「<a href="entry://劀">劀</a>」,「<a href="entry://颳">颳</a>」
+<span style="font-weight: bold">音節：</span>gwaat3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://刮">刮</a>」,「<a href="entry://劀">劀</a>」,「<a href="entry://颳">颳</a>」,「<a href="entry://括">括</a>」
 </>
 gwai1
 <span style="font-weight: bold">音節：</span>gwai1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://刲">刲</a>」,「<a href="entry://鮭">鮭</a>」,「<a href="entry://皈">皈</a>」,「<a href="entry://硅">硅</a>」,「<a href="entry://瓌">瓌</a>」,「<a href="entry://瑰">瑰</a>」,「<a href="entry://珪">珪</a>」,「<a href="entry://媯">媯</a>」,「<a href="entry://歸">歸</a>」,「<a href="entry://圭">圭</a>」,「<a href="entry://閨">閨</a>」,「<a href="entry://廆">廆</a>」,「<a href="entry://邽">邽</a>」,「<a href="entry://傀">傀</a>」,「<a href="entry://溈">溈</a>」,「<a href="entry://龜">龜</a>」
@@ -34827,9 +34830,6 @@ gwang1
 </>
 gwat1
 <span style="font-weight: bold">音節：</span>gwat1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://譎">譎</a>」,「<a href="entry://骨">骨</a>」,「<a href="entry://鶻">鶻</a>」,「<a href="entry://橘">橘</a>」,「<a href="entry://榾">榾</a>」,「<a href="entry://餶">餶</a>」,「<a href="entry://蓇">蓇</a>」,「<a href="entry://滑">滑</a>」,「<a href="entry://汩">汩</a>」
-</>
-gwat3
-<span style="font-weight: bold">音節：</span>gwat3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://括">括</a>」
 </>
 gwat6
 <span style="font-weight: bold">音節：</span>gwat6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倔">倔</a>」,「<a href="entry://崛">崛</a>」,「<a href="entry://𡲬">𡲬</a>」,「<a href="entry://掘">掘</a>」,「<a href="entry://闕">闕</a>」
@@ -34946,7 +34946,7 @@ haap3
 <span style="font-weight: bold">音節：</span>haap3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://掐">掐</a>」,「<a href="entry://䶗">䶗</a>」,「<a href="entry://呷">呷</a>」
 </>
 haap6
-<span style="font-weight: bold">音節：</span>haap6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://俠">俠</a>」,「<a href="entry://篋">篋</a>」,「<a href="entry://祫">祫</a>」,「<a href="entry://柙">柙</a>」,「<a href="entry://狹">狹</a>」,「<a href="entry://狎">狎</a>」,「<a href="entry://峽">峽</a>」,「<a href="entry://押">押</a>」
+<span style="font-weight: bold">音節：</span>haap6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://俠">俠</a>」,「<a href="entry://篋">篋</a>」,「<a href="entry://祫">祫</a>」,「<a href="entry://柙">柙</a>」,「<a href="entry://狹">狹</a>」,「<a href="entry://狎">狎</a>」,「<a href="entry://峽">峽</a>」,「<a href="entry://押">押</a>」,「<a href="entry://匣">匣</a>」
 </>
 haau1
 <span style="font-weight: bold">音節：</span>haau1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://鄗">鄗</a>」,「<a href="entry://酵">酵</a>」,「<a href="entry://虓">虓</a>」,「<a href="entry://磽">磽</a>」,「<a href="entry://敲">敲</a>」,「<a href="entry://烤">烤</a>」,「<a href="entry://猇">猇</a>」,「<a href="entry://尻">尻</a>」,「<a href="entry://哮">哮</a>」,「<a href="entry://拷">拷</a>」,「<a href="entry://芤">芤</a>」
@@ -35017,14 +35017,11 @@ hang6
 hap1
 <span style="font-weight: bold">音節：</span>hap1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://匼">匼</a>」,「<a href="entry://鉿">鉿</a>」,「<a href="entry://袷">袷</a>」,「<a href="entry://瞌">瞌</a>」,「<a href="entry://恰">恰</a>」,「<a href="entry://洽">洽</a>」
 </>
-hap3
-<span style="font-weight: bold">音節：</span>hap3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://嗑">嗑</a>」
-</>
 hap6
-<span style="font-weight: bold">音節：</span>hap6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://俠">俠</a>」,「<a href="entry://頜">頜</a>」,「<a href="entry://耠">耠</a>」,「<a href="entry://盒">盒</a>」,「<a href="entry://盍">盍</a>」,「<a href="entry://磕">磕</a>」,「<a href="entry://硤">硤</a>」,「<a href="entry://瞌">瞌</a>」,「<a href="entry://榼">榼</a>」,「<a href="entry://狹">狹</a>」,「<a href="entry://峇">峇</a>」,「<a href="entry://餄">餄</a>」,「<a href="entry://闔">闔</a>」,「<a href="entry://閤">閤</a>」,「<a href="entry://溘">溘</a>」,「<a href="entry://洽">洽</a>」,「<a href="entry://郃">郃</a>」,「<a href="entry://陿">陿</a>」,「<a href="entry://合">合</a>」,「<a href="entry://劐">劐</a>」,「<a href="entry://匣">匣</a>」
+<span style="font-weight: bold">音節：</span>hap6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://俠">俠</a>」,「<a href="entry://頜">頜</a>」,「<a href="entry://耠">耠</a>」,「<a href="entry://盒">盒</a>」,「<a href="entry://盍">盍</a>」,「<a href="entry://磕">磕</a>」,「<a href="entry://硤">硤</a>」,「<a href="entry://瞌">瞌</a>」,「<a href="entry://榼">榼</a>」,「<a href="entry://狹">狹</a>」,「<a href="entry://峇">峇</a>」,「<a href="entry://餄">餄</a>」,「<a href="entry://闔">闔</a>」,「<a href="entry://閤">閤</a>」,「<a href="entry://溘">溘</a>」,「<a href="entry://洽">洽</a>」,「<a href="entry://郃">郃</a>」,「<a href="entry://陿">陿</a>」,「<a href="entry://合">合</a>」,「<a href="entry://劐">劐</a>」,「<a href="entry://嗑">嗑</a>」
 </>
 hat1
-<span style="font-weight: bold">音節：</span>hat1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://乞">乞</a>」
+<span style="font-weight: bold">音節：</span>hat1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://乞">乞</a>」,「<a href="entry://迄">迄</a>」
 </>
 hat6
 <span style="font-weight: bold">音節：</span>hat6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://劾">劾</a>」,「<a href="entry://齕">齕</a>」,「<a href="entry://翮">翮</a>」,「<a href="entry://瞎">瞎</a>」,「<a href="entry://覡">覡</a>」,「<a href="entry://核">核</a>」,「<a href="entry://轄">轄</a>」,「<a href="entry://檄">檄</a>」,「<a href="entry://楬">楬</a>」,「<a href="entry://紇">紇</a>」,「<a href="entry://葜">葜</a>」,「<a href="entry://閡">閡</a>」
@@ -36748,11 +36745,8 @@ ngap6
 ngat1
 <span style="font-weight: bold">音節：</span>ngat1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://扤">扤</a>」
 </>
-ngat3
-<span style="font-weight: bold">音節：</span>ngat3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://迄">迄</a>」
-</>
 ngat6
-<span style="font-weight: bold">音節：</span>ngat6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://訖">訖</a>」,「<a href="entry://杌">杌</a>」,「<a href="entry://屹">屹</a>」,「<a href="entry://屼">屼</a>」,「<a href="entry://扤">扤</a>」,「<a href="entry://阢">阢</a>」,「<a href="entry://汔">汔</a>」,「<a href="entry://仡">仡</a>」,「<a href="entry://卼">卼</a>」,「<a href="entry://兀">兀</a>」
+<span style="font-weight: bold">音節：</span>ngat6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://訖">訖</a>」,「<a href="entry://杌">杌</a>」,「<a href="entry://屹">屹</a>」,「<a href="entry://屼">屼</a>」,「<a href="entry://扤">扤</a>」,「<a href="entry://阢">阢</a>」,「<a href="entry://汔">汔</a>」,「<a href="entry://迄">迄</a>」,「<a href="entry://仡">仡</a>」,「<a href="entry://卼">卼</a>」,「<a href="entry://兀">兀</a>」
 </>
 ngau1
 <span style="font-weight: bold">音節：</span>ngau1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://勾">勾</a>」,「<a href="entry://鉤">鉤</a>」,「<a href="entry://鈎">鈎</a>」,「<a href="entry://句">句</a>」

@@ -1,7 +1,5 @@
 # 南寧白話字詞典
 
-本站若是下載緩慢或下載出錯，可以嘗試[這裏](https://dev.tencent.com/u/LeiMaau/p/NaamBaakDICT/git)。
-
 ## 說明
 
 上述資料爲mdx和mdd文件，還有原始的txt檔，包括一份南寧白話常用字讀音表和一份南寧白話建議讀音表（leimaau的審音），有時間還會不斷修訂，其他都是廣州話字詞典，用於對比。關於這份讀音表的說明還可以參見[這裏](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=23065&extra=page%3D1)。
@@ -14,10 +12,3 @@ mdx和mdd文件爲開源詞典的詞庫文件，可以參看本項目的[wiki文
 
 [南寧白話小冊子](https://leimaau.github.io/book/) 
 
-[南寧白話小冊子（備用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
-
-[南寧白話輸入方案](https://github.com/leimaau/myself_jyutping) 
-
-[南寧白話字詞典](https://github.com/leimaau/NaamBaakDict) 
-
-[南寧白話讀音資料文本檔](https://github.com/leimaau/bookCollection) 
