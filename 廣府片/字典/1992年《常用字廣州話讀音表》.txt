@@ -11888,7 +11888,7 @@
 【蹉】co1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>204</li><li><span style="font-weight: bold">字碼：</span>3963</li></ul>
 </>
 蹋
-【蹋】taap9(6)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>204</li><li><span style="font-weight: bold">字碼：</span>3964</li></ul>
+【蹋】daap9(6)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>204</li><li><span style="font-weight: bold">字碼：</span>3964</li></ul>
 </>
 蹈
 【蹈】dou6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>204</li><li><span style="font-weight: bold">字碼：</span>3965</li></ul>
@@ -13277,7 +13277,7 @@
 【面】min6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>226</li><li><span style="font-weight: bold">字碼：</span>4426</li></ul>
 </>
 靦
-【靦】1)din2:靦顏 2)min5:靦腆<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>226</li><li><span style="font-weight: bold">字碼：</span>4427</li></ul>
+【靦】1)tin2:靦顏 2)min5:靦腆<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>226</li><li><span style="font-weight: bold">字碼：</span>4427</li></ul>
 </>
 靨
 【靨】jip8(3)<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>226</li><li><span style="font-weight: bold">字碼：</span>4428</li></ul>
@@ -13499,7 +13499,7 @@
 【飧】syun1<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4500</li></ul>
 </>
 飪
-【飪】jam6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4501</li><li><span style="font-weight: bold">備註：</span>(又)jan5</li></ul>
+【飪】jam6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4501</li><li><span style="font-weight: bold">備註：</span>(又)jam5</li></ul>
 </>
 飯
 【飯】faan6<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>229</li><li><span style="font-weight: bold">字碼：</span>4502</li></ul>
@@ -14975,7 +14975,7 @@ daap3
 <span style="font-weight: bold">音節：</span>daap3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://搭">搭</a>」,「<a href="entry://答">答</a>」,「<a href="entry://瘩">瘩</a>」
 </>
 daap6
-<span style="font-weight: bold">音節：</span>daap6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://踏">踏</a>」
+<span style="font-weight: bold">音節：</span>daap6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://踏">踏</a>」,「<a href="entry://蹋">蹋</a>」
 </>
 daat3
 <span style="font-weight: bold">音節：</span>daat3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://靼">靼</a>」
@@ -15080,7 +15080,7 @@ din1
 <span style="font-weight: bold">音節：</span>din1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://巔">巔</a>」,「<a href="entry://顛">顛</a>」,「<a href="entry://癲">癲</a>」
 </>
 din2
-<span style="font-weight: bold">音節：</span>din2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://典">典</a>」,「<a href="entry://靦">靦</a>」,「<a href="entry://碘">碘</a>」
+<span style="font-weight: bold">音節：</span>din2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://典">典</a>」,「<a href="entry://碘">碘</a>」
 </>
 din3
 <span style="font-weight: bold">音節：</span>din3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://墊">墊</a>」
@@ -16130,7 +16130,7 @@ jam4
 <span style="font-weight: bold">音節：</span>jam4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://任">任</a>」,「<a href="entry://霪">霪</a>」,「<a href="entry://淫">淫</a>」,「<a href="entry://妊">妊</a>」,「<a href="entry://壬">壬</a>」,「<a href="entry://吟">吟</a>」
 </>
 jam5
-<span style="font-weight: bold">音節：</span>jam5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://荏">荏</a>」
+<span style="font-weight: bold">音節：</span>jam5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://荏">荏</a>」,「<a href="entry://飪">飪</a>」
 </>
 jam6
 <span style="font-weight: bold">音節：</span>jam6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://任">任</a>」,「<a href="entry://飪">飪</a>」,「<a href="entry://賃">賃</a>」
@@ -16148,7 +16148,7 @@ jan4
 <span style="font-weight: bold">音節：</span>jan4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://人">人</a>」,「<a href="entry://寅">寅</a>」,「<a href="entry://夤">夤</a>」,「<a href="entry://仁">仁</a>」
 </>
 jan5
-<span style="font-weight: bold">音節：</span>jan5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://引">引</a>」,「<a href="entry://飪">飪</a>」,「<a href="entry://蚓">蚓</a>」,「<a href="entry://癮">癮</a>」,「<a href="entry://忍">忍</a>」
+<span style="font-weight: bold">音節：</span>jan5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://引">引</a>」,「<a href="entry://蚓">蚓</a>」,「<a href="entry://癮">癮</a>」,「<a href="entry://忍">忍</a>」
 </>
 jan6
 <span style="font-weight: bold">音節：</span>jan6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://仞">仞</a>」,「<a href="entry://韌">韌</a>」,「<a href="entry://釁">釁</a>」,「<a href="entry://軔">軔</a>」,「<a href="entry://紉">紉</a>」,「<a href="entry://胤">胤</a>」,「<a href="entry://孕">孕</a>」,「<a href="entry://刃">刃</a>」
@@ -18076,9 +18076,6 @@ taan4
 taap3
 <span style="font-weight: bold">音節：</span>taap3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://塔">塔</a>」,「<a href="entry://榻">榻</a>」,「<a href="entry://拓">拓</a>」,「<a href="entry://塌">塌</a>」
 </>
-taap6
-<span style="font-weight: bold">音節：</span>taap6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蹋">蹋</a>」
-</>
 taat3
 <span style="font-weight: bold">音節：</span>taat3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://撻">撻</a>」,「<a href="entry://韃">韃</a>」,「<a href="entry://躂">躂</a>」
 </>
@@ -18158,7 +18155,7 @@ tin1
 <span style="font-weight: bold">音節：</span>tin1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://天">天</a>」
 </>
 tin2
-<span style="font-weight: bold">音節：</span>tin2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://腆">腆</a>」
+<span style="font-weight: bold">音節：</span>tin2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://腆">腆</a>」,「<a href="entry://靦">靦</a>」
 </>
 tin4
 <span style="font-weight: bold">音節：</span>tin4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://佃">佃</a>」,「<a href="entry://闐">闐</a>」,「<a href="entry://田">田</a>」,「<a href="entry://滇">滇</a>」,「<a href="entry://填">填</a>」
