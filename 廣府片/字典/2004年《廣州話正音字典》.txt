@@ -10988,7 +10988,7 @@
 【救】gau3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>430</li></ul>
 </>
 敓
-【敓】jyut6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>430</li></ul>
+【敓】dyut6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>430</li></ul>
 </>
 敔
 【敔】jyu5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>430</li></ul>
@@ -34235,7 +34235,7 @@ dyut3
 <span style="font-weight: bold">音節：</span>dyut3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://掇">掇</a>」
 </>
 dyut6
-<span style="font-weight: bold">音節：</span>dyut6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://奪">奪</a>」
+<span style="font-weight: bold">音節：</span>dyut6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://奪">奪</a>」,「<a href="entry://敓">敓</a>」
 </>
 ei3
 <span style="font-weight: bold">音節：</span>ei3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://欸">欸</a>」
@@ -35576,7 +35576,7 @@ jyut3
 <span style="font-weight: bold">音節：</span>jyut3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://乙">乙</a>」,「<a href="entry://黦">黦</a>」,「<a href="entry://釔">釔</a>」
 </>
 jyut6
-<span style="font-weight: bold">音節：</span>jyut6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://粵">粵</a>」,「<a href="entry://越">越</a>」,「<a href="entry://戉">戉</a>」,「<a href="entry://鉞">鉞</a>」,「<a href="entry://穴">穴</a>」,「<a href="entry://月">月</a>」,「<a href="entry://敓">敓</a>」,「<a href="entry://軏">軏</a>」,「<a href="entry://樾">樾</a>」,「<a href="entry://曰">曰</a>」,「<a href="entry://玥">玥</a>」,「<a href="entry://噦">噦</a>」,「<a href="entry://抈">抈</a>」,「<a href="entry://爇">爇</a>」,「<a href="entry://茓">茓</a>」,「<a href="entry://閱">閱</a>」,「<a href="entry://悅">悅</a>」,「<a href="entry://說">說</a>」,「<a href="entry://刖">刖</a>」
+<span style="font-weight: bold">音節：</span>jyut6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://粵">粵</a>」,「<a href="entry://越">越</a>」,「<a href="entry://戉">戉</a>」,「<a href="entry://鉞">鉞</a>」,「<a href="entry://穴">穴</a>」,「<a href="entry://月">月</a>」,「<a href="entry://軏">軏</a>」,「<a href="entry://樾">樾</a>」,「<a href="entry://曰">曰</a>」,「<a href="entry://玥">玥</a>」,「<a href="entry://噦">噦</a>」,「<a href="entry://抈">抈</a>」,「<a href="entry://爇">爇</a>」,「<a href="entry://茓">茓</a>」,「<a href="entry://閱">閱</a>」,「<a href="entry://悅">悅</a>」,「<a href="entry://說">說</a>」,「<a href="entry://刖">刖</a>」
 </>
 kaa1
 <span style="font-weight: bold">音節：</span>kaa1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://佧">佧</a>」,「<a href="entry://䶗">䶗</a>」,「<a href="entry://胩">胩</a>」,「<a href="entry://喀">喀</a>」,「<a href="entry://咔">咔</a>」,「<a href="entry://揢">揢</a>」,「<a href="entry://拤">拤</a>」,「<a href="entry://卡">卡</a>」
