@@ -17351,7 +17351,10 @@
 【反骨仔】faan2 gwat1 zai2〔făn gŭ zĭ〕<br/>a disloyal person who betrayed someone
 </>
 反鬥
-【反鬥（反斗）】faan2 dau3 (反斗 'faan2 dau2')〔făn dòu〕<br/>naughty
+【反鬥（反斗）】faan2 dau3〔făn dòu〕<br/>naughty
+</>
+反鬥
+【反鬥（反斗）】faan2 dau2〔făn dòu〕<br/>naughty
 </>
 反黑組
 【反黑組（反黑组）】faan2 hak1 zou2〔făn hēi zŭ〕<br/>District Anti Triad Squad
@@ -22565,7 +22568,10 @@
 @@@LINK=喐喐貢
 </>
 喐嚟喐去
-【喐嚟喐去】juk1 lai4 (lei4) juk1 heoi3〔yù lí yù qù〕<br/>moving around, side to side
+【喐嚟喐去】juk1 lai4 juk1 heoi3〔yù lí yù qù〕<br/>moving around, side to side
+</>
+喐嚟喐去
+【喐嚟喐去】juk1 lei4 juk1 heoi3〔yù lí yù qù〕<br/>moving around, side to side
 </>
 喐手
 【喐手】juk1 sau2〔yù shŏu〕<br/>to take action; to attack
@@ -22901,7 +22907,7 @@
 @@@LINK=嗨喲
 </>
 嗨喲
-【嗨喲（嗨哟）】hei1 yo1〔hāi yō〕<br/>loanword, which means hey yo
+【嗨喲（嗨哟）】hei1 jo1〔hāi yō〕<br/>loanword, which means hey yo
 </>
 嗯
 【嗯】ng6〔ēn〕<br/>(Adverb) 1. Eh?; 2. Interjection to show agreement
@@ -37049,7 +37055,10 @@
 【強積金（强积金）】koeng5 zik1 gam1〔qiáng jī jīn〕<br/>Mandatory Provident Fund (MPF)
 </>
 強記
-【強記（强记）】koeng5 gei3; koeng4 gei3〔qiáng jì〕<br/>koeng5 gei3: to memorize by rote; koeng4 gei3: Keung Kee, name of the restaurant
+【強記（强记）】koeng5 gei3〔qiáng jì〕<br/>koeng5 gei3: to memorize by rote; koeng4 gei3: Keung Kee, name of the restaurant
+</>
+強記
+【強記（强记）】koeng4 gei3〔qiáng jì〕<br/>koeng5 gei3: to memorize by rote; koeng4 gei3: Keung Kee, name of the restaurant
 </>
 強調
 【強調（强调）】koeng4 diu6〔qiáng diào〕<br/>to highlight
@@ -60344,7 +60353,7 @@
 @@@LINK=演説
 </>
 演野
-【演野】jin2 ye5〔yăn yĕ〕<br/>acting; showing off (spoken)
+【演野】jin2 je5〔yăn yĕ〕<br/>acting; showing off (spoken)
 </>
 漚仔
 【漚仔（沤仔）】au1 zai2〔ōu zĭ〕<br/>pregnancy sickness (emesis gravidarum); to want to vomit
