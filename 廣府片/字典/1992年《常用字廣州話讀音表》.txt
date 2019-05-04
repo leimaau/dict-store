@@ -1697,7 +1697,7 @@
 【咫】zi2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>43</li><li><span style="font-weight: bold">字碼：</span>0566</li></ul>
 </>
 咽
-【咽】1)jin1:咽頭 2)jin3:虎咽 3)jit8(3):硬咽<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>43</li><li><span style="font-weight: bold">字碼：</span>0567</li></ul>
+【咽】1)jin1:咽頭 2)jin3:虎咽 3)jit8(3):哽咽<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>43</li><li><span style="font-weight: bold">字碼：</span>0567</li></ul>
 </>
 品
 【品】ban2<br/><ul type="square"><li><span style="font-weight: bold">頁：</span>43</li><li><span style="font-weight: bold">字碼：</span>0568</li></ul>

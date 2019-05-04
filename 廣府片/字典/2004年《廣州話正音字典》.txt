@@ -5735,7 +5735,7 @@
 【壘】leoi5<ul type="square"><li><span style="font-weight: bold">頁碼：</span>161</li><li><span style="font-weight: bold">釋義：</span>㈠ ①～牆。②壁～</li></ul>
 </>
 壘
-【壘】leot4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>161</li><li><span style="font-weight: bold">釋義：</span>㈡ ～球</li></ul>
+【壘】leoi4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>161</li><li><span style="font-weight: bold">釋義：</span>㈡ ～球</li></ul>
 </>
 壘
 【壘】leot6<ul type="square"><li><span style="font-weight: bold">頁碼：</span>161</li><li><span style="font-weight: bold">釋義：</span>㈢ 神荼鬱～</li></ul>
@@ -36011,7 +36011,7 @@ leng5
 <span style="font-weight: bold">音節：</span>leng5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://嶺">嶺</a>」,「<a href="entry://領">領</a>」
 </>
 leoi4
-<span style="font-weight: bold">音節：</span>leoi4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://閭">閭</a>」,「<a href="entry://雷">雷</a>」,「<a href="entry://纍">纍</a>」,「<a href="entry://累">累</a>」,「<a href="entry://羸">羸</a>」,「<a href="entry://罍">罍</a>」,「<a href="entry://鐳">鐳</a>」,「<a href="entry://㹎">㹎</a>」,「<a href="entry://欙">欙</a>」,「<a href="entry://檑">檑</a>」,「<a href="entry://櫚">櫚</a>」,「<a href="entry://驢">驢</a>」,「<a href="entry://縲">縲</a>」,「<a href="entry://嫘">嫘</a>」,「<a href="entry://擂">擂</a>」,「<a href="entry://蕾">蕾</a>」,「<a href="entry://虆">虆</a>」,「<a href="entry://蔂">蔂</a>」
+<span style="font-weight: bold">音節：</span>leoi4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://閭">閭</a>」,「<a href="entry://雷">雷</a>」,「<a href="entry://纍">纍</a>」,「<a href="entry://累">累</a>」,「<a href="entry://羸">羸</a>」,「<a href="entry://罍">罍</a>」,「<a href="entry://鐳">鐳</a>」,「<a href="entry://㹎">㹎</a>」,「<a href="entry://欙">欙</a>」,「<a href="entry://檑">檑</a>」,「<a href="entry://櫚">櫚</a>」,「<a href="entry://驢">驢</a>」,「<a href="entry://縲">縲</a>」,「<a href="entry://嫘">嫘</a>」,「<a href="entry://擂">擂</a>」,「<a href="entry://蕾">蕾</a>」,「<a href="entry://虆">虆</a>」,「<a href="entry://蔂">蔂</a>」,「<a href="entry://壘">壘</a>」
 </>
 leoi5
 <span style="font-weight: bold">音節：</span>leoi5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://侶">侶</a>」,「<a href="entry://裏">裏</a>」,「<a href="entry://裡">裡</a>」,「<a href="entry://纍">纍</a>」,「<a href="entry://累">累</a>」,「<a href="entry://鋁">鋁</a>」,「<a href="entry://穭">穭</a>」,「<a href="entry://磊">磊</a>」,「<a href="entry://褸">褸</a>」,「<a href="entry://膂">膂</a>」,「<a href="entry://縷">縷</a>」,「<a href="entry://旅">旅</a>」,「<a href="entry://屢">屢</a>」,「<a href="entry://呂">呂</a>」,「<a href="entry://蕾">蕾</a>」,「<a href="entry://壘">壘</a>」,「<a href="entry://㶟">㶟</a>」,「<a href="entry://漯">漯</a>」,「<a href="entry://儽">儽</a>」,「<a href="entry://儡">儡</a>」,「<a href="entry://僂">僂</a>」
@@ -36036,9 +36036,6 @@ leon6
 </>
 leot2
 <span style="font-weight: bold">音節：</span>leot2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://率">率</a>」,「<a href="entry://栗">栗</a>」
-</>
-leot4
-<span style="font-weight: bold">音節：</span>leot4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://壘">壘</a>」
 </>
 leot6
 <span style="font-weight: bold">音節：</span>leot6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://率">率</a>」,「<a href="entry://篥">篥</a>」,「<a href="entry://聿">聿</a>」,「<a href="entry://慄">慄</a>」,「<a href="entry://栗">栗</a>」,「<a href="entry://栗">栗</a>」,「<a href="entry://𤝽">𤝽</a>」,「<a href="entry://律">律</a>」,「<a href="entry://葎">葎</a>」,「<a href="entry://壘">壘</a>」,「<a href="entry://溧">溧</a>」,「<a href="entry://傈">傈</a>」,「<a href="entry://凓">凓</a>」
