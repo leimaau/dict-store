@@ -1,6 +1,6 @@
 # 南寧白話字詞典
 
-![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/NaamBaakDict.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/leimaau/NaamBaakDict.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/NaamBaakDict.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning-dictionary.svg)
 
 ## 說明
 

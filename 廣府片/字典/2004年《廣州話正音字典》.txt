@@ -12839,7 +12839,7 @@
 【槔】gou1<ul type="square"><li><span style="font-weight: bold">頁碼：</span>388</li></ul>
 </>
 槜
-【槜】kwai4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>388</li></ul>
+【槜】zeoi3<ul type="square"><li><span style="font-weight: bold">頁碼：</span>388</li></ul>
 </>
 槤
 【槤】lin4<ul type="square"><li><span style="font-weight: bold">頁碼：</span>380</li></ul>
@@ -35804,7 +35804,7 @@ kwai3
 <span style="font-weight: bold">音節：</span>kwai3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://愧">愧</a>」,「<a href="entry://觖">觖</a>」
 </>
 kwai4
-<span style="font-weight: bold">音節：</span>kwai4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://馗">馗</a>」,「<a href="entry://觿">觿</a>」,「<a href="entry://蠵">蠵</a>」,「<a href="entry://畦">畦</a>」,「<a href="entry://睽">睽</a>」,「<a href="entry://戣">戣</a>」,「<a href="entry://槜">槜</a>」,「<a href="entry://檇">檇</a>」,「<a href="entry://暌">暌</a>」,「<a href="entry://騤">騤</a>」,「<a href="entry://擕">擕</a>」,「<a href="entry://攜">攜</a>」,「<a href="entry://携">携</a>」,「<a href="entry://揆">揆</a>」,「<a href="entry://葵">葵</a>」,「<a href="entry://逵">逵</a>」,「<a href="entry://隗">隗</a>」,「<a href="entry://夔">夔</a>」
+<span style="font-weight: bold">音節：</span>kwai4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://馗">馗</a>」,「<a href="entry://觿">觿</a>」,「<a href="entry://蠵">蠵</a>」,「<a href="entry://畦">畦</a>」,「<a href="entry://睽">睽</a>」,「<a href="entry://戣">戣</a>」,「<a href="entry://檇">檇</a>」,「<a href="entry://暌">暌</a>」,「<a href="entry://騤">騤</a>」,「<a href="entry://擕">擕</a>」,「<a href="entry://攜">攜</a>」,「<a href="entry://携">携</a>」,「<a href="entry://揆">揆</a>」,「<a href="entry://葵">葵</a>」,「<a href="entry://逵">逵</a>」,「<a href="entry://隗">隗</a>」,「<a href="entry://夔">夔</a>」
 </>
 kwai5
 <span style="font-weight: bold">音節：</span>kwai5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://揆">揆</a>」
@@ -38297,7 +38297,7 @@ zeoi2
 <span style="font-weight: bold">音節：</span>zeoi2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://沮">沮</a>」,「<a href="entry://齟">齟</a>」,「<a href="entry://觜">觜</a>」,「<a href="entry://鉏">鉏</a>」,「<a href="entry://嘴">嘴</a>」,「<a href="entry://咀">咀</a>」
 </>
 zeoi3
-<span style="font-weight: bold">音節：</span>zeoi3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://沮">沮</a>」,「<a href="entry://足">足</a>」,「<a href="entry://醉">醉</a>」,「<a href="entry://最">最</a>」,「<a href="entry://晬">晬</a>」,「<a href="entry://綴">綴</a>」,「<a href="entry://餟">餟</a>」,「<a href="entry://蕞">蕞</a>」,「<a href="entry://㝡">㝡</a>」,「<a href="entry://惴">惴</a>」
+<span style="font-weight: bold">音節：</span>zeoi3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://沮">沮</a>」,「<a href="entry://足">足</a>」,「<a href="entry://醉">醉</a>」,「<a href="entry://最">最</a>」,「<a href="entry://晬">晬</a>」,「<a href="entry://綴">綴</a>」,「<a href="entry://餟">餟</a>」,「<a href="entry://蕞">蕞</a>」,「<a href="entry://㝡">㝡</a>」,「<a href="entry://惴">惴</a>」,「<a href="entry://槜">槜</a>」
 </>
 zeoi6
 <span style="font-weight: bold">音節：</span>zeoi6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://敘">敘</a>」,「<a href="entry://鱮">鱮</a>」,「<a href="entry://聚">聚</a>」,「<a href="entry://罪">罪</a>」,「<a href="entry://贅">贅</a>」,「<a href="entry://膇">膇</a>」,「<a href="entry://懟">懟</a>」,「<a href="entry://縋">縋</a>」,「<a href="entry://綴">綴</a>」,「<a href="entry://嶼">嶼</a>」,「<a href="entry://芧">芧</a>」,「<a href="entry://墜">墜</a>」,「<a href="entry://序">序</a>」,「<a href="entry://垿">垿</a>」,「<a href="entry://漵">漵</a>」,「<a href="entry://叙">叙</a>」,「<a href="entry://敍">敍</a>」
