@@ -1,4 +1,4 @@
-# mdx-mdd倉庫
+# mdx-mdd Storage Warehouse
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/dictionary.svg) ![GitHub](https://img.shields.io/github/license/leimaau/dictionary.svg)
 
@@ -10,17 +10,17 @@ master中爲mdx和mdd文件，txt分支中爲原始的txt檔，有時間還會�
 
 [簡易指南](https://github.com/leimaau/dictionary/wiki)
 
-## 拼音方案查詢
-
-[粵拼](https://www.lshk.org/jyutping) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
-
 ## 部分資料鏈接
 
  - [UniHan](http://www.unicode.org/charts/unihan.html)
  
- - [HKSCS](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/hkscs/)
+ - [電腦用漢字粵語拼音表](http://www.iso10646hk.net/jp/document/download.jsp)
  
- - [LSHK粵拼詞表](http://corpus.eduhk.hk/JPwordlist/index.php)
+ - [HKSCS2016](https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/hkscs/)
+ 
+ - [LSHK Jyutping Word List](http://corpus.eduhk.hk/JPwordlist/index.php)
+ 
+ - [粵典](https://words.hk/)
  
  - [CC-Canto](http://www.cccanto.org/)
  
