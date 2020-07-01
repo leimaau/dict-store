@@ -230,7 +230,7 @@
 【仁】njan4 [ȵɐn21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P759 附：[ȵɐn21]</li><li><span style="font-weight: bold">同音字：</span>人 <a href="entry://njan4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>仁義，桃仁。</li></ul>
 </>
 仆
-【仆】pok2 [pʰok3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P813 附：[pʰok3]</li><li><span style="font-weight: bold">同音字：</span>樸, 僕, 曝 [6..] <a href="entry://pok2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>倒，前仆後繼。</li></ul>
+【仆】pok2 [pʰok3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P813 附：[pʰok3]</li><li><span style="font-weight: bold">同音字：</span>樸, 僕, 曝 [6..] <a href="entry://pok2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>倒。</li></ul>
 </>
 仇
 【仇】sau4 [ʃɐu21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P707，708 附：[ʃɐu21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://sau4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>報仇；姓。</li></ul>
@@ -389,7 +389,7 @@
 【併（并）】bing3 [peŋ55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P803 附：[peŋ55]</li><li><span style="font-weight: bold">同音字：</span>柄, 并 <a href="entry://bing3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>合併。</li></ul>
 </>
 使
-【使】sai2 [ʃɐi33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P675 附：[ʃɐi33]</li><li><span style="font-weight: bold">同音字：</span>史, 駛 <a href="entry://sai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>假使，大使，用。</li></ul>
+【使】sai2 [ʃɐi33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P675 附：[ʃɐi33]</li><li><span style="font-weight: bold">同音字：</span>史, 駛 <a href="entry://sai2">更多</a></li></ul>
 </>
 侄
 【侄】zat6 [tʃɐt2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P758 附：[tʃɐt2]</li><li><span style="font-weight: bold">同音字：</span>疾, 朮, 姪 <a href="entry://zat6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>侄子，內侄。</li><li><span style="font-weight: bold">備註：</span>原文作「姪」字。</li></ul>
@@ -1574,7 +1574,7 @@
 【嘔（呕）】au2 [∅ɐu33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P702 附：[ɐu33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://au2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>嘔吐。</li></ul>
 </>
 嘗
-【嘗（尝）】siang4 [ʃiɐŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P781 附：[ʃiɐŋ21]</li><li><span style="font-weight: bold">同音字：</span>常, 償, 裳 <a href="entry://siang4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>嘗味道。</li></ul>
+【嘗（尝）】siang4 [ʃiɐŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P781 附：[ʃiɐŋ21]</li><li><span style="font-weight: bold">同音字：</span>常, 償, 裳 <a href="entry://siang4">更多</a></li></ul>
 </>
 嘮
 【嘮（唠）】laau4 [lau21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P685 附：[lau21]</li><li><span style="font-weight: bold">同音字：</span>勞, 牢 <a href="entry://laau4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>嘮叨。</li></ul>
@@ -2882,7 +2882,7 @@
 【建】gin3 [kin55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P738 附：[kin55]</li><li><span style="font-weight: bold">同音字：</span>犍, 見 <a href="entry://gin3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>建設，新建。</li></ul>
 </>
 弄
-【弄】loeng6 [lœŋ22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P815 附：[lœŋ22]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://loeng6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>弄堂，弄錯。</li></ul>
+【弄】loeng6 [lœŋ22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P815 附：[lœŋ22]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://loeng6">更多</a></li></ul>
 </>
 弊
 【弊】bi6 [pi22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P654 附：[pi22]</li><li><span style="font-weight: bold">同音字：</span>蔽, 鼻, 備 [5..] <a href="entry://bi6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>作弊。</li></ul>
@@ -8633,7 +8633,7 @@
 【薺（荠）】zai4 [tʃɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P657 附：[tʃɐi21]</li><li><span style="font-weight: bold">同音字：</span>齊, 臍 <a href="entry://zai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>薺菜，茡薺。</li></ul>
 </>
 藉
-【藉（借）】ze3 [tʃe55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P627 附：[tʃe55]</li><li><span style="font-weight: bold">同音字：</span>借, 蔗 <a href="entry://ze3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>藉故，藉口。</li><li><span style="font-weight: bold">備註：</span>原文誤作[tʃek2]。</li></ul>
+【藉】ze3 [tʃe55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P627 附：[tʃe55]</li><li><span style="font-weight: bold">同音字：</span>借, 蔗 <a href="entry://ze3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>藉故，藉口。</li><li><span style="font-weight: bold">備註：</span>原文誤作[tʃek2]。</li></ul>
 </>
 藉
 【藉】zik6 [tʃek2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P804 附：[tʃek2]</li><li><span style="font-weight: bold">同音字：</span>褯, 寂, 蓆 [7..] <a href="entry://zik6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>狼藉。</li></ul>
@@ -10352,7 +10352,7 @@
 【錮（锢）】gu3 [ku55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P634 附：[ku55]</li><li><span style="font-weight: bold">同音字：</span>故, 顧, 雇 [1..] <a href="entry://gu3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>禁錮，錮露鍋。</li></ul>
 </>
 錯
-【錯（错）】co3 [tʃʰo55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P633，774 附：[tʃʰo55]</li><li><span style="font-weight: bold">同音字：</span>措, 莝, 銼 <a href="entry://co3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>錯誤，過錯；錯雜。</li></ul>
+【錯（错）】co3 [tʃʰo55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P633，774 附：[tʃʰo55]</li><li><span style="font-weight: bold">同音字：</span>措, 莝, 銼 <a href="entry://co3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>錯誤，過錯。</li></ul>
 </>
 錶
 【錶（表）】biu1 [piu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P692 附：[piu53]</li><li><span style="font-weight: bold">同音字：</span>膘, 彪, 標 [1..] <a href="entry://biu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>手錶。</li></ul>
