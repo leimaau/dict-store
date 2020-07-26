@@ -1,5 +1,5 @@
 ⿰米戀
-【⿰米戀（⿰米恋）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P749 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>戀, 楝, 煉 [1..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>～糊。</li><li><span style="font-weight: bold">備註：</span>又作「𥽸」字。</li></ul>
+【⿰米戀（⿰米恋）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P749 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>鍊, 楝, 煉 [2..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>～糊。</li><li><span style="font-weight: bold">備註：</span>又作「𥽸」字。</li></ul>
 </>
 㪕
 【㪕】ciak2 [tʃʰiɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P781 附：[tʃʰiɐk3]</li><li><span style="font-weight: bold">同音字：</span>雀, 柵, 策 [6..] <a href="entry://ciak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>㪕起棍子。</li></ul>
@@ -1286,7 +1286,7 @@
 【吁】hyu1 [hy53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P646 附：[hy53]</li><li><span style="font-weight: bold">同音字：</span>圩, 噓, 虛 [1..] <a href="entry://hyu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>氣喘吁吁，長吁短嘆。</li></ul>
 </>
 吃
-【吃】hik2 [hek3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P811 附：[hek3]</li><li><span style="font-weight: bold">同音字：</span>易 <a href="entry://hik2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>吃東西，吃虧。</li></ul>
+【吃】hik2 [hek3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P811 附：[hek3]</li><li><span style="font-weight: bold">同音字：</span>喫, 易 <a href="entry://hik2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>吃東西，吃虧。</li></ul>
 </>
 各
 【各】gaak2 [kak3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P775 附：[kak3]</li><li><span style="font-weight: bold">同音字：</span>胳, 角, 擱 [1..] <a href="entry://gaak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>各位。</li></ul>
@@ -1525,6 +1525,9 @@
 喪
 【喪（丧）】slaang3 [ɬaŋ55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P774 附：[ɬaŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://slaang3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>喪失，沮喪。</li></ul>
 </>
+喫
+【喫（吃）】hik2 [hek3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P811 附：[hek3]</li><li><span style="font-weight: bold">同音字：</span>吃, 易 <a href="entry://hik2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>吃東西，吃虧。</li></ul>
+</>
 喬
 【喬（乔）】giu4 [kiu21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P696 附：[kiu21]</li><li><span style="font-weight: bold">同音字：</span>蕎, 橋, 僑 <a href="entry://giu4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>姓。</li></ul>
 </>
@@ -1751,7 +1754,7 @@
 【垵（埯）】aam2 [∅am33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P714 附：[am33]</li><li><span style="font-weight: bold">同音字：</span>揞, 埯 <a href="entry://aam2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>坑。</li><li><span style="font-weight: bold">備註：</span>原文作「埯」字。</li></ul>
 </>
 垻
-【垻】baa3 [pa55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P623 附：[pa55]</li><li><span style="font-weight: bold">同音字：</span>霸, 爸, 壩 [1..] <a href="entry://baa3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>平地，平川。</li></ul>
+【垻（坝）】baa3 [pa55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P623 附：[pa55]</li><li><span style="font-weight: bold">同音字：</span>霸, 爸, 壩 [1..] <a href="entry://baa3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>平地，平川。</li></ul>
 </>
 埂
 【埂】gang2 [kɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P798 附：[kɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>哽, 梗, 骾 [1..] <a href="entry://gang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>田埂。</li><li><span style="font-weight: bold">備註：</span>原文誤作[kɐŋ35]。</li></ul>
@@ -1910,7 +1913,7 @@
 【壟（垄）】loeng2 [lœŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P823 附：[lœŋ33]</li><li><span style="font-weight: bold">同音字：</span>攏, 壠, 隴 <a href="entry://loeng2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>壟斷。</li><li><span style="font-weight: bold">備註：</span>原文作「壠」字。</li></ul>
 </>
 壠
-【壠（垅）】loeng2 [lœŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P823 附：[lœŋ33]</li><li><span style="font-weight: bold">同音字：</span>攏, 壟, 隴 <a href="entry://loeng2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>壠斷。</li></ul>
+【壠（垄）】loeng2 [lœŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P823 附：[lœŋ33]</li><li><span style="font-weight: bold">同音字：</span>攏, 壟, 隴 <a href="entry://loeng2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>壠斷。</li></ul>
 </>
 壤
 【壤】ngiang6 [ŋiɐŋ22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P782 附：[ŋiɐŋ22]</li><li><span style="font-weight: bold">同音字：</span>硬, 讓, 嚷 [1..] <a href="entry://ngiang6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>土壤。</li></ul>
@@ -1934,7 +1937,7 @@
 【壺（壶）】hu4 [hu21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P636 附：[hu21]</li><li><span style="font-weight: bold">同音字：</span>胡, 鬍, 瓠 [4..] <a href="entry://hu4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>水壺。</li></ul>
 </>
 壻
-【壻】slai3 [ɬɐi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P657 附：[ɬɐi55]</li><li><span style="font-weight: bold">同音字：</span>細, 婿 <a href="entry://slai3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>女婿。</li></ul>
+【壻（婿）】slai3 [ɬɐi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P657 附：[ɬɐi55]</li><li><span style="font-weight: bold">同音字：</span>細, 婿 <a href="entry://slai3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>女婿。</li></ul>
 </>
 壽
 【壽（寿）】sau6 [ʃɐu22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P707 附：[ʃɐu22]</li><li><span style="font-weight: bold">同音字：</span>受, 售, 授 <a href="entry://sau6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>做壽，壽星。</li></ul>
@@ -2087,7 +2090,7 @@
 【妨】fong4 [foŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P785 附：[foŋ21]</li><li><span style="font-weight: bold">同音字：</span>防, 房 <a href="entry://fong4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>妨害，無妨。</li></ul>
 </>
 妬
-【妬】du6 [tu22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P631 附：[tu22]</li><li><span style="font-weight: bold">同音字：</span>鍍, 渡, 度 [2..] <a href="entry://du6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>妒忌。</li></ul>
+【妬（妒）】du6 [tu22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P631 附：[tu22]</li><li><span style="font-weight: bold">同音字：</span>鍍, 渡, 度 [2..] <a href="entry://du6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>妒忌。</li></ul>
 </>
 妹
 【妹】mui6 [mui22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P659 附：[mui22]</li><li><span style="font-weight: bold">同音字：</span>昧 <a href="entry://mui6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>妹妹，姊妹。</li></ul>
@@ -2132,7 +2135,7 @@
 【姨】ji4 [ji21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P672 附：[ji21]</li><li><span style="font-weight: bold">同音字：</span>移, 遺, 沂 [3..] <a href="entry://ji4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>阿姨。</li></ul>
 </>
 姪
-【姪】zat6 [tʃɐt2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P758 附：[tʃɐt2]</li><li><span style="font-weight: bold">同音字：</span>疾, 朮, 侄 <a href="entry://zat6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>姪子，內姪。</li></ul>
+【姪（侄）】zat6 [tʃɐt2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P758 附：[tʃɐt2]</li><li><span style="font-weight: bold">同音字：</span>疾, 朮, 侄 <a href="entry://zat6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>姪子，內姪。</li></ul>
 </>
 姻
 【姻】an1 [∅ɐn53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P760 附：[ɐn53]</li><li><span style="font-weight: bold">同音字：</span>恩, 殷, 洇 [1..] <a href="entry://an1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>婚姻。</li></ul>
@@ -2267,7 +2270,7 @@
 【孽】nit6 [nit2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P738 附：[nit2]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://nit6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>作孽。</li></ul>
 </>
 宂
-【宂】joeng5 [jœŋ24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P825 附：[jœŋ24]</li><li><span style="font-weight: bold">同音字：</span>甬, 湧, 涌 [2..] <a href="entry://joeng5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>冗長，拔冗。</li><li><span style="font-weight: bold">備註：</span>原文作「冗」字。</li></ul>
+【宂（冗）】joeng5 [jœŋ24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P825 附：[jœŋ24]</li><li><span style="font-weight: bold">同音字：</span>甬, 湧, 涌 [2..] <a href="entry://joeng5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>冗長，拔冗。</li><li><span style="font-weight: bold">備註：</span>原文作「冗」字。</li></ul>
 </>
 宅
 【宅】ziak6 [tʃiɐk2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P798 附：[tʃiɐk2]</li><li><span style="font-weight: bold">同音字：</span>着, 澤, 擇 <a href="entry://ziak6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>宅基，某宅。</li></ul>
@@ -3359,7 +3362,7 @@
 【懼（惧）】gyu6 [ky22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P645 附：[ky22]</li><li><span style="font-weight: bold">同音字：</span>巨, 具, 俱 <a href="entry://gyu6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>恐懼，懼怕。</li></ul>
 </>
 戀
-【戀（恋）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P749 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>楝, 煉, 練 [1..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>戀愛，留戀。</li></ul>
+【戀（恋）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P749 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>鍊, 楝, 煉 [2..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>戀愛，留戀。</li></ul>
 </>
 戈
 【戈】go1 [ko53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P621 附：[ko53]</li><li><span style="font-weight: bold">同音字：</span>歌, 鍋, 哥 <a href="entry://go1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>大動干戈。</li></ul>
@@ -3473,7 +3476,7 @@
 【批】pai1 [pʰɐi53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P655 附：[pʰɐi53]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://pai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>一批，批評。</li></ul>
 </>
 扼
-【扼】iak2 [∅iɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P801 附：[iɐk3]</li><li><span style="font-weight: bold">同音字：</span>軛 <a href="entry://iak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>扼殺，扼腕。</li></ul>
+【扼】jiak2 [jiɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P801 附：[iɐk3]</li><li><span style="font-weight: bold">同音字：</span>若, 軛, 約 <a href="entry://jiak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>扼殺，扼腕。</li></ul>
 </>
 扽
 【扽】dan3 [tɐn55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P762 附：[tɐn55]</li><li><span style="font-weight: bold">同音字：</span>頓 <a href="entry://dan3">更多</a></li></ul>
@@ -4262,7 +4265,7 @@
 【昏】wan1 [wɐn53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P764 附：[wɐn53]</li><li><span style="font-weight: bold">同音字：</span>暈, 燻, 薰 [7..] <a href="entry://wan1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>昏倒，黃昏。</li></ul>
 </>
 易
-【易】hik2 [hek3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P807 附：[hek3]</li><li><span style="font-weight: bold">同音字：</span>吃 <a href="entry://hik2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>交易，貿易。</li></ul>
+【易】hik2 [hek3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P807 附：[hek3]</li><li><span style="font-weight: bold">同音字：</span>喫, 吃 <a href="entry://hik2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>交易，貿易。</li></ul>
 </>
 易
 【易】ji6 [ji22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P668 附：[ji22]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ji6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>容易，易如反掌。</li></ul>
@@ -4799,7 +4802,7 @@
 【椴】dun6 [tun22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P745 附：[tun22]</li><li><span style="font-weight: bold">同音字：</span>段, 緞 <a href="entry://dun6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>椴樹，椴木。</li></ul>
 </>
 椶
-【椶】zoeng1 [tʃœŋ53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P815 附：[tʃœŋ53]</li><li><span style="font-weight: bold">同音字：</span>鬃, 盅, 鍾 [7..] <a href="entry://zoeng1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>棕樹，棕色。</li></ul>
+【椶（棕）】zoeng1 [tʃœŋ53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P815 附：[tʃœŋ53]</li><li><span style="font-weight: bold">同音字：</span>鬃, 盅, 鍾 [7..] <a href="entry://zoeng1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>棕樹，棕色。</li></ul>
 </>
 椽
 【椽】zyun4 [tʃyn21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P750 附：[tʃyn21]</li><li><span style="font-weight: bold">同音字：</span>全, 傳, 泉 <a href="entry://zyun4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>椽子。</li></ul>
@@ -4823,7 +4826,7 @@
 【楚】cu2 [tʃʰu33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P638 附：[tʃʰu33]</li><li><span style="font-weight: bold">同音字：</span>礎 <a href="entry://cu2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>姓，楚國。</li></ul>
 </>
 楝
-【楝】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P741 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>戀, 煉, 練 [1..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>苦楝樹。</li></ul>
+【楝】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P741 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>鍊, 煉, 練 [2..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>苦楝樹。</li></ul>
 </>
 楞
 【楞】lang4 [lɐŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P791 附：[lɐŋ21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://lang4">更多</a></li></ul>
@@ -4997,7 +5000,7 @@
 【檾（苘）】king2 [kʰeŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P812 附：[kʰeŋ33]</li><li><span style="font-weight: bold">同音字：</span>傾, 苘, 頃 <a href="entry://king2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>檾麻。</li></ul>
 </>
 櫂
-【櫂】zaau6 [tʃau22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P690 附：[tʃau22]</li><li><span style="font-weight: bold">同音字：</span>造, 棹, 皁 [1..] <a href="entry://zaau6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>槳。</li></ul>
+【櫂（棹）】zaau6 [tʃau22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P690 附：[tʃau22]</li><li><span style="font-weight: bold">同音字：</span>造, 棹, 皁 [1..] <a href="entry://zaau6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>槳。</li></ul>
 </>
 櫃
 【櫃（柜）】gwai6 [kʷɐi22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P681 附：[kwɐi22]</li><li><span style="font-weight: bold">同音字：</span>跪 <a href="entry://gwai6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>門在頂上，櫃檯。</li></ul>
@@ -5018,7 +5021,7 @@
 【欖（榄）】laam5 [lam24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P713 附：[lam24]</li><li><span style="font-weight: bold">同音字：</span>漤, 攬, 覽 [1..] <a href="entry://laam5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>橄欖。</li></ul>
 </>
 欛
-【欛】baa3 [pa55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P623 附：[pa55]</li><li><span style="font-weight: bold">同音字：</span>霸, 爸, 壩 [1..] <a href="entry://baa3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>刀把（柄），把柄。</li></ul>
+【欛（把）】baa3 [pa55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P623 附：[pa55]</li><li><span style="font-weight: bold">同音字：</span>霸, 爸, 壩 [1..] <a href="entry://baa3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>刀欛（柄），欛柄。</li></ul>
 </>
 欠
 【欠】him3 [him55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P720 附：[him55]</li><li><span style="font-weight: bold">同音字：</span>歉 <a href="entry://him3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>欠債，拖欠。</li></ul>
@@ -5855,7 +5858,7 @@
 【然】jyun4 [jyn21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P737 附：[jyn21]</li><li><span style="font-weight: bold">同音字：</span>懸, 玄, 丸 [21..] <a href="entry://jyun4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>然後，居然。</li></ul>
 </>
 煉
-【煉（炼）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P741 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>戀, 楝, 練 [1..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>煉丹。</li></ul>
+【煉（炼）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P741 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>鍊, 楝, 練 [2..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>煉丹。</li></ul>
 </>
 煎
 【煎】zin1 [tʃin53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P735 附：[tʃin53]</li><li><span style="font-weight: bold">同音字：</span>氈 <a href="entry://zin1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>煎藥，煎魚。</li></ul>
@@ -6062,10 +6065,7 @@
 【犀】slai1 [ɬɐi53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P657 附：[ɬɐi53]</li><li><span style="font-weight: bold">同音字：</span>西 <a href="entry://slai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>犀牛，羚羊犀角。</li></ul>
 </>
 犁
-【犁】lai4 [lɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P656 附：[lɐi21]</li><li><span style="font-weight: bold">同音字：</span>犂, 黎 <a href="entry://lai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>耕田用具。</li></ul>
-</>
-犂
-【犂】lai4 [lɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P656 附：[lɐi21]</li><li><span style="font-weight: bold">同音字：</span>黎, 犁 <a href="entry://lai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>耕田用具。</li></ul>
+【犁】lai4 [lɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P656 附：[lɐi21]</li><li><span style="font-weight: bold">同音字：</span>黎 <a href="entry://lai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>耕田用具。</li></ul>
 </>
 犍
 【犍】gin3 [kin55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P738 附：[kin55]</li><li><span style="font-weight: bold">同音字：</span>見, 建 <a href="entry://gin3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>閹割過的牛，犍子。</li></ul>
@@ -6416,7 +6416,7 @@
 【疾】zat6 [tʃɐt2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P757 附：[tʃɐt2]</li><li><span style="font-weight: bold">同音字：</span>朮, 侄, 姪 <a href="entry://zat6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>疾病，殘疾。</li></ul>
 </>
 疿
-【疿】fi3 [fi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P682 附：[fi55]</li><li><span style="font-weight: bold">同音字：</span>肺, 廢, 費 [1..] <a href="entry://fi3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>痱子。</li></ul>
+【疿（痱）】fi3 [fi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P682 附：[fi55]</li><li><span style="font-weight: bold">同音字：</span>肺, 廢, 費 [1..] <a href="entry://fi3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>疿子。</li></ul>
 </>
 痂
 【痂】gaa1 [ka53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P625 附：[ka53]</li><li><span style="font-weight: bold">同音字：</span>家, 傢, 嘉 [1..] <a href="entry://gaa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>結痂，痂皮。</li></ul>
@@ -7019,7 +7019,7 @@
 【稠】zau4 [tʃɐu21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P705 附：[tʃɐu21]</li><li><span style="font-weight: bold">同音字：</span>酬, 愁, 籌 [3..] <a href="entry://zau4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>稠密。</li></ul>
 </>
 稭
-【稭】gaai1 [kai53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P651 附：[kai53]</li><li><span style="font-weight: bold">同音字：</span>該, 街, 佳 [3..] <a href="entry://gaai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>麥稭。</li></ul>
+【稭（秸）】gaai1 [kai53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P651 附：[kai53]</li><li><span style="font-weight: bold">同音字：</span>該, 街, 佳 [3..] <a href="entry://gaai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>麥稭。</li></ul>
 </>
 種
 【種（种）】zoeng2 [tʃœŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P824 附：[tʃœŋ33]</li><li><span style="font-weight: bold">同音字：</span>總, 腫, 塚 [1..] <a href="entry://zoeng2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>種類，谷種。</li></ul>
@@ -7451,7 +7451,7 @@
 【紂（纣）】zau6 [tʃɐu22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P705 附：[tʃɐu22]</li><li><span style="font-weight: bold">同音字：</span>就, 驟, 宙 [1..] <a href="entry://zau6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>商紂王，桀紂。</li></ul>
 </>
 約
-【約（约）】jiak2 [jiɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P783 附：[jiɐk3]</li><li><span style="font-weight: bold">同音字：</span>若 <a href="entry://jiak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>大約，約定。</li></ul>
+【約（约）】jiak2 [jiɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P783 附：[jiɐk3]</li><li><span style="font-weight: bold">同音字：</span>若, 軛, 扼 <a href="entry://jiak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>大約，約定。</li></ul>
 </>
 紅
 【紅（红）】hoeng4 [hœŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P817 附：[hœŋ21]</li><li><span style="font-weight: bold">同音字：</span>宏, 弘, 虹 [2..] <a href="entry://hoeng4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>紅色，走紅。</li></ul>
@@ -7628,7 +7628,7 @@
 【緯（纬）】wai6 [wɐi22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P683 附：[wɐi22]</li><li><span style="font-weight: bold">同音字：</span>僞, 慧, 惠 [14..] <a href="entry://wai6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>經緯，緯線。</li></ul>
 </>
 練
-【練（练）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P741 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>戀, 楝, 煉 [1..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>練習，熟練。</li></ul>
+【練（练）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P741 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>鍊, 楝, 煉 [2..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>練習，熟練。</li></ul>
 </>
 緻
 【緻（致）】zi3 [tʃi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P670 附：[tʃi55]</li><li><span style="font-weight: bold">同音字：</span>致, 智, 製 [6..] <a href="entry://zi3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>細緻。</li><li><span style="font-weight: bold">備註：</span>原文作「致」字。</li></ul>
@@ -8162,7 +8162,7 @@
 【臍（脐）】zai4 [tʃɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P657 附：[tʃɐi21]</li><li><span style="font-weight: bold">同音字：</span>齊, 薺 <a href="entry://zai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>肚臍，臍帶。</li></ul>
 </>
 臕
-【臕】biu1 [piu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P692 附：[piu53]</li><li><span style="font-weight: bold">同音字：</span>膘, 彪, 錶 [1..] <a href="entry://biu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>肥膘。</li></ul>
+【臕（膘）】biu1 [piu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P692 附：[piu53]</li><li><span style="font-weight: bold">同音字：</span>膘, 彪, 錶 [1..] <a href="entry://biu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>肥膘。</li></ul>
 </>
 臘
 【臘（腊）】laap5 [lap24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P713 附：[lap24]</li><li><span style="font-weight: bold">同音字：</span>鑞, 蠟 <a href="entry://laap5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>臘肉，臘月。</li></ul>
@@ -8339,7 +8339,7 @@
 【苟】gau2 [kɐu33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P701 附：[kɐu33]</li><li><span style="font-weight: bold">同音字：</span>九, 狗, 灸 [2..] <a href="entry://gau2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>苟且偷生。</li></ul>
 </>
 若
-【若】jiak2 [jiɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P782 附：[jiɐk3]</li><li><span style="font-weight: bold">同音字：</span>約 <a href="entry://jiak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>若無其事，倘若。</li></ul>
+【若】jiak2 [jiɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P782 附：[jiɐk3]</li><li><span style="font-weight: bold">同音字：</span>軛, 扼, 約 <a href="entry://jiak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>若無其事，倘若。</li></ul>
 </>
 苦
 【苦】hu2 [hu33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P635 附：[hu33]</li><li><span style="font-weight: bold">同音字：</span>伙, 夥, 火 [2..] <a href="entry://hu2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>甜的苦的，吃苦。</li></ul>
@@ -9752,7 +9752,7 @@
 【軒（轩）】hyun1 [hyn53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P739 附：[hyn53]</li><li><span style="font-weight: bold">同音字：</span>掀, 牽, 圈 <a href="entry://hyun1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>人名用字。</li></ul>
 </>
 軛
-【軛（轭）】iak2 [∅iɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P801 附：[iɐk3]</li><li><span style="font-weight: bold">同音字：</span>扼 <a href="entry://iak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>牛軛（牛耕田時套的人字形工具）。</li></ul>
+【軛（轭）】jiak2 [jiɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P801 附：[iɐk3]</li><li><span style="font-weight: bold">同音字：</span>若, 扼, 約 <a href="entry://jiak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>牛軛（牛耕田時套的人字形工具）。</li></ul>
 </>
 軟
 【軟（软）】njyun5 [ȵyn24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P750 附：[ȵyn24]</li><li><span style="font-weight: bold">同音字：</span>阮 <a href="entry://njyun5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>軟硬，軟弱。</li></ul>
@@ -10283,7 +10283,7 @@
 【銜（衔）】haam4 [ham21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P716 附：[ham21]</li><li><span style="font-weight: bold">同音字：</span>含, 咸, 鹹 [1..] <a href="entry://haam4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>叼在嘴裏，頭銜，軍銜。</li></ul>
 </>
 銲
-【銲】haan6 [han22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P730 附：[han22]</li><li><span style="font-weight: bold">同音字：</span>汗, 莧, 限 [2..] <a href="entry://haan6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>焊接，電焊，焊鐵壺。</li></ul>
+【銲（焊）】haan6 [han22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P730 附：[han22]</li><li><span style="font-weight: bold">同音字：</span>汗, 莧, 限 [2..] <a href="entry://haan6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>焊接，電焊，焊鐵壺。</li></ul>
 </>
 銳
 【銳（锐）】njui5 [ȵui24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P663 附：[ȵui24]</li><li><span style="font-weight: bold">同音字：</span>蕊, 蘂 <a href="entry://njui5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>尖銳。</li></ul>
@@ -10356,6 +10356,9 @@
 </>
 錶
 【錶（表）】biu1 [piu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P692 附：[piu53]</li><li><span style="font-weight: bold">同音字：</span>膘, 彪, 標 [1..] <a href="entry://biu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>手錶。</li></ul>
+</>
+鍊
+【鍊（炼）】lin6 [lin22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P741 附：[lin22]</li><li><span style="font-weight: bold">同音字：</span>楝, 煉, 練 [2..] <a href="entry://lin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>煉丹。</li><li><span style="font-weight: bold">備註：</span>同「煉」字。</li></ul>
 </>
 鍋
 【鍋（锅）】go1 [ko53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P621 附：[ko53]</li><li><span style="font-weight: bold">同音字：</span>歌, 戈, 哥 <a href="entry://go1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>砂鍋，鍋鏟。</li></ul>
@@ -10982,7 +10985,7 @@
 【餅（饼）】bing2 [peŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P803 附：[peŋ33]</li><li><span style="font-weight: bold">同音字：</span>丙, 秉 <a href="entry://bing2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>餅乾。</li></ul>
 </>
 餈
-【餈】zi4 [tʃi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P670 附：[tʃi21]</li><li><span style="font-weight: bold">同音字：</span>瓷, 匙, 馳 [9..] <a href="entry://zi4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>麻餈，餈粑。</li></ul>
+【餈（糍）】zi4 [tʃi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P670 附：[tʃi21]</li><li><span style="font-weight: bold">同音字：</span>瓷, 匙, 馳 [9..] <a href="entry://zi4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>麻餈，餈粑。</li></ul>
 </>
 餉
 【餉（饷）】siang2 [ʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P781 附：[ʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>賞, 省, 晌 <a href="entry://siang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>軍餉。</li></ul>
@@ -11249,7 +11252,7 @@
 【鯨（鲸）】ging4 [keŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P802 附：[keŋ21]</li><li><span style="font-weight: bold">同音字：</span>瓊, 擎 <a href="entry://ging4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>動物。</li></ul>
 </>
 鯰
-【鯰（鲶）】nim4 [nim21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P721 附：[nim21]</li><li><span style="font-weight: bold">同音字：</span>黏, 鮎 <a href="entry://nim4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>鯰魚。</li><li><span style="font-weight: bold">備註：</span>原文作「鮎」字。</li></ul>
+【鯰（鲇）】nim4 [nim21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P721 附：[nim21]</li><li><span style="font-weight: bold">同音字：</span>黏, 鮎 <a href="entry://nim4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>鯰魚。</li><li><span style="font-weight: bold">備註：</span>原文作「鮎」字。</li></ul>
 </>
 鯽
 【鯽（鲫）】zak2 [tʃɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P793 附：[tʃɐk3]</li><li><span style="font-weight: bold">同音字：</span>則, 擲 <a href="entry://zak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>鯽魚。</li></ul>
@@ -11393,7 +11396,7 @@
 【黍】syu2 [ʃy33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P639 附：[ʃy33]</li><li><span style="font-weight: bold">同音字：</span>鼠, 暑 <a href="entry://syu2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>玉米。</li></ul>
 </>
 黎
-【黎】lai4 [lɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P656 附：[lɐi21]</li><li><span style="font-weight: bold">同音字：</span>犂, 犁 <a href="entry://lai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>黎明。</li></ul>
+【黎】lai4 [lɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P656 附：[lɐi21]</li><li><span style="font-weight: bold">同音字：</span>犁 <a href="entry://lai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>黎明。</li></ul>
 </>
 黏
 【黏】nim4 [nim21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P716 附：[nim21]</li><li><span style="font-weight: bold">同音字：</span>鯰, 鮎 <a href="entry://nim4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>黏米，黏起來。</li></ul>
@@ -11417,7 +11420,7 @@
 【黴（霉）】mi4 [mi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P669 附：[mi21]</li><li><span style="font-weight: bold">同音字：</span>微, 霉, 楣 [6..] <a href="entry://mi4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>發黴。</li></ul>
 </>
 鼈
-【鼈】bit2 [pit3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P733 附：[pit3]</li><li><span style="font-weight: bold">同音字：</span>必, 憋, 鱉 <a href="entry://bit2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>甲魚，鱉壺（軍用水壺）。</li></ul>
+【鼈（鳖）】bit2 [pit3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P733 附：[pit3]</li><li><span style="font-weight: bold">同音字：</span>必, 憋, 鱉 <a href="entry://bit2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>甲魚，鱉壺（軍用水壺）。</li></ul>
 </>
 鼎
 【鼎】ding2 [teŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P808 附：[teŋ33]</li><li><span style="font-weight: bold">同音字：</span>頂 <a href="entry://ding2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>鼎盛，鍋。</li></ul>
@@ -13097,7 +13100,7 @@ hiang6
 <span style="font-weight: bold">音節：</span>hiang6 [hiɐŋ22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://行">行</a>」,「<a href="entry://幸">幸</a>」
 </>
 hik2
-<span style="font-weight: bold">音節：</span>hik2 [hek3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://易">易</a>」,「<a href="entry://吃">吃</a>」
+<span style="font-weight: bold">音節：</span>hik2 [hek3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://喫">喫</a>」,「<a href="entry://吃">吃</a>」,「<a href="entry://易">易</a>」
 </>
 him1
 <span style="font-weight: bold">音節：</span>him1 [him53]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://謙">謙</a>」
@@ -13234,9 +13237,6 @@ hyun3
 hyut2
 <span style="font-weight: bold">音節：</span>hyut2 [hyt3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://血">血</a>」
 </>
-iak2
-<span style="font-weight: bold">音節：</span>iak2 [∅iɐk3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://扼">扼</a>」,「<a href="entry://軛">軛</a>」
-</>
 ik2
 <span style="font-weight: bold">音節：</span>ik2 [∅ek3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://憶">憶</a>」,「<a href="entry://益">益</a>」,「<a href="entry://億">億</a>」
 </>
@@ -13325,7 +13325,7 @@ ji6
 <span style="font-weight: bold">音節：</span>ji6 [ji22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://易">易</a>」
 </>
 jiak2
-<span style="font-weight: bold">音節：</span>jiak2 [jiɐk3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://若">若</a>」,「<a href="entry://約">約</a>」
+<span style="font-weight: bold">音節：</span>jiak2 [jiɐk3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://若">若</a>」,「<a href="entry://軛">軛</a>」,「<a href="entry://扼">扼</a>」,「<a href="entry://約">約</a>」
 </>
 jiak5
 <span style="font-weight: bold">音節：</span>jiak5 [jiɐk24]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://藥">藥</a>」,「<a href="entry://躍">躍</a>」,「<a href="entry://鑰">鑰</a>」
@@ -13700,7 +13700,7 @@ laau6
 <span style="font-weight: bold">音節：</span>laau6 [lau22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://澇">澇</a>」
 </>
 lai4
-<span style="font-weight: bold">音節：</span>lai4 [lɐi21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://犂">犂</a>」,「<a href="entry://黎">黎</a>」,「<a href="entry://犁">犁</a>」
+<span style="font-weight: bold">音節：</span>lai4 [lɐi21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://犁">犁</a>」,「<a href="entry://黎">黎</a>」
 </>
 lai5
 <span style="font-weight: bold">音節：</span>lai5 [lɐi24]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://禮">禮</a>」
@@ -13778,7 +13778,7 @@ lin4
 <span style="font-weight: bold">音節：</span>lin4 [lin21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://連">連</a>」,「<a href="entry://蓮">蓮</a>」,「<a href="entry://憐">憐</a>」,「<a href="entry://聯">聯</a>」
 </>
 lin6
-<span style="font-weight: bold">音節：</span>lin6 [lin22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://戀">戀</a>」,「<a href="entry://楝">楝</a>」,「<a href="entry://煉">煉</a>」,「<a href="entry://練">練</a>」,「<a href="entry://⿰米戀">⿰米戀</a>」
+<span style="font-weight: bold">音節：</span>lin6 [lin22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://鍊">鍊</a>」,「<a href="entry://楝">楝</a>」,「<a href="entry://煉">煉</a>」,「<a href="entry://練">練</a>」,「<a href="entry://⿰米戀">⿰米戀</a>」,「<a href="entry://戀">戀</a>」
 </>
 ling4
 <span style="font-weight: bold">音節：</span>ling4 [leŋ21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://凌">凌</a>」,「<a href="entry://翎">翎</a>」,「<a href="entry://伶">伶</a>」,「<a href="entry://鈴">鈴</a>」,「<a href="entry://零">零</a>」,「<a href="entry://靈">靈</a>」,「<a href="entry://菱">菱</a>」,「<a href="entry://陵">陵</a>」
@@ -16228,6 +16228,9 @@ zyut6
 叹
 可能与之相关的繁体字：「<a href="entry://嘆">嘆</a>」,「<a href="entry://歎">歎</a>」
 </>
+吃
+可能与之相关的繁体字：「<a href="entry://喫">喫</a>」
+</>
 吊
 可能与之相关的繁体字：「<a href="entry://弔">弔</a>」
 </>
@@ -17432,7 +17435,7 @@ zyut6
 可能与之相关的繁体字：「<a href="entry://點">點</a>」
 </>
 炼
-可能与之相关的繁体字：「<a href="entry://煉">煉</a>」
+可能与之相关的繁体字：「<a href="entry://煉">煉</a>」,「<a href="entry://鍊">鍊</a>」
 </>
 烂
 可能与之相关的繁体字：「<a href="entry://爛">爛</a>」
@@ -19080,6 +19083,9 @@ zyut6
 </>
 铺
 可能与之相关的繁体字：「<a href="entry://鋪">鋪</a>」
+</>
+链
+可能与之相关的繁体字：「<a href="entry://鍊">鍊</a>」
 </>
 销
 可能与之相关的繁体字：「<a href="entry://銷">銷</a>」
