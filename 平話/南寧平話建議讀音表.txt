@@ -1301,7 +1301,7 @@
 【凸】南寧平話：dat6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>dat6</li></ul>
 </>
 凹
-【凹】南寧平話：(訓)maap3<ul type="square"><li><span style="font-weight: bold">備註：</span>(又)naap3,(又)aau3,(又)waa1</li><li><span style="font-weight: bold">廣州話：</span>nap1；(又)aau3</li></ul>
+【凹】南寧平話：(訓)maap3<ul type="square"><li><span style="font-weight: bold">備註：</span>(又)map2,(又)aau3,(又)waa1</li><li><span style="font-weight: bold">廣州話：</span>nap1；(又)aau3</li></ul>
 </>
 出
 【出】南寧平話：cat2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ceot1</li></ul>
@@ -1493,7 +1493,7 @@
 【劑（剂）】南寧平話：zai6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zai1</li></ul>
 </>
 劖
-【劖】南寧平話：caam4「刺入，又作鑱/攙字」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>caam4</li></ul>
+【劖】南寧平話：zaam4「刺入，又作鑱/攙字」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>caam4</li></ul>
 </>
 劘
 【劘】南寧平話：mo4<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)mai1「削」</li><li><span style="font-weight: bold">廣州話：</span>mo4</li></ul>
@@ -4036,6 +4036,9 @@
 屑
 【屑】南寧平話：slit2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sit3</li></ul>
 </>
+屓
+【屓（屃）】南寧平話：hi3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>hei3,ai3</li></ul>
+</>
 展
 【展】南寧平話：zyun2<ul type="square"><li><span style="font-weight: bold">備註：</span>(又)zin2</li><li><span style="font-weight: bold">廣州話：</span>zin2</li></ul>
 </>
@@ -4065,6 +4068,9 @@
 </>
 屬
 【屬（属）】南寧平話：soek6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>1)suk6:家屬 2)zuk1:屬文</li></ul>
+</>
+屭
+【屭（屃）】南寧平話：hi3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>hei3,ai3</li></ul>
 </>
 屯
 【屯】南寧平話：dan4「屯兵」,dan6「屯里，地名」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>tyun4；同迍zeon1</li></ul>
@@ -6266,7 +6272,7 @@
 【攘】南寧平話：ngiang6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>1)joeng4:攘除 2)joeng6:擾攘</li></ul>
 </>
 攙
-【攙（搀）】南寧平話：caam1<ul type="square"><li><span style="font-weight: bold">備註：</span>(又)caam4「刺入，又作鑱/劖字」</li><li><span style="font-weight: bold">廣州話：</span>caam1</li></ul>
+【攙（搀）】南寧平話：caam1<ul type="square"><li><span style="font-weight: bold">備註：</span>(又)zaam4「刺入，又作鑱/劖字」</li><li><span style="font-weight: bold">廣州話：</span>caam1</li></ul>
 </>
 攜
 【攜（携）】南寧平話：gwai4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kwai4</li></ul>
@@ -7394,7 +7400,7 @@
 【橄】南寧平話：gaam2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gaam3</li></ul>
 </>
 橇
-【橇】南寧平話：giu1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>hiu1；(又)ceoi3</li></ul>
+【橇】南寧平話：heu1<ul type="square"><li><span style="font-weight: bold">備註：</span>(又)giu1</li><li><span style="font-weight: bold">廣州話：</span>hiu1；(又)ceoi3</li></ul>
 </>
 橈
 【橈（桡）】南寧平話：jiu4「船槳」,naau4「曲折，曲木」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>naau4,jiu4</li></ul>
@@ -7859,7 +7865,7 @@
 【沐】南寧平話：moek5<ul type="square"><li><span style="font-weight: bold">廣州話：</span>muk6</li></ul>
 </>
 沒
-【沒（没）】南寧平話：mut5<ul type="square"><li><span style="font-weight: bold">廣州話：</span>mut6</li></ul>
+【沒（没）】南寧平話：mut5<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)mot6「沒入水中」</li><li><span style="font-weight: bold">廣州話：</span>mut6</li></ul>
 </>
 沓
 【沓】南寧平話：daap6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>daap6</li></ul>
@@ -8189,7 +8195,7 @@
 【淵（渊）】南寧平話：jyun1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jyun1</li></ul>
 </>
 混
-【混】南寧平話：wan6<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)kwan2「又作渾/滾字」</li><li><span style="font-weight: bold">廣州話：</span>wan6</li></ul>
+【混】南寧平話：wan6<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)kwan2「～社會，又作渾/滾字」</li><li><span style="font-weight: bold">廣州話：</span>wan6</li></ul>
 </>
 淹
 【淹】南寧平話：jim1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jim1</li></ul>
@@ -12086,7 +12092,7 @@
 【胃】南寧平話：wai6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>wai6</li></ul>
 </>
 背
-【背】南寧平話：bui6「背書」,bui3「背脊」<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)bai3「背時，倒楣」</li><li><span style="font-weight: bold">廣州話：</span>1)bui3:背後 2)bui6:背書</li></ul>
+【背】南寧平話：bui6「背書」,bui3「背脊」<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)bai3「背時，倒楣，官話借詞」</li><li><span style="font-weight: bold">廣州話：</span>1)bui3:背後 2)bui6:背書</li></ul>
 </>
 胎
 【胎】南寧平話：taai1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>toi1</li></ul>
@@ -14452,6 +14458,9 @@
 贓
 【贓（赃）】南寧平話：zaang1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zong1</li></ul>
 </>
+贔
+【贔（赑）】南寧平話：bi6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>bei6</li></ul>
+</>
 贖
 【贖（赎）】南寧平話：soek6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>suk6</li></ul>
 </>
@@ -15080,7 +15089,7 @@
 【逶】南寧平話：wai1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>wai1</li></ul>
 </>
 逸
-【逸】南寧平話：jat6<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)jet3「跳躍」</li><li><span style="font-weight: bold">廣州話：</span>jat6</li></ul>
+【逸】南寧平話：jat6<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)jet3「躍過」</li><li><span style="font-weight: bold">廣州話：</span>jat6</li></ul>
 </>
 逼
 【逼】南寧平話：bik2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>bik1</li></ul>
@@ -15830,7 +15839,7 @@
 【鑰（钥）】南寧平話：jiak5<ul type="square"><li><span style="font-weight: bold">廣州話：</span>joek6</li></ul>
 </>
 鑱
-【鑱（镵）】南寧平話：caam4「刺入，又作攙/劖字」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>caam4</li></ul>
+【鑱（镵）】南寧平話：zaam4「刺入，又作攙/劖字」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>caam4</li></ul>
 </>
 鑲
 【鑲（镶）】南寧平話：sliang1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>soeng1</li></ul>
@@ -16556,7 +16565,7 @@
 【飩（饨）】南寧平話：tan1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>tan1</li></ul>
 </>
 飪
-【飪（饪）】南寧平話：njam6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jam6；(又)jam5</li></ul>
+【飪（饪）】南寧平話：njam6<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)nam4「松軟，爛熟」</li><li><span style="font-weight: bold">廣州話：</span>jam6；(又)jam5</li></ul>
 </>
 飭
 【飭（饬）】南寧平話：cik2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>cik1</li></ul>
@@ -16578,6 +16587,9 @@
 </>
 飾
 【飾（饰）】南寧平話：sik2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sik1</li></ul>
+</>
+餁
+【餁】南寧平話：njam6「同飪字」<ul type="square"><li><span style="font-weight: bold">備註：</span>(語)nam4「松軟，爛熟」</li><li><span style="font-weight: bold">廣州話：</span>jam6；(又)jam5</li></ul>
 </>
 餃
 【餃（饺）】南寧平話：gaau2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gaau2</li></ul>
@@ -17112,6 +17124,9 @@
 </>
 鵮
 【鵮（鹐）】南寧平話：(白)dem1「啄；叼」<ul type="square"><li><span style="font-weight: bold">備註：</span>(文)daam1「叼」,(語)cem1「鳥啄物」</li><li><span style="font-weight: bold">廣州話：</span>daam1</li></ul>
+</>
+鵰
+【鵰（雕）】南寧平話：diu1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>diu1</li></ul>
 </>
 鵲
 【鵲（鹊）】南寧平話：ciak2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zoek3；(又)coek3</li></ul>
@@ -17942,7 +17957,7 @@ bi5
 <span style="font-weight: bold">音節：</span>bi5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://婢">婢</a>」,「<a href="entry://被">被</a>」,「<a href="entry://睥">睥</a>」
 </>
 bi6
-<span style="font-weight: bold">音節：</span>bi6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://備">備</a>」,「<a href="entry://鼻">鼻</a>」,「<a href="entry://避">避</a>」,「<a href="entry://被">被</a>」,「<a href="entry://蔽">蔽</a>」,「<a href="entry://斃">斃</a>」,「<a href="entry://敝">敝</a>」,「<a href="entry://憊">憊</a>」,「<a href="entry://弊">弊</a>」,「<a href="entry://幣">幣</a>」,「<a href="entry://婢">婢</a>」
+<span style="font-weight: bold">音節：</span>bi6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://備">備</a>」,「<a href="entry://鼻">鼻</a>」,「<a href="entry://避">避</a>」,「<a href="entry://贔">贔</a>」,「<a href="entry://被">被</a>」,「<a href="entry://蔽">蔽</a>」,「<a href="entry://斃">斃</a>」,「<a href="entry://敝">敝</a>」,「<a href="entry://憊">憊</a>」,「<a href="entry://弊">弊</a>」,「<a href="entry://幣">幣</a>」,「<a href="entry://婢">婢</a>」
 </>
 biak2
 <span style="font-weight: bold">音節：</span>biak2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://伯">伯</a>」,「<a href="entry://百">百</a>」,「<a href="entry://檗">檗</a>」,「<a href="entry://柏">柏</a>」,「<a href="entry://佰">佰</a>」
@@ -18120,9 +18135,6 @@ caam2
 </>
 caam3
 <span style="font-weight: bold">音節：</span>caam3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://懺">懺</a>」,「<a href="entry://杉">杉</a>」
-</>
-caam4
-<span style="font-weight: bold">音節：</span>caam4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://劖">劖</a>」,「<a href="entry://鑱">鑱</a>」,「<a href="entry://攙">攙</a>」
 </>
 caan1
 <span style="font-weight: bold">音節：</span>caan1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://餐">餐</a>」
@@ -18674,7 +18686,7 @@ dit6
 <span style="font-weight: bold">音節：</span>dit6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://秩">秩</a>」,「<a href="entry://迭">迭</a>」
 </>
 diu1
-<span style="font-weight: bold">音節：</span>diu1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://凋">凋</a>」,「<a href="entry://雕">雕</a>」,「<a href="entry://錭">錭</a>」,「<a href="entry://貂">貂</a>」,「<a href="entry://碉">碉</a>」,「<a href="entry://彫">彫</a>」,「<a href="entry://叼">叼</a>」,「<a href="entry://刁">刁</a>」
+<span style="font-weight: bold">音節：</span>diu1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://凋">凋</a>」,「<a href="entry://鵰">鵰</a>」,「<a href="entry://雕">雕</a>」,「<a href="entry://錭">錭</a>」,「<a href="entry://貂">貂</a>」,「<a href="entry://碉">碉</a>」,「<a href="entry://彫">彫</a>」,「<a href="entry://叼">叼</a>」,「<a href="entry://刁">刁</a>」
 </>
 diu2
 <span style="font-weight: bold">音節：</span>diu2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://屌">屌</a>」,「<a href="entry://鳥">鳥</a>」
@@ -19646,7 +19658,7 @@ het6
 <span style="font-weight: bold">音節：</span>het6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://勩">勩</a>」
 </>
 heu1
-<span style="font-weight: bold">音節：</span>heu1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://翹">翹</a>」,「<a href="entry://蹻">蹻</a>」,「<a href="entry://蹺">蹺</a>」
+<span style="font-weight: bold">音節：</span>heu1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://橇">橇</a>」,「<a href="entry://蹻">蹻</a>」,「<a href="entry://蹺">蹺</a>」,「<a href="entry://翹">翹</a>」
 </>
 hi1
 <span style="font-weight: bold">音節：</span>hi1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://僖">僖</a>」,「<a href="entry://羲">羲</a>」,「<a href="entry://稀">稀</a>」,「<a href="entry://禧">禧</a>」,「<a href="entry://睎">睎</a>」,「<a href="entry://犧">犧</a>」,「<a href="entry://熹">熹</a>」,「<a href="entry://熙">熙</a>」,「<a href="entry://欺">欺</a>」,「<a href="entry://曦">曦</a>」,「<a href="entry://希">希</a>」,「<a href="entry://嬉">嬉</a>」,「<a href="entry://嘿">嘿</a>」,「<a href="entry://嘻">嘻</a>」
@@ -19655,7 +19667,7 @@ hi2
 <span style="font-weight: bold">音節：</span>hi2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://呇">呇</a>」,「<a href="entry://起">起</a>」,「<a href="entry://豈">豈</a>」,「<a href="entry://蟢">蟢</a>」,「<a href="entry://喜">喜</a>」,「<a href="entry://啓">啓</a>」
 </>
 hi3
-<span style="font-weight: bold">音節：</span>hi3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://係">係</a>」,「<a href="entry://繫">繫</a>」,「<a href="entry://系">系</a>」,「<a href="entry://汽">汽</a>」,「<a href="entry://氣">氣</a>」,「<a href="entry://棄">棄</a>」,「<a href="entry://戲">戲</a>」,「<a href="entry://憩">憩</a>」,「<a href="entry://器">器</a>」
+<span style="font-weight: bold">音節：</span>hi3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://係">係</a>」,「<a href="entry://繫">繫</a>」,「<a href="entry://系">系</a>」,「<a href="entry://汽">汽</a>」,「<a href="entry://氣">氣</a>」,「<a href="entry://棄">棄</a>」,「<a href="entry://戲">戲</a>」,「<a href="entry://憩">憩</a>」,「<a href="entry://屭">屭</a>」,「<a href="entry://屓">屓</a>」,「<a href="entry://器">器</a>」
 </>
 hiak2
 <span style="font-weight: bold">音節：</span>hiak2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://喀">喀</a>」,「<a href="entry://赫">赫</a>」,「<a href="entry://客">客</a>」,「<a href="entry://嚇">嚇</a>」
@@ -20878,6 +20890,9 @@ mang2
 mang4
 <span style="font-weight: bold">音節：</span>mang4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㬟">㬟</a>」,「<a href="entry://萌">萌</a>」,「<a href="entry://盟">盟</a>」,「<a href="entry://朆">朆</a>」
 </>
+map2
+<span style="font-weight: bold">音節：</span>map2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://凹">凹</a>」
+</>
 mat2
 <span style="font-weight: bold">音節：</span>mat2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://搣">搣</a>」,「<a href="entry://黴">黴</a>」,「<a href="entry://霉">霉</a>」
 </>
@@ -21010,6 +21025,9 @@ moeng5
 moeng6
 <span style="font-weight: bold">音節：</span>moeng6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://夢">夢</a>」
 </>
+mot6
+<span style="font-weight: bold">音節：</span>mot6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://沒">沒</a>」
+</>
 mu1
 <span style="font-weight: bold">音節：</span>mu1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://巫">巫</a>」,「<a href="entry://誣">誣</a>」,「<a href="entry://摸">摸</a>」
 </>
@@ -21119,7 +21137,7 @@ naang6
 <span style="font-weight: bold">音節：</span>naang6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://齉">齉</a>」
 </>
 naap3
-<span style="font-weight: bold">音節：</span>naap3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㘝">㘝</a>」,「<a href="entry://凹">凹</a>」
+<span style="font-weight: bold">音節：</span>naap3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㘝">㘝</a>」
 </>
 naap5
 <span style="font-weight: bold">音節：</span>naap5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://納">納</a>」,「<a href="entry://鈉">鈉</a>」
@@ -21152,7 +21170,7 @@ nai6
 <span style="font-weight: bold">音節：</span>nai6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://膩">膩</a>」
 </>
 nam4
-<span style="font-weight: bold">音節：</span>nam4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://腍">腍</a>」
+<span style="font-weight: bold">音節：</span>nam4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://腍">腍</a>」,「<a href="entry://餁">餁</a>」,「<a href="entry://飪">飪</a>」
 </>
 nam5
 <span style="font-weight: bold">音節：</span>nam5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://恁">恁</a>」,「<a href="entry://諗">諗</a>」,「<a href="entry://稔">稔</a>」
@@ -21500,7 +21518,7 @@ njam5
 <span style="font-weight: bold">音節：</span>njam5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://荏">荏</a>」
 </>
 njam6
-<span style="font-weight: bold">音節：</span>njam6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://任">任</a>」,「<a href="entry://飪">飪</a>」,「<a href="entry://賃">賃</a>」,「<a href="entry://紝">紝</a>」,「<a href="entry://恁">恁</a>」,「<a href="entry://妊">妊</a>」
+<span style="font-weight: bold">音節：</span>njam6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://任">任</a>」,「<a href="entry://餁">餁</a>」,「<a href="entry://飪">飪</a>」,「<a href="entry://賃">賃</a>」,「<a href="entry://紝">紝</a>」,「<a href="entry://恁">恁</a>」,「<a href="entry://妊">妊</a>」
 </>
 njan4
 <span style="font-weight: bold">音節：</span>njan4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://人">人</a>」,「<a href="entry://仁">仁</a>」
@@ -22799,7 +22817,7 @@ zaam3
 <span style="font-weight: bold">音節：</span>zaam3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://湛">湛</a>」,「<a href="entry://蘸">蘸</a>」
 </>
 zaam4
-<span style="font-weight: bold">音節：</span>zaam4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://慚">慚</a>」,「<a href="entry://饞">饞</a>」,「<a href="entry://讒">讒</a>」
+<span style="font-weight: bold">音節：</span>zaam4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://劖">劖</a>」,「<a href="entry://饞">饞</a>」,「<a href="entry://鑱">鑱</a>」,「<a href="entry://讒">讒</a>」,「<a href="entry://攙">攙</a>」,「<a href="entry://慚">慚</a>」
 </>
 zaam6
 <span style="font-weight: bold">音節：</span>zaam6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://暫">暫</a>」,「<a href="entry://鏨">鏨</a>」,「<a href="entry://站">站</a>」
@@ -24384,6 +24402,9 @@ zyut6
 </>
 层
 可能与之相关的繁体字：「<a href="entry://層">層</a>」
+</>
+屃
+可能与之相关的繁体字：「<a href="entry://屓">屓</a>」,「<a href="entry://屭">屭</a>」
 </>
 屉
 可能与之相关的繁体字：「<a href="entry://屜">屜</a>」
@@ -27481,6 +27502,9 @@ zyut6
 赐
 可能与之相关的繁体字：「<a href="entry://賜">賜</a>」
 </>
+赑
+可能与之相关的繁体字：「<a href="entry://贔">贔</a>」
+</>
 赔
 可能与之相关的繁体字：「<a href="entry://賠">賠</a>」
 </>
@@ -28349,7 +28373,7 @@ zyut6
 可能与之相关的繁体字：「<a href="entry://雛">雛</a>」
 </>
 雕
-可能与之相关的繁体字：「<a href="entry://彫">彫</a>」
+可能与之相关的繁体字：「<a href="entry://彫">彫</a>」,「<a href="entry://鵰">鵰</a>」
 </>
 雠
 可能与之相关的繁体字：「<a href="entry://讎">讎</a>」
