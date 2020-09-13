@@ -2035,9 +2035,6 @@
 奪
 【奪（夺）】dut6 [tut2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P745 附：[tut2]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://dut6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>搶奪，奪權。</li></ul>
 </>
-奬
-【奬（奖）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P777 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 蔣, 獎 [2..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>獎品，得獎。</li></ul>
-</>
 奮
 【奮（奋）】fan5 [fɐn24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P768 附：[fɐn24]</li><li><span style="font-weight: bold">同音字：</span>忿, 憤 <a href="entry://fan5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>勤奮，奮鬥。</li></ul>
 </>
@@ -2951,7 +2948,7 @@
 【彩】caai2 [tʃʰai33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P648 附：[tʃʰai33]</li><li><span style="font-weight: bold">同音字：</span>睬, 採, 采 <a href="entry://caai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>彩色，五彩。</li></ul>
 </>
 彪
-【彪】biu1 [piu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P709 附：[piu53]</li><li><span style="font-weight: bold">同音字：</span>膘, 臕, 標 [1..] <a href="entry://biu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>林彪。</li></ul>
+【彪】biu1 [piu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P709 附：[piu53]</li><li><span style="font-weight: bold">同音字：</span>膘, 臕, 標 [1..] <a href="entry://biu1">更多</a></li></ul>
 </>
 彬
 【彬】ban1 [pɐn53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P755 附：[pɐn53]</li><li><span style="font-weight: bold">同音字：</span>錛, 賓, 檳 [1..] <a href="entry://ban1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>文質彬彬。</li></ul>
@@ -3719,7 +3716,7 @@
 【掉】diu6 [tiu22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P698 附：[tiu22]</li><li><span style="font-weight: bold">同音字：</span>調 <a href="entry://diu6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>吃掉，走掉。</li></ul>
 </>
 掌
-【掌】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P780 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>蔣, 奬, 獎 [2..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>巴掌，掌握。</li></ul>
+【掌】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P780 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>蔣, 獎, 槳 [1..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>巴掌，掌握。</li></ul>
 </>
 掏
 【掏】daau4 [tau21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P684 附：[tau21]</li><li><span style="font-weight: bold">同音字：</span>濤, 桃, 逃 [3..] <a href="entry://daau4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>掏出來。</li></ul>
@@ -4217,7 +4214,7 @@
 【旅】lyu5 [ly24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P637 附：[ly24]</li><li><span style="font-weight: bold">同音字：</span>履, 呂, 穭 [3..] <a href="entry://lyu5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>旅長。</li></ul>
 </>
 旋
-【旋】slyun4 [ɬyn21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P749 附：[ɬyn21]</li><li><span style="font-weight: bold">同音字：</span>鏇 <a href="entry://slyun4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>旋轉；旋吃旋做。</li></ul>
+【旋】slyun4 [ɬyn21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P749 附：[ɬyn21]</li><li><span style="font-weight: bold">同音字：</span>鏇 <a href="entry://slyun4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>旋轉。</li></ul>
 </>
 族
 【族】zoek6 [tʃœk2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P816 附：[tʃœk2]</li><li><span style="font-weight: bold">同音字：</span>續, 濁, 逐 [1..] <a href="entry://zoek6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>族長，民族。</li></ul>
@@ -4895,7 +4892,7 @@
 【槓（杠）】gaang3 [kaŋ55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P775 附：[kaŋ55]</li><li><span style="font-weight: bold">同音字：</span>虹, 杠, 降 <a href="entry://gaang3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>擡物用具。</li></ul>
 </>
 槳
-【槳（桨）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P777 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 蔣, 奬 [2..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>划槳。</li></ul>
+【槳（桨）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P777 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 蔣, 獎 [1..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>划槳。</li></ul>
 </>
 槽
 【槽】zaau4 [tʃau21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P686 附：[tʃau21]</li><li><span style="font-weight: bold">同音字：</span>巢, 曹 <a href="entry://zaau4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>一條槽，豬槽。</li></ul>
@@ -6149,7 +6146,7 @@
 【獅（狮）】sai1 [ʃɐi53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P671 附：[ʃɐi53]</li><li><span style="font-weight: bold">同音字：</span>篩, 師 <a href="entry://sai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>獅子。</li></ul>
 </>
 獎
-【獎（奖）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P777 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 蔣, 奬 [2..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>獎品，得獎。</li></ul>
+【獎（奖）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P777 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 蔣, 槳 [1..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>獎品，得獎。</li></ul>
 </>
 獨
 【獨（独）】doek6 [tœk2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P815 附：[tœk2]</li><li><span style="font-weight: bold">同音字：</span>毒, 讀, 牘 [1..] <a href="entry://doek6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>獨立，單獨。</li></ul>
@@ -8573,7 +8570,7 @@
 【蔡】caai3 [tʃʰai55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P650 附：[tʃʰai55]</li><li><span style="font-weight: bold">同音字：</span>菜, 棌 <a href="entry://caai3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>姓。</li></ul>
 </>
 蔣
-【蔣（蒋）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P777 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 奬, 獎 [2..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>姓。</li></ul>
+【蔣（蒋）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P777 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 獎, 槳 [1..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>姓。</li></ul>
 </>
 蔥
 【蔥（葱）】coeng1 [tʃʰœŋ53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P816 附：[tʃʰœŋ53]</li><li><span style="font-weight: bold">同音字：</span>舂, 聰, 葱 [4..] <a href="entry://coeng1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>蔥花，香蔥。</li><li><span style="font-weight: bold">備註：</span>原文作「葱」字。</li></ul>
@@ -10481,7 +10478,7 @@
 【钁（镢）】gwaak2 [kʷak3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P786 附：[kwak3]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://gwaak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>钁頭。</li></ul>
 </>
 長
-【長（长）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P779 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 蔣, 奬 [2..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>省長，長高。</li></ul>
+【長（长）】ziang2 [tʃiɐŋ33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P779 附：[tʃiɐŋ33]</li><li><span style="font-weight: bold">同音字：</span>掌, 蔣, 獎 [1..] <a href="entry://ziang2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>省長，長高。</li></ul>
 </>
 長
 【長（长）】ziang4 [tʃiɐŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P779 附：[tʃiɐŋ21]</li><li><span style="font-weight: bold">同音字：</span>場, 牆, 詳 [2..] <a href="entry://ziang4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>長短，長春，天長地久。</li></ul>
@@ -15506,7 +15503,7 @@ ziang1
 <span style="font-weight: bold">音節：</span>ziang1 [tʃiɐŋ53]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://將">將</a>」,「<a href="entry://樟">樟</a>」,「<a href="entry://章">章</a>」,「<a href="entry://張">張</a>」,「<a href="entry://漿">漿</a>」
 </>
 ziang2
-<span style="font-weight: bold">音節：</span>ziang2 [tʃiɐŋ33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蔣">蔣</a>」,「<a href="entry://掌">掌</a>」,「<a href="entry://長">長</a>」,「<a href="entry://槳">槳</a>」,「<a href="entry://獎">獎</a>」,「<a href="entry://奬">奬</a>」
+<span style="font-weight: bold">音節：</span>ziang2 [tʃiɐŋ33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蔣">蔣</a>」,「<a href="entry://掌">掌</a>」,「<a href="entry://長">長</a>」,「<a href="entry://槳">槳</a>」,「<a href="entry://獎">獎</a>」
 </>
 ziang3
 <span style="font-weight: bold">音節：</span>ziang3 [tʃiɐŋ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://醬">醬</a>」,「<a href="entry://瘴">瘴</a>」,「<a href="entry://障">障</a>」,「<a href="entry://仗">仗</a>」,「<a href="entry://賬">賬</a>」,「<a href="entry://脹">脹</a>」,「<a href="entry://帳">帳</a>」,「<a href="entry://漲">漲</a>」,「<a href="entry://將">將</a>」
@@ -16448,7 +16445,7 @@ zyut6
 可能与之相关的繁体字：「<a href="entry://奮">奮</a>」
 </>
 奖
-可能与之相关的繁体字：「<a href="entry://奬">奬</a>」,「<a href="entry://獎">獎</a>」
+可能与之相关的繁体字：「<a href="entry://獎">獎</a>」
 </>
 奥
 可能与之相关的繁体字：「<a href="entry://奧">奧</a>」

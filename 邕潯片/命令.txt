@@ -1,0 +1,14 @@
+select * from dict_nb
+union all
+select * from dict_nb_samp
+union all
+select * from dict_trad_simp_nb
+
+
+
+
+select * from dict_nb_zingjam
+union all
+select * from dict_nb_zingjam_samp
+union all
+select * from dict_trad_simp_nb_zingjam
