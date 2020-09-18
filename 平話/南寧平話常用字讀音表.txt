@@ -467,7 +467,7 @@
 【信】slan3 [ɬɐn55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P757 附：[ɬɐn55]</li><li><span style="font-weight: bold">同音字：</span>浚, 訊, 迅 [1..] <a href="entry://slan3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>書信，相信。</li></ul>
 </>
 修
-【修】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P704 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>蒐, 叟, 羞 [3..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>修理，裝修。</li></ul>
+【修】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P704 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>餿, 叟, 羞 [2..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>修理，裝修。</li></ul>
 </>
 俯
 【俯】fu2 [fu33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P641 附：[fu33]</li><li><span style="font-weight: bold">同音字：</span>殕, 府, 腑 [1..] <a href="entry://fu2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>俯視，俯臥撐。</li></ul>
@@ -1235,7 +1235,7 @@
 【叛】bun6 [pun22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P744 附：[pun22]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://bun6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>叛徒，背叛。</li><li><span style="font-weight: bold">備註：</span>原文誤作[pʰun22]。</li></ul>
 </>
 叟
-【叟】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P701 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>蒐, 修, 羞 [3..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>童叟無欺。</li></ul>
+【叟】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P701 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>餿, 修, 羞 [2..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>童叟無欺。</li></ul>
 </>
 叢
 【叢（丛）】zoeng4 [tʃœŋ21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P816 附：[tʃœŋ21]</li><li><span style="font-weight: bold">同音字：</span>重, 蟲, 崇 [1..] <a href="entry://zoeng4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>樹叢，叢書。</li></ul>
@@ -3842,7 +3842,7 @@
 【搛】gim1 [kim53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P721 附：[kim53]</li><li><span style="font-weight: bold">同音字：</span>兼 <a href="entry://gim1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>挾菜。</li></ul>
 </>
 搜
-【搜】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P705 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>蒐, 叟, 修 [3..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>搜查，搜身。</li></ul>
+【搜】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P705 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>餿, 叟, 修 [2..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>搜查，搜身。</li></ul>
 </>
 搞
 【搞】gaau2 [kau33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P691 附：[kau33]</li><li><span style="font-weight: bold">同音字：</span>餃, 稿, 絞 [3..] <a href="entry://gaau2">更多</a></li></ul>
@@ -4067,7 +4067,7 @@
 【支】zi1 [tʃi53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P666 附：[tʃi53]</li><li><span style="font-weight: bold">同音字：</span>咨, 遮, 脂 [12..] <a href="entry://zi1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>地支，支持。</li></ul>
 </>
 收
-【收】sau1 [ʃɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ʃɐu53]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://sau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>秋收，收集。</li></ul>
+【收】sau1 [ʃɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ʃɐu53]</li><li><span style="font-weight: bold">同音字：</span>蒐 <a href="entry://sau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>秋收，收集。</li></ul>
 </>
 攷
 【攷（考）】kaau2 [kʰau33]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P687 附：[kʰau33]</li><li><span style="font-weight: bold">同音字：</span>烤, 考 <a href="entry://kaau2">更多</a></li><li><span style="font-weight: bold">備註：</span>原文作「考」字。</li></ul>
@@ -7772,7 +7772,7 @@
 【羔】gaau1 [kau53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P687 附：[kau53]</li><li><span style="font-weight: bold">同音字：</span>教, 高, 膏 [5..] <a href="entry://gaau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>羊羔。</li></ul>
 </>
 羞
-【羞】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P704 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>蒐, 叟, 修 [3..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>害羞，羞愧。</li></ul>
+【羞】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P704 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>餿, 叟, 修 [2..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>害羞，羞愧。</li></ul>
 </>
 羡
 【羡】slin3 [ɬin55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P736 附：[ɬin55]</li><li><span style="font-weight: bold">同音字：</span>線, 綫, 羨 <a href="entry://slin3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>羨慕。</li><li><span style="font-weight: bold">備註：</span>原文作「羨」字。</li></ul>
@@ -8507,7 +8507,7 @@
 【葷（荤）】wan1 [wɐn53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P770 附：[wɐn53]</li><li><span style="font-weight: bold">同音字：</span>暈, 昏, 婚 [7..] <a href="entry://wan1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>葷菜。</li></ul>
 </>
 蒐
-【蒐（搜）】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>叟, 修, 羞 [3..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>蒐集。</li><li><span style="font-weight: bold">備註：</span>原文誤作[ʃɐu53]。</li></ul>
+【蒐（搜）】sau1 [ʃɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ʃɐu53]</li><li><span style="font-weight: bold">同音字：</span>收 <a href="entry://sau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>蒐集。</li></ul>
 </>
 蒓
 【蒓（莼）】san4 [ʃɐn21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P767 附：[ʃɐn21]</li><li><span style="font-weight: bold">同音字：</span>神, 娠, 辰 [6..] <a href="entry://san4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>水葵，蓴菜。</li></ul>
@@ -10943,7 +10943,7 @@
 【颱（台）】daai4 [tai21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P647 附：[tai21]</li><li><span style="font-weight: bold">同音字：</span>擡, 台, 檯 [4..] <a href="entry://daai4">更多</a></li><li><span style="font-weight: bold">備註：</span>原文作「台」字。</li></ul>
 </>
 颼
-【颼（飕）】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>蒐, 叟, 修 [3..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>涼颼颼。</li></ul>
+【颼（飕）】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>餿, 叟, 修 [2..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>涼颼颼。</li></ul>
 </>
 飄
 【飄（飘）】piu1 [pʰiu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P692 附：[pʰiu53]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://piu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>飄揚。</li></ul>
@@ -11036,7 +11036,7 @@
 【餾（馏）】lau6 [lɐu22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P704 附：[lɐu22]</li><li><span style="font-weight: bold">同音字：</span>漏, 陋, 溜 <a href="entry://lau6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>蒸餾水。</li></ul>
 </>
 餿
-【餿（馊）】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>蒐, 叟, 修 [3..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>飯餿了。</li></ul>
+【餿（馊）】slau1 [ɬɐu53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P706 附：[ɬɐu53]</li><li><span style="font-weight: bold">同音字：</span>叟, 修, 羞 [2..] <a href="entry://slau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>飯餿了。</li></ul>
 </>
 饃
 【饃（馍）】mo4 [mo21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P619 附：[mo21]</li><li><span style="font-weight: bold">同音字：</span>模 <a href="entry://mo4">更多</a></li></ul>
@@ -14606,7 +14606,7 @@ sat6
 <span style="font-weight: bold">音節：</span>sat6 [ʃɐt2]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://實">實</a>」
 </>
 sau1
-<span style="font-weight: bold">音節：</span>sau1 [ʃɐu53]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://收">收</a>」
+<span style="font-weight: bold">音節：</span>sau1 [ʃɐu53]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蒐">蒐</a>」,「<a href="entry://收">收</a>」
 </>
 sau2
 <span style="font-weight: bold">音節：</span>sau2 [ʃɐu33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://首">首</a>」,「<a href="entry://手">手</a>」,「<a href="entry://守">守</a>」
@@ -14801,7 +14801,7 @@ slat6
 <span style="font-weight: bold">音節：</span>slat6 [ɬɐt2]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://述">述</a>」,「<a href="entry://秫">秫</a>」,「<a href="entry://術">術</a>」
 </>
 slau1
-<span style="font-weight: bold">音節：</span>slau1 [ɬɐu53]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://叟">叟</a>」,「<a href="entry://蒐">蒐</a>」,「<a href="entry://餿">餿</a>」,「<a href="entry://颼">颼</a>」,「<a href="entry://搜">搜</a>」,「<a href="entry://羞">羞</a>」,「<a href="entry://修">修</a>」
+<span style="font-weight: bold">音節：</span>slau1 [ɬɐu53]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://叟">叟</a>」,「<a href="entry://餿">餿</a>」,「<a href="entry://颼">颼</a>」,「<a href="entry://搜">搜</a>」,「<a href="entry://羞">羞</a>」,「<a href="entry://修">修</a>」
 </>
 slau3
 <span style="font-weight: bold">音節：</span>slau3 [ɬɐu55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://嗽">嗽</a>」,「<a href="entry://宿">宿</a>」,「<a href="entry://鏽">鏽</a>」,「<a href="entry://銹">銹</a>」,「<a href="entry://繡">繡</a>」,「<a href="entry://秀">秀</a>」
