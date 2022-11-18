@@ -82,9 +82,12 @@ f2.close()
 f.close()
 
 
+'''
 os.rename('E:\\LocalRepository\\github\\v_nbdict_2003.txt','E:\\LocalRepository\\github\\2003年楊煥典《現代漢語方言音庫字庫》.txt')
 os.rename('E:\\LocalRepository\\github\\tab_nbdict_201806.txt','E:\\LocalRepository\\github\\2018年滕祖愛《南寧市與桂平市粵方言比較研究》.txt')
 os.rename('E:\\LocalRepository\\github\\tab_nbdict_2021.txt','E:\\LocalRepository\\github\\2021年Leimaau《單字音零散資料匯總》（南寧白話）.txt')
 os.rename('E:\\LocalRepository\\github\\v_nbdict_201703_bw.txt','E:\\LocalRepository\\github\\2017年教育部《漢語方言用字規範》（南寧亭子平話）.txt')
 os.rename('E:\\LocalRepository\\github\\v_nbdict_201705_bw.txt','E:\\LocalRepository\\github\\2017年詹伯慧、張振興《漢語方言學大詞典》（南寧亭子平話）.txt')
 os.rename('E:\\LocalRepository\\github\\tab_nbdict_2021_bw.txt','E:\\LocalRepository\\github\\2021年Leimaau《單字音零散資料匯總》（南寧亭子平話）.txt')
+os.rename('E:\\LocalRepository\\github\\v_1856yh_single_extend.txt','E:\\LocalRepository\\github\\1856年《英華分韻撮要》.txt')
+'''
