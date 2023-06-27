@@ -8,4 +8,4 @@ This is my mdx-mdd storage warehouse, mdx-mdd file in the main branch, mdx-mdd t
 
 ## Use Guide
 
-[Simple Guidelines](https://github.com/leimaau/dictionary/wiki)
+[Simple Guide](https://github.com/leimaau/dictionary/wiki)
