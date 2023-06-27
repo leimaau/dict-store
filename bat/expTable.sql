@@ -54,6 +54,9 @@ select * from dict_trad_simp_nb_zingjam_bw;
 spool E:\LocalRepository\github\v_nbdict_2003.txt
 select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||replace(sour,'2003年侯精一《現代漢語方言音庫(字庫)》','')||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_2003;
 
+spool E:\LocalRepository\github\v_nbdict_200706.txt
+select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||replace(sour,'2007年李彬《左江土白話研究》','')||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_200706;
+
 spool E:\LocalRepository\github\tab_nbdict_201806.txt
 select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||' '||expl||' '||note||'chr(10)'||'</>' from tab_nbdict_201806;
 
