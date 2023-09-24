@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is my mdx-mdd storage warehouse, mdx-mdd file in the main branch, mdx-mdd text file in the TXT branch, If i'm free, i will modify.
+This is my mdx-mdd storage warehouse, mdx-mdd file in the main branch, mdx-mdd text file in the TXT branch, If I had time, I would revise it.
 
 ## Use Guide
 
