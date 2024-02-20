@@ -50,7 +50,6 @@ spool E:\LocalRepository\github\dict_trad_simp_nb_zingjam_bw.txt
 select * from dict_trad_simp_nb_zingjam_bw;
 
 
-/*
 spool E:\LocalRepository\github\v_nbdict_2003.txt
 select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||replace(sour,'2003年侯精一《現代漢語方言音庫(字庫)》','')||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_2003;
 
@@ -64,7 +63,6 @@ spool E:\LocalRepository\github\tab_nbdict_2021.txt
 select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||' '||expl||' '||note||'chr(10)'||'</>' from tab_nbdict_2021;
 
 
-
 spool E:\LocalRepository\github\v_nbdict_201703_bw.txt
 select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_201703_bw;
 
@@ -76,6 +74,6 @@ select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||'
 
 spool E:\LocalRepository\github\v_1856yh_single_extend.txt
 select word||'chr(10)'||word||' '||old_jp||' '||old_tone||' '||jyutping||' '||ipa||' '||old_jp_type||' '||old_jp_note||' '||page||' '||expl||'chr(10)'||'</>' from v_1856yh_single_extend;
-*/
+
 
 spool off
