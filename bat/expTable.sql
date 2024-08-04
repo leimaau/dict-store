@@ -23,7 +23,7 @@ spool E:\LocalRepository\github\dict_nb_zingjam.txt
 select * from dict_nb_zingjam;
 
 spool E:\LocalRepository\github\dict_nb_zingjam_samp.txt
-select * from dict_nb_zingjam_samp;
+select DBMS_LOB.SUBSTR(word, 4000, 1) word from dict_nb_zingjam_samp;
 
 spool E:\LocalRepository\github\dict_trad_simp_nb_zingjam.txt
 select * from dict_trad_simp_nb_zingjam;
@@ -44,7 +44,7 @@ spool E:\LocalRepository\github\dict_nb_zingjam_bw.txt
 select * from dict_nb_zingjam_bw;
 
 spool E:\LocalRepository\github\dict_nb_zingjam_samp_bw.txt
-select * from dict_nb_zingjam_samp_bw;
+select DBMS_LOB.SUBSTR(word, 4000, 1) word from dict_nb_zingjam_samp_bw;
 
 spool E:\LocalRepository\github\dict_trad_simp_nb_zingjam_bw.txt
 select * from dict_trad_simp_nb_zingjam_bw;

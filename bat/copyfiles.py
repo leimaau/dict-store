@@ -31,7 +31,7 @@ f2 = open('E:\\LocalRepository\\github\\dict_nb.txt','r',encoding='utf-8')
 f3 = open('E:\\LocalRepository\\github\\dict_nb_samp.txt','r',encoding='utf-8')
 f4 = open('E:\\LocalRepository\\github\\dict_trad_simp_nb.txt','r',encoding='utf-8')
 
-new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines()) + '𪮳\n可能与之相关的繁体字：「<a href="entry://𢺳">𢺳</a>」\n</>'
+new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines())\n</>'
 f.write(new_data)
 
 f4.close()
@@ -45,7 +45,7 @@ f2 = open('E:\\LocalRepository\\github\\dict_nb_zingjam.txt','r',encoding='utf-8
 f3 = open('E:\\LocalRepository\\github\\dict_nb_zingjam_samp.txt','r',encoding='utf-8')
 f4 = open('E:\\LocalRepository\\github\\dict_trad_simp_nb_zingjam.txt','r',encoding='utf-8')
 
-new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines()) + '𪮳\n可能与之相关的繁体字：「<a href="entry://𢺳">𢺳</a>」\n</>'
+new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines())\n</>'
 f.write(new_data)
 
 f4.close()
@@ -59,7 +59,7 @@ f2 = open('E:\\LocalRepository\\github\\dict_nb_bw.txt','r',encoding='utf-8')
 f3 = open('E:\\LocalRepository\\github\\dict_nb_samp_bw.txt','r',encoding='utf-8')
 f4 = open('E:\\LocalRepository\\github\\dict_trad_simp_nb_bw.txt','r',encoding='utf-8')
 
-new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines()) + '𪮳\n可能与之相关的繁体字：「<a href="entry://𢺳">𢺳</a>」\n</>'
+new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines())\n</>'
 f.write(new_data)
 
 f4.close()
@@ -73,7 +73,7 @@ f2 = open('E:\\LocalRepository\\github\\dict_nb_zingjam_bw.txt','r',encoding='ut
 f3 = open('E:\\LocalRepository\\github\\dict_nb_zingjam_samp_bw.txt','r',encoding='utf-8')
 f4 = open('E:\\LocalRepository\\github\\dict_trad_simp_nb_zingjam_bw.txt','r',encoding='utf-8')
 
-new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines()) + '𪮳\n可能与之相关的繁体字：「<a href="entry://𢺳">𢺳</a>」\n</>'
+new_data = ''.join(f2.readlines() + f3.readlines() + f4.readlines())\n</>'
 f.write(new_data)
 
 f4.close()
