@@ -134,10 +134,10 @@ union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from tab_nbdict_2020_bw
 );
 */
 
-spool E:\LocalRepository\github\dict-store-txt\temp\tab_xiandaihanyu_phrase.txt
+spool E:\LocalRepository\github\dict-store-txt\temp\v_xiandaihanyu_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||'［白］'||jyutping||' ['||ipa||'] '||'［平］'||jyutping2||' ['||ipa2||'] '||' '||expl||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_xiandaihanyu_phrase
-union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from tab_xiandaihanyu_phrase where simp<>trad
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||'［白］'||jyutping||' ['||ipa||'] '||'［平］'||jyutping2||' ['||ipa2||'] '||' '||expl||'chr(10)</>' from V_XIANDAIHANYU_PHRASE
+union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from V_XIANDAIHANYU_PHRASE where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_xiandaihanyu_phrase_book.txt

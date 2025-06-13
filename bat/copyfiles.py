@@ -6,7 +6,7 @@ import sys
 import shutil
 import subprocess
 from pathlib import Path
-from typing import List, Dict, Set, Tuple
+from typing import List, Dict, Set, Tuple, Optional
 
 # 常量定义
 BASE_DIR = Path(r'E:\LocalRepository\github\dict-store-txt')
@@ -23,7 +23,8 @@ bat_path = BAT_DIR / 'expbat.bat'
 FILE_CATEGORIES: List[Tuple[str, Set[str]]] = [
     ('yongxun', {'白話', '楊煥典', '滕祖愛', '現代漢語詞彙表'}),
     ('pinghua', {'平話'}),
-    ('qingdai', {'英華分韻撮要'})
+    ('qingdai', {'英華分韻撮要'}),
+    ('dict', {'dict'})
 ]
 
 def process_text_files(directory: Path) -> None:
@@ -66,7 +67,7 @@ def rename_files() -> None:
         'tab_nbdict_2021_phrase.txt': '2021年Leimaau《詞彙零散資料匯總》（南寧白話）.txt',
         'tab_nbdict_2021_bw_phrase.txt': '2021年Leimaau《詞彙零散資料匯總》（南寧亭子平話）.txt',
         'tab_nb_zingjam_phrase.txt': '南寧白話分類詞表.txt',
-        'tab_xiandaihanyu_phrase.txt': '現代漢語詞彙表（南寧白話和南寧亭子平話）.txt',
+        'v_xiandaihanyu_phrase.txt': '現代漢語詞彙表（南寧白話和南寧亭子平話）.txt',
         'v_xiandaihanyu_phrase_book.txt': '《現代漢語詞典》南寧白話讀音表.txt',
         'v_xiandaihanyu_phrase_book_bw.txt': '《現代漢語詞典》南寧亭子平話讀音表.txt'
     }
@@ -74,15 +75,30 @@ def rename_files() -> None:
     for old_name, new_name in rename_mappings.items():
         old_path = TEMP_DIR / old_name
         new_path = TEMP_DIR / new_name
+        
         if old_path.exists():
-            old_path.rename(new_path)
+            # 如果目标文件已存在，先删除它
+            if new_path.exists():
+                try:
+                    new_path.unlink()
+                    print(f"已删除已存在的文件: {new_name}")
+                except Exception as e:
+                    print(f"删除文件 {new_name} 时出错: {str(e)}")
+                    continue
+            
+            try:
+                old_path.rename(new_path)
+                print(f"已重命名: {old_name} -> {new_name}")
+            except Exception as e:
+                print(f"重命名文件 {old_name} 时出错: {str(e)}")
+                continue
 
-def get_file_category(file_name: str) -> str:
+def get_file_category(file_name: str) -> Optional[str]:
     """根据文件名确定文件类别，使用优先级规则"""
     for category, keywords in FILE_CATEGORIES:
         if any(keyword in file_name for keyword in keywords):
             return category
-    return ''
+    return None
 
 def copy_files_to_targets(source_dir: Path, txt_files: List[str]) -> None:
     """将处理好的文件复制到目标目录"""
@@ -101,6 +117,10 @@ def copy_files_to_targets(source_dir: Path, txt_files: List[str]) -> None:
         try:
             category = get_file_category(file_name)
             if category:
+                if category == 'dict':
+                    print(f"保持文件在原目录: {file_name}")
+                    continue
+                    
                 target_dir = OUTPUT_DIRS[category]
                 shutil.copy2(source_path, target_dir)
                 print(f"已复制到{category}目录: {file_name}")
@@ -127,25 +147,25 @@ def main():
     
     # 合并文件生成南寧白話常用字讀音表
     combine_files(
-        OUTPUT_DIRS['yongxun'] / '南寧白話常用字讀音表.txt',
+        TEMP_DIR / '南寧白話常用字讀音表.txt',
         [TEMP_DIR / f for f in ['dict_nb.txt', 'dict_nb_samp.txt', 'dict_trad_simp_nb.txt']]
     )
     
     # 合并文件生成南寧白話建議讀音表
     combine_files(
-        OUTPUT_DIRS['yongxun'] / '南寧白話建議讀音表.txt',
+        TEMP_DIR / '南寧白話建議讀音表.txt',
         [TEMP_DIR / f for f in ['dict_nb_zingjam.txt', 'dict_nb_zingjam_samp.txt', 'dict_trad_simp_nb_zingjam.txt']]
     )
     
     # 合并文件生成南寧平話常用字讀音表
     combine_files(
-        OUTPUT_DIRS['pinghua'] / '南寧平話常用字讀音表.txt',
+        TEMP_DIR / '南寧平話常用字讀音表.txt',
         [TEMP_DIR / f for f in ['dict_nb_bw.txt', 'dict_nb_samp_bw.txt', 'dict_trad_simp_nb_bw.txt']]
     )
     
     # 合并文件生成南寧平話建議讀音表
     combine_files(
-        OUTPUT_DIRS['pinghua'] / '南寧平話建議讀音表.txt',
+        TEMP_DIR / '南寧平話建議讀音表.txt',
         [TEMP_DIR / f for f in ['dict_nb_zingjam_bw.txt', 'dict_nb_zingjam_samp_bw.txt', 'dict_trad_simp_nb_zingjam_bw.txt']]
     )
     
@@ -159,6 +179,25 @@ def main():
 
     # 复制文件到目标目录
     copy_files_to_targets(TEMP_DIR, txt_files)
+
+    # 调用convert_txt_to_mdx.py脚本
+    convert_script = Path(r'E:\LocalRepository\github\dict-store-txt\temp\writemdict-master\convert_txt_to_mdx.py')
+    if convert_script.exists():
+        print("\n开始调用convert_txt_to_mdx.py脚本...")
+        try:
+            result = subprocess.run(['python', str(convert_script)], 
+                                 capture_output=True, 
+                                 text=True, 
+                                 check=True)
+            print("脚本执行成功！")
+            print(result.stdout)
+        except subprocess.CalledProcessError as e:
+            print("脚本执行失败！")
+            print(f"错误信息: {e.stderr}")
+        except Exception as e:
+            print(f"执行脚本时发生错误: {str(e)}")
+    else:
+        print(f"错误: 找不到脚本文件 {convert_script}")
 
 if __name__ == '__main__':
     main()
