@@ -78,77 +78,77 @@ select word||'chr(10)'||word||' '||old_jp||' '||old_tone||' '||jyutping||' '||ip
 --詞彙表
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_1997_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||'] '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_1997_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_1997_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from v_nbdict_1997_phrase where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_1998_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||'] '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_1998_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_1998_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from v_nbdict_1998_phrase where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2007_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||'] '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_2007_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_2007_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from v_nbdict_2007_phrase where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2008_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||'] '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_2008_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from v_nbdict_2008_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from v_nbdict_2008_phrase where simp<>trad
 );
 
 /*
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2020_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2020_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2020_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from tab_nbdict_2020_phrase where simp<>trad
 );
 */
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2021_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||'] '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2021_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2021_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from tab_nbdict_2021_phrase where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2021_bw_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||'] '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2021_bw_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2021_bw_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from tab_nbdict_2021_bw_phrase where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nb_zingjam_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||'] '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nb_zingjam_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nb_zingjam_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from tab_nb_zingjam_phrase where simp<>trad
 );
 
 /*
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2020_bw_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||jyutping||' ['||ipa_t||'] '||sour||' '||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2020_bw_phrase
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||jyutping||' ['||ipa_t||'] '||sour||' ['||ipa_s||']<br>'||expl||case when note is not null then '<br>' else null end||note||case when classifi is not null then '<br>分類：' else null end||classifi||'chr(10)</>' from tab_nbdict_2020_bw_phrase
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from tab_nbdict_2020_bw_phrase where simp<>trad
 );
 */
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_xiandaihanyu_phrase.txt
 select * from (
-select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】'||'［白］'||jyutping||' ['||ipa||'] '||'［平］'||jyutping2||' ['||ipa2||'] '||' '||expl||'chr(10)</>' from V_XIANDAIHANYU_PHRASE
+select trad||'chr(10)【'||trad||case when simp<>trad then '（'||simp||'）' else null end||'】<br>'||'［白］'||jyutping||' ['||ipa||'] '||'［平］'||jyutping2||' ['||ipa2||']<br>'||expl||'chr(10)</>' from V_XIANDAIHANYU_PHRASE
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from V_XIANDAIHANYU_PHRASE where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_xiandaihanyu_phrase_book.txt
 select * from (
-select trad||'chr(10)'||SIMP_TRAD_format||jyutping||' '||expl||'chr(10)</>' from v_xiandaihanyu_phrase_book
+select trad||'chr(10)'||SIMP_TRAD_format||'<br>'||jyutping||'<br>'||expl||'chr(10)</>' from v_xiandaihanyu_phrase_book
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from v_xiandaihanyu_phrase_book where simp<>trad
 );
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_xiandaihanyu_phrase_book_bw.txt
 select * from (
-select trad||'chr(10)'||SIMP_TRAD_format||jyutping||' '||expl||'chr(10)</>' from v_xiandaihanyu_phrase_book_bw
+select trad||'chr(10)'||SIMP_TRAD_format||'<br>'||jyutping||'<br>'||expl||'chr(10)</>' from v_xiandaihanyu_phrase_book_bw
 union select simp||'chr(10)@@@LINK='||trad||'chr(10)</>' from v_xiandaihanyu_phrase_book_bw where simp<>trad
 );
 

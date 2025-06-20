@@ -33,7 +33,6 @@ def get_file_category(file_name: str) -> Optional[str]:
 
 def convert_txt_to_mdx(txt_file: Path, output_mdx: Path, output_mdd: Optional[Path] = None) -> None:
     """将txt文件转换为mdx格式"""
-    # 读取 txt 文件并解析为字典
     dictionary = {}
     try:
         with open(txt_file, 'r', encoding='utf-8') as f:
@@ -46,7 +45,31 @@ def convert_txt_to_mdx(txt_file: Path, output_mdx: Path, output_mdd: Optional[Pa
                     parts = entry.strip().split('\n', 1)
                     if len(parts) == 2:
                         key, value = parts
-                        dictionary[key.strip()] = value.strip()
+                        key = key.strip()
+                        value = value.strip()
+                        # 如果词条已存在，将新解释添加到列表中
+                        if key in dictionary:
+                            if isinstance(dictionary[key], list):
+                                dictionary[key].append(value)
+                            else:
+                                dictionary[key] = [dictionary[key], value]
+                        else:
+                            dictionary[key] = value
+            
+            # 处理多义项，将它们合并成一个HTML条目
+            for key in dictionary:
+                if isinstance(dictionary[key], list):
+                    # 为每个义项添加序号和分隔线（注释）
+                    combined_value = ""
+                    for i, value in enumerate(dictionary[key], 1):
+                        # combined_value += f'<div style="margin-bottom: 10px;">'
+                        # combined_value += f'<span style="color: #666;">{i}. </span>'
+                        combined_value += value
+                        # combined_value += '</div>'
+                        if i < len(dictionary[key]):
+                            # combined_value += '<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">'
+                            combined_value += ''
+                    dictionary[key] = combined_value
     except UnicodeDecodeError:
         print(f"Error: {txt_file} is not UTF-8 encoded. Please convert it to UTF-8 first.")
         return
@@ -80,7 +103,7 @@ def convert_txt_to_mdx(txt_file: Path, output_mdx: Path, output_mdd: Optional[Pa
         if res_dir.exists():
             mdd_dict = {}
             # 支持的资源文件类型
-            resource_extensions = ('.png', '.jpg', '.jpeg', '.gif', '.css', '.js', '.mp3', '.wav')
+            resource_extensions = ('.png', '.jpg', '.jpeg', '.gif', '.css', '.js', '.mp3', '.wav', '.spx')
             
             for file_path in res_dir.glob('*'):
                 if file_path.suffix.lower() in resource_extensions:

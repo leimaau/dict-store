@@ -16550,7 +16550,7 @@
 【癸】南寧平話：gwai3「壬癸，癸水」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gwai3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 登
-【登】南寧平話：dang1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>dang1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【登】南寧平話：dang1「攀登，登山」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>dang1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 發
 【發（发）】南寧平話：faat2「發財」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>faat3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -19367,7 +19367,7 @@
 【縭（缡）】南寧平話：li4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lei4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 縮
-【縮（缩）】南寧平話：soek2「縮短，退縮；～騷，打退堂鼓」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>suk1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【縮（缩）】南寧平話：soek2「縮短，退縮；～騷，退縮、打退堂鼓」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>suk1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 縯
 【縯（𬙂）】南寧平話：jan5「引」,jin2「長」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jan5,jin2</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
@@ -19988,7 +19988,7 @@
 【耷】南寧平話：daap2「大耳」,dap2「俗字，垂下，～頭，低頭，本字塌，墮也，與髧對轉」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>daap3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 耽
-【耽】南寧平話：daam1「耽誤，耽湎」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)dam1「～頹，遲鈍、傻」</li><li><span style="font-weight: bold">廣州話：</span>daam1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【耽】南寧平話：daam1「耽誤，耽湎」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)dam1「～頹，遲鈍、傻，由遲延義引申爲遲鈍」,(白)nam1「傻、土氣，端組旁轉，由遲延義引申爲遲鈍，進而引申爲土氣，俗字恁」</li><li><span style="font-weight: bold">廣州話：</span>daam1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 耾
 【耾】南寧平話：hoeng4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>wang4</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
@@ -28913,7 +28913,7 @@
 【騶（驺）】南寧平話：zau1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zau1</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 騷
-【騷（骚）】南寧平話：slaau1「風騷，騷動」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sou1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【騷（骚）】南寧平話：slaau1「風騷，騷動；縮～，退縮、打退堂鼓」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sou1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 騸
 【騸（骟）】南寧平話：sin3「騸馬，騸狗」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sin3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -30242,7 +30242,7 @@
 【黨（党）】南寧平話：daang2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>dong2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 黮
-【黮】南寧平話：daam6「黑色」,taam3「黮闇」,sam6「通葚字」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)nam1「土氣，端組旁轉，俗字恁」</li><li><span style="font-weight: bold">廣州話：</span>daam6,taam3,sam6</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【黮】南寧平話：daam6「黑色」,taam3「黮闇」,sam6「通葚字」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>daam6,taam3,sam6</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 黯
 【黯】南寧平話：aam2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>am2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -35222,7 +35222,7 @@ nak5
 <span style="font-weight: bold">音節：</span>nak5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://瘧">瘧</a>」,「<a href="entry://謔">謔</a>」,「<a href="entry://虐">虐</a>」
 </>
 nam1
-<span style="font-weight: bold">音節：</span>nam1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://黮">黮</a>」,「<a href="entry://𦛚">𦛚</a>」
+<span style="font-weight: bold">音節：</span>nam1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://耽">耽</a>」,「<a href="entry://𦛚">𦛚</a>」
 </>
 nam3
 <span style="font-weight: bold">音節：</span>nam3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://揕">揕</a>」
