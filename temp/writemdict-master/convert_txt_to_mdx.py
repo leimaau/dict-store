@@ -68,7 +68,7 @@ def convert_txt_to_mdx(txt_file: Path, output_mdx: Path, output_mdd: Optional[Pa
                         # combined_value += '</div>'
                         if i < len(dictionary[key]):
                             # combined_value += '<hr style="border: 0; border-top: 1px solid #eee; margin: 10px 0;">'
-                            combined_value += ''
+                            combined_value += '<br>'
                     dictionary[key] = combined_value
     except UnicodeDecodeError:
         print(f"Error: {txt_file} is not UTF-8 encoded. Please convert it to UTF-8 first.")
