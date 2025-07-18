@@ -51,26 +51,25 @@ select * from dict_trad_simp_nb_zingjam_bw;
 
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_nbdict_2003.txt
-select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||replace(sour,'2003年侯精一《現代漢語方言音庫(字庫)》','')||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_2003;
+select * from p_nbdict_2003;
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_nbdict_200706.txt
-select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||replace(sour,'2007年李彬《左江土白話研究》','')||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_200706;
+select * from p_nbdict_200706;
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_201806.txt
-select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||' '||expl||' '||note||'chr(10)'||'</>' from tab_nbdict_201806;
+select * from p_nbdict_201806;
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2021.txt
-select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||' '||expl||' '||note||'chr(10)'||'</>' from tab_nbdict_2021;
-
+select * from p_nbdict_2021;
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_nbdict_201703_bw.txt
-select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_201703_bw;
+select * from p_nbdict_201703_bw;
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_nbdict_201705_bw.txt
-select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||replace(sour,'2017年詹伯慧、張振興《漢語方言學大詞典》','')||' '||expl||' '||note||'chr(10)'||'</>' from v_nbdict_201705_bw;
+select * from p_nbdict_201705_bw;
 
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2021_bw.txt
-select trad||'chr(10)'||trad||' '||simp||' '||jyutping||' '||ipa_t||' '||sour||' '||expl||' '||note||'chr(10)'||'</>' from tab_nbdict_2021_bw;
+select * from p_nbdict_2021_bw;
 
 spool E:\LocalRepository\github\dict-store-txt\temp\v_1856yh_single_extend.txt
 select word||'chr(10)'||word||' '||old_jp||' '||old_tone||' '||jyutping||' '||ipa||' '||old_jp_type||' '||old_jp_note||' '||page||' '||expl||'chr(10)'||'</>' from v_1856yh_single_extend;

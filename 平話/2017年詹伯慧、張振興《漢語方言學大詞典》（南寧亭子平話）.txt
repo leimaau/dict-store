@@ -1,2418 +1,3330 @@
-拖
-拖 拖 to1 tʰo53 P244，245  
-</>
-羅
-羅 罗 lo4 lo21 P244，245  
-</>
-歌
-歌 歌 go1 ko53 P244，245  
-</>
-何
-何 何 ho4 ho21 P244，245  
-</>
-左
-左 左 zo2 tʃo33 P244，245  
-</>
-大
-大 大 daai6 tai22 P244，245 ～小 
-</>
-妥
-妥 妥 to2 tʰo33 P244，245  
-</>
-坐
-坐 坐 zu5 tʃu24 P244，245  
-</>
-破
-破 破 pu3 pʰu55 P246，247  
-</>
-課
-課 课 ko3 kʰo55 P246，247  
-</>
-貨
-貨 货 ho3 ho55 P246，247  
-</>
-靴
-靴 靴 hoe1 hœ53 P246，247  
-</>
-巴
-巴 巴 baa1 pa53 P246，247  
-</>
-茶
-茶 茶 zaa4 tʃa21 P246，247  
-</>
-沙
-沙 沙 saa1 ʃa53 P246，247  
-</>
-家
-家 家 gaa1 ka53 P246，247  
-</>
-牙
-牙 牙 njaa4 ȵa21 P246，247  
-</>
-蝦
-蝦 虾 haa1 ha53 P248，249  
-</>
-鴉
-鴉 鸦 aa1 ∅a53 P248，249  
-</>
-下
-下 下 jaa6 ja22 P248，249 等一～ 
-</>
-假
-假 假 gaa2 ka33 P248，249 放～ 
-</>
-斜
-斜 斜 ce4 tʃʰe21 P248，249  
-</>
-蛇
-蛇 蛇 se4 ʃe21 P248，249  
-</>
-社
-社 社 se5 ʃe24 P248，249  
-</>
-惹
-惹 惹 je5 je24 P248，249  
-</>
-野
-野 野 je5 je24 P248，249  
-</>
-謝
-謝 谢 ze6 tʃe22 P250，251  
-</>
-射
-射 射 se6 ʃe22 P250，251  
-</>
-瓜
-瓜 瓜 gwaa1 kʷa53 P250，251  
-</>
-蛙
-蛙 蛙 waa1 wa53 P250，251  
-</>
-瓦
-瓦 瓦 waa5 wa24 P250，251  
-</>
-化
-化 化 waa3 wa55 P250，251  
-</>
-孤
-孤 孤 gu1 ku53 P250，251  
-</>
-烏
-烏 乌 wu1 wu53 P250，251  
-</>
-譜
-譜 谱 pu2 pʰu33 P250，251  
-</>
-簿
-簿 簿 pu6 pʰu22 P252，253  
-</>
-土
-土 土 tu2 tʰu33 P252，253  
-</>
-杜
-杜 杜 du6 tu22 P252，253  
-</>
-肚
-肚 肚 du5 tu24 P252，253 大～子 
-</>
-魯
-魯 鲁 lu5 lu24 P252，253  
-</>
-戶
-戶 户 wu6 wu22 P252，253  
-</>
-苦
-苦 苦 hu2 hu33 P252，253  
-</>
-步
-步 步 bu6 pu22 P252，253  
-</>
-素
-素 素 slu3 ɬu55 P252，253  
-</>
-徐
-徐 徐 zyu4 tʃy21 P254，255  
-</>
-豬
-豬 猪 zyu1 tʃy53 P254，255  
-</>
-初
-初 初 cu1 tʃʰu53 P254，255  
-</>
-如
-如 如 jyu4 jy21 P254，255  
-</>
-餘
-餘 余 hi4 hi21 P254，255 多～ 
-</>
-扶
-扶 扶 fu4 fu21 P254，255  
-</>
-殊
-殊 殊 syu4 ʃy21 P254，255  
-</>
-拘
-拘 拘 kyu1 kʰy53 P254，255  
-</>
-女
-女 女 nyu5 ny24 P254，255  
-</>
-呂
-呂 吕 lyu5 ly24 P256，257  
-</>
-序
-序 序 zyu6 tʃy22 P256，257  
-</>
-楚
-楚 楚 cu2 tʃʰu33 P256，257  
-</>
-煮
-煮 煮 zyu2 tʃy33 P256，257  
-</>
-舉
-舉 举 gyu2 ky33 P256，257  
-</>
-許
-許 许 hyu2 hy33 P256，257  
-</>
-腐
-腐 腐 fu6 fu22 P256，257  
-</>
-武
-武 武 fu5 fu24 P256，257  
-</>
-取
-取 取 cu2 tʃʰu33 P256，257  
-</>
-柱
-柱 柱 zyu5 tʃy24 P258，259  
-</>
-助
-助 助 zo6 tʃo22 P258，259  
-</>
-數
-數 数 su3 ʃu55 P258，259 名詞 
-</>
-句
-句 句 gyu3 ky55 P258，259  
-</>
-樹
-樹 树 syu6 ʃy22 P258，259  
-</>
-芋
-芋 芋 jyu6 jy22 P258，259  
-</>
-災
-災 灾 zaai1 tʃai53 P258，259  
-</>
-哀
-哀 哀 aai1 ∅ai53 P258，259  
-</>
-採
-採 采 caai2 tʃʰai33 P258，259  
-</>
-在
-在 在 zaai6 tʃai22 P260，261  
-</>
-改
-改 改 gaai2 kai33 P260，261  
-</>
-海
-海 海 haai2 hai33 P260，261  
-</>
-亥
-亥 亥 haai6 hai22 P260，261  
-</>
-代
-代 代 daai6 tai22 P260，261  
-</>
-耐
-耐 耐 naai6 nai22 P260，261  
-</>
-再
-再 再 zaai3 tʃai55 P260，261  
-</>
-賽
-賽 赛 saai3 ʃai55 P260，261  
-</>
-貝
-貝 贝 bui3 pui55 P260，261  
-</>
-泰
-泰 泰 taai3 tʰai55 P262，263  
-</>
-賴
-賴 赖 laai6 lai22 P262，263  
-</>
-蔡
-蔡 蔡 caai3 tʃʰai55 P262，263  
-</>
-艾
-艾 艾 ngaai6 ŋai22 P262，263  
-</>
-害
-害 害 haai6 hai22 P262，263  
-</>
-齋
-齋 斋 zaai1 tʃai53 P262，263  
-</>
-捱
-捱 挨 ngaai4 ŋai21 P262，263 ～近 
-</>
-牌
-牌 牌 baai4 pai21 P262，263  
-</>
-柴
-柴 柴 saai4 ʃai21 P262，263  
-</>
-街
-街 街 gaai1 kai53 P264，265  
-</>
-鞋
-鞋 鞋 haai4 hai21 P264，265  
-</>
-崖
-崖 崖 ngaai4 ŋai21 P264，265  
-</>
-楷
-楷 楷 gaai2 kai33 P264，265  
-</>
-解
-解 解 gaai2 kai33 P264，265  
-</>
-矮
-矮 矮 ai2 ∅ɐi33 P264，265  
-</>
-拜
-拜 拜 baai3 pai55 P264，265  
-</>
-界
-界 界 gaai3 kai55 P264，265  
-</>
-派
-派 派 paai3 pʰai55 P264，265  
-</>
-債
-債 债 zaai3 tʃai55 P266，267  
-</>
-敗
-敗 败 baai6 pai22 P266，267  
-</>
-寨
-寨 寨 zaai6 tʃai22 P266，267  
-</>
-弊
-弊 弊 bi6 pi22 P266，267  
-</>
-例
-例 例 lai6 lɐi22 P266，267  
-</>
-祭
-祭 祭 zai3 tʃɐi55 P266，267  
-</>
-世
-世 世 si3 ʃi55 P266，267  
-</>
-藝
-藝 艺 nji6 ȵi22 P266，267  
-</>
-堤
-堤 堤 dai4 tɐi21 P266，267  
-</>
-犁
-犁 犁 lai4 lɐi21 P268，269  
-</>
-西
-西 西 slai1 ɬɐi53 P268，269  
-</>
-溪
-溪 溪 kai1 kʰɐi53 P268，269  
-</>
-米
-米 米 mai5 mɐi24 P268，269  
-</>
-底
-底 底 dai2 tɐi33 P268，269  
-</>
-洗
-洗 洗 slai2 ɬɐi33 P268，269  
-</>
-閉
-閉 闭 bai3 pɐi55 P268，269  
-</>
-計
-計 计 gi3 ki55 P268，269  
-</>
-係
-係 系 hi3 hi55 P268，269 關～ 
-</>
-梅
-梅 梅 mui4 mui21 P270，271  
-</>
-堆
-堆 堆 dui1 tui53 P270，271  
-</>
-推
-推 推 tui1 tʰui53 P270，271  
-</>
-灰
-灰 灰 hui1 hui53 P270，271  
-</>
-倍
-倍 倍 bui5 pui24 P270，271  
-</>
-罪
-罪 罪 zui6 tʃui22 P270，271  
-</>
-匯
-匯 汇 wai6 wɐi22 P270，271 ～總 
-</>
-退
-退 退 tui3 tʰui55 P270，271  
-</>
-內
-內 内 nui4 nui21 P272，273  
-</>
-累
-累 累 lui6 lui22 P272，273 勞～ 
-</>
-兌
-兌 兑 dui3 tui55 P272，273  
-</>
-最
-最 最 zui3 tʃui55 P272，273  
-</>
-外
-外 外 waai6 wai22 P272，273  
-</>
-乖
-乖 乖 gwaai1 kʷai53 P272，273  
-</>
-壞
-壞 坏 waai6 wai22 P272，273  
-</>
-掛
-掛 挂 gwaa3 kʷa55 P272，273  
-</>
-畫
-畫 画 waa6 wa22 P274，275  
-</>
-快
-快 快 waai3 wai55 P274，275  
-</>
-話
-話 话 waa6 wa22 P274，275  
-</>
-脆
-脆 脆 cui3 tʃʰui55 P274，275  
-</>
-歲
-歲 岁 slui3 ɬui55 P274，275  
-</>
-稅
-稅 税 sui3 ʃui55 P274，275  
-</>
-衛
-衛 卫 wui6 wui22 P274，275  
-</>
-肺
-肺 肺 fi3 fi55 P274，275  
-</>
-桂
-桂 桂 gwai3 kʷɐi55 P276，277  
-</>
-惠
-惠 惠 wui6 wui22 P276，277  
-</>
-碑
-碑 碑 bui1 pui53 P276，277  原文如此，疑誤
-</>
-披
-披 披 pi1 pʰi53 P276，277  
-</>
-皮
-皮 皮 bi4 pi21 P276，277  
-</>
-離
-離 离 li6 li22 P276，277 ～別 
-</>
-斯
-斯 斯 sli1 ɬi53 P276，277  
-</>
-知
-知 知 zi1 tʃi53 P276，277  
-</>
-施
-施 施 si1 ʃi53 P276，277  
-</>
-匙
-匙 匙 zi4 tʃi21 P278，279  
-</>
-奇
-奇 奇 gi4 ki21 P278，279  
-</>
-遲
-遲 迟 zi4 tʃi21 P278，279  
-</>
-師
-師 师 sai1 ʃɐi53 P278，279  
-</>
-獅
-獅 狮 sai1 ʃɐi53 P278，279  
-</>
-姨
-姨 姨 ji4 ji21 P278，279  
-</>
-辭
-辭 辞 zi4 tʃi21 P278，279  
-</>
-時
-時 时 si4 ʃi21 P278，279  
-</>
-疑
-疑 疑 ni4 ni21 P280，281  
-</>
-希
-希 希 hi1 hi53 P280，281  
-</>
-衣
-衣 衣 ji1 ji53 P280，281  
-</>
-彼
-彼 彼 bi2 pi33 P280，281  
-</>
-爾
-爾 尔 nji6 ȵi22 P280，281  
-</>
-比
-比 比 bi2 pi33 P280，281  
-</>
-指
-指 指 zi2 tʃi33 P280，281  
-</>
-李
-李 李 li5 li24 P280，281  
-</>
-恥
-恥 耻 ci2 tʃʰi33 P280，281  
-</>
-士
-士 士 si6 ʃi22 P282，283  
-</>
-齒
-齒 齿 zi2 tʃi33 P282，283  
-</>
-喜
-喜 喜 hi2 hi33 P282，283  
-</>
-賜
-賜 赐 ci3 tʃʰi55 P282，283  
-</>
-義
-義 义 nji6 ȵi22 P282，283  
-</>
-戲
-戲 戏 hi3 hi55 P282，283  
-</>
-備
-備 备 bi6 pi22 P282，283  
-</>
-鼻
-鼻 鼻 bat6 pɐt2 P282，283  
-</>
-地
-地 地 di6 ti22 P282，283  
-</>
-利
-利 利 li6 li22 P284，285  
-</>
-自
-自 自 zi6 tʃi22 P284，285  
-</>
-視
-視 视 si6 ʃi22 P284，285  
-</>
-貳
-貳 贰 nji6 ȵi22 P284，285  
-</>
-器
-器 器 hi3 hi55 P284，285  
-</>
-字
-字 字 zi6 tʃi22 P284，285  
-</>
-治
-治 治 zi6 tʃi22 P284，285  
-</>
-事
-事 事 sai6 ʃɐi22 P284，285  
-</>
-忌
-忌 忌 gi6 ki22 P284，285  
-</>
-意
-意 意 ji3 ji55 P286，287  
-</>
-氣
-氣 气 hi3 hi55 P286，287  
-</>
-隨
-隨 随 zui4 tʃui21 P286，287  
-</>
-垂
-垂 垂 sui4 ʃui21 P286，287  
-</>
-虧
-虧 亏 kwai1 kʷʰɐi53 P286，287  
-</>
-雖
-雖 虽 slui1 ɬui53 P286，287  
-</>
-追
-追 追 zui1 tʃui53 P286，287  
-</>
-衰
-衰 衰 sui1 ʃui53 P286，287  
-</>
-誰
-誰 谁 sui4 ʃui21 P286，287  
-</>
-肥
-肥 肥 fi4 fi21 P288，289  
-</>
-歸
-歸 归 gwai1 kʷɐi53 P288，289  
-</>
-徽
-徽 徽 kwai1 kʷʰɐi53 P288，289  
-</>
-圍
-圍 围 wai4 wɐi21 P288，289  
-</>
-蕊
-蕊 蕊 njui3 ȵui55 P288，289  
-</>
-跪
-跪 跪 gwai6 kʷɐi22 P288，289  
-</>
-毀
-毀 毁 wai2 wɐi33 P288，289  
-</>
-委
-委 委 wuai2 wuɐi33 P288，289  
-</>
-水
-水 水 sui2 ʃui33 P288，289  
-</>
-瑞
-瑞 瑞 sui6 ʃui22 P290，291  
-</>
-類
-類 类 lui6 lui22 P290，291  
-</>
-翠
-翠 翠 cui3 tʃʰui55 P290，291  
-</>
-季
-季 季 gwai3 kʷɐi55 P290，291  
-</>
-位
-位 位 wui6 wui22 P290，291  
-</>
-櫃
-櫃 柜 gwai6 kʷɐi22 P290，291  
-</>
-費
-費 费 fi3 fi55 P290，291  
-</>
-味
-味 味 mi6 mi22 P290，291  
-</>
-袍
-袍 袍 baau4 pau21 P290，291  
-</>
-刀
-刀 刀 daau1 tau53 P292，293  
-</>
-勞
-勞 劳 laau4 lau21 P292，293  
-</>
-毫
-毫 毫 haau4 hau21 P292，293  
-</>
-腦
-腦 脑 naau5 nau24 P292，293  
-</>
-草
-草 草 caau2 tʃʰau33 P292，293  
-</>
-造
-造 造 zaau5 tʃau24 P292，293  
-</>
-襖
-襖 袄 ngaau2 ŋau33 P292，293  
-</>
-報
-報 报 baau3 pau55 P292，293  
-</>
-告
-告 告 gaau3 kau55 P292，293  
-</>
-敲
-敲 敲 haau3 hau55 P294，295  
-</>
-炒
-炒 炒 caau2 tʃʰau33 P294，295  
-</>
-攪
-攪 搅 geu2 kɛu33 P294，295 亂～ 
-</>
-咬
-咬 咬 njaau5 ȵau24 P294，295  
-</>
-炮
-炮 炮 paau3 pʰau55 P294，295 槍～ 
-</>
-貌
-貌 貌 maau6 mau22 P294，295  
-</>
-鬧
-鬧 闹 naau6 nau22 P294，295  
-</>
-罩
-罩 罩 zaau3 tʃau55 P294，295  
-</>
-孝
-孝 孝 haau3 hau55 P294，295  
-</>
-飄
-飄 飘 piu1 pʰiu53 P296，297  
-</>
-燎
-燎 燎 liu4 liu21 P296，297  
-</>
-消
-消 消 sliu1 ɬiu53 P296，297  
-</>
-饒
-饒 饶 jiu4 jiu21 P296，297  
-</>
-妖
-妖 妖 jiu1 jiu53 P296，297  
-</>
-搖
-搖 摇 jiu4 jiu21 P296，297  
-</>
-趙
-趙 赵 ziu6 tʃiu22 P296，297  
-</>
-紹
-紹 绍 siu6 ʃiu22 P296，297  
-</>
-轎
-轎 轿 giu6 kiu22 P296，297  
-</>
-條
-條 条 diu4 tiu21 P298，299  
-</>
-蕭
-蕭 萧 sliu1 ɬiu53 P298，299  
-</>
-堯
-堯 尧 jiu4 jiu21 P298，299  
-</>
-鳥
-鳥 鸟 diu2 tiu33 P298，299  
-</>
-繳
-繳 缴 giu2 kiu33 P298，299  
-</>
-溝
-溝 沟 gau1 kɐu53 P298，299  
-</>
-曉
-曉 晓 hiu2 hiu33 P298，299  
-</>
-跳
-跳 跳 tiu3 tʰiu55 P298，299  
-</>
-歐
-歐 欧 au1 ∅ɐu53 P300，301  
-</>
-母
-母 母 mu5 mu24 P300，301  
-</>
-某
-某 某 mau4 mɐu21 P300，301  
-</>
-口
-口 口 hau2 hɐu33 P300，301  
-</>
-藕
-藕 藕 ngau5 ŋɐu24 P300，301  
-</>
-厚
-厚 厚 hau5 hɐu24 P300，301  
-</>
-豆
-豆 豆 dau6 tɐu22 P300，301  
-</>
-漏
-漏 漏 lau6 lɐu22 P300，301  
-</>
-湊
-湊 凑 cau3 tʃʰɐu55 P300，301  
-</>
-浮
-浮 浮 bu4 pu21 P302，303  
-</>
-秋
-秋 秋 cau1 tʃʰɐu53 P302，303  
-</>
-囚
-囚 囚 zau4 tʃɐu21 P302，303  
-</>
-綢
-綢 绸 zau4 tʃɐu21 P302，303  
-</>
-愁
-愁 愁 sau4 ʃɐu21 P302，303  
-</>
-周
-周 周 zau1 tʃɐu53 P302，303  
-</>
-仇
-仇 仇 sau4 ʃɐu21 P302，303 報～ 
-</>
-糾
-糾 纠 gau1 kɐu53 P302，303  
-</>
-休
-休 休 jau1 jɐu53 P304，305  
-</>
-憂
-憂 忧 jau1 jɐu53 P304，305  
-</>
-由
-由 由 jau4 jɐu21 P304，305  
-</>
-彪
-彪 彪 biu1 piu53 P304，305  
-</>
-婦
-婦 妇 fu6 fu22 P304，305  
-</>
-紐
-紐 纽 nau2 nɐu33 P304，305  
-</>
-舅
-舅 舅 gau5 kɐu24 P304，305  
-</>
-副
-副 副 fu3 fu55 P304，305  
-</>
-秀
-秀 秀 slau3 ɬɐu55 P304，305  
-</>
-瘦
-瘦 瘦 sau3 ʃɐu55 P306，307  
-</>
-壽
-壽 寿 sau6 ʃɐu22 P306，307  
-</>
-救
-救 救 gau2 kɐu33 P306，307  
-</>
-謬
-謬 谬 mau6 mɐu22 P306，307  原文誤作[meu22]
-</>
-幼
-幼 幼 jau3 jɐu55 P306，307  
-</>
-貪
-貪 贪 taam1 tʰam53 P306，307  
-</>
-潭
-潭 潭 daam4 tam21 P306，307  
-</>
-南
-南 南 naam4 nam21 P306，307  
-</>
-含
-含 含 haam4 ham21 P306，307  
-</>
-庵
-庵 庵 aam1 ∅am53 P308，309  
-</>
-談
-談 谈 daam4 tam21 P308，309  
-</>
-藍
-藍 蓝 laam4 lam21 P308，309  
-</>
-慘
-慘 惨 caam2 tʃʰam33 P308，309  
-</>
-感
-感 感 gaam2 kam33 P308，309  
-</>
-敢
-敢 敢 gaam2 kam33 P308，309  
-</>
-暫
-暫 暂 zaan6 tʃan22 P308，309  
-</>
-答
-答 答 daap2 tap3 P308，309  
-</>
-踏
-踏 踏 daap6 tap2 P310，311  
-</>
-納
-納 纳 naap5 nap24 P310，311  
-</>
-雜
-雜 杂 zaap6 tʃap2 P310，311  
-</>
-鴿
-鴿 鸽 gaap2 kap3 P310，311  
-</>
-合
-合 合 haap6 hap2 P310，311 ～作 
-</>
-塔
-塔 塔 taap2 tʰap3 P310，311  
-</>
-臘
-臘 腊 laap5 lap24 P310，311  
-</>
-衫
-衫 衫 saam1 ʃam53 P310，311  
-</>
-監
-監 监 gaam1 kam53 P310，311  
-</>
-銜
-銜 衔 haam4 ham21 P312，313  
-</>
-斬
-斬 斩 zaam2 tʃam33 P312，313  
-</>
-減
-減 减 gaam2 kam33 P312，313  
-</>
-站
-站 站 zaam6 tʃam22 P312，313  
-</>
-陷
-陷 陷 haam6 ham22 P312，313  
-</>
-劄
-劄 劄 zaa2 tʃa33 P312，313 ～針 原文如此，疑誤，應是[tsap3]
-</>
-插
-插 插 caap2 tʃʰap3 P312，313  
-</>
-閘
-閘 闸 zaap6 tʃap2 P312，313  
-</>
-狹
-狹 狭 jaap2 jap3 P314，315  
-</>
-甲
-甲 甲 gaap2 kap3 P314，315  
-</>
-壓
-壓 压 aat2 ∅at3 P314，315  
-</>
-廉
-廉 廉 lim4 lim21 P314，315  
-</>
-鹽
-鹽 盐 jim4 jim21 P314，315  
-</>
-嚴
-嚴 严 jim4 jim21 P314，315  
-</>
-醃
-醃 腌 jip2 jip3 P314，315  
-</>
-貶
-貶 贬 ben2 pɛn33 P316，317  
-</>
-漸
-漸 渐 zim6 tʃim22 P316，317  
-</>
-閃
-閃 闪 sim2 ʃim33 P316，317  
-</>
-染
-染 染 jim5 jim24 P316，317  
-</>
-檢
-檢 检 gim2 kim33 P316，317  
-</>
-險
-險 险 him2 him33 P316，317  
-</>
-驗
-驗 验 nim6 nim22 P316，317  
-</>
-厭
-厭 厌 jim3 jim55 P316，317  
-</>
-欠
-欠 欠 him3 him55 P318，319  
-</>
-接
-接 接 zip2 tʃip3 P318，319  
-</>
-涉
-涉 涉 sip6 ʃip2 P318，319  
-</>
-葉
-葉 叶 jip5 jip24 P318，319 樹～ 
-</>
-怯
-怯 怯 hip2 hip3 P318，319  
-</>
-業
-業 业 nip5 nip24 P318，319  
-</>
-脅
-脅 胁 hip2 hip3 P318，319  
-</>
-甜
-甜 甜 dim4 tim21 P318，319  
-</>
-兼
-兼 兼 gim1 kim53 P320，321  
-</>
-嫌
-嫌 嫌 jim4 jim21 P320，321  
-</>
-店
-店 店 dim3 tim55 P320，321  
-</>
-念
-念 念 nim6 nim22 P320，321  
-</>
-帖
-帖 帖 tip2 tʰip3 P320，321  
-</>
-協
-協 协 hip6 hip2 P320，321  
-</>
-凡
-凡 凡 faan4 fan21 P320，321  
-</>
-范
-范 范 faan3 fan55 P320，321 姓 
-</>
-範
-範 范 faan3 fan55 P320，321 模～ 
-</>
-法
-法 法 faat2 fat3 P322，323  
-</>
-林
-林 林 lam4 lɐm21 P322，323  
-</>
-侵
-侵 侵 cam1 tʃʰɐm53 P322，323  
-</>
-心
-心 心 slam1 ɬɐm53 P322，323  
-</>
-尋
-尋 寻 zam4 tʃɐm21 P322，323  
-</>
-沉
-沉 沉 zam4 tʃɐm21 P322，323  
-</>
-森
-森 森 sam1 ʃɐm53 P322，323  
-</>
-深
-深 深 sam1 ʃɐm53 P322，323  
-</>
-壬
-壬 壬 njam4 ȵɐm21 P322，323  
-</>
-金
-金 金 gam1 kɐm53 P324，325  
-</>
-欽
-欽 钦 ham1 hɐm53 P324，325  
-</>
-音
-音 音 jam1 jɐm53 P324，325  
-</>
-審
-審 审 sam2 ʃɐm33 P324，325  
-</>
-立
-立 立 lap5 lɐp24 P324，325  
-</>
-集
-集 集 zap6 tʃɐp2 P324，325  
-</>
-習
-習 习 zap6 tʃɐp2 P324，325  
-</>
-十
-十 十 sap6 ʃɐp2 P326，327  
-</>
-入
-入 入 jap5 jɐp24 P326，327  
-</>
-及
-及 及 gap6 kɐp2 P326，327  
-</>
-吸
-吸 吸 kap2 kʰɐp3 P326，327  
-</>
-單
-單 单 daan1 tan53 P326，327  
-</>
-難
-難 难 naan4 nan21 P326，327 ～易 
-</>
-餐
-餐 餐 caan1 tʃʰan53 P326，327  
-</>
-肝
-肝 肝 gaan1 kan53 P326，327  
-</>
-刊
-刊 刊 haan1 han53 P326，327  
-</>
-安
-安 安 aan1 ∅an53 P328，329  
-</>
-贊
-贊 赞 zaan3 tʃan55 P328，329  
-</>
-漢
-漢 汉 haan3 han55 P328，329  
-</>
-達
-達 达 daat6 tat2 P328，329  
-</>
-辣
-辣 辣 laat5 lat24 P328，329  
-</>
-擦
-擦 擦 caat2 tʃʰat3 P328，329  
-</>
-割
-割 割 get2 kɛt3 P328，329  
-</>
-山
-山 山 saan1 ʃan53 P328，329  
-</>
-艱
-艱 艰 gaan1 kan53 P330，331  
-</>
-間
-間 间 gaan1 kan53 P330，331 房～ 
-</>
-閑
-閑 闲 haan4 han21 P330，331  
-</>
-刪
-刪 删 saan1 ʃan53 P330，331  
-</>
-奸
-奸 奸 gaan1 kan53 P330，331  
-</>
-產
-產 产 caan2 tʃʰan33 P330，331  
-</>
-簡
-簡 简 gaan2 kan33 P330，331  
-</>
-板
-板 板 baan2 pan33 P330，331  
-</>
-辦
-辦 办 baan6 pan22 P330，331  
-</>
-慢
-慢 慢 maan6 man22 P332，333  
-</>
-晏
-晏 晏 aan3 ∅an55 P332，333  
-</>
-察
-察 察 caat2 tʃʰat3 P332，333  
-</>
-殺
-殺 杀 saat2 ʃat3 P332，333  
-</>
-拔
-拔 拔 baat6 pat2 P332，333  
-</>
-瞎
-瞎 瞎 jaat2 jat3 P332，333  
-</>
-棉
-棉 棉 min4 min21 P332，333  
-</>
-聯
-聯 联 lyun4 lyn21 P334，335  
-</>
-錢
-錢 钱 zin4 tʃin21 P334，335  
-</>
-蟬
-蟬 蝉 sim4 ʃim21 P334，335  
-</>
-然
-然 然 jyun4 jyn21 P334，335  
-</>
-言
-言 言 njyun4 ȵyn21 P334，335  
-</>
-掀
-掀 掀 ham1 hɐm53 P334，335  讀同「欽」
-</>
-辨
-辨 辨 bin6 pin22 P334，335  
-</>
-剪
-剪 剪 zin2 tʃin33 P334，335  
-</>
-展
-展 展 zyun2 tʃyn33 P334，335  
-</>
-件
-件 件 gyun6 kyn22 P336，337  
-</>
-演
-演 演 jim2 jim33 P336，337  
-</>
-扇
-扇 扇 sin3 ʃin55 P336，337 ～子 
-</>
-健
-健 健 gin6 kin22 P336，337  
-</>
-憲
-憲 宪 hin3 hin55 P336，337  
-</>
-滅
-滅 灭 mit5 mit24 P336，337  
-</>
-列
-列 列 lyut5 lyt24 P336，337  
-</>
-薛
-薛 薛 slyut2 ɬyt3 P336，337  
-</>
-徹
-徹 彻 cit2 tʃʰit3 P336，337  
-</>
-設
-設 设 syut2 ʃyt3 P338，339  
-</>
-熱
-熱 热 njit5 ȵit24 P338，339  
-</>
-傑
-傑 杰 gyut6 kyt2 P338，339  
-</>
-揭
-揭 揭 kit2 kʰit3 P338，339  
-</>
-歇
-歇 歇 hyut2 hyt3 P338，339  
-</>
-邊
-邊 边 bin1 pin53 P338，339  
-</>
-年
-年 年 nin4 nin21 P338，339  
-</>
-千
-千 千 cin1 tʃʰin53 P338，339  
-</>
-前
-前 前 zin4 tʃin21 P340，341  
-</>
-堅
-堅 坚 gyun1 kyn53 P340，341  
-</>
-煙
-煙 烟 jyun1 jyn53 P340，341  
-</>
-典
-典 典 dem2 tɛm33 P340，341  
-</>
-顯
-顯 显 hyun2 hyn33 P340，341  
-</>
-遍
-遍 遍 bin3 pin55 P340，341 ～佈 
-</>
-片
-片 片 pin3 pʰin55 P340，341  
-</>
-撇
-撇 撇 pit2 pʰit3 P340，341  
-</>
-鐵
-鐵 铁 tit2 tʰit3 P340，341  
-</>
-節
-節 节 zit2 tʃit3 P342，343  
-</>
-結
-結 结 gyut2 kyt3 P342，343  
-</>
-團
-團 团 dun4 tun21 P342，343  
-</>
-官
-官 官 gun1 kun53 P342，343  
-</>
-歡
-歡 欢 hun1 hun53 P342，343  
-</>
-完
-完 完 waan4 wan21 P342，343  
-</>
-伴
-伴 伴 bun5 pun24 P342，343  
-</>
-碗
-碗 碗 wun2 wun33 P342，343  
-</>
-叛
-叛 叛 bun6 pun22 P344，345  
-</>
-亂
-亂 乱 lun6 lun22 P344，345  
-</>
-算
-算 算 slun3 ɬun55 P344，345  
-</>
-換
-換 换 wan3 wɐn55 P344，345  
-</>
-潑
-潑 泼 put2 pʰut3 P344，345  
-</>
-脫
-脫 脱 tut2 tʰut3 P344，345  
-</>
-闊
-闊 阔 hut2 hut3 P344，345  
-</>
-活
-活 活 wat6 wɐt2 P344，345  
-</>
-閂
-閂 闩 saan1 ʃan53 P346，347  
-</>
-環
-環 环 waan4 wan21 P346，347  
-</>
-還
-還 还 waan4 wan21 P346，347 ～原 
-</>
-彎
-彎 弯 waan1 wan53 P346，347  
-</>
-幻
-幻 幻 waan6 wan22 P346，347  
-</>
-慣
-慣 惯 gwaan3 kʷan55 P346，347  
-</>
-滑
-滑 滑 waat6 wat2 P346，347  
-</>
-挖
-挖 挖 wet2 wɛt3 P346，347  
-</>
-刮
-刮 刮 gwaat2 kʷat3 P346，347  
-</>
-全
-全 全 zyun4 tʃyn21 P348，349  
-</>
-權
-權 权 gyun4 kyn21 P348，349  
-</>
-船
-船 船 syun4 ʃyn21 P348，349  
-</>
-鉛
-鉛 铅 jyun4 jyn21 P348，349  
-</>
-翻
-翻 翻 faan1 fan53 P348，349  
-</>
-元
-元 元 jyun4 jyn21 P348，349  
-</>
-選
-選 选 slyun2 ɬyn33 P348，349  
-</>
-轉
-轉 转 zyun3 tʃyn55 P348，349  
-</>
-軟
-軟 软 njyun5 ȵyn24 P348，349  
-</>
-晚
-晚 晚 maan5 man24 P350，351  
-</>
-遠
-遠 远 jyun5 jyn24 P350，351  
-</>
-戀
-戀 恋 lin6 lin22 P350，351  
-</>
-院
-院 院 jyun6 jyn22 P350，351  
-</>
-劣
-劣 劣 lyut2 lyt3 P350，351  
-</>
-絕
-絕 绝 zyut2 tʃyt3 P350，351  
-</>
-閱
-閱 阅 jyut5 jyt24 P350，351  
-</>
-髮
-髮 发 faat2 fat3 P350，351 頭～ 
-</>
-襪
-襪 袜 maat5 mat24 P352，353  
-</>
-掘
-掘 掘 gwat6 kʷɐt2 P352，353  
-</>
-月
-月 月 njyut5 ȵyt24 P352，353  
-</>
-越
-越 越 njyut5 ȵyt24 P352，353  
-</>
-玄
-玄 玄 jyun4 jyn21 P352，353  
-</>
-淵
-淵 渊 jyun1 jyn53 P352，353  
-</>
-犬
-犬 犬 hyun2 hyn33 P352，353  
-</>
-縣
-縣 县 jyun6 jyn22 P352，353  
-</>
-決
-決 决 kyut2 kʰyt3 P352，353  
-</>
-缺
-缺 缺 kyut2 kʰyt3 P354，355  
-</>
-血
-血 血 hyut2 hyt3 P354，355  
-</>
-穴
-穴 穴 jyut5 jyt24 P354，355  
-</>
-吞
-吞 吞 tan1 tʰɐn53 P354，355  
-</>
-跟
-跟 跟 gan1 kɐn53 P354，355  
-</>
-恩
-恩 恩 an1 ∅ɐn53 P354，355  
-</>
-恨
-恨 恨 han6 hɐn22 P354，355  
-</>
-貧
-貧 贫 ban4 pɐn21 P354，355  
-</>
-鄰
-鄰 邻 lan4 lɐn21 P354，355  
-</>
-津
-津 津 zan1 tʃɐn53 P356，357  
-</>
-新
-新 新 slan1 ɬɐn53 P356，357  
-</>
-陳
-陳 陈 zan4 tʃɐn21 P356，357  
-</>
-神
-神 神 san4 ʃɐn21 P356，357  
-</>
-身
-身 身 san1 ʃɐn53 P356，357  
-</>
-巾
-巾 巾 gan1 kɐn53 P356，357  
-</>
-銀
-銀 银 ngan4 ŋɐn21 P356，357  
-</>
-因
-因 因 an1 ∅ɐn53 P356，357  
-</>
-欣
-欣 欣 han1 hɐn53 P356，357  
-</>
-敏
-敏 敏 man5 mɐn24 P358，359  
-</>
-忍
-忍 忍 jan5 jɐn24 P358，359  
-</>
-近
-近 近 gan5 kɐn24 P358，359  
-</>
-信
-信 信 slan3 ɬɐn55 P358，359  
-</>
-襯
-襯 衬 can3 tʃʰɐn55 P358，359  
-</>
-必
-必 必 bit2 pit3 P358，359  
-</>
-匹
-匹 匹 pat2 pʰɐt3 P358，359  
-</>
-栗
-栗 栗 sloek2 ɬœk3 P358，359  
+丁
+【丁】 ding1 [teŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[teŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>姓</li></ul>
 </>
 七
-七 七 cat2 tʃʰɐt3 P358，359  
+【七】 cat2 [tʃʰɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[tsʰət3]</li></ul>
 </>
-侄
-侄 侄 zat6 tʃɐt2 P360，361  
+下
+【下】 jaa6 [ja22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[ia22]</li><li><span style="font-weight: bold">詞例、解釋：</span>等一～</li></ul>
 </>
-質
-質 质 zat3 tʃɐt5 P360，361 ～量 原文如此，疑誤
+世
+【世】 si3 [ʃi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[si55]</li></ul>
 </>
-日
-日 日 njat5 ȵɐt24 P360，361  
+业
+@@@LINK=業
 </>
-吉
-吉 吉 gat2 kɐt3 P360，361  
-</>
-乞
-乞 乞 hat3 hɐt5 P360，361  
-</>
-存
-存 存 zon4 tʃon21 P360，361  
-</>
-孫
-孫 孙 slun1 ɬun53 P360，361  
-</>
-昏
-昏 昏 wan1 wɐn53 P360，361  
-</>
-溫
-溫 温 wan1 wɐn53 P360，361  
-</>
-本
-本 本 bun2 pun33 P362，363  
-</>
-滾
-滾 滚 gwan2 kʷɐn33 P362，363  
-</>
-頓
-頓 顿 dan3 tɐn55 P362，363  
-</>
-論
-論 论 lan6 lɐn22 P362，363  
-</>
-突
-突 突 dat6 tɐt2 P362，363  
-</>
-卒
-卒 卒 zat2 tʃɐt3 P362，363  
-</>
-骨
-骨 骨 gwat2 kʷɐt3 P362，363  
-</>
-倫
-倫 伦 lan4 lɐn21 P362，363  
-</>
-旬
-旬 旬 slan4 ɬɐn21 P364，365  
-</>
-春
-春 春 can1 tʃʰɐn53 P364，365  
-</>
-脣
-脣 唇 san4 ʃɐn21 P364，365  
-</>
-均
-均 均 gwan1 kʷɐn53 P364，365  
-</>
-分
-分 分 fan1 fɐn53 P364，365 ～開 
-</>
-文
-文 文 man1 mɐn53 P364，365  
-</>
-軍
-軍 军 gwan1 kʷɐn53 P364，365  
-</>
-雲
-雲 云 wan4 wɐn21 P364，365  
-</>
-筍
-筍 笋 slan2 ɬɐn33 P364，365  
-</>
-允
-允 允 wan2 wɐn33 P366，367  
-</>
-粉
-粉 粉 fan2 fɐn33 P366，367  
-</>
-順
-順 顺 san6 ʃɐn22 P366，367  
-</>
-閏
-閏 闰 njan6 ȵɐn22 P366，367  
-</>
-訓
-訓 训 wan3 wɐn55 P366，367  
-</>
-律
-律 律 lat5 lɐt24 P366，367  
-</>
-戌
-戌 戌 slat2 ɬɐt3 P366，367  
-</>
-出
-出 出 cat2 tʃʰɐt3 P366，367  
-</>
-術
-術 术 sat6 ʃɐt2 P366，367 算～ 
-</>
-佛
-佛 佛 fat6 fɐt2 P368，369  
-</>
-物
-物 物 fat5 fɐt24 P368，369  
-</>
-屈
-屈 屈 wat2 wɐt3 P368，369  
-</>
-當
-當 当 daang1 taŋ53 P368，369 應～ 
-</>
-桑
-桑 桑 slaang1 ɬaŋ53 P368，369  
-</>
-行
-行 行 hiang4 hiɐŋ21 P368，369 銀～ 
-</>
-榜
-榜 榜 bung2 poŋ33 P368，369  
-</>
-浪
-浪 浪 laang6 laŋ22 P368，369  
-</>
-抗
-抗 抗 kaang3 kʰaŋ55 P368，369  
-</>
-莫
-莫 莫 moek5 mœk24 P370，371  
-</>
-託
-託 托 taak2 tʰak3 P370，371 委～ 
-</>
-洛
-洛 洛 laak5 lak24 P370，371  
-</>
-作
-作 作 zaak2 tʃak3 P370，371  
-</>
-各
-各 各 gaak2 kak3 P370，371  
-</>
-鶴
-鶴 鹤 haak6 hak2 P370，371  
-</>
-惡
-惡 恶 aak2 ∅ak3 P370，371 善～ 
-</>
-娘
-娘 娘 niang4 niɐŋ21 P370，371  
-</>
-祥
-祥 祥 ziang4 tʃiɐŋ21 P370，371  
-</>
-張
-張 张 ziang1 tʃiɐŋ53 P372，373  
-</>
-莊
-莊 庄 zaang1 tʃaŋ53 P372，373  
-</>
-牀
-牀 床 saang4 ʃaŋ21 P372，373  
-</>
-常
-常 常 siang4 ʃiɐŋ21 P372，373  
-</>
-香
-香 香 hiang1 hiɐŋ53 P372，373  
-</>
-羊
-羊 羊 jang4 jɐŋ21 P372，373  
-</>
-仰
-仰 仰 ngiang5 ŋiɐŋ24 P372，373  
-</>
-亮
-亮 亮 liang6 liɐŋ22 P372，373  
-</>
-唱
-唱 唱 ciang3 tʃʰiɐŋ55 P372，373  
-</>
-讓
-讓 让 ngiang6 ŋiɐŋ22 P374，375  
-</>
-雀
-雀 雀 ciak2 tʃʰiɐk3 P374，375  
-</>
-削
-削 削 sliak2 ɬiɐk3 P374，375  
-</>
-着
-着 着 ziak2 tʃiɐk3 P374，375 衣～ 
-</>
-弱
-弱 弱 ngiak5 ŋiɐk24 P374，375  原文誤作[ɲiek23]
-</>
-約
-約 约 jik2 jek3 P374，375  
-</>
-光
-光 光 gung1 koŋ53 P374，375  
-</>
-黃
-黃 黄 hung4 hoŋ21 P376，377  
-</>
-汪
-汪 汪 ung1 ∅oŋ53 P376，377  
-</>
-謊
-謊 谎 hung1 hoŋ53 P376，377  
-</>
-郭
-郭 郭 kaak2 kʰak3 P376，377  
-</>
-霍
-霍 霍 kaak2 kʰak3 P376，377  
-</>
-芳
-芳 芳 fung1 foŋ53 P376，377  
-</>
-防
-防 防 fung4 foŋ21 P376，377  
-</>
-匡
-匡 匡 kwaang1 kʷʰaŋ53 P376，377  
-</>
-狂
-狂 狂 gwaang4 kʷaŋ21 P376，377  
-</>
-枉
-枉 枉 ung2 ∅oŋ33 P378，379  
-</>
-況
-況 况 kwaang3 kʷʰaŋ55 P378，379  
-</>
-縛
-縛 缚 fuk6 fok2 P378，379  
-</>
-邦
-邦 邦 baang1 paŋ53 P378，379  
-</>
-樁
-樁 桩 zung1 tʃoŋ53 P378，379  
-</>
-窗
-窗 窗 caang1 tʃʰaŋ53 P378，379  
-</>
-雙
-雙 双 sung1 ʃoŋ53 P378，379  
-</>
-江
-江 江 gaang1 kaŋ53 P378，379  
-</>
-講
-講 讲 gaang2 kaŋ33 P378，379  
-</>
-撞
-撞 撞 zung6 tʃoŋ22 P380，381  
-</>
-巷
-巷 巷 haang6 haŋ22 P380，381  
-</>
-剝
-剝 剥 baak2 pak3 P380，381  
-</>
-桌
-桌 桌 zoek2 tʃœk3 P380，381  
-</>
-戳
-戳 戳 cuk6 tʃʰok2 P380，381  
-</>
-捉
-捉 捉 zuk2 tʃok3 P380，381  
-</>
-角
-角 角 gaak2 kak3 P380，381  
-</>
-確
-確 确 kaak2 kʰak3 P380，381  
-</>
-殼
-殼 壳 haak2 hak3 P380，381  
-</>
-嶽
-嶽 岳 ngiak2 ŋiɐk3 P382，383  
-</>
-學
-學 学 haak6 hak2 P382，383  
-</>
-握
-握 握 oek2 ∅œk3 P382，383  
-</>
-崩
-崩 崩 bang1 pɐŋ53 P382，383  
-</>
-燈
-燈 灯 dang1 tɐŋ53 P382，383  
-</>
-能
-能 能 nang4 nɐŋ21 P382，383  
-</>
-增
-增 增 zang1 tʃɐŋ53 P382，383  
-</>
-恆
-恆 恒 hang4 hɐŋ21 P382，383  
-</>
-肯
-肯 肯 hang2 hɐŋ33 P382，383  
-</>
-鄧
-鄧 邓 dang6 tɐŋ22 P384，385  
-</>
-北
-北 北 bak2 pɐk3 P384，385  
-</>
-得
-得 得 dak2 tɐk3 P384，385  
-</>
-勒
-勒 勒 lak2 lɐk3 P384，385  
-</>
-賊
-賊 贼 cak6 tʃʰɐk2 P384，385  
-</>
-刻
-刻 刻 kak2 kʰɐk3 P384，385  
-</>
-黑
-黑 黑 hak2 hɐk3 P384，385  
-</>
-冰
-冰 冰 bing1 peŋ53 P384，385  
-</>
-陵
-陵 陵 ling4 leŋ21 P384，385  
-</>
-乘
-乘 乘 sing4 ʃeŋ21 P386，387  
-</>
-繩
-繩 绳 sing4 ʃeŋ21 P386，387  
-</>
-承
-承 承 sing4 ʃeŋ21 P386，387  
-</>
-凝
-凝 凝 ning4 neŋ21 P386，387  
-</>
-應
-應 应 ing3 ∅eŋ55 P386，387 ～該 
-</>
-興
-興 兴 hing1 heŋ53 P386，387 高～ 
-</>
-逼
-逼 逼 bik2 pek3 P386，387  
-</>
-力
-力 力 lik5 lek24 P386，387  
-</>
-息
-息 息 slik2 ɬek3 P388，389  
-</>
-直
-直 直 zik6 tʃek2 P388，389  
-</>
-值
-值 值 zik6 tʃek2 P388，389  
-</>
-測
-測 测 cak2 tʃʰɐk3 P388，389  
-</>
-色
-色 色 sik2 ʃek3 P388，389  
-</>
-食
-食 食 sik6 ʃek2 P388，389  
-</>
-蝕
-蝕 蚀 sik6 ʃek2 P388，389  
-</>
-極
-極 极 gik6 kek2 P388，389  
-</>
-憶
-憶 忆 ik2 ∅ek3 P388，389  
-</>
-弘
-弘 弘 hoeng4 hœŋ21 P390，391  
-</>
-國
-國 国 guk2 kok3 P390，391  
-</>
-域
-域 域 wik5 wek24 P390，391  
-</>
-彭
-彭 彭 bang4 pɐŋ21 P390，391  
-</>
-撐
-撐 撑 ciang1 tʃʰiɐŋ53 P390，391  
-</>
-生
-生 生 siang1 ʃiɐŋ53 P390，391  
-</>
-坑
-坑 坑 kang1 kʰɐŋ53 P390，391  
-</>
-棚
-棚 棚 baang4 paŋ21 P392，393  
-</>
-爭
-爭 争 ziang1 tʃiɐŋ53 P392，393  
-</>
-耕
-耕 耕 giang1 kiɐŋ53 P392，393  
-</>
-櫻
-櫻 樱 ing1 ∅eŋ53 P392，393  
-</>
-冷
-冷 冷 liang5 liɐŋ24 P392，393  
-</>
-打
-打 打 daa2 ta33 P392，393  
-</>
-幸
-幸 幸 hiang6 hiɐŋ22 P392，393  
-</>
-孟
-孟 孟 miang6 miɐŋ22 P392，393  
-</>
-硬
-硬 硬 ngiang6 ŋiɐŋ22 P392，393  
-</>
-白
-白 白 biak6 piɐk2 P394，395  
-</>
-宅
-宅 宅 ziak6 tʃiɐk2 P394，395  
-</>
-拆
-拆 拆 ciak2 tʃʰiɐk3 P394，395  
-</>
-客
-客 客 hiak2 hiɐk3 P394，395  
-</>
-麥
-麥 麦 miak5 miɐk24 P394，395  
-</>
-摘
-摘 摘 ziak2 tʃiɐk3 P394，395  原文誤作[tsek3]
-</>
-責
-責 责 zik2 tʃek3 P394，395  
-</>
-革
-革 革 giak2 kiɐk3 P394，395  
-</>
-覈
-覈 核 hat6 hɐt2 P396，397 ～對 
-</>
-兵
-兵 兵 bing1 peŋ53 P396，397  
-</>
-平
-平 平 bing4 peŋ21 P396，397  
-</>
-京
-京 京 ging1 keŋ53 P396，397  
-</>
-英
-英 英 ing1 ∅eŋ53 P396，397  
-</>
-名
-名 名 ming4 meŋ21 P396，397  
-</>
-清
-清 清 cing1 tʃʰeŋ53 P396，397  
-</>
-徵
-徵 征 zing1 tʃeŋ53 P396，397  
-</>
-城
-城 城 sing4 ʃeŋ21 P396，397  
-</>
-輕
-輕 轻 hing1 heŋ53 P398，399  
-</>
-贏
-贏 赢 hing4 heŋ21 P398，399  
-</>
-嶺
-嶺 岭 ling5 leŋ24 P398，399  
-</>
-慶
-慶 庆 hing3 heŋ55 P398，399  
-</>
-鄭
-鄭 郑 zing6 tʃeŋ22 P398，399  
-</>
-政
-政 政 zing3 tʃeŋ55 P398，399  
-</>
-碧
-碧 碧 bik2 pek3 P398，399  
-</>
-逆
-逆 逆 nik5 nek24 P398，399  
-</>
-席
-席 席 zik6 tʃek2 P398，399  
-</>
-隻
-隻 只 zik2 tʃek3 P400，401 量詞 
-</>
-尺
-尺 尺 cik2 tʃʰek3 P400，401  
-</>
-石
-石 石 sik6 ʃek2 P400，401  
-</>
-益
-益 益 ik2 ∅ek3 P400，401  
-</>
-瓶
-瓶 瓶 bing4 peŋ21 P400，401  
-</>
-丁
-丁 丁 ding1 teŋ53 P400，401 姓 
-</>
-寧
-寧 宁 ning4 neŋ21 P400，401 安～ 
-</>
-星
-星 星 sling1 ɬeŋ53 P400，401  
-</>
-經
-經 经 ging1 keŋ53 P400，401  
-</>
-形
-形 形 hing4 heŋ21 P402，403  
-</>
-頂
-頂 顶 ding2 teŋ33 P402，403  
-</>
-壁
-壁 壁 bik2 pek3 P402，403  
-</>
-笛
-笛 笛 dik6 tek2 P402，403  
-</>
-歷
-歷 历 lik5 lek24 P402，403 ～史 
-</>
-戚
-戚 戚 cik2 tʃʰek3 P402，403  
-</>
-激
-激 激 gik2 kek3 P402，403  
-</>
-吃
-吃 吃 hik2 hek3 P402，403 ～飯 
-</>
-橫
-橫 横 wiang4 wiɐŋ21 P402，403 ～豎 
-</>
-轟
-轟 轰 kwaang1 kʷʰaŋ53 P404，405  
-</>
-宏
-宏 宏 hoeng4 hœŋ21 P404，405  
-</>
-獲
-獲 获 wiak6 wiɐk2 P404，405  
-</>
-兄
-兄 兄 wing1 weŋ53 P404，405  
-</>
-榮
-榮 荣 joeng4 jœŋ21 P404，405  
-</>
-傾
-傾 倾 king1 kʰeŋ53 P404，405  
-</>
-瓊
-瓊 琼 ging4 keŋ21 P404，405  
-</>
-營
-營 营 wing4 weŋ21 P404，405  
-</>
-永
-永 永 wing5 weŋ24 P404，405  
-</>
-疫
-疫 疫 wik5 wek24 P406，407  
-</>
-蓬
-蓬 蓬 boeng4 pœŋ21 P406，407  
-</>
-籠
-籠 笼 loeng4 lœŋ21 P406，407  
-</>
-公
-公 公 goeng1 kœŋ53 P406，407  
-</>
-空
-空 空 hoeng1 hœŋ53 P406，407 ～氣 
-</>
-紅
-紅 红 hoeng4 hœŋ21 P406，407  
-</>
-翁
-翁 翁 oeng1 ∅œŋ53 P406，407  
-</>
-冬
-冬 冬 doeng1 tœŋ53 P406，407  
-</>
-農
-農 农 noeng4 nœŋ21 P408，409  
-</>
-鬆
-鬆 松 sloeng1 ɬœŋ53 P408，409 ～緊 
-</>
-洞
-洞 洞 doeng6 tœŋ22 P408，409  
-</>
-送
-送 送 sloeng3 ɬœŋ55 P408，409  
-</>
-宋
-宋 宋 sloeng3 ɬœŋ55 P408，409  
-</>
-僕
-僕 仆 poek2 pʰœk3 P408，409 ～人 
-</>
-木
-木 木 moek5 mœk24 P408，409  
-</>
-禿
-禿 秃 tuk2 tʰok3 P408，409  
-</>
-鹿
-鹿 鹿 loek5 lœk24 P410，411  
-</>
-族
-族 族 zoek6 tʃœk2 P410，411  
-</>
-谷
-谷 谷 goek2 kœk3 P410，411  
-</>
-屋
-屋 屋 oek2 ∅œk3 P410，411  
-</>
-毒
-毒 毒 doek6 tœk2 P410，411  
-</>
-酷
-酷 酷 koek2 kʰœk3 P410，411  
-</>
-沃
-沃 沃 oek2 ∅œk3 P410，411  
-</>
-風
-風 风 foeng1 fœŋ53 P410，411  
-</>
-隆
-隆 隆 loeng4 lœŋ21 P410，411  
-</>
-嵩
-嵩 嵩 sloeng1 ɬœŋ53 P412，413  
+严
+@@@LINK=嚴
 </>
 中
-中 中 zoeng1 tʃœŋ53 P412，413 ～間 
+【中】 zoeng1 [tʃœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[tsøŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～間</li></ul>
 </>
-崇
-崇 崇 zoeng4 tʃœŋ21 P412，413  
+举
+@@@LINK=舉
 </>
-充
-充 充 coeng1 tʃʰœŋ53 P412，413  
+义
+@@@LINK=義
 </>
-絨
-絨 绒 joeng4 jœŋ21 P412，413  
+乌
+@@@LINK=烏
 </>
-弓
-弓 弓 goeng1 kœŋ53 P412，413  
+乖
+【乖】 gwaai1 [kʷai53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[kuai53]</li></ul>
 </>
-窮
-窮 穷 goeng4 kœŋ21 P412，413  
+乘
+【乘】 sing4 [ʃeŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[seŋ21]</li></ul>
 </>
-雄
-雄 雄 hoeng4 hœŋ21 P412，413  
+乞
+【乞】 hat3 [hɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[hət5]</li></ul>
 </>
-熊
-熊 熊 joeng4 jœŋ21 P412，413  
+习
+@@@LINK=習
 </>
-融
-融 融 joeng4 jœŋ21 P414，415  
+乱
+@@@LINK=亂
 </>
-封
-封 封 foeng1 fœŋ53 P414，415  
+亂
+【亂（乱）】 lun6 [lun22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[lun22]</li></ul>
 </>
-龍
-龍 龙 lung4 loŋ21 P414，415  
+争
+@@@LINK=爭
 </>
-松
-松 松 zoeng4 tʃœŋ21 P414，415 ～樹 
+事
+【事】 sai6 [ʃɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[səi22]</li></ul>
 </>
-鐘
-鐘 钟 zoeng1 tʃœŋ53 P414，415 ～樓 
-</>
-茸
-茸 茸 joeng4 jœŋ21 P414，415  
-</>
-恭
-恭 恭 goeng1 kœŋ53 P414，415  
-</>
-胸
-胸 胸 hoeng1 hœŋ53 P414，415  
-</>
-寵
-寵 宠 coeng3 tʃʰœŋ55 P414，415  
-</>
-恐
-恐 恐 koeng2 kʰœŋ33 P416，417  
-</>
-勇
-勇 勇 joeng5 jœŋ24 P416，417  
-</>
-夢
-夢 梦 moeng6 mœŋ22 P416，417  
-</>
-誦
-誦 诵 zoeng6 tʃœŋ22 P416，417  
-</>
-共
-共 共 goeng6 kœŋ22 P416，417  
-</>
-用
-用 用 joeng6 jœŋ22 P416，417  
-</>
-服
-服 服 foek6 fœk2 P416，417  
-</>
-目
-目 目 moek2 mœk3 P416，417  
-</>
-陸
-陸 陆 loek5 lœk24 P416，417  
-</>
-肅
-肅 肃 sloek2 ɬœk3 P418，419  
-</>
-竹
-竹 竹 zoek2 tʃœk3 P418，419  
-</>
-縮
-縮 缩 soek2 ʃœk3 P418，419  
-</>
-熟
-熟 熟 soek6 ʃœk2 P418，419  
-</>
-肉
-肉 肉 njoek2 ȵœk3 P418，419  
-</>
-菊
-菊 菊 goek2 kœk3 P418，419  
-</>
-畜
-畜 畜 coek2 tʃʰœk3 P418，419 ～牧 
-</>
-育
-育 育 njoek5 ȵœk24 P418，419  
-</>
-綠
-綠 绿 loek5 lœk24 P418，419  
-</>
-足
-足 足 zoek2 tʃœk3 P420，421  
-</>
-俗
-俗 俗 sloek6 ɬœk2 P420，421  
-</>
-燭
-燭 烛 zoek2 tʃœk3 P420，421  
-</>
-贖
-贖 赎 soek2 ʃœk3 P420，421  
-</>
-辱
-辱 辱 njoek5 ȵœk24 P420，421  
-</>
-曲
-曲 曲 koek2 kʰœk3 P420，421 彎～，歌～ 
-</>
-局
-局 局 goek6 kœk2 P420，421  
-</>
-玉
-玉 玉 njyu6 ȵy22 P420，421  
-</>
-獄
-獄 狱 njoek5 ȵœk24 P420，421  
-</>
-岳
-岳 岳 ngiak2 ŋiɐk3 P382，383  
-</>
-孃
-孃 娘 niang4 niɐŋ21 P370，371  原文作「娘」字
-</>
-床
-床 床 saang4 ʃaŋ21 P372，373  
-</>
-菸
-菸 烟 jyun1 jyn53 P340，341  
-</>
-喫
-喫 吃 hik2 hek3 P402，403 ～飯 
-</>
-著
-著 著 ziak2 tʃiɐk3 P374，375 衣～ 原文作「着」字
+亏
+@@@LINK=虧
 </>
 云
-云 云 wan4 wɐn21 P364，365  
+@@@LINK=雲
+</>
+云
+【云】 wan4 [wɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[βən21]</li></ul>
+</>
+亥
+【亥】 haai6 [hai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[hai22]</li></ul>
+</>
+产
+@@@LINK=產
+</>
+京
+【京】 ging1 [keŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[keŋ53]</li></ul>
+</>
+亮
+【亮】 liang6 [liɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[liɐŋ22]</li></ul>
 </>
 仆
-仆 仆 poek2 pʰœk3 P408，409  
+@@@LINK=僕
+</>
+仆
+【仆】 poek2 [pʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[pʰøk3]</li></ul>
+</>
+仇
+【仇】 sau4 [ʃɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[səu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>報～</li></ul>
+</>
+代
+【代】 daai6 [tai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[tai22]</li></ul>
+</>
+仰
+【仰】 ngiang5 [ŋiɐŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[ŋiɐŋ24]</li></ul>
+</>
+件
+【件】 gyun6 [kyn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[kyn22]</li></ul>
+</>
+休
+【休】 jau1 [jɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[iəu53]</li></ul>
+</>
+伦
+@@@LINK=倫
+</>
+伴
+【伴】 bun5 [pun24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[pun24]</li></ul>
+</>
+位
+【位】 wui6 [wui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[βui22]</li></ul>
+</>
+何
+【何】 ho4 [ho21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[ho21]</li></ul>
 </>
 余
-余 余 hi4 hi21 P254，255  
+@@@LINK=餘
 </>
-姪
-姪 侄 zat6 tʃɐt2 P360，361  
+余
+【余】 hi4 [hi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[hi21]</li></ul>
 </>
-曆
-曆 历 lik5 lek24 P402，403  
+佛
+【佛】 fat6 [fɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[fət2]</li></ul>
 </>
-發
-發 发 faat2 fat3 P350，351  
+作
+【作】 zaak2 [tʃak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[tsak3]</li></ul>
 </>
-週
-週 周 zau1 tʃɐu53 P302，303  
+侄
+@@@LINK=姪
 </>
-唇
-唇 唇 san4 ʃɐn21 P364，365  
+侄
+【侄】 zat6 [tʃɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[tsət2]</li></ul>
 </>
-糰
-糰 团 dun4 tun21 P342，343  
+例
+【例】 lai6 [lɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[ləi22]</li></ul>
 </>
-姦
-姦 奸 gaan1 kan53 P330，331  
+侵
+【侵】 cam1 [tʃʰɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[tsʰəm53]</li></ul>
+</>
+係
+【係（系）】 hi3 [hi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[hi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>關～</li></ul>
+</>
+俗
+【俗】 sloek6 [ɬœk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[ɬøk2]</li></ul>
+</>
+信
+【信】 slan3 [ɬɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[ɬən55]</li></ul>
+</>
+倍
+【倍】 bui5 [pui24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[pui24]</li></ul>
+</>
+倫
+【倫（伦）】 lan4 [lɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[lən21]</li></ul>
+</>
+债
+@@@LINK=債
+</>
+值
+【值】 zik6 [tʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[tsek2]</li></ul>
+</>
+倾
+@@@LINK=傾
+</>
+假
+【假】 gaa2 [ka33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[ka33]</li><li><span style="font-weight: bold">詞例、解釋：</span>放～</li></ul>
+</>
+健
+【健】 gin6 [kin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[kin22]</li></ul>
+</>
+傑
+【傑（杰）】 gyut6 [kyt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[kyt2]</li></ul>
+</>
+備
+【備（备）】 bi6 [pi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[pi22]</li></ul>
 </>
 傢
-傢 家 gaa1 ka53 P246，247  
+【傢（家）】 gaa1 [ka53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[ka53]</li></ul>
 </>
-蓆
-蓆 席 zik6 tʃek2 P398，399  
+債
+【債（债）】 zaai3 [tʃai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[tsai55]</li></ul>
 </>
-征
-征 征 zing1 tʃeŋ53 P396，397  
+傾
+【傾（倾）】 king1 [kʰeŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[kʰeŋ53]</li></ul>
 </>
-恒
-恒 恒 hang4 hɐŋ21 P382，383  
+僕
+【僕（仆）】 poek2 [pʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[pʰøk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～人</li></ul>
 </>
-托
-托 托 taak2 tʰak3 P370，371  
+允
+【允】 wan2 [wɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[βən33]</li></ul>
 </>
-麯
-麯 曲 koek2 kʰœk3 P420，421  
+元
+【元】 jyun4 [jyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[yn21]</li></ul>
 </>
-麴
-麴 麹 koek2 kʰœk3 P420，421  原文作「曲」字
+兄
+【兄】 wing1 [weŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[βeŋ53]</li></ul>
 </>
-杰
-杰 杰 gyut6 kyt2 P338，339  
+充
+【充】 coeng1 [tʃʰœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[tsʰøŋ53]</li></ul>
 </>
-核
-核 核 hat6 hɐt2 P396，397  
+光
+【光】 gung1 [koŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[koŋ53]</li></ul>
+</>
+兌
+【兌（兑）】 dui3 [tui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[tui55]</li></ul>
+</>
+兑
+@@@LINK=兌
+</>
+入
+【入】 jap5 [jɐp24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[iəp23]</li></ul>
+</>
+內
+【內（内）】 nui4 [nui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[nui21]</li></ul>
+</>
+全
+【全】 zyun4 [tʃyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[tsyn21]</li></ul>
+</>
+公
+【公】 goeng1 [kœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[køŋ53]</li></ul>
+</>
+共
+【共】 goeng6 [kœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[køŋ22]</li></ul>
+</>
+兴
+@@@LINK=興
+</>
+兵
+【兵】 bing1 [peŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[peŋ53]</li></ul>
+</>
+典
+【典】 dem2 [tɛm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[tem33]</li></ul>
+</>
+兼
+【兼】 gim1 [kim53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[kim53]</li></ul>
+</>
+内
+@@@LINK=內
+</>
+再
+【再】 zaai3 [tʃai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[tsai55]</li></ul>
+</>
+军
+@@@LINK=軍
+</>
+农
+@@@LINK=農
+</>
+冬
+【冬】 doeng1 [tœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[tøŋ53]</li></ul>
+</>
+冰
+【冰】 bing1 [peŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[peŋ53]</li></ul>
+</>
+决
+@@@LINK=決
+</>
+况
+@@@LINK=況
+</>
+冷
+【冷】 liang5 [liɐŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[liɐŋ24]</li></ul>
+</>
+减
+@@@LINK=減
+</>
+凑
+@@@LINK=湊
+</>
+凝
+【凝】 ning4 [neŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[neŋ21]</li></ul>
+</>
+凡
+【凡】 faan4 [fan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[fan21]</li></ul>
+</>
+出
+【出】 cat2 [tʃʰɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[tsʰət3]</li></ul>
+</>
+刀
+【刀】 daau1 [tau53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[tau53]</li></ul>
+</>
+分
+【分】 fan1 [fɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[fən53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～開</li></ul>
+</>
+刊
+【刊】 haan1 [han53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[han53]</li></ul>
+</>
+列
+【列】 lyut5 [lyt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[lyt23]</li></ul>
+</>
+初
+【初】 cu1 [tʃʰu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[tsʰu53]</li></ul>
+</>
+删
+@@@LINK=刪
+</>
+利
+【利】 li6 [li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[li22]</li></ul>
+</>
+刪
+【刪（删）】 saan1 [ʃan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[san53]</li></ul>
+</>
+刮
+【刮】 gwaat2 [kʷat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[kuat3]</li></ul>
+</>
+刻
+【刻】 kak2 [kʰɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[kʰək3]</li></ul>
+</>
+削
+【削】 sliak2 [ɬiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[ɬiɐk3]</li></ul>
+</>
+前
+【前】 zin4 [tʃin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[tsin21]</li></ul>
+</>
+剝
+【剝（剥）】 baak2 [pak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[pak3]</li></ul>
+</>
+剥
+@@@LINK=剝
+</>
+剪
+【剪】 zin2 [tʃin33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[tsin33]</li></ul>
+</>
+副
+【副】 fu3 [fu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[fu55]</li></ul>
+</>
+割
+【割】 get2 [kɛt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[ket3]</li></ul>
+</>
+劄
+【劄】 zaa2 [tʃa33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[tsa33]</li><li><span style="font-weight: bold">詞例、解釋：</span>～針</li><li><span style="font-weight: bold">備註：</span>原文如此，疑誤，應是[tsap3]</li></ul>
+</>
+力
+【力】 lik5 [lek24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[lek23]</li></ul>
+</>
+办
+@@@LINK=辦
+</>
+劣
+【劣】 lyut2 [lyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[lyt3]</li></ul>
+</>
+助
+【助】 zo6 [tʃo22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[tso22]</li></ul>
+</>
+劳
+@@@LINK=勞
+</>
+勇
+【勇】 joeng5 [jœŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[iøŋ24]</li></ul>
+</>
+勒
+【勒】 lak2 [lɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[lək3]</li></ul>
+</>
+勞
+【勞（劳）】 laau4 [lau21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[lau21]</li></ul>
+</>
+化
+【化】 waa3 [wa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[βa55]</li></ul>
+</>
+北
+【北】 bak2 [pɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[pək3]</li></ul>
+</>
+匙
+【匙】 zi4 [tʃi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[tsi21]</li></ul>
+</>
+匡
+【匡】 kwaang1 [kʷʰaŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[kʰuaŋ53]</li></ul>
+</>
+匯
+【匯（汇）】 wai6 [wɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[βəi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～總</li></ul>
+</>
+匹
+【匹】 pat2 [pʰɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[pʰət3]</li></ul>
+</>
+十
+【十】 sap6 [ʃɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[səp2]</li></ul>
+</>
+千
+【千】 cin1 [tʃʰin53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[tsʰin53]</li></ul>
+</>
+协
+@@@LINK=協
+</>
+卒
+【卒】 zat2 [tʃɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[tsət3]</li></ul>
+</>
+協
+【協（协）】 hip6 [hip2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[hip2]</li></ul>
+</>
+单
+@@@LINK=單
+</>
+南
+【南】 naam4 [nam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[nam21]</li></ul>
+</>
+卫
+@@@LINK=衛
+</>
+历
+@@@LINK=曆
+</>
+历
+@@@LINK=歷
+</>
+压
+@@@LINK=壓
+</>
+厌
+@@@LINK=厭
+</>
+厚
+【厚】 hau5 [hɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[həu24]</li></ul>
+</>
+厭
+【厭（厌）】 jim3 [jim55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[im55]</li></ul>
+</>
+县
+@@@LINK=縣
+</>
+及
+【及】 gap6 [kɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[kəp2]</li></ul>
+</>
+双
+@@@LINK=雙
+</>
+发
+@@@LINK=發
+</>
+发
+@@@LINK=髮
+</>
+取
+【取】 cu2 [tʃʰu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[tsʰu33]</li></ul>
+</>
+叛
+【叛】 bun6 [pun22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[pun22]</li></ul>
+</>
+口
+【口】 hau2 [hɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[həu33]</li></ul>
+</>
+句
+【句】 gyu3 [ky55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[ky55]</li></ul>
+</>
+只
+@@@LINK=隻
+</>
+叶
+@@@LINK=葉
+</>
+吃
+@@@LINK=喫
+</>
+吃
+【吃】 hik2 [hek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[hek3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～飯</li></ul>
+</>
+各
+【各】 gaak2 [kak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[kak3]</li></ul>
+</>
+合
+【合】 haap6 [hap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[hap2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～作</li></ul>
+</>
+吉
+【吉】 gat2 [kɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[kət3]</li></ul>
+</>
+名
+【名】 ming4 [meŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[meŋ21]</li></ul>
+</>
+吕
+@@@LINK=呂
+</>
+吞
+【吞】 tan1 [tʰɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[tʰən53]</li></ul>
+</>
+含
+【含】 haam4 [ham21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[ham21]</li></ul>
+</>
+吸
+【吸】 kap2 [kʰɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[kʰəp3]</li></ul>
+</>
+呂
+【呂（吕）】 lyu5 [ly24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[ly24]</li></ul>
+</>
+告
+【告】 gaau3 [kau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[kau55]</li></ul>
+</>
+周
+@@@LINK=週
+</>
+周
+【周】 zau1 [tʃɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[tsəu53]</li></ul>
+</>
+味
+【味】 mi6 [mi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[mi22]</li></ul>
+</>
+咬
+【咬】 njaau5 [ȵau24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[ɲau24]</li></ul>
+</>
+哀
+【哀】 aai1 [∅ai53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[ai53]</li></ul>
+</>
+唇
+@@@LINK=脣
+</>
+唇
+【唇】 san4 [ʃɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[sən21]</li></ul>
+</>
+唱
+【唱】 ciang3 [tʃʰiɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[tsʰiɐŋ55]</li></ul>
+</>
+喜
+【喜】 hi2 [hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[hi33]</li></ul>
+</>
+喫
+【喫（吃）】 hik2 [hek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[hek3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～飯</li></ul>
+</>
+單
+【單（单）】 daan1 [tan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[tan53]</li></ul>
+</>
+器
+【器】 hi3 [hi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[hi55]</li></ul>
+</>
+嚴
+【嚴（严）】 jim4 [jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[im21]</li></ul>
+</>
+囚
+【囚】 zau4 [tʃɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[tsəu21]</li></ul>
+</>
+因
+【因】 an1 [∅ɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[ən53]</li></ul>
+</>
+团
+@@@LINK=團
+</>
+团
+@@@LINK=糰
+</>
+围
+@@@LINK=圍
+</>
+国
+@@@LINK=國
+</>
+國
+【國（国）】 guk2 [kok3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P390，391 附：[kok3]</li></ul>
+</>
+圍
+【圍（围）】 wai4 [wɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[βəi21]</li></ul>
+</>
+團
+【團（团）】 dun4 [tun21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[tun21]</li></ul>
+</>
+土
+【土】 tu2 [tʰu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[tʰu33]</li></ul>
+</>
+在
+【在】 zaai6 [tʃai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[tsai22]</li></ul>
+</>
+地
+【地】 di6 [ti22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[ti22]</li></ul>
+</>
+均
+【均】 gwan1 [kʷɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[kuən53]</li></ul>
+</>
+坏
+@@@LINK=壞
+</>
+坐
+【坐】 zu5 [tʃu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[tsu24]</li></ul>
+</>
+坑
+【坑】 kang1 [kʰɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P390，391 附：[kʰəŋ53]</li></ul>
+</>
+坚
+@@@LINK=堅
+</>
+垂
+【垂】 sui4 [ʃui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[sui21]</li></ul>
+</>
+城
+【城】 sing4 [ʃeŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[seŋ21]</li></ul>
+</>
+域
+【域】 wik5 [wek24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P390，391 附：[βek23]</li></ul>
+</>
+堅
+【堅（坚）】 gyun1 [kyn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[kyn53]</li></ul>
+</>
+堆
+【堆】 dui1 [tui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[tui53]</li></ul>
+</>
+堤
+【堤】 dai4 [tɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[təi21]</li></ul>
+</>
+堯
+【堯（尧）】 jiu4 [jiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[iu21]</li></ul>
+</>
+報
+【報（报）】 baau3 [pau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[pau55]</li></ul>
+</>
+塔
+【塔】 taap2 [tʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[tʰap3]</li></ul>
+</>
+增
+【增】 zang1 [tʃɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[tsəŋ53]</li></ul>
+</>
+壁
+【壁】 bik2 [pek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[pek3]</li></ul>
+</>
+壓
+【壓（压）】 aat2 [∅at3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[at3]</li></ul>
+</>
+壞
+【壞（坏）】 waai6 [wai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[βai22]</li></ul>
+</>
+士
+【士】 si6 [ʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[si22]</li></ul>
+</>
+壬
+【壬】 njam4 [ȵɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[ɲəm21]</li></ul>
+</>
+壳
+@@@LINK=殼
+</>
+壽
+【壽（寿）】 sau6 [ʃɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[səu22]</li></ul>
+</>
+备
+@@@LINK=備
+</>
+外
+【外】 waai6 [wai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[βai22]</li></ul>
+</>
+夢
+【夢（梦）】 moeng6 [mœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[møŋ22]</li></ul>
+</>
+大
+【大】 daai6 [tai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[tai22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～小</li></ul>
+</>
+奇
+【奇】 gi4 [ki21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[ki21]</li></ul>
+</>
+女
+【女】 nyu5 [ny24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[ny24]</li></ul>
+</>
+奸
+@@@LINK=姦
+</>
+奸
+【奸】 gaan1 [kan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[kan53]</li></ul>
+</>
+如
+【如】 jyu4 [jy21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[y21]</li></ul>
+</>
+妇
+@@@LINK=婦
+</>
+妖
+【妖】 jiu1 [jiu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[iu53]</li></ul>
+</>
+妥
+【妥】 to2 [tʰo33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[tʰo33]</li></ul>
+</>
+委
+【委】 wuai2 [wuɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[βuəi33]</li></ul>
+</>
+姦
+【姦（奸）】 gaan1 [kan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[kan53]</li></ul>
+</>
+姨
+【姨】 ji4 [ji21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[i21]</li></ul>
+</>
+姪
+【姪（侄）】 zat6 [tʃɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[tsət2]</li></ul>
+</>
+娘
+@@@LINK=孃
+</>
+娘
+【娘】 niang4 [niɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[niɐŋ21]</li></ul>
+</>
+婦
+【婦（妇）】 fu6 [fu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[fu22]</li></ul>
+</>
+嫌
+【嫌】 jim4 [jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[im21]</li></ul>
+</>
+孃
+【孃（娘）】 niang4 [niɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[niɐŋ21]</li><li><span style="font-weight: bold">備註：</span>原文作「娘」字</li></ul>
+</>
+字
+【字】 zi6 [tʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[tsi22]</li></ul>
+</>
+存
+【存】 zon4 [tʃon21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[tson21]</li></ul>
+</>
+孙
+@@@LINK=孫
+</>
+孝
+【孝】 haau3 [hau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[hau55]</li></ul>
+</>
+孟
+【孟】 miang6 [miɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[miɐŋ22]</li></ul>
+</>
+季
+【季】 gwai3 [kʷɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[kuəi55]</li></ul>
+</>
+孤
+【孤】 gu1 [ku53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[ku53]</li></ul>
+</>
+学
+@@@LINK=學
+</>
+孫
+【孫（孙）】 slun1 [ɬun53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[ɬun53]</li></ul>
+</>
+學
+【學（学）】 haak6 [hak2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[hak2]</li></ul>
+</>
+宁
+@@@LINK=寧
+</>
+宅
+【宅】 ziak6 [tʃiɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[tsiɐk2]</li></ul>
+</>
+安
+【安】 aan1 [∅an53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[an53]</li></ul>
+</>
+宋
+【宋】 sloeng3 [ɬœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[ɬøŋ55]</li></ul>
+</>
+完
+【完】 waan4 [wan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[βan21]</li></ul>
+</>
+宏
+【宏】 hoeng4 [hœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[høŋ21]</li></ul>
+</>
+官
+【官】 gun1 [kun53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[kun53]</li></ul>
+</>
+宠
+@@@LINK=寵
+</>
+审
+@@@LINK=審
+</>
+客
+【客】 hiak2 [hiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[hiɐk3]</li></ul>
+</>
+宪
+@@@LINK=憲
+</>
+害
+【害】 haai6 [hai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[hai22]</li></ul>
+</>
+家
+@@@LINK=傢
+</>
+家
+【家】 gaa1 [ka53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[ka53]</li></ul>
+</>
+察
+【察】 caat2 [tʃʰat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P332，333 附：[tsʰat3]</li></ul>
+</>
+寧
+【寧（宁）】 ning4 [neŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[neŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>安～</li></ul>
+</>
+寨
+【寨】 zaai6 [tʃai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[tsai22]</li></ul>
+</>
+審
+【審（审）】 sam2 [ʃɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P324，325 附：[səm33]</li></ul>
+</>
+寵
+【寵（宠）】 coeng3 [tʃʰœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[tsʰøŋ55]</li></ul>
+</>
+寻
+@@@LINK=尋
+</>
+寿
+@@@LINK=壽
+</>
+封
+【封】 foeng1 [fœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[føŋ53]</li></ul>
+</>
+射
+【射】 se6 [ʃe22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[se22]</li></ul>
+</>
+尋
+【尋（寻）】 zam4 [tʃɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[tsəm21]</li></ul>
+</>
+尔
+@@@LINK=爾
+</>
+尧
+@@@LINK=堯
+</>
+尺
+【尺】 cik2 [tʃʰek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[tsʰek3]</li></ul>
+</>
+局
+【局】 goek6 [kœk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[køk2]</li></ul>
+</>
+屈
+【屈】 wat2 [wɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[βət3]</li></ul>
+</>
+屋
+【屋】 oek2 [∅œk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[øk3]</li></ul>
+</>
+展
+【展】 zyun2 [tʃyn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[tsyn33]</li></ul>
+</>
+山
+【山】 saan1 [ʃan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[san53]</li></ul>
+</>
+岁
+@@@LINK=歲
+</>
+岭
+@@@LINK=嶺
+</>
+岳
+@@@LINK=嶽
+</>
+岳
+【岳】 ngiak2 [ŋiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[ɲiɐk3]</li></ul>
+</>
+崇
+【崇】 zoeng4 [tʃœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[tsøŋ21]</li></ul>
+</>
+崖
+【崖】 ngaai4 [ŋai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[ŋai21]</li></ul>
+</>
+崩
+【崩】 bang1 [pɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[pəŋ53]</li></ul>
+</>
+嵩
+【嵩】 sloeng1 [ɬœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[ɬøŋ53]</li></ul>
+</>
+嶺
+【嶺（岭）】 ling5 [leŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[leŋ24]</li></ul>
+</>
+嶽
+【嶽（岳）】 ngiak2 [ŋiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[ɲiɐk3]</li></ul>
+</>
+左
+【左】 zo2 [tʃo33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[tso33]</li></ul>
+</>
+巴
+【巴】 baa1 [pa53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[pa53]</li></ul>
+</>
+巷
+【巷】 haang6 [haŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[haŋ22]</li></ul>
+</>
+巾
+【巾】 gan1 [kɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[kən53]</li></ul>
+</>
+师
+@@@LINK=師
+</>
+希
+【希】 hi1 [hi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[hi53]</li></ul>
+</>
+帖
+【帖】 tip2 [tʰip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[tʰip3]</li></ul>
+</>
+師
+【師（师）】 sai1 [ʃɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[səi53]</li></ul>
+</>
+席
+@@@LINK=蓆
+</>
+席
+【席】 zik6 [tʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[tsek2]</li></ul>
+</>
+常
+【常】 siang4 [ʃiɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[siɐŋ21]</li></ul>
+</>
+平
+【平】 bing4 [peŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[peŋ21]</li></ul>
+</>
+年
+【年】 nin4 [nin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[nin21]</li></ul>
+</>
+幸
+【幸】 hiang6 [hiɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[hiɐŋ22]</li></ul>
+</>
+幻
+【幻】 waan6 [wan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[βan22]</li></ul>
+</>
+幼
+【幼】 jau3 [jɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[iəu55]</li></ul>
+</>
+庄
+@@@LINK=莊
+</>
+庆
+@@@LINK=慶
+</>
+床
+@@@LINK=牀
+</>
+床
+【床】 saang4 [ʃaŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[saŋ21]</li></ul>
+</>
+序
+【序】 zyu6 [tʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[tsy22]</li></ul>
+</>
+应
+@@@LINK=應
+</>
+底
+【底】 dai2 [tɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[təi33]</li></ul>
+</>
+店
+【店】 dim3 [tim55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[tim55]</li></ul>
+</>
+庵
+【庵】 aam1 [∅am53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[am53]</li></ul>
+</>
+廉
+【廉】 lim4 [lim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[lim21]</li></ul>
+</>
+弊
+【弊】 bi6 [pi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[pi22]</li></ul>
+</>
+弓
+【弓】 goeng1 [kœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[køŋ53]</li></ul>
+</>
+弘
+【弘】 hoeng4 [hœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P390，391 附：[høŋ21]</li></ul>
+</>
+张
+@@@LINK=張
+</>
+弯
+@@@LINK=彎
+</>
+弱
+【弱】 ngiak5 [ŋiɐk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[ɲiɐk23]</li><li><span style="font-weight: bold">備註：</span>原文誤作[ɲiek23]</li></ul>
+</>
+張
+【張（张）】 ziang1 [tʃiɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[tsiɐŋ53]</li></ul>
+</>
+彎
+【彎（弯）】 waan1 [wan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[βan53]</li></ul>
+</>
+归
+@@@LINK=歸
+</>
+当
+@@@LINK=當
 </>
 彙
-彙 汇 wai6 wɐi22 P270，271  
+【彙（汇）】 wai6 [wɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[βəi22]</li></ul>
+</>
+形
+【形】 hing4 [heŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[heŋ21]</li></ul>
+</>
+彪
+【彪】 biu1 [piu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[piu53]</li></ul>
+</>
+彭
+【彭】 bang4 [pɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P390，391 附：[pəŋ21]</li></ul>
+</>
+彻
+@@@LINK=徹
+</>
+彼
+【彼】 bi2 [pi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[pi33]</li></ul>
+</>
+征
+@@@LINK=徵
+</>
+征
+【征】 zing1 [tʃeŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[tseŋ53]</li></ul>
+</>
+律
+【律】 lat5 [lɐt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[lət23]</li></ul>
+</>
+徐
+【徐】 zyu4 [tʃy21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[tsy21]</li></ul>
+</>
+得
+【得】 dak2 [tɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[tək3]</li></ul>
+</>
+徵
+【徵（征）】 zing1 [tʃeŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[tseŋ53]</li></ul>
+</>
+徹
+【徹（彻）】 cit2 [tʃʰit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[tsʰit3]</li></ul>
+</>
+徽
+【徽】 kwai1 [kʷʰɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[kʰuəi53]</li></ul>
+</>
+心
+【心】 slam1 [ɬɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[ɬəm53]</li></ul>
+</>
+必
+【必】 bit2 [pit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[pit3]</li></ul>
+</>
+忆
+@@@LINK=憶
+</>
+忌
+【忌】 gi6 [ki22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[ki22]</li></ul>
+</>
+忍
+【忍】 jan5 [jɐn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[iən24]</li></ul>
+</>
+忧
+@@@LINK=憂
+</>
+快
+【快】 waai3 [wai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[βai55]</li></ul>
+</>
+念
+【念】 nim6 [nim22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[nim22]</li></ul>
+</>
+怯
+【怯】 hip2 [hip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[hip3]</li></ul>
+</>
+恆
+【恆（恒）】 hang4 [hɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[həŋ21]</li></ul>
+</>
+恋
+@@@LINK=戀
+</>
+恐
+【恐】 koeng2 [kʰœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[kʰøŋ33]</li></ul>
+</>
+恒
+@@@LINK=恆
+</>
+恒
+【恒】 hang4 [hɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[həŋ21]</li></ul>
+</>
+恥
+【恥（耻）】 ci2 [tʃʰi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[tsʰi33]</li></ul>
+</>
+恨
+【恨】 han6 [hɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[hən22]</li></ul>
+</>
+恩
+【恩】 an1 [∅ɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[ən53]</li></ul>
+</>
+恭
+【恭】 goeng1 [kœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[køŋ53]</li></ul>
+</>
+息
+【息】 slik2 [ɬek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[ɬek3]</li></ul>
+</>
+恶
+@@@LINK=惡
+</>
+惠
+【惠】 wui6 [wui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[βui22]</li></ul>
+</>
+惡
+【惡（恶）】 aak2 [∅ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[ak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>善～</li></ul>
+</>
+惨
+@@@LINK=慘
+</>
+惯
+@@@LINK=慣
+</>
+惹
+【惹】 je5 [je24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[ie24]</li></ul>
+</>
+愁
+【愁】 sau4 [ʃɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[səu21]</li></ul>
+</>
+意
+【意】 ji3 [ji55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[i55]</li></ul>
+</>
+感
+【感】 gaam2 [kam33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[kam33]</li></ul>
+</>
+慘
+【慘（惨）】 caam2 [tʃʰam33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[tsʰam33]</li></ul>
+</>
+慢
+【慢】 maan6 [man22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P332，333 附：[man22]</li></ul>
+</>
+慣
+【慣（惯）】 gwaan3 [kʷan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[kuan55]</li></ul>
+</>
+慶
+【慶（庆）】 hing3 [heŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[heŋ55]</li></ul>
+</>
+憂
+【憂（忧）】 jau1 [jɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[iəu53]</li></ul>
+</>
+憲
+【憲（宪）】 hin3 [hin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[hin55]</li></ul>
+</>
+憶
+【憶（忆）】 ik2 [∅ek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[ek3]</li></ul>
+</>
+應
+【應（应）】 ing3 [∅eŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[eŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～該</li></ul>
+</>
+戀
+【戀（恋）】 lin6 [lin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[lin22]</li></ul>
+</>
+戌
+【戌】 slat2 [ɬɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[ɬət3]</li></ul>
+</>
+戏
+@@@LINK=戲
+</>
+戚
+【戚】 cik2 [tʃʰek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[tsʰek3]</li></ul>
+</>
+戲
+【戲（戏）】 hi3 [hi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[hi55]</li></ul>
+</>
+戳
+【戳】 cuk6 [tʃʰok2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[tsʰok2]</li></ul>
+</>
+戶
+【戶（户）】 wu6 [wu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[u22]</li></ul>
+</>
+户
+@@@LINK=戶
+</>
+扇
+【扇】 sin3 [ʃin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[sin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～子</li></ul>
+</>
+打
+【打】 daa2 [ta33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[ta33]</li></ul>
+</>
+托
+@@@LINK=託
+</>
+托
+【托】 taak2 [tʰak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[tʰak3]</li></ul>
+</>
+扶
+【扶】 fu4 [fu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[fu21]</li></ul>
+</>
+承
+【承】 sing4 [ʃeŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[seŋ21]</li></ul>
+</>
+抗
+【抗】 kaang3 [kʰaŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[kʰaŋ55]</li></ul>
+</>
+报
+@@@LINK=報
+</>
+披
+【披】 pi1 [pʰi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[pʰi53]</li></ul>
+</>
+拆
+【拆】 ciak2 [tʃʰiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[tsʰiɐk3]</li></ul>
+</>
+拔
+【拔】 baat6 [pat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P332，333 附：[pat2]</li></ul>
+</>
+拖
+【拖】 to1 [tʰo53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[tʰo53]</li></ul>
+</>
+拘
+【拘】 kyu1 [kʰy53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[kʰy53]</li></ul>
+</>
+拜
+【拜】 baai3 [pai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[pai55]</li></ul>
+</>
+挂
+@@@LINK=掛
+</>
+指
+【指】 zi2 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[tsi33]</li></ul>
+</>
+挖
+【挖】 wet2 [wɛt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[βet3]</li></ul>
+</>
+挨
+@@@LINK=捱
+</>
+捉
+【捉】 zuk2 [tʃok3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[tsok3]</li></ul>
+</>
+换
+@@@LINK=換
+</>
+捱
+【捱（挨）】 ngaai4 [ŋai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[ŋai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～近</li></ul>
+</>
+掀
+【掀】 ham1 [hɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[həm53]</li><li><span style="font-weight: bold">備註：</span>讀同「欽」</li></ul>
+</>
+掘
+【掘】 gwat6 [kʷɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[kuət2]</li></ul>
+</>
+掛
+【掛（挂）】 gwaa3 [kʷa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[kua55]</li></ul>
+</>
+採
+【採（采）】 caai2 [tʃʰai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[tsʰai33]</li></ul>
+</>
+接
+【接】 zip2 [tʃip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[tsip3]</li></ul>
+</>
+推
+【推】 tui1 [tʰui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[tʰui53]</li></ul>
+</>
+插
+【插】 caap2 [tʃʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[tsʰap3]</li></ul>
+</>
+換
+【換（换）】 wan3 [wɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[βən55]</li></ul>
+</>
+握
+【握】 oek2 [∅œk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[øk3]</li></ul>
+</>
+揭
+【揭】 kit2 [kʰit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[kʰit3]</li></ul>
+</>
+搅
+@@@LINK=攪
+</>
+搖
+【搖（摇）】 jiu4 [jiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[iu21]</li></ul>
+</>
+摇
+@@@LINK=搖
+</>
+摘
+【摘】 ziak2 [tʃiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[tsiɐk3]</li><li><span style="font-weight: bold">備註：</span>原文誤作[tsek3]</li></ul>
+</>
+撇
+【撇】 pit2 [pʰit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[pʰit3]</li></ul>
+</>
+撐
+【撐（撑）】 ciang1 [tʃʰiɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P390，391 附：[tsʰiɐŋ53]</li></ul>
+</>
+撑
+@@@LINK=撐
+</>
+撞
+【撞】 zung6 [tʃoŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[tsoŋ22]</li></ul>
+</>
+擦
+【擦】 caat2 [tʃʰat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[tsʰat3]</li></ul>
+</>
+攪
+【攪（搅）】 geu2 [kɛu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[keu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>亂～</li></ul>
+</>
+改
+【改】 gaai2 [kai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[kai33]</li></ul>
+</>
+政
+【政】 zing3 [tʃeŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[tseŋ55]</li></ul>
+</>
+敏
+【敏】 man5 [mɐn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[mən24]</li></ul>
+</>
+救
+【救】 gau2 [kɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[kəu33]</li></ul>
+</>
+敗
+【敗（败）】 baai6 [pai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[pai22]</li></ul>
+</>
+敢
+【敢】 gaam2 [kam33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[kam33]</li></ul>
+</>
+数
+@@@LINK=數
+</>
+敲
+【敲】 haau3 [hau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[hau55]</li></ul>
+</>
+數
+【數（数）】 su3 [ʃu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[su55]</li><li><span style="font-weight: bold">詞例、解釋：</span>名詞</li></ul>
+</>
+文
+【文】 man1 [mɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[mən53]</li></ul>
+</>
+斋
+@@@LINK=齋
+</>
+斜
+【斜】 ce4 [tʃʰe21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[tsʰe21]</li></ul>
+</>
+斩
+@@@LINK=斬
+</>
+斬
+【斬（斩）】 zaam2 [tʃam33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[tsam33]</li></ul>
+</>
+斯
+【斯】 sli1 [ɬi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[ɬi53]</li></ul>
+</>
+新
+【新】 slan1 [ɬɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[ɬən53]</li></ul>
+</>
+施
+【施】 si1 [ʃi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[si53]</li></ul>
+</>
+族
+【族】 zoek6 [tʃœk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[tsøk2]</li></ul>
+</>
+日
+【日】 njat5 [ȵɐt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[ɲət23]</li></ul>
+</>
+旬
+【旬】 slan4 [ɬɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[ɬən21]</li></ul>
+</>
+时
+@@@LINK=時
+</>
+昏
+【昏】 wan1 [wɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[βən53]</li></ul>
+</>
+星
+【星】 sling1 [ɬeŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[ɬeŋ53]</li></ul>
+</>
+春
+【春】 can1 [tʃʰɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[tsʰən53]</li></ul>
+</>
+显
+@@@LINK=顯
+</>
+時
+【時（时）】 si4 [ʃi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[si21]</li></ul>
+</>
+晏
+【晏】 aan3 [∅an55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P332，333 附：[an55]</li></ul>
+</>
+晓
+@@@LINK=曉
+</>
+晚
+【晚】 maan5 [man24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[man24]</li></ul>
+</>
+暂
+@@@LINK=暫
+</>
+暫
+【暫（暂）】 zaan6 [tʃan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[tsan22]</li></ul>
+</>
+曆
+【曆（历）】 lik5 [lek24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[lek23]</li></ul>
+</>
+曉
+【曉（晓）】 hiu2 [hiu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[hiu33]</li></ul>
+</>
+曲
+@@@LINK=麯
+</>
+曲
+【曲】 koek2 [kʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[kʰøk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>彎～，歌～</li></ul>
+</>
+最
+【最】 zui3 [tʃui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[tsui55]</li></ul>
+</>
+月
+【月】 njyut5 [ȵyt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[ɲyt23]</li></ul>
+</>
+服
+【服】 foek6 [fœk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[føk2]</li></ul>
+</>
+木
+【木】 moek5 [mœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[møk23]</li></ul>
+</>
+本
+【本】 bun2 [pun33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[pun33]</li></ul>
+</>
+术
+@@@LINK=術
+</>
+杀
+@@@LINK=殺
+</>
+杂
+@@@LINK=雜
+</>
+权
+@@@LINK=權
+</>
+李
+【李】 li5 [li24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[li24]</li></ul>
+</>
+杜
+【杜】 du6 [tu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[tu22]</li></ul>
+</>
+条
+@@@LINK=條
+</>
+杰
+@@@LINK=傑
+</>
+杰
+【杰】 gyut6 [kyt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[kyt2]</li></ul>
+</>
+松
+@@@LINK=鬆
+</>
+松
+【松】 zoeng4 [tʃœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[tsøŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～樹</li></ul>
+</>
+板
+【板】 baan2 [pan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[pan33]</li></ul>
+</>
+极
+@@@LINK=極
+</>
+枉
+【枉】 ung2 [∅oŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[oŋ33]</li></ul>
+</>
+林
+【林】 lam4 [lɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[ləm21]</li></ul>
+</>
+某
+【某】 mau4 [mɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[məu21]</li></ul>
+</>
+染
+【染】 jim5 [jim24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[im24]</li></ul>
+</>
+柜
+@@@LINK=櫃
+</>
+柱
+【柱】 zyu5 [tʃy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[tsy24]</li></ul>
+</>
+柴
+【柴】 saai4 [ʃai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[sai21]</li></ul>
+</>
+树
+@@@LINK=樹
+</>
+栗
+【栗】 sloek2 [ɬœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[ɬøk3]</li></ul>
+</>
+核
+@@@LINK=覈
+</>
+核
+【核】 hat6 [hɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[hət2]</li></ul>
+</>
+桂
+【桂】 gwai3 [kʷɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[kuəi55]</li></ul>
+</>
+桌
+【桌】 zoek2 [tʃœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[tsøk3]</li></ul>
+</>
+桑
+【桑】 slaang1 [ɬaŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[ɬaŋ53]</li></ul>
+</>
+桩
+@@@LINK=樁
+</>
+梅
+【梅】 mui4 [mui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[mui21]</li></ul>
+</>
+條
+【條（条）】 diu4 [tiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[tiu21]</li></ul>
+</>
+梦
+@@@LINK=夢
+</>
+检
+@@@LINK=檢
+</>
+棉
+【棉】 min4 [min21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P332，333 附：[min21]</li></ul>
+</>
+棚
+【棚】 baang4 [paŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[paŋ21]</li></ul>
+</>
+森
+【森】 sam1 [ʃɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[səm53]</li></ul>
+</>
+楚
+【楚】 cu2 [tʃʰu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[tsʰu33]</li></ul>
+</>
+業
+【業（业）】 nip5 [nip24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[nip23]</li></ul>
+</>
+極
+【極（极）】 gik6 [kek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[kek2]</li></ul>
+</>
+楷
+【楷】 gaai2 [kai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[kai33]</li></ul>
+</>
+榜
+【榜】 bung2 [poŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[poŋ33]</li></ul>
+</>
+榮
+【榮（荣）】 joeng4 [jœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[iøŋ21]</li></ul>
+</>
+樁
+【樁（桩）】 zung1 [tʃoŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[tsoŋ53]</li></ul>
+</>
+横
+@@@LINK=橫
+</>
+樱
+@@@LINK=櫻
+</>
+樹
+【樹（树）】 syu6 [ʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[sy22]</li></ul>
+</>
+橫
+【橫（横）】 wiang4 [wiɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[βiɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～豎</li></ul>
+</>
+檢
+【檢（检）】 gim2 [kim33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[kim33]</li></ul>
+</>
+櫃
+【櫃（柜）】 gwai6 [kʷɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[kuəi22]</li></ul>
+</>
+櫻
+【櫻（樱）】 ing1 [∅eŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[eŋ53]</li></ul>
+</>
+權
+【權（权）】 gyun4 [kyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[kyn21]</li></ul>
+</>
+欠
+【欠】 him3 [him55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[him55]</li></ul>
+</>
+欢
+@@@LINK=歡
+</>
+欣
+【欣】 han1 [hɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[hən53]</li></ul>
+</>
+欧
+@@@LINK=歐
+</>
+欽
+【欽（钦）】 ham1 [hɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P324，325 附：[həm53]</li></ul>
+</>
+歇
+【歇】 hyut2 [hyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[hyt3]</li></ul>
+</>
+歌
+【歌】 go1 [ko53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[ko53]</li></ul>
+</>
+歐
+【歐（欧）】 au1 [∅ɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[əu53]</li></ul>
+</>
+歡
+【歡（欢）】 hun1 [hun53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[hun53]</li></ul>
+</>
+步
+【步】 bu6 [pu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[pu22]</li></ul>
+</>
+武
+【武】 fu5 [fu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[fu24]</li></ul>
+</>
+歲
+【歲（岁）】 slui3 [ɬui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[ɬui55]</li></ul>
+</>
+歷
+【歷（历）】 lik5 [lek24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[lek23]</li><li><span style="font-weight: bold">詞例、解釋：</span>～史</li></ul>
+</>
+歸
+【歸（归）】 gwai1 [kʷɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[kuəi53]</li></ul>
+</>
+殊
+【殊】 syu4 [ʃy21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[sy21]</li></ul>
+</>
+殺
+【殺（杀）】 saat2 [ʃat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P332，333 附：[sat3]</li></ul>
+</>
+殼
+【殼（壳）】 haak2 [hak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[hak3]</li></ul>
+</>
+毀
+【毀（毁）】 wai2 [wɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[βuəi33]</li></ul>
+</>
+毁
+@@@LINK=毀
+</>
+母
+【母】 mu5 [mu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[mu24]</li></ul>
+</>
+毒
+【毒】 doek6 [tœk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[tøk2]</li></ul>
+</>
+比
+【比】 bi2 [pi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[pi33]</li></ul>
+</>
+毫
+【毫】 haau4 [hau21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[hau21]</li></ul>
+</>
+气
+@@@LINK=氣
+</>
+氣
+【氣（气）】 hi3 [hi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[hi55]</li></ul>
+</>
+水
+【水】 sui2 [ʃui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[sui33]</li></ul>
+</>
+永
+【永】 wing5 [weŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[βeŋ24]</li></ul>
+</>
+汇
+@@@LINK=匯
+</>
+汇
+@@@LINK=彙
+</>
+汉
+@@@LINK=漢
+</>
+江
+【江】 gaang1 [kaŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[kaŋ53]</li></ul>
+</>
+汪
+【汪】 ung1 [∅oŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[oŋ53]</li></ul>
+</>
+決
+【決（决）】 kyut2 [kʰyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[kʰyt3]</li></ul>
+</>
+沃
+【沃】 oek2 [∅œk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[øk3]</li></ul>
+</>
+沉
+【沉】 zam4 [tʃɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[tsəm21]</li></ul>
+</>
+沙
+【沙】 saa1 [ʃa53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[sa53]</li></ul>
+</>
+沟
+@@@LINK=溝
+</>
+治
+【治】 zi6 [tʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[tsi22]</li></ul>
+</>
+況
+【況（况）】 kwaang3 [kʷʰaŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[kʰuaŋ55]</li></ul>
+</>
+法
+【法】 faat2 [fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[fat3]</li></ul>
+</>
+泰
+【泰】 taai3 [tʰai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[tʰai55]</li></ul>
+</>
+泼
+@@@LINK=潑
+</>
+洗
+【洗】 slai2 [ɬɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[ɬəi33]</li></ul>
+</>
+洛
+【洛】 laak5 [lak24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[lak23]</li></ul>
+</>
+洞
+【洞】 doeng6 [tœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[tøŋ22]</li></ul>
+</>
+津
+【津】 zan1 [tʃɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[tsən53]</li></ul>
+</>
+活
+【活】 wat6 [wɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[βət2]</li></ul>
+</>
+派
+【派】 paai3 [pʰai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[pʰai55]</li></ul>
+</>
+测
+@@@LINK=測
+</>
+浪
+【浪】 laang6 [laŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[laŋ22]</li></ul>
+</>
+浮
+【浮】 bu4 [pu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[pu21]</li></ul>
+</>
+海
+【海】 haai2 [hai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[hai33]</li></ul>
+</>
+消
+【消】 sliu1 [ɬiu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[ɬiu53]</li></ul>
+</>
+涉
+【涉】 sip6 [ʃip2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[sip2]</li></ul>
+</>
+深
+【深】 sam1 [ʃɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P322，323 附：[səm53]</li></ul>
+</>
+淵
+【淵（渊）】 jyun1 [jyn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[yn53]</li></ul>
+</>
+清
+【清】 cing1 [tʃʰeŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[tsʰeŋ53]</li></ul>
+</>
+渊
+@@@LINK=淵
+</>
+渐
+@@@LINK=漸
+</>
+減
+【減（减）】 gaam2 [kam33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[kam33]</li></ul>
+</>
+温
+@@@LINK=溫
+</>
+測
+【測（测）】 cak2 [tʃʰɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[tsʰək3]</li></ul>
+</>
+湊
+【湊（凑）】 cau3 [tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[tsʰəu55]</li></ul>
+</>
+溝
+【溝（沟）】 gau1 [kɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[kəu53]</li></ul>
+</>
+溪
+【溪】 kai1 [kʰɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[kʰəi53]</li></ul>
+</>
+溫
+【溫（温）】 wan1 [wɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[βən53]</li></ul>
+</>
+滅
+【滅（灭）】 mit5 [mit24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[mit23]</li></ul>
+</>
+滑
+【滑】 waat6 [wat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[βat2]</li></ul>
+</>
+滚
+@@@LINK=滾
+</>
+滾
+【滾（滚）】 gwan2 [kʷɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[kuən33]</li></ul>
+</>
+漏
+【漏】 lau6 [lɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[ləu22]</li></ul>
+</>
+演
+【演】 jim2 [jim33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[im33]</li></ul>
+</>
+漢
+【漢（汉）】 haan3 [han55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[han55]</li></ul>
+</>
+漸
+【漸（渐）】 zim6 [tʃim22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[tsim22]</li></ul>
+</>
+潑
+【潑（泼）】 put2 [pʰut3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[pʰut3]</li></ul>
+</>
+潭
+【潭】 daam4 [tam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[tam21]</li></ul>
+</>
+激
+【激】 gik2 [kek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[kek3]</li></ul>
+</>
+灭
+@@@LINK=滅
+</>
+灯
+@@@LINK=燈
+</>
+灰
+【灰】 hui1 [hui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[hui53]</li></ul>
+</>
+災
+【災（灾）】 zaai1 [tʃai53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[tsai53]</li></ul>
+</>
+灾
+@@@LINK=災
+</>
+炒
+【炒】 caau2 [tʃʰau33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[tsʰau33]</li></ul>
+</>
+炮
+【炮】 paau3 [pʰau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[pʰau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>槍～</li></ul>
+</>
+烏
+【烏（乌）】 wu1 [wu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[u53]</li></ul>
+</>
+烛
+@@@LINK=燭
+</>
+烟
+@@@LINK=煙
+</>
+烟
+@@@LINK=菸
+</>
+热
+@@@LINK=熱
+</>
+然
+【然】 jyun4 [jyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[yn21]</li></ul>
 </>
 煑
-煑 煮 zyu2 tʃy33 P256，257  
+【煑（煮）】 zyu2 [tʃy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[tsy33]</li></ul>
 </>
-腌
-腌 腌 jip2 jip3 P314，315  
+煙
+【煙（烟）】 jyun1 [jyn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[yn53]</li></ul>
 </>
-騲
-騲 草 caau2 tʃʰau33 P292，293  
+煮
+@@@LINK=煑
 </>
-穫
-穫 获 wiak6 wiɐk2 P404，405  
+煮
+【煮】 zyu2 [tʃy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[tsy33]</li></ul>
 </>
-蘂
-蘂 蕊 njui3 ȵui55 P288，289  
+熊
+【熊】 joeng4 [jœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[iøŋ21]</li></ul>
+</>
+熟
+【熟】 soek6 [ʃœk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[søk2]</li></ul>
+</>
+熱
+【熱（热）】 njit5 [ȵit24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[ɲit23]</li></ul>
+</>
+燈
+【燈（灯）】 dang1 [tɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[təŋ53]</li></ul>
+</>
+燎
+【燎】 liu4 [liu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[liu21]</li></ul>
+</>
+營
+【營（营）】 wing4 [weŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[βeŋ21]</li></ul>
+</>
+燭
+【燭（烛）】 zoek2 [tʃœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[tsøk3]</li></ul>
+</>
+爭
+【爭（争）】 ziang1 [tʃiɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[tsiɐŋ53]</li></ul>
+</>
+爾
+【爾（尔）】 nji6 [ȵi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[ɲi22]</li></ul>
+</>
+牀
+【牀（床）】 saang4 [ʃaŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[saŋ21]</li></ul>
+</>
+片
+【片】 pin3 [pʰin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[pʰin55]</li></ul>
+</>
+牌
+【牌】 baai4 [pai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[pai21]</li></ul>
+</>
+牙
+【牙】 njaa4 [ȵa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[ɲa21]</li></ul>
+</>
+物
+【物】 fat5 [fɐt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[fət23]</li></ul>
+</>
+犁
+【犁】 lai4 [lɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[ləi21]</li></ul>
+</>
+犬
+【犬】 hyun2 [hyn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[hyn33]</li></ul>
+</>
+狂
+【狂】 gwaang4 [kʷaŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[kuaŋ21]</li></ul>
+</>
+狭
+@@@LINK=狹
+</>
+狮
+@@@LINK=獅
+</>
+狱
+@@@LINK=獄
+</>
+狹
+【狹（狭）】 jaap2 [jap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[jap3]</li></ul>
+</>
+猪
+@@@LINK=豬
+</>
+獄
+【獄（狱）】 njoek5 [ȵœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[ɲøk23]</li></ul>
+</>
+獅
+【獅（狮）】 sai1 [ʃɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[səi53]</li></ul>
+</>
+獲
+【獲（获）】 wiak6 [wiɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[βiɐk2]</li></ul>
+</>
+玄
+【玄】 jyun4 [jyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[yn21]</li></ul>
+</>
+玉
+【玉】 njyu6 [ȵy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[ɲy22]</li></ul>
+</>
+环
+@@@LINK=環
+</>
+琼
+@@@LINK=瓊
+</>
+瑞
+【瑞】 sui6 [ʃui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[sui22]</li></ul>
+</>
+環
+【環（环）】 waan4 [wan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[βan21]</li></ul>
+</>
+瓊
+【瓊（琼）】 ging4 [keŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[keŋ21]</li></ul>
+</>
+瓜
+【瓜】 gwaa1 [kʷa53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[kua53]</li></ul>
+</>
+瓦
+【瓦】 waa5 [wa24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[βa24]</li></ul>
+</>
+瓶
+【瓶】 bing4 [peŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[peŋ21]</li></ul>
+</>
+甜
+【甜】 dim4 [tim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[tim21]</li></ul>
+</>
+生
+【生】 siang1 [ʃiɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P390，391 附：[siɐŋ53]</li></ul>
+</>
+產
+【產（产）】 caan2 [tʃʰan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[tsʰan33]</li></ul>
+</>
+用
+【用】 joeng6 [jœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[iøŋ22]</li></ul>
+</>
+由
+【由】 jau4 [jɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[iəu21]</li></ul>
+</>
+甲
+【甲】 gaap2 [kap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[kap3]</li></ul>
+</>
+画
+@@@LINK=畫
+</>
+界
+【界】 gaai3 [kai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[kai55]</li></ul>
+</>
+畜
+【畜】 coek2 [tʃʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[tsʰøk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～牧</li></ul>
+</>
+畫
+【畫（画）】 waa6 [wa22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[βa22]</li></ul>
+</>
+當
+【當（当）】 daang1 [taŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[taŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>應～</li></ul>
+</>
+疑
+【疑】 ni4 [ni21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[ni21]</li></ul>
+</>
+疫
+【疫】 wik5 [wek24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[βek23]</li></ul>
+</>
+瘦
+【瘦】 sau3 [ʃɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[səu55]</li></ul>
+</>
+發
+【發（发）】 faat2 [fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[fat3]</li></ul>
+</>
+白
+【白】 biak6 [piɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[piɐk2]</li></ul>
+</>
+皮
+【皮】 bi4 [pi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[pi21]</li></ul>
+</>
+益
+【益】 ik2 [∅ek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[ek3]</li></ul>
+</>
+盐
+@@@LINK=鹽
+</>
+监
+@@@LINK=監
+</>
+監
+【監（监）】 gaam1 [kam53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[kam53]</li></ul>
+</>
+目
+【目】 moek2 [mœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[møk3]</li></ul>
+</>
+直
+【直】 zik6 [tʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[tsek2]</li></ul>
+</>
+着
+【着】 ziak2 [tʃiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[tsiɐk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>衣～</li></ul>
+</>
+瞎
+【瞎】 jaat2 [jat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P332，333 附：[iat3]</li></ul>
+</>
+知
+【知】 zi1 [tʃi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[tsi53]</li></ul>
+</>
+矮
+【矮】 ai2 [∅ɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[əi33]</li></ul>
+</>
+石
+【石】 sik6 [ʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[sek2]</li></ul>
+</>
+破
+【破】 pu3 [pʰu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[pʰu55]</li></ul>
+</>
+硬
+【硬】 ngiang6 [ŋiɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[ŋiɐŋ22]</li></ul>
+</>
+确
+@@@LINK=確
+</>
+碑
+【碑】 bui1 [pui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[pui53]</li><li><span style="font-weight: bold">備註：</span>原文如此，疑誤</li></ul>
+</>
+碗
+【碗】 wun2 [wun33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[un33]</li></ul>
+</>
+碧
+【碧】 bik2 [pek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[pek3]</li></ul>
+</>
+確
+【確（确）】 kaak2 [kʰak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[kʰak3]</li></ul>
+</>
+社
+【社】 se5 [ʃe24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[se24]</li></ul>
+</>
+神
+【神】 san4 [ʃɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[sən21]</li></ul>
+</>
+祥
+【祥】 ziang4 [tʃiɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[tsiɐŋ21]</li></ul>
+</>
+祭
+【祭】 zai3 [tʃɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[tsəi55]</li></ul>
+</>
+离
+@@@LINK=離
+</>
+禿
+【禿（秃）】 tuk2 [tʰok3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[tʰok3]</li></ul>
+</>
+秀
+【秀】 slau3 [ɬɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[ɬəu55]</li></ul>
+</>
+秃
+@@@LINK=禿
+</>
+秋
+【秋】 cau1 [tʃʰɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[tsʰəu53]</li></ul>
+</>
+稅
+【稅（税）】 sui3 [ʃui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[sui55]</li></ul>
+</>
+税
+@@@LINK=稅
 </>
 穀
-穀 谷 goek2 kœk3 P410，411  
+【穀（谷）】 goek2 [kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[køk3]</li></ul>
+</>
+穫
+【穫（获）】 wiak6 [wiɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[βiɐk2]</li></ul>
+</>
+穴
+【穴】 jyut5 [jyt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[yt23]</li></ul>
+</>
+穷
+@@@LINK=窮
+</>
+空
+【空】 hoeng1 [hœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[høŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～氣</li></ul>
+</>
+突
+【突】 dat6 [tɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[tət2]</li></ul>
+</>
+窗
+【窗】 caang1 [tʃʰaŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[tsʰaŋ53]</li></ul>
+</>
+窮
+【窮（穷）】 goeng4 [kœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[køŋ21]</li></ul>
+</>
+立
+【立】 lap5 [lɐp24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P324，325 附：[ləp23]</li></ul>
+</>
+站
+【站】 zaam6 [tʃam22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[tsam22]</li></ul>
+</>
+竹
+【竹】 zoek2 [tʃœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[tsøk3]</li></ul>
+</>
+笋
+@@@LINK=筍
+</>
+笛
+【笛】 dik6 [tek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[tek2]</li></ul>
+</>
+笼
+@@@LINK=籠
+</>
+筍
+【筍（笋）】 slan2 [ɬɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[ɬən33]</li></ul>
+</>
+答
+【答】 daap2 [tap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[tap3]</li></ul>
+</>
+简
+@@@LINK=簡
+</>
+算
+【算】 slun3 [ɬun55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[ɬun55]</li></ul>
+</>
+節
+【節（节）】 zit2 [tʃit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[tsit3]</li></ul>
+</>
+範
+【範（范）】 faan3 [fan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[fan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>模～</li></ul>
+</>
+簡
+【簡（简）】 gaan2 [kan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[kan33]</li></ul>
+</>
+簿
+【簿】 pu6 [pʰu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[pʰu22]</li></ul>
+</>
+籠
+【籠（笼）】 loeng4 [lœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[løŋ21]</li></ul>
+</>
+米
+【米】 mai5 [mɐi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[məi24]</li></ul>
+</>
+类
+@@@LINK=類
+</>
+粉
+【粉】 fan2 [fɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[fən33]</li></ul>
+</>
+糰
+【糰（团）】 dun4 [tun21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[tun21]</li></ul>
+</>
+系
+@@@LINK=係
+</>
+糾
+【糾（纠）】 gau1 [kɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[kəu53]</li></ul>
+</>
+約
+【約（约）】 jik2 [jek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[iek3]</li></ul>
+</>
+紅
+【紅（红）】 hoeng4 [hœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[høŋ21]</li></ul>
+</>
+納
+【納（纳）】 naap5 [nap24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[nap23]</li></ul>
+</>
+紐
+【紐（纽）】 nau2 [nɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[nəu33]</li></ul>
+</>
+素
+【素】 slu3 [ɬu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[ɬu55]</li></ul>
+</>
+累
+【累】 lui6 [lui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P272，273 附：[lui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>勞～</li></ul>
+</>
+紹
+【紹（绍）】 siu6 [ʃiu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[siu22]</li></ul>
+</>
+結
+【結（结）】 gyut2 [kyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P342，343 附：[kyt3]</li></ul>
+</>
+絕
+【絕（绝）】 zyut2 [tʃyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[tsyt3]</li></ul>
+</>
+絨
+【絨（绒）】 joeng4 [jœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[iøŋ21]</li></ul>
+</>
+經
+【經（经）】 ging1 [keŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[keŋ53]</li></ul>
+</>
+綠
+【綠（绿）】 loek5 [lœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[løk23]</li></ul>
+</>
+綢
+【綢（绸）】 zau4 [tʃɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[tsəu21]</li></ul>
+</>
+縛
+【縛（缚）】 fuk6 [fok2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[fok2]</li></ul>
+</>
+縣
+【縣（县）】 jyun6 [jyn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[yn22]</li></ul>
+</>
+縮
+【縮（缩）】 soek2 [ʃœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[søk3]</li></ul>
+</>
+繩
+【繩（绳）】 sing4 [ʃeŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[seŋ21]</li></ul>
+</>
+繳
+【繳（缴）】 giu2 [kiu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[kiu33]</li></ul>
+</>
+纠
+@@@LINK=糾
+</>
+红
+@@@LINK=紅
+</>
+约
+@@@LINK=約
+</>
+纳
+@@@LINK=納
+</>
+纽
+@@@LINK=紐
+</>
+绍
+@@@LINK=紹
+</>
+经
+@@@LINK=經
+</>
+绒
+@@@LINK=絨
+</>
+结
+@@@LINK=結
+</>
+绝
+@@@LINK=絕
+</>
+绳
+@@@LINK=繩
+</>
+绸
+@@@LINK=綢
+</>
+绿
+@@@LINK=綠
+</>
+缚
+@@@LINK=縛
+</>
+缩
+@@@LINK=縮
+</>
+缴
+@@@LINK=繳
+</>
+缺
+【缺】 kyut2 [kʰyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[kʰyt3]</li></ul>
+</>
+罗
+@@@LINK=羅
+</>
+罩
+【罩】 zaau3 [tʃau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[tsau55]</li></ul>
+</>
+罪
+【罪】 zui6 [tʃui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[tsui22]</li></ul>
+</>
+羅
+【羅（罗）】 lo4 [lo21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P244，245 附：[lo21]</li></ul>
+</>
+羊
+【羊】 jang4 [jɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[iɐŋ21]</li></ul>
+</>
+義
+【義（义）】 nji6 [ȵi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[ɲi22]</li></ul>
+</>
+翁
+【翁】 oeng1 [∅œŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[øŋ53]</li></ul>
+</>
+習
+【習（习）】 zap6 [tʃɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P324，325 附：[tsəp2]</li></ul>
+</>
+翠
+【翠】 cui3 [tʃʰui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[tsʰui55]</li></ul>
+</>
+翻
+【翻】 faan1 [fan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[fan53]</li></ul>
+</>
+耐
+【耐】 naai6 [nai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[nai22]</li></ul>
+</>
+耕
+【耕】 giang1 [kiɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P392，393 附：[kiɐŋ53]</li></ul>
+</>
+耻
+@@@LINK=恥
+</>
+联
+@@@LINK=聯
+</>
+聯
+【聯（联）】 lyun4 [lyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[lyn21]</li></ul>
+</>
+肃
+@@@LINK=肅
+</>
+肅
+【肅（肃）】 sloek2 [ɬœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[ɬøk3]</li></ul>
+</>
+肉
+【肉】 njoek2 [ȵœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[ɲøk3]</li></ul>
+</>
+肚
+【肚】 du5 [tu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[tu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>大～子</li></ul>
+</>
+肝
+【肝】 gaan1 [kan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[kan53]</li></ul>
+</>
+肥
+【肥】 fi4 [fi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[fi21]</li></ul>
+</>
+肯
+【肯】 hang2 [hɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[həŋ33]</li></ul>
+</>
+育
+【育】 njoek5 [ȵœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[ɲøk23]</li></ul>
+</>
+肺
+【肺】 fi3 [fi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[fi55]</li></ul>
+</>
+胁
+@@@LINK=脅
+</>
+胸
+【胸】 hoeng1 [hœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[høŋ53]</li></ul>
+</>
+能
+【能】 nang4 [nɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P382，383 附：[nəŋ21]</li></ul>
+</>
+脅
+【脅（胁）】 hip2 [hip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[hip3]</li></ul>
+</>
+脆
+【脆】 cui3 [tʃʰui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[tsʰui55]</li></ul>
+</>
+脑
+@@@LINK=腦
+</>
+脣
+【脣（唇）】 san4 [ʃɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[sən21]</li></ul>
+</>
+脫
+【脫（脱）】 tut2 [tʰut3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[tʰut3]</li></ul>
+</>
+脱
+@@@LINK=脫
+</>
+腊
+@@@LINK=臘
+</>
+腌
+@@@LINK=醃
+</>
+腌
+【腌】 jip2 [jip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[ip3]</li></ul>
+</>
+腐
+【腐】 fu6 [fu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[fu22]</li></ul>
+</>
+腦
+【腦（脑）】 naau5 [nau24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[nau24]</li></ul>
+</>
+臘
+【臘（腊）】 laap5 [lap24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[lap23]</li></ul>
+</>
+自
+【自】 zi6 [tʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[tsi22]</li></ul>
+</>
+舅
+【舅】 gau5 [kɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P304，305 附：[kəu24]</li></ul>
+</>
+興
+【興（兴）】 hing1 [heŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[heŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>高～</li></ul>
+</>
+舉
+【舉（举）】 gyu2 [ky33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[ky33]</li></ul>
+</>
+船
+【船】 syun4 [ʃyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[syn21]</li></ul>
+</>
+艰
+@@@LINK=艱
+</>
+艱
+【艱（艰）】 gaan1 [kan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[kan53]</li></ul>
+</>
+色
+【色】 sik2 [ʃek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[sek3]</li></ul>
+</>
+艺
+@@@LINK=藝
+</>
+艾
+【艾】 ngaai6 [ŋai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[ŋai22]</li></ul>
+</>
+节
+@@@LINK=節
+</>
+芋
+【芋】 jyu6 [jy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[y22]</li></ul>
+</>
+芳
+【芳】 fung1 [foŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[foŋ53]</li></ul>
+</>
+苦
+【苦】 hu2 [hu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[hu33]</li></ul>
+</>
+英
+【英】 ing1 [∅eŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[eŋ53]</li></ul>
+</>
+范
+@@@LINK=範
+</>
+范
+【范】 faan3 [fan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P320，321 附：[fan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>姓</li></ul>
+</>
+茶
+【茶】 zaa4 [tʃa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[tsa21]</li></ul>
+</>
+茸
+【茸】 joeng4 [jœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[iøŋ21]</li></ul>
+</>
+草
+@@@LINK=騲
+</>
+草
+【草】 caau2 [tʃʰau33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[tsʰau33]</li></ul>
+</>
+荣
+@@@LINK=榮
+</>
+莊
+【莊（庄）】 zaang1 [tʃaŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[tsaŋ53]</li></ul>
+</>
+莫
+【莫】 moek5 [mœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[møk23]</li></ul>
+</>
+获
+@@@LINK=獲
+</>
+获
+@@@LINK=穫
+</>
+菊
+【菊】 goek2 [kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P418，419 附：[køk3]</li></ul>
+</>
+菸
+【菸（烟）】 jyun1 [jyn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[yn53]</li></ul>
+</>
+营
+@@@LINK=營
+</>
+萧
+@@@LINK=蕭
+</>
+葉
+【葉（叶）】 jip5 [jip24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P318，319 附：[ip23]</li><li><span style="font-weight: bold">詞例、解釋：</span>樹～</li></ul>
+</>
+著
+【著】 ziak2 [tʃiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[tsiɐk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>衣～</li><li><span style="font-weight: bold">備註：</span>原文作「着」字</li></ul>
+</>
+蓆
+【蓆（席）】 zik6 [tʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[tsek2]</li></ul>
+</>
+蓝
+@@@LINK=藍
+</>
+蓬
+【蓬】 boeng4 [pœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P406，407 附：[pøŋ21]</li></ul>
+</>
+蔡
+【蔡】 caai3 [tʃʰai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[tsʰai55]</li></ul>
+</>
+蕊
+@@@LINK=蘂
+</>
+蕊
+【蕊】 njui3 [ȵui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[ɲui55]</li></ul>
+</>
+蕭
+【蕭（萧）】 sliu1 [ɬiu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[ɬiu53]</li></ul>
+</>
+薛
+【薛】 slyut2 [ɬyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P336，337 附：[ɬyt3]</li></ul>
+</>
+藍
+【藍（蓝）】 laam4 [lam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[lam21]</li></ul>
+</>
+藕
+【藕】 ngau5 [ŋɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[ŋəu24]</li></ul>
+</>
+藝
+【藝（艺）】 nji6 [ȵi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P266，267 附：[ɲi22]</li></ul>
+</>
+蘂
+【蘂（蕊）】 njui3 [ȵui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[ɲui55]</li></ul>
+</>
+虧
+【虧（亏）】 kwai1 [kʷʰɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[kʰuəi53]</li></ul>
+</>
+虽
+@@@LINK=雖
+</>
+虾
+@@@LINK=蝦
+</>
+蚀
+@@@LINK=蝕
+</>
+蛇
+【蛇】 se4 [ʃe21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[se21]</li></ul>
+</>
+蛙
+【蛙】 waa1 [wa53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[βa53]</li></ul>
+</>
+蝉
+@@@LINK=蟬
+</>
+蝕
+【蝕（蚀）】 sik6 [ʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[sek2]</li></ul>
+</>
+蝦
+【蝦（虾）】 haa1 [ha53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[ha53]</li></ul>
+</>
+融
+【融】 joeng4 [jœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[iøŋ21]</li></ul>
+</>
+蟬
+【蟬（蝉）】 sim4 [ʃim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[sim21]</li></ul>
+</>
+血
+【血】 hyut2 [hyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[hyt3]</li></ul>
+</>
+行
+【行】 hiang4 [hiɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P368，369 附：[hiɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>銀～</li></ul>
+</>
+術
+【術（术）】 sat6 [ʃɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[sət2]</li><li><span style="font-weight: bold">詞例、解釋：</span>算～</li></ul>
+</>
+衔
+@@@LINK=銜
+</>
+街
+【街】 gaai1 [kai53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[kai53]</li></ul>
+</>
+衛
+【衛（卫）】 wui6 [wui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[βui22]</li></ul>
+</>
+衣
+【衣】 ji1 [ji53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P280，281 附：[i53]</li></ul>
+</>
+衫
+【衫】 saam1 [ʃam53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[sam53]</li></ul>
+</>
+衬
+@@@LINK=襯
+</>
+衰
+【衰】 sui1 [ʃui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[sui53]</li></ul>
+</>
+袄
+@@@LINK=襖
+</>
+袍
+【袍】 baau4 [pau21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[pau21]</li></ul>
+</>
+袜
+@@@LINK=襪
+</>
+襖
+【襖（袄）】 ngaau2 [ŋau33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[ŋau33]</li></ul>
+</>
+襪
+【襪（袜）】 maat5 [mat24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[mat23]</li></ul>
+</>
+襯
+【襯（衬）】 can3 [tʃʰɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[tsʰən55]</li></ul>
+</>
+西
+【西】 slai1 [ɬɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[ɬəi53]</li></ul>
+</>
+覈
+【覈（核）】 hat6 [hɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P396，397 附：[hət2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～對</li></ul>
+</>
+視
+【視（视）】 si6 [ʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[si22]</li></ul>
+</>
+视
+@@@LINK=視
+</>
+角
+【角】 gaak2 [kak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P380，381 附：[kak3]</li></ul>
+</>
+解
+【解】 gaai2 [kai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[kai33]</li></ul>
+</>
+言
+【言】 njyun4 [ȵyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[ɲyn21]</li></ul>
+</>
+計
+【計（计）】 gi3 [ki55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[ki55]</li></ul>
+</>
+訓
+【訓（训）】 wan3 [wɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[βən55]</li></ul>
+</>
+託
+【託（托）】 taak2 [tʰak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[tʰak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>委～</li></ul>
+</>
+設
+【設（设）】 syut2 [ʃyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[syt3]</li></ul>
+</>
+許
+【許（许）】 hyu2 [hy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P256，257 附：[hy33]</li></ul>
+</>
+話
+【話（话）】 waa6 [wa22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P274，275 附：[βa22]</li></ul>
+</>
+誦
+【誦（诵）】 zoeng6 [tʃœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[tsøŋ22]</li></ul>
+</>
+誰
+【誰（谁）】 sui4 [ʃui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[sui21]</li></ul>
+</>
+課
+【課（课）】 ko3 [kʰo55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[kʰo55]</li></ul>
+</>
+談
+【談（谈）】 daam4 [tam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P308，309 附：[tam21]</li></ul>
+</>
+論
+【論（论）】 lan6 [lɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[lən22]</li></ul>
+</>
+謊
+【謊（谎）】 hung1 [hoŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[hoŋ53]</li></ul>
+</>
+講
+【講（讲）】 gaang2 [kaŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[kaŋ33]</li></ul>
+</>
+謝
+【謝（谢）】 ze6 [tʃe22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[tse22]</li></ul>
+</>
+謬
+【謬（谬）】 mau6 [mɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[məu22]</li><li><span style="font-weight: bold">備註：</span>原文誤作[meu22]</li></ul>
+</>
+譜
+【譜（谱）】 pu2 [pʰu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P250，251 附：[pʰu33]</li></ul>
+</>
+讓
+【讓（让）】 ngiang6 [ŋiɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[ŋiɐŋ22]</li></ul>
 </>
 讚
-讚 赞 zaan3 tʃan55 P328，329  
+【讚（赞）】 zaan3 [tʃan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[tsan55]</li></ul>
+</>
+计
+@@@LINK=計
+</>
+让
+@@@LINK=讓
+</>
+训
+@@@LINK=訓
+</>
+讲
+@@@LINK=講
+</>
+许
+@@@LINK=許
+</>
+论
+@@@LINK=論
+</>
+设
+@@@LINK=設
+</>
+话
+@@@LINK=話
+</>
+诵
+@@@LINK=誦
+</>
+课
+@@@LINK=課
+</>
+谁
+@@@LINK=誰
+</>
+谈
+@@@LINK=談
+</>
+谎
+@@@LINK=謊
+</>
+谢
+@@@LINK=謝
+</>
+谬
+@@@LINK=謬
+</>
+谱
+@@@LINK=譜
+</>
+谷
+@@@LINK=穀
+</>
+谷
+【谷】 goek2 [kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[køk3]</li></ul>
+</>
+豆
+【豆】 dau6 [tɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P300，301 附：[təu22]</li></ul>
+</>
+豬
+【豬（猪）】 zyu1 [tʃy53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[tsy53]</li></ul>
+</>
+貌
+【貌】 maau6 [mau22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[mau22]</li></ul>
+</>
+貝
+【貝（贝）】 bui3 [pui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[pui55]</li></ul>
+</>
+貧
+【貧（贫）】 ban4 [pɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[pən21]</li></ul>
+</>
+貨
+【貨（货）】 ho3 [ho55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[ho55]</li></ul>
+</>
+貪
+【貪（贪）】 taam1 [tʰam53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P306，307 附：[tʰam53]</li></ul>
+</>
+責
+【責（责）】 zik2 [tʃek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[tsek3]</li></ul>
+</>
+貳
+【貳（贰）】 nji6 [ȵi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P284，285 附：[ɲi22]</li></ul>
+</>
+貶
+【貶（贬）】 ben2 [pɛn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[pen33]</li></ul>
+</>
+費
+【費（费）】 fi3 [fi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[fi55]</li></ul>
+</>
+賊
+【賊（贼）】 cak6 [tʃʰɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[tsʰək2]</li></ul>
+</>
+賜
+【賜（赐）】 ci3 [tʃʰi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[tsʰi55]</li></ul>
+</>
+質
+【質（质）】 zat3 [tʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P360，361 附：[tsət5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～量</li><li><span style="font-weight: bold">備註：</span>原文如此，疑誤</li></ul>
+</>
+賴
+【賴（赖）】 laai6 [lai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[lai22]</li></ul>
+</>
+賽
+【賽（赛）】 saai3 [ʃai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P260，261 附：[sai55]</li></ul>
+</>
+贊
+【贊（赞）】 zaan3 [tʃan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[tsan55]</li></ul>
+</>
+贏
+【贏（赢）】 hing4 [heŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[heŋ21]</li></ul>
+</>
+贖
+【贖（赎）】 soek2 [ʃœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[søk3]</li></ul>
+</>
+贝
+@@@LINK=貝
+</>
+责
+@@@LINK=責
+</>
+败
+@@@LINK=敗
+</>
+货
+@@@LINK=貨
+</>
+质
+@@@LINK=質
+</>
+贪
+@@@LINK=貪
+</>
+贫
+@@@LINK=貧
+</>
+贬
+@@@LINK=貶
+</>
+贰
+@@@LINK=貳
+</>
+费
+@@@LINK=費
+</>
+贼
+@@@LINK=賊
+</>
+赎
+@@@LINK=贖
+</>
+赐
+@@@LINK=賜
+</>
+赖
+@@@LINK=賴
+</>
+赛
+@@@LINK=賽
+</>
+赞
+@@@LINK=讚
+</>
+赞
+@@@LINK=贊
+</>
+赢
+@@@LINK=贏
+</>
+赵
+@@@LINK=趙
+</>
+越
+【越】 njyut5 [ȵyt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P352，353 附：[ɲyt23]</li></ul>
+</>
+趙
+【趙（赵）】 ziu6 [tʃiu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[tsiu22]</li></ul>
+</>
+足
+【足】 zoek2 [tʃœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[tsøk3]</li></ul>
+</>
+跟
+【跟】 gan1 [kɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[kən53]</li></ul>
+</>
+跪
+【跪】 gwai6 [kʷɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P288，289 附：[kuəi22]</li></ul>
+</>
+跳
+【跳】 tiu3 [tʰiu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[tʰiu55]</li></ul>
+</>
+踏
+【踏】 daap6 [tap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[tap2]</li></ul>
+</>
+身
+【身】 san1 [ʃɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[sən53]</li></ul>
+</>
+軍
+【軍（军）】 gwan1 [kʷɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[kuən53]</li></ul>
+</>
+軟
+【軟（软）】 njyun5 [ȵyn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[ɲyn24]</li></ul>
+</>
+輕
+【輕（轻）】 hing1 [heŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[heŋ53]</li></ul>
+</>
+轉
+【轉（转）】 zyun3 [tʃyn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[tsyn55]</li></ul>
+</>
+轎
+【轎（轿）】 giu6 [kiu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[kiu22]</li></ul>
+</>
+轟
+【轟（轰）】 kwaang1 [kʷʰaŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P404，405 附：[kʰuaŋ53]</li></ul>
+</>
+转
+@@@LINK=轉
+</>
+软
+@@@LINK=軟
+</>
+轰
+@@@LINK=轟
+</>
+轻
+@@@LINK=輕
+</>
+轿
+@@@LINK=轎
+</>
+辞
+@@@LINK=辭
+</>
+辣
+【辣】 laat5 [lat24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[lat23]</li></ul>
+</>
+辦
+【辦（办）】 baan6 [pan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[pan22]</li></ul>
+</>
+辨
+【辨】 bin6 [pin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[pin22]</li></ul>
+</>
+辭
+【辭（辞）】 zi4 [tʃi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[tsi21]</li></ul>
+</>
+辱
+【辱】 njoek5 [ȵœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[ɲøk23]</li></ul>
+</>
+農
+【農（农）】 noeng4 [nœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[nøŋ21]</li></ul>
+</>
+边
+@@@LINK=邊
+</>
+达
+@@@LINK=達
+</>
+近
+【近】 gan5 [kɐn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P358，359 附：[kən24]</li></ul>
+</>
+还
+@@@LINK=還
+</>
+远
+@@@LINK=遠
+</>
+迟
+@@@LINK=遲
+</>
+追
+【追】 zui1 [tʃui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[tsui53]</li></ul>
+</>
+退
+【退】 tui3 [tʰui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P270，271 附：[tʰui55]</li></ul>
+</>
+送
+【送】 sloeng3 [ɬœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[ɬøŋ55]</li></ul>
+</>
+逆
+【逆】 nik5 [nek24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[nek23]</li></ul>
+</>
+选
+@@@LINK=選
+</>
+造
+【造】 zaau5 [tʃau24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[tsau24]</li></ul>
+</>
+週
+【週（周）】 zau1 [tʃɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P302，303 附：[tsəu53]</li></ul>
+</>
+逼
+【逼】 bik2 [pek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P386，387 附：[pek3]</li></ul>
+</>
+遍
+【遍】 bin3 [pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～佈</li></ul>
+</>
+達
+【達（达）】 daat6 [tat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P328，329 附：[tat2]</li></ul>
+</>
+遠
+【遠（远）】 jyun5 [jyn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[yn24]</li></ul>
+</>
+遲
+【遲（迟）】 zi4 [tʃi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P278，279 附：[tsi21]</li></ul>
+</>
+選
+【選（选）】 slyun2 [ɬyn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[ɬyn33]</li></ul>
+</>
+還
+【還（还）】 waan4 [wan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[βan21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～原</li></ul>
+</>
+邊
+【邊（边）】 bin1 [pin53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P338，339 附：[pin53]</li></ul>
+</>
+邓
+@@@LINK=鄧
+</>
+邦
+【邦】 baang1 [paŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[paŋ53]</li></ul>
+</>
+邻
+@@@LINK=鄰
+</>
+郑
+@@@LINK=鄭
+</>
+郭
+【郭】 kaak2 [kʰak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[kʰak3]</li></ul>
+</>
+鄧
+【鄧（邓）】 dang6 [tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[təŋ22]</li></ul>
+</>
+鄭
+【鄭（郑）】 zing6 [tʃeŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P398，399 附：[tseŋ22]</li></ul>
+</>
+鄰
+【鄰（邻）】 lan4 [lɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P354，355 附：[lən21]</li></ul>
+</>
+酷
+【酷】 koek2 [kʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[kʰøk3]</li></ul>
+</>
+醃
+【醃（腌）】 jip2 [jip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[ip3]</li></ul>
 </>
 采
-采 采 caai2 tʃʰai33 P258，259  
+@@@LINK=採
+</>
+采
+【采】 caai2 [tʃʰai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P258，259 附：[tsʰai33]</li></ul>
+</>
+野
+【野】 je5 [je24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[ie24]</li></ul>
+</>
+金
+【金】 gam1 [kɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P324，325 附：[kəm53]</li></ul>
+</>
+鉛
+【鉛（铅）】 jyun4 [jyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P348，349 附：[yn21]</li></ul>
+</>
+銀
+【銀（银）】 ngan4 [ŋɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[ŋən21]</li></ul>
+</>
+銜
+【銜（衔）】 haam4 [ham21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[ham21]</li></ul>
+</>
+錢
+【錢（钱）】 zin4 [tʃin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P334，335 附：[tsin21]</li></ul>
 </>
 鍾
-鍾 钟 zoeng1 tʃœŋ53 P414，415  
+【鍾（钟）】 zoeng1 [tʃœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[tsøŋ53]</li></ul>
+</>
+鐘
+【鐘（钟）】 zoeng1 [tʃœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[tsøŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～樓</li></ul>
+</>
+鐵
+【鐵（铁）】 tit2 [tʰit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[tʰit3]</li></ul>
+</>
+钟
+@@@LINK=鍾
+</>
+钟
+@@@LINK=鐘
+</>
+钦
+@@@LINK=欽
+</>
+钱
+@@@LINK=錢
+</>
+铁
+@@@LINK=鐵
+</>
+铅
+@@@LINK=鉛
+</>
+银
+@@@LINK=銀
+</>
+閂
+【閂（闩）】 saan1 [ʃan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P346，347 附：[san53]</li></ul>
+</>
+閃
+【閃（闪）】 sim2 [ʃim33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[sim33]</li></ul>
+</>
+閉
+【閉（闭）】 bai3 [pɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P268，269 附：[pəi55]</li></ul>
+</>
+閏
+【閏（闰）】 njan6 [ȵɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[ɲən22]</li></ul>
+</>
+閑
+【閑（闲）】 haan4 [han21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[han21]</li></ul>
 </>
 閒
-閒 闲 haan4 han21 P330，331  
+【閒（闲）】 haan4 [han21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[han21]</li></ul>
+</>
+間
+【間（间）】 gaan1 [kan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P330，331 附：[kan53]</li><li><span style="font-weight: bold">詞例、解釋：</span>房～</li></ul>
+</>
+閘
+【閘（闸）】 zaap6 [tʃap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[tsap2]</li></ul>
+</>
+閱
+【閱（阅）】 jyut5 [jyt24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[yt23]</li></ul>
+</>
+闊
+【闊（阔）】 hut2 [hut3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P344，345 附：[hut3]</li></ul>
+</>
+闩
+@@@LINK=閂
+</>
+闪
+@@@LINK=閃
+</>
+闭
+@@@LINK=閉
+</>
+闰
+@@@LINK=閏
+</>
+闲
+@@@LINK=閑
+</>
+闲
+@@@LINK=閒
+</>
+间
+@@@LINK=間
+</>
+闸
+@@@LINK=閘
+</>
+闹
+@@@LINK=鬧
+</>
+阅
+@@@LINK=閱
+</>
+阔
+@@@LINK=闊
+</>
+防
+【防】 fung4 [foŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[foŋ21]</li></ul>
+</>
+陆
+@@@LINK=陸
+</>
+陈
+@@@LINK=陳
+</>
+院
+【院】 jyun6 [jyn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[yn22]</li></ul>
+</>
+险
+@@@LINK=險
+</>
+陳
+【陳（陈）】 zan4 [tʃɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P356，357 附：[tsən21]</li></ul>
+</>
+陵
+【陵】 ling4 [leŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[leŋ21]</li></ul>
+</>
+陷
+【陷】 haam6 [ham22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P312，313 附：[ham22]</li></ul>
+</>
+陸
+【陸（陆）】 loek5 [lœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P416，417 附：[løk23]</li></ul>
+</>
+隆
+【隆】 loeng4 [lœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[løŋ21]</li></ul>
+</>
+随
+@@@LINK=隨
+</>
+隨
+【隨（随）】 zui4 [tʃui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[tsui21]</li></ul>
+</>
+險
+【險（险）】 him2 [him33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[him33]</li></ul>
+</>
+隻
+【隻（只）】 zik2 [tʃek3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P400，401 附：[tsek3]</li><li><span style="font-weight: bold">詞例、解釋：</span>量詞</li></ul>
+</>
+难
+@@@LINK=難
+</>
+雀
+【雀】 ciak2 [tʃʰiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P374，375 附：[tsʰiɐk3]</li></ul>
+</>
+雄
+【雄】 hoeng4 [hœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P412，413 附：[høŋ21]</li></ul>
+</>
+集
+【集】 zap6 [tʃɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P324，325 附：[tsəp2]</li></ul>
+</>
+雖
+【雖（虽）】 slui1 [ɬui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P286，287 附：[ɬui53]</li></ul>
+</>
+雙
+【雙（双）】 sung1 [ʃoŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P378，379 附：[soŋ53]</li></ul>
+</>
+雜
+【雜（杂）】 zaap6 [tʃap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[tsap2]</li></ul>
+</>
+離
+【離（离）】 li6 [li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P276，277 附：[li22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～別</li></ul>
+</>
+難
+【難（难）】 naan4 [nan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[nan21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～易</li></ul>
+</>
+雲
+【雲（云）】 wan4 [wɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P364，365 附：[βən21]</li></ul>
+</>
+霍
+【霍】 kaak2 [kʰak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[kʰak3]</li></ul>
+</>
+革
+【革】 giak2 [kiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[kiɐk3]</li></ul>
+</>
+靴
+【靴】 hoe1 [hœ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P246，247 附：[hø53]</li></ul>
+</>
+鞋
+【鞋】 haai4 [hai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P264，265 附：[hai21]</li></ul>
+</>
+音
+【音】 jam1 [jɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P324，325 附：[iəm53]</li></ul>
+</>
+頂
+【頂（顶）】 ding2 [teŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P402，403 附：[teŋ33]</li></ul>
+</>
+順
+【順（顺）】 san6 [ʃɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P366，367 附：[sən22]</li></ul>
+</>
+頓
+【頓（顿）】 dan3 [tɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[tən55]</li></ul>
+</>
+類
+【類（类）】 lui6 [lui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P290，291 附：[lui22]</li></ul>
+</>
+顯
+【顯（显）】 hyun2 [hyn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P340，341 附：[hyn33]</li></ul>
+</>
+顶
+@@@LINK=頂
+</>
+顺
+@@@LINK=順
+</>
+顿
+@@@LINK=頓
+</>
+風
+【風（风）】 foeng1 [fœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[føŋ53]</li></ul>
+</>
+飄
+【飄（飘）】 piu1 [pʰiu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[pʰiu53]</li></ul>
+</>
+风
+@@@LINK=風
+</>
+飘
+@@@LINK=飄
+</>
+食
+【食】 sik6 [ʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P388，389 附：[sek2]</li></ul>
+</>
+餐
+【餐】 caan1 [tʃʰan53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P326，327 附：[tsʰan53]</li></ul>
+</>
+餘
+【餘（余）】 hi4 [hi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P254，255 附：[hi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>多～</li></ul>
+</>
+饒
+【饒（饶）】 jiu4 [jiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P296，297 附：[iu21]</li></ul>
+</>
+饶
+@@@LINK=饒
+</>
+香
+【香】 hiang1 [hiɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P372，373 附：[hiɐŋ53]</li></ul>
+</>
+騲
+【騲（草）】 caau2 [tʃʰau33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P292，293 附：[tsʰau33]</li></ul>
+</>
+驗
+【驗（验）】 nim6 [nim22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P316，317 附：[nim22]</li></ul>
+</>
+验
+@@@LINK=驗
+</>
+骨
+【骨】 gwat2 [kʷɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P362，363 附：[kuət3]</li></ul>
+</>
+髮
+【髮（发）】 faat2 [fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P350，351 附：[fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>頭～</li></ul>
+</>
+鬆
+【鬆（松）】 sloeng1 [ɬœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P408，409 附：[ɬøŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～緊</li></ul>
+</>
+鬧
+【鬧（闹）】 naau6 [nau22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P294，295 附：[nau22]</li></ul>
+</>
+魯
+【魯（鲁）】 lu5 [lu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P252，253 附：[lu24]</li></ul>
+</>
+鲁
+@@@LINK=魯
+</>
+鳥
+【鳥（鸟）】 diu2 [tiu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P298，299 附：[tiu33]</li></ul>
+</>
+鴉
+【鴉（鸦）】 aa1 [∅a53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P248，249 附：[a53]</li></ul>
+</>
+鴿
+【鴿（鸽）】 gaap2 [kap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P310，311 附：[kap3]</li></ul>
+</>
+鶴
+【鶴（鹤）】 haak6 [hak2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P370，371 附：[hak2]</li></ul>
+</>
+鸟
+@@@LINK=鳥
+</>
+鸦
+@@@LINK=鴉
+</>
+鸽
+@@@LINK=鴿
+</>
+鹤
+@@@LINK=鶴
+</>
+鹽
+【鹽（盐）】 jim4 [jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P314，315 附：[im21]</li></ul>
+</>
+鹿
+【鹿】 loek5 [lœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P410，411 附：[løk23]</li></ul>
+</>
+麥
+【麥（麦）】 miak5 [miɐk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P394，395 附：[miɐk23]</li></ul>
+</>
+麦
+@@@LINK=麥
+</>
+麯
+【麯（曲）】 koek2 [kʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[kʰøk3]</li></ul>
+</>
+麴
+【麴（麹）】 koek2 [kʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P420，421 附：[kʰøk3]</li><li><span style="font-weight: bold">備註：</span>原文作「曲」字</li></ul>
+</>
+麹
+@@@LINK=麴
+</>
+黃
+【黃（黄）】 hung4 [hoŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P376，377 附：[hoŋ21]</li></ul>
+</>
+黄
+@@@LINK=黃
+</>
+黑
+【黑】 hak2 [hɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P384，385 附：[hək3]</li></ul>
+</>
+鼻
+【鼻】 bat6 [pɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[pət2]</li></ul>
+</>
+齋
+【齋（斋）】 zaai1 [tʃai53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P262，263 附：[tsai53]</li></ul>
+</>
+齒
+【齒（齿）】 zi2 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P282，283 附：[tsi33]</li></ul>
+</>
+齿
+@@@LINK=齒
+</>
+龍
+【龍（龙）】 lung4 [loŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年詹伯慧、張振興《漢語方言學大詞典》P414，415 附：[loŋ21]</li></ul>
+</>
+龙
+@@@LINK=龍
 </>
