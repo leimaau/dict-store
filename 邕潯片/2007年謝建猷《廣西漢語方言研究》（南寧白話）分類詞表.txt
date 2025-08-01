@@ -361,9 +361,6 @@
 两斤
 @@@LINK=兩斤
 </>
-个个月
-@@@LINK=箇個月
-</>
 中意
 【中意】 zung1 ji3 [tʃʊŋ55 ji33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1846 附：[tʃuŋ55 i33]</li><li><span style="font-weight: bold">詞例、解釋：</span>喜歡</li><li><span style="font-weight: bold">分類：</span>十七、動作/喜歡</li></ul>
 </>
@@ -4018,8 +4015,11 @@
 筷手筒
 【筷手筒】 kwaai3 sau2 tung4 [kʷʰai33 ʃɐu35 tʰʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1364 附：[kʷʰai33 ʃɐu35 tʰuŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>筷籠</li><li><span style="font-weight: bold">分類：</span>六、房舍/筷籠</li></ul>
 </>
+箇个月
+@@@LINK=箇個月
+</>
 箇個月
-【箇個月（个个月）】 go3 go3 jyut6 [kɔ33 kɔ33 jyt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1132 附：[kɔ33 kɔ33 yt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>這個月</li><li><span style="font-weight: bold">備註：</span>原文第一個[kɔ33]有音無字</li><li><span style="font-weight: bold">分類：</span>二、時令/這個月</li></ul>
+【箇個月（箇个月）】 go3 go3 jyut6 [kɔ33 kɔ33 jyt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1132 附：[kɔ33 kɔ33 yt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>這個月</li><li><span style="font-weight: bold">備註：</span>原文第一個[kɔ33]有音無字</li><li><span style="font-weight: bold">分類：</span>二、時令/這個月</li></ul>
 </>
 算命佬
 【算命佬】 slyun3 ming6 lu2 [ɬyn33 meŋ22 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1690 附：[ɬyn33 miŋ22 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>算命先生</li><li><span style="font-weight: bold">分類：</span>十四、婚喪/算命先生</li></ul>

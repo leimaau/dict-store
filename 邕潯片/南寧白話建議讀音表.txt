@@ -533,7 +533,7 @@
 【䏿】南寧白話：kai2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kai2</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 䐁
-【䐁】南寧白話：zok3「臀；肥」,duk1「容器或物體底部，又作㞘字；量詞，泡（用於屎尿），另一說本字涿；地名，葫蘆～，即葫蘆頂，因白沙半島盡頭頂部似葫蘆底部得名，上建大橋稱葫蘆頂大橋，後被愚蠢的官員自以爲是改名爲葫蘆鼎，破壞了原本語義清晰的歷史地名」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>doek3,duk1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【䐁】南寧白話：zok3「臀；肥」,duk1「容器或物體底部，又作㞘字；量詞，泡（用於屎尿），另一說本字涿；地名，葫蘆～，即葫蘆頂，因白沙半島盡頭頂部似葫蘆底得名，上建大橋稱葫蘆頂大橋，後被官員改爲葫蘆鼎，原意已失」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>doek3,duk1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 䐃
 【䐃】南寧白話：kwan5「腸中脂」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)kan5「禽類的胃（百姓以爲禽的腎），俗字肫」</li><li><span style="font-weight: bold">廣州話：</span>kwan5</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
@@ -1829,7 +1829,7 @@
 【僅（仅）】南寧白話：gan2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gan2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 僆
-【僆】南寧白話：lin5「小雞；孿生」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)ling1「年輕幼稚的，本字笭」,(訓)leng1「又音」</li><li><span style="font-weight: bold">廣州話：</span>lin5,leng1</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
+【僆】南寧白話：lin5「小雞；孿生」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lin5,leng1</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
 </>
 僇
 【僇】南寧白話：luk6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>luk6</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
@@ -2204,7 +2204,7 @@
 【冥】南寧白話：ming4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ming4；(又)ming5</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 冧
-【冧】南寧白話：lam3「垮塌，塌陷，～檔，倒閉，或與陷/窞同源，上古談部，另一說淋的引申」,lam1「哄，本字或爲啉，聒也；〈外〉～把，號碼，英語number，後起詞」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lam3,lam1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【冧】南寧白話：lam3「俗字，垮塌，塌陷，～檔，倒閉，或與陷/窞同源，上古談部，另一說淋的引申」,lam1「俗字，哄，本字或爲啉，聒也；〈外〉～把，號碼，英語number，後起詞」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lam3,lam1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 冪
 【冪（幂）】南寧白話：mik6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>mik6</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -3281,7 +3281,7 @@
 【味】南寧白話：mi6「味道，香味」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)mi2「臘味，滷味，一味（總是）；量詞，一味藥，一味菜（一個菜）」</li><li><span style="font-weight: bold">廣州話：</span>mei6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 呵
-【呵】南寧白話：ho1「呵欠，呵斥；地名，呵叻（在泰國）」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)ho2「句末語氣詞，表輕微徵詢以求確認，係麼的合音，用於明知某事仍需當面確認的情況，今晚你主持，～？工資又低，～？好似你有隻女，～？」,(語)hu3「哦～，表無奈或嘲諷，源自嗚呼」</li><li><span style="font-weight: bold">廣州話：</span>ho1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【呵】南寧白話：ho1「呵欠，呵斥；地名，呵叻（在泰國）」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)ho2「句末語氣詞，表輕微徵詢以求確認，係麼的合音，用於明知某事仍需當面確認的情況，今晚你主持，～？工資又低，～？好似你有隻崽，～？」,(語)hu3「哦～，表無奈或嘲諷，源自嗚呼」</li><li><span style="font-weight: bold">廣州話：</span>ho1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 呶
 【呶】南寧白話：naau4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>naau4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -3752,7 +3752,7 @@
 【啱】南寧白話：ngaam1「俗字，剛剛、恰好、合適，一說本字嚴/𧬌/諴」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ngaam1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 啲
-【啲】南寧白話：di1「俗字，一～，一點兒，一說本字稚，知組讀如端組；阿～嚕～，這裏那裏；～咑，嗩吶或嗩吶聲」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)dit1「表少量，或爲連讀音變，另一說本字尐」,(白)ni1「～～登[nɐŋ55]登[nɐŋ55]，各種事物，端組旁轉，又作呢字」</li><li><span style="font-weight: bold">廣州話：</span>dit1,di1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【啲】南寧白話：di1「俗字，一～，一點兒，本字稚，小也，知三讀如端；阿～嚕～，這裏那裏，當源自底，山居也；擬聲，～咑，嗩吶或嗩吶聲」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)dit1「表少量，或爲連讀音變，另一說本字尐」,(白)ni1「～～登[nɐŋ55]登[nɐŋ55]，各種事物，端組旁轉，又作呢字」</li><li><span style="font-weight: bold">廣州話：</span>dit1,di1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 啵
 【啵】南寧白話：bo1「象聲詞；助詞」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>bo1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -4217,7 +4217,7 @@
 【噗】南寧白話：puk1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>pok3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 噘
-【噘】南寧白話：kyut3「噘嘴」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)doe1「～嘴，噘嘴，本字豬，知組三等讀如端組；（蚊蟲）叮，（馬蜂）蟄，當源自蛀」</li><li><span style="font-weight: bold">廣州話：</span>kyut3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
+【噘】南寧白話：kyut3「噘嘴」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)doe1「～嘴，噘嘴，本字豬，知三讀如端；（蚊蟲）叮，（馬蜂）蟄，當源自蛀」</li><li><span style="font-weight: bold">廣州話：</span>kyut3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 噙
 【噙】南寧白話：kam4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kam4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -4607,7 +4607,7 @@
 【坅】南寧白話：ham2「坑」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jam2,ham2</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 均
-【均】南寧白話：(白)kwan1「平均，均勻；案，正逐漸變爲舊讀」<ul type="square"><li><span style="font-weight: bold">又音：</span>(文)gwan1</li><li><span style="font-weight: bold">廣州話：</span>gwan1；通韻</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【均】南寧白話：(白)kwan1「平均，均勻，舊讀」<ul type="square"><li><span style="font-weight: bold">又音：</span>(文)gwan1「新讀」</li><li><span style="font-weight: bold">廣州話：</span>gwan1；通韻</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 坉
 【坉】南寧白話：tan4「以草裹土築城及填水；田隴」,dan6「同沌字；塞」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>nang4,tyun4</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
@@ -5378,7 +5378,7 @@
 【夿】南寧白話：baa1「奤夿屯」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>baa1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 奀
-【奀】南寧白話：ngan1「俗字，瘦小，或爲伢身（小兒身）的合音」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ngan1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【奀】南寧白話：ngan1「俗字，瘦小，當爲伢身（小兒身）的合音」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ngan1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 奄
 【奄】南寧白話：jim2「奄有，奄忽」,jim1「奄奄一息」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>1)jim2:奄有四方 2)jim1:奄奄一息；(古)同閹，地名亦讀jim1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -5945,7 +5945,7 @@
 【嫭】南寧白話：wu6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>wu6</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 嫲
-【嫲】南寧白話：maa4「粵字，阿～，祖母，一說與嬤同源，本地已罕用，今多稱奶奶」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>maa4</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【嫲】南寧白話：maa4「俗字，阿～，祖母，一說與嬤同源，本地已罕用，今多稱奶奶」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>maa4</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 嫳
 【嫳】南寧白話：pit3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>pit3</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
@@ -6074,7 +6074,7 @@
 【孕】南寧白話：jan6「懷孕，孕婦」<ul type="square"><li><span style="font-weight: bold">又音：</span>(老派)jyun6</li><li><span style="font-weight: bold">廣州話：</span>jan6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 孖
-【孖】南寧白話：zi1「雙生子，本讀」,(訓)maa1「孿生、連帶，與巴旁轉；雙孖井，古井又泛指地名，現爲文物點」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)me1「～指，六指」,(老派)zy1</li><li><span style="font-weight: bold">廣州話：</span>maa1</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
+【孖】南寧白話：zi1「雙生子，本讀」,(訓)maa1「孿生、連帶，與巴旁轉；雙孖井，古井又泛指地名，現爲文物點」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)me1「白讀，～指，六指兒」,(老派)zy1「本讀」</li><li><span style="font-weight: bold">廣州話：</span>maa1</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 字
 【字】南寧白話：zi6「文字，字畫；一個～，五分鐘」<ul type="square"><li><span style="font-weight: bold">又音：</span>(老派)zy6</li><li><span style="font-weight: bold">廣州話：</span>zi6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -6197,7 +6197,7 @@
 【宙】南寧白話：zau6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zau6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 定
-【定】南寧白話：ding6「安定，定時；落～，付定金、放定」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)deng6「地方，～方，地方，陰～，背陰處，俗字埞，另一說地方的合音」</li><li><span style="font-weight: bold">廣州話：</span>ding6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【定】南寧白話：ding6「安定，定時；落～，付定金、放定」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)deng6「地方，～方、笪～，地方，陰～，背陰處，俗字埞，另一說地方的合音」</li><li><span style="font-weight: bold">廣州話：</span>ding6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 宛
 【宛】南寧白話：wun2「宛如」,jyun1「古地名，大宛」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jyun2；(古地名)jyun1大宛</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -6743,7 +6743,7 @@
 【崙（仑）】南寧白話：lan4「崑崙山」<ul type="square"><li><span style="font-weight: bold">又音：</span>(老派)lyun4</li><li><span style="font-weight: bold">廣州話：</span>leon4</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 崚
-【崚】南寧白話：ling4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ling4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
+【崚】南寧白話：ling4「崚嶒」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)lang4</li><li><span style="font-weight: bold">廣州話：</span>ling4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 崛
 【崛】南寧白話：gwat6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gwat6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -6872,7 +6872,7 @@
 【嶍】南寧白話：zap6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zaap6</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 嶒
-【嶒】南寧白話：cang4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>cang4</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
+【嶒】南寧白話：cing4「崚嶒」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)cang4</li><li><span style="font-weight: bold">廣州話：</span>cang4</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 嶓
 【嶓】南寧白話：bo1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>bo1</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
@@ -7169,7 +7169,7 @@
 【幫（帮）】南寧白話：bong1「幫助，丐幫，一幫；介詞，替，你～我寫封信」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>bong1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 幬
-【幬（帱）】南寧白話：cau4「床帳；車帷」,du6「覆蓋」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>cau4,dou6</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
+【幬（帱）】南寧白話：cau4「牀帳；車帷」,du6「覆蓋」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>cau4,dou6</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 干
 【干】南寧白話：gon1「天干，干涉，干脆」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gon1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -8534,7 +8534,7 @@
 【戁】南寧白話：naan5「恐懼」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)nan1「肉～，肉麻；噁心」</li><li><span style="font-weight: bold">廣州話：</span>naan5</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 戇
-【戇（戆）】南寧白話：(訓)ngong3「傻、呆，～居，或爲愚戇的合音（愚字古疑母），與愕對轉」,zong3「戇直」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)ngang1「癡～～，瘋癲貌，傻～～，傻乎乎」,(語)ngang2「發愣，愣住，或源自蹬/耿」</li><li><span style="font-weight: bold">廣州話：</span>ngong6</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
+【戇（戆）】南寧白話：(訓)ngong3「傻、呆，～居，當爲愚戇的合音（愚字古疑母），與愕對轉」,zong3「戇直」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)ngang1「癡～～，瘋癲貌，傻～～，傻乎乎」</li><li><span style="font-weight: bold">廣州話：</span>ngong6</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 戈
 【戈】南寧白話：go1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gwo1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -8618,7 +8618,7 @@
 【戲（戏）】南寧白話：hi3「戲劇」,(古)fu1「於戲」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)hi1「兒～，不可靠，俗作兒嬉」</li><li><span style="font-weight: bold">廣州話：</span>hei3；(古)fu1於戲</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 戳
-【戳】南寧白話：cok3「戳穿；郵戳」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)cot6「男陰，戳物的合音，假借字腏；詈語，～頭，既指男陰又指爛人，笨～，笨蛋、膿包；後綴成分，～死，要死，貴～死，貴得要死；程度副詞，噉～屎，這麼差勁，也說噉㞓屎」</li><li><span style="font-weight: bold">廣州話：</span>coek3；(又)cok3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【戳】南寧白話：cok3「戳穿；郵戳」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)cot6「俗字，男陰，戳物的合音，假借字腏；詈語，～頭，既指男陰又指爛人，笨～，笨蛋、膿包；後綴成分，～死，要死，貴～死，貴得要死；程度副詞，噉～屎，這麼差勁，也說噉㞓屎」</li><li><span style="font-weight: bold">廣州話：</span>coek3；(又)cok3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 戴
 【戴】南寧白話：daai3「戴帽，愛戴；姓」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>daai3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -8945,7 +8945,7 @@
 【拫】南寧白話：han4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>han4</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
 </>
 括
-【括】南寧白話：gwaat3「包括，括號」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)gwet3「罕讀」,(又)kwaat3</li><li><span style="font-weight: bold">廣州話：</span>1)kut3:括號 2)gwaat3:搜括</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【括】南寧白話：gwaat3「包括，括號，蒐括」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)gwet3「罕讀」,(又)kwaat3</li><li><span style="font-weight: bold">廣州話：</span>1)kut3:括號 2)gwaat3:搜括</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 拭
 【拭】南寧白話：sik1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sik1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -9074,7 +9074,7 @@
 【捆】南寧白話：kwan2「捆綁」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kwan2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 捉
-【捉】南寧白話：zok3「捉拿，捕捉」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zuk1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【捉】南寧白話：zok3「捉拿，捕捉，語流中也有讀[tʃʊk3]」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zuk1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 捋
 【捋】南寧白話：lyut6「捋袖，捋鬍鬚」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)lyut3,(白)lyut1「滑落；滑～～，滑溜溜」</li><li><span style="font-weight: bold">廣州話：</span>lyut3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -9650,7 +9650,7 @@
 【撂】南寧白話：liu1「放下」,loek6「掠取，本字㨼」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>liu1,loek6</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 撅
-【撅】南寧白話：kyut3「翹起；折斷」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)goe1「～屎胐，撅屁股，疑本字居」</li><li><span style="font-weight: bold">廣州話：</span>kyut3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
+【撅】南寧白話：kyut3「翹起；折斷」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)goe1「～屎胐，撅屁股，疑本字踞，蹲也」</li><li><span style="font-weight: bold">廣州話：</span>kyut3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 撇
 【撇】南寧白話：pit3「撇捺；撇開」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)fit1「抽打，～一鞭」</li><li><span style="font-weight: bold">廣州話：</span>pit3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -18248,7 +18248,7 @@
 【笫】南寧白話：zi2<ul type="square"><li><span style="font-weight: bold">又音：</span>(老派)zy2</li><li><span style="font-weight: bold">廣州話：</span>zi2</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 第
-【第】南寧白話：dai6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>dai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【第】南寧白話：dai6「及第，第一；～日，次日、改天；別，～個，～啲，～笪定[tɛŋ22]」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)daai6「別，～個，～啲，～笪定[tɛŋ22]」</li><li><span style="font-weight: bold">廣州話：</span>dai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 笭
 【笭】南寧白話：ling4「笭箵（口語稱魚䉴）」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)ling1「年輕幼稚的，～崽（本義背篼嬰），貶義、詈語，俗字僆」,(白)leng1「又音，～崽」</li><li><span style="font-weight: bold">廣州話：</span>ling4</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
@@ -18371,7 +18371,7 @@
 【箅】南寧白話：bi6「箅子」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>bei3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 箇
-【箇】南寧白話：go3「量詞，枚也；代詞，這、那，～便、～幾個、～個月，不分遠近指，僅用於遠近會變且恰處中間的事物，如車子、人、月份等，較少用」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>go3</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【箇】南寧白話：go3「量詞，枚也；代詞，這、那，～啲、～便、～幾個、～個月，不分近指遠指，較少用」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>go3</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 箋
 【箋（笺）】南寧白話：(習)cim1「便箋，信箋，讀同籤」<ul type="square"><li><span style="font-weight: bold">又音：</span>(書)zin1「本讀」</li><li><span style="font-weight: bold">廣州話：</span>zin1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -19991,7 +19991,7 @@
 【耾】南寧白話：hung4<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)wang1「～～響，嗡嗡響，又作嗡字」</li><li><span style="font-weight: bold">廣州話：</span>wang4</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
 </>
 耿
-【耿】南寧白話：gang2「耿直，耿耿；〈語〉～板、繃[pɐŋ35]～，古板」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gang2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【耿】南寧白話：gang2「耿直，耿耿；〈語〉～板、繃[pɐŋ35]～，古板」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)ngang2「發愣，愣住」</li><li><span style="font-weight: bold">廣州話：</span>gang2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 聃
 【聃】南寧白話：daam1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>daam1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -20360,7 +20360,7 @@
 【脲】南寧白話：niu6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>niu6</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 脷
-【脷】南寧白話：li6「舌頭，本字利，避諱舌/折」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lei6</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【脷】南寧白話：li6「俗字，舌頭，本字利，避諱舌/折」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lei6</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 脹
 【脹（胀）】南寧白話：zoeng3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zoeng3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -20918,7 +20918,7 @@
 【艽】南寧白話：(白)geu1「秦艽」,kau4「遠荒」<ul type="square"><li><span style="font-weight: bold">又音：</span>(文)gaau1</li><li><span style="font-weight: bold">廣州話：</span>gaau1,kau4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 艾
-【艾】南寧白話：ngaai6「艾草，艾葉，艾滋病」,ngai6「自怨自艾，俗讀艾草之艾」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)ngoi6「艾草，艾葉」</li><li><span style="font-weight: bold">廣州話：</span>ngaai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【艾】南寧白話：(白)ngaai6「艾草，艾葉，艾滋病」,ngai6「自怨自艾，俗讀艾草之艾」<ul type="square"><li><span style="font-weight: bold">又音：</span>(文)ngoi6</li><li><span style="font-weight: bold">廣州話：</span>ngaai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 艿
 【艿】南寧白話：naai5「芋艿」,jing4「舊草未割新草又生」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>naai5,jing4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -24332,7 +24332,7 @@
 【豫】南寧白話：jyu6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jyu6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 豬
-【豬（猪）】南寧白話：zyu1「豬肉，養豬；～嘴，噘嘴」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)doe1「～嘴，噘嘴，知組三等讀如端組」</li><li><span style="font-weight: bold">廣州話：</span>zyu1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【豬（猪）】南寧白話：zyu1「豬肉，養豬；～嘴，噘嘴」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)doe1「～嘴，噘嘴，知三讀如端」</li><li><span style="font-weight: bold">廣州話：</span>zyu1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 豭
 【豭】南寧白話：gaa1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>gaa1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
@@ -25721,7 +25721,7 @@
 【遝】南寧白話：daap6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>daap6</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 遞
-【遞（递）】南寧白話：dai6「傳遞，遞交」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)doe2「遞，疑本字柱，支也，知組三等讀如端組」</li><li><span style="font-weight: bold">廣州話：</span>dai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【遞（递）】南寧白話：dai6「傳遞，遞交」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)doe2「遞，疑本字柱，支也，知三讀如端」</li><li><span style="font-weight: bold">廣州話：</span>dai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 遠
 【遠（远）】南寧白話：jyun5「遙遠；敬而遠之，古讀去聲」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jyun5；敬而遠之又讀jyun6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -26486,7 +26486,7 @@
 【鈧（钪）】南寧白話：kong3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kong3</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 鈪
-【鈪】南寧白話：aak3「粵字，鐲子，本字軛」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>aak3,aak2</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
+【鈪】南寧白話：aak3「俗字，鐲子，本字軛」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>aak3,aak2</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
 </>
 鈭
 【鈭】南寧白話：zi1<ul type="square"><li><span style="font-weight: bold">又音：</span>(老派)zy1</li><li><span style="font-weight: bold">廣州話：</span>zi1</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
@@ -27893,7 +27893,7 @@
 【雷】南寧白話：lui4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>leoi4</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 雹
-【雹】南寧白話：bok6「冰雹，雹災」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)paau1「冰雹，訓讀泡」</li><li><span style="font-weight: bold">廣州話：</span>bok6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【雹】南寧白話：bok6「冰雹，雹災」<ul type="square"><li><span style="font-weight: bold">又音：</span>(訓)paau1「冰雹，訓讀泡，少數也有讀陰去」</li><li><span style="font-weight: bold">廣州話：</span>bok6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 電
 【電（电）】南寧白話：din6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>din6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -27926,7 +27926,7 @@
 【霍】南寧白話：kok3「霍亂，揮霍；姓」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)kwaak3「～炩[leŋ22]，閃電，或源自霍閃」</li><li><span style="font-weight: bold">廣州話：</span>fok3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 霎
-【霎】南寧白話：slaap3「霎時，一霎那；～黑，黃昏；～眼，轉眼」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)saap3「～氣，傷腦筋，本字霅，散也」</li><li><span style="font-weight: bold">廣州話：</span>saap3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【霎】南寧白話：slaap3「霎時，一霎那；～黑，黃昏、傍晚；～眼，轉眼」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)saap3「～氣，傷腦筋，本字霅，散也」</li><li><span style="font-weight: bold">廣州話：</span>saap3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 霏
 【霏】南寧白話：fi1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>fei1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -29480,7 +29480,7 @@
 【鯤（鲲）】南寧白話：kwan1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kwan1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 鯧
-【鯧（鲳）】南寧白話：(習)cong1「鯧魚，俗字䱽」<ul type="square"><li><span style="font-weight: bold">又音：</span>(書)coeng1</li><li><span style="font-weight: bold">廣州話：</span>coeng1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
+【鯧（鲳）】南寧白話：(習)cong1「鯧魚，俗字䱽/倉」<ul type="square"><li><span style="font-weight: bold">又音：</span>(書)coeng1</li><li><span style="font-weight: bold">廣州話：</span>coeng1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 鯨
 【鯨（鲸）】南寧白話：king4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>king4</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -30215,7 +30215,7 @@
 【黝】南寧白話：jau2「黝黑，黝黯」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)au2「深紫色（瘀血色），～血，瘀血，～黑～黑，深紫」</li><li><span style="font-weight: bold">廣州話：</span>jau2</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 點
-【點（点）】南寧白話：dim2「點燈，點炮，小數點；〈語〉怎麼，底物的合音」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)dem2「蘸，～鹽，～水」</li><li><span style="font-weight: bold">廣州話：</span>dim2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【點（点）】南寧白話：dim2「點燈，點炮，小數點；〈語〉怎麼，底物的合音，底物即（何）等物，底乃等的俗字」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)dem2「蘸，～鹽，～水」</li><li><span style="font-weight: bold">廣州話：</span>dim2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 黟
 【黟】南寧白話：ji1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ji1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -30374,7 +30374,7 @@
 【齉】南寧白話：nong6「鼻塞」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>nong6</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 齊
-【齊（齐）】南寧白話：cai4「整齊，齊全；完，食～」,(古)zi1「齊衰」,(古)zai6「火齊」<ul type="square"><li><span style="font-weight: bold">又音：</span>(老派)zy1「齊衰」</li><li><span style="font-weight: bold">廣州話：</span>1)cai4:整齊 2)zi1:齊衰；(古)通齋</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【齊（齐）】南寧白話：cai4「整齊，齊全；完，食～；大～，大家」,(古)zi1「齊衰」,(古)zai6「火齊」<ul type="square"><li><span style="font-weight: bold">又音：</span>(老派)zy1「齊衰」</li><li><span style="font-weight: bold">廣州話：</span>1)cai4:整齊 2)zi1:齊衰；(古)通齋</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 齋
 【齋（斋）】南寧白話：zaai1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zaai1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -31766,7 +31766,7 @@ cing3
 <span style="font-weight: bold">音節：</span>cing3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://掅">掅</a>」,「<a href="entry://稱">稱</a>」,「<a href="entry://秤">秤</a>」,「<a href="entry://碃">碃</a>」
 </>
 cing4
-<span style="font-weight: bold">音節：</span>cing4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://䝼">䝼</a>」,「<a href="entry://餳">餳</a>」,「<a href="entry://酲">酲</a>」,「<a href="entry://郢">郢</a>」,「<a href="entry://逞">逞</a>」,「<a href="entry://裎">裎</a>」,「<a href="entry://腈">腈</a>」,「<a href="entry://程">程</a>」,「<a href="entry://珵">珵</a>」,「<a href="entry://澄">澄</a>」,「<a href="entry://澂">澂</a>」,「<a href="entry://氰">氰</a>」,「<a href="entry://晴">晴</a>」,「<a href="entry://成">成</a>」,「<a href="entry://懲">懲</a>」,「<a href="entry://憕">憕</a>」,「<a href="entry://情">情</a>」,「<a href="entry://埕">埕</a>」,「<a href="entry://呈">呈</a>」
+<span style="font-weight: bold">音節：</span>cing4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://䝼">䝼</a>」,「<a href="entry://餳">餳</a>」,「<a href="entry://酲">酲</a>」,「<a href="entry://郢">郢</a>」,「<a href="entry://逞">逞</a>」,「<a href="entry://裎">裎</a>」,「<a href="entry://腈">腈</a>」,「<a href="entry://程">程</a>」,「<a href="entry://珵">珵</a>」,「<a href="entry://澄">澄</a>」,「<a href="entry://澂">澂</a>」,「<a href="entry://氰">氰</a>」,「<a href="entry://晴">晴</a>」,「<a href="entry://成">成</a>」,「<a href="entry://懲">懲</a>」,「<a href="entry://憕">憕</a>」,「<a href="entry://情">情</a>」,「<a href="entry://嶒">嶒</a>」,「<a href="entry://埕">埕</a>」,「<a href="entry://呈">呈</a>」
 </>
 cip3
 <span style="font-weight: bold">音節：</span>cip3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://唼">唼</a>」,「<a href="entry://妾">妾</a>」
@@ -31964,7 +31964,7 @@ daai3
 <span style="font-weight: bold">音節：</span>daai3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://帶">帶</a>」,「<a href="entry://襶">襶</a>」,「<a href="entry://戴">戴</a>」
 </>
 daai6
-<span style="font-weight: bold">音節：</span>daai6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://大">大</a>」,「<a href="entry://軑">軑</a>」,「<a href="entry://汏">汏</a>」
+<span style="font-weight: bold">音節：</span>daai6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://大">大</a>」,「<a href="entry://軑">軑</a>」,「<a href="entry://第">第</a>」,「<a href="entry://汏">汏</a>」
 </>
 daak1
 <span style="font-weight: bold">音節：</span>daak1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://咑">咑</a>」,「<a href="entry://脦">脦</a>」
@@ -34520,7 +34520,7 @@ lang3
 <span style="font-weight: bold">音節：</span>lang3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://掕">掕</a>」,「<a href="entry://硠">硠</a>」
 </>
 lang4
-<span style="font-weight: bold">音節：</span>lang4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倰">倰</a>」,「<a href="entry://楞">楞</a>」,「<a href="entry://掕">掕</a>」,「<a href="entry://愣">愣</a>」,「<a href="entry://塄">塄</a>」,「<a href="entry://啷">啷</a>」
+<span style="font-weight: bold">音節：</span>lang4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倰">倰</a>」,「<a href="entry://楞">楞</a>」,「<a href="entry://掕">掕</a>」,「<a href="entry://愣">愣</a>」,「<a href="entry://崚">崚</a>」,「<a href="entry://塄">塄</a>」,「<a href="entry://啷">啷</a>」
 </>
 lang5
 <span style="font-weight: bold">音節：</span>lang5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://棱">棱</a>」,「<a href="entry://稜">稜</a>」
@@ -34586,7 +34586,7 @@ len3
 <span style="font-weight: bold">音節：</span>len3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://摙">摙</a>」
 </>
 leng1
-<span style="font-weight: bold">音節：</span>leng1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://僆">僆</a>」,「<a href="entry://靈">靈</a>」,「<a href="entry://鈴">鈴</a>」,「<a href="entry://笭">笭</a>」
+<span style="font-weight: bold">音節：</span>leng1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://笭">笭</a>」,「<a href="entry://靈">靈</a>」,「<a href="entry://鈴">鈴</a>」
 </>
 leng3
 <span style="font-weight: bold">音節：</span>leng3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://靚">靚</a>」
@@ -34676,7 +34676,7 @@ lin6
 <span style="font-weight: bold">音節：</span>lin6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://摙">摙</a>」,「<a href="entry://鰊">鰊</a>」,「<a href="entry://鏈">鏈</a>」,「<a href="entry://鍊">鍊</a>」,「<a href="entry://練">練</a>」,「<a href="entry://瑓">瑓</a>」,「<a href="entry://煉">煉</a>」,「<a href="entry://浰">浰</a>」,「<a href="entry://楝">楝</a>」
 </>
 ling1
-<span style="font-weight: bold">音節：</span>ling1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://令">令</a>」,「<a href="entry://靈">靈</a>」,「<a href="entry://零">零</a>」,「<a href="entry://鈴">鈴</a>」,「<a href="entry://笭">笭</a>」,「<a href="entry://拎">拎</a>」,「<a href="entry://僆">僆</a>」,「<a href="entry://伶">伶</a>」
+<span style="font-weight: bold">音節：</span>ling1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://令">令</a>」,「<a href="entry://靈">靈</a>」,「<a href="entry://零">零</a>」,「<a href="entry://鈴">鈴</a>」,「<a href="entry://笭">笭</a>」,「<a href="entry://拎">拎</a>」,「<a href="entry://伶">伶</a>」
 </>
 ling3
 <span style="font-weight: bold">音節：</span>ling3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://坽">坽</a>」,「<a href="entry://炩">炩</a>」
@@ -35567,7 +35567,7 @@ ngang1
 <span style="font-weight: bold">音節：</span>ngang1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://戇">戇</a>」
 </>
 ngang2
-<span style="font-weight: bold">音節：</span>ngang2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://戇">戇</a>」
+<span style="font-weight: bold">音節：</span>ngang2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://耿">耿</a>」
 </>
 ngang6
 <span style="font-weight: bold">音節：</span>ngang6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://蹬">蹬</a>」

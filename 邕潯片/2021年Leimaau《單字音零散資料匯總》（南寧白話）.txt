@@ -197,7 +197,7 @@
 【乸】 naa2 [na35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[na35]</li><li><span style="font-weight: bold">詞例、解釋：</span>牛乸，母牛，統稱</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 乾
-【乾（干）】 gon1 [kɔn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔn55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>干，乾燥（衣服曬～了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【乾（干）】 gon1 [kɔn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔn55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>乾，乾燥（衣服曬～了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 亂
 【亂（乱）】 lyun6 [lyn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[lyn22]</li></ul>
@@ -275,7 +275,7 @@
 【任】 jam6 [jɐm22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿiɐm22]</li><li><span style="font-weight: bold">詞例、解釋：</span>責～</li></ul>
 </>
 企
-【企】 ki2 [kʰi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>屋～，家裡</li><li><span style="font-weight: bold">備註：</span>詞表，「屋」字原文誤作[Ǿɔk5]</li></ul>
+【企】 ki2 [kʰi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>屋～，家裏</li><li><span style="font-weight: bold">備註：</span>詞表，「屋」字原文誤作[Ǿɔk5]</li></ul>
 </>
 休
 【休】 jau1 [jɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿiɐu55]</li></ul>
@@ -356,6 +356,9 @@
 @@@LINK=儂
 </>
 便
+【便】 bin2 [pin35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pin35]</li><li><span style="font-weight: bold">詞例、解釋：</span>隨～</li><li><span style="font-weight: bold">備註：</span>詞表，原文「便」字誤作[pin22]，據視頻發音人修正</li></ul>
+</>
+便
 【便】 bin6 [pin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[pin22]</li><li><span style="font-weight: bold">詞例、解釋：</span>方～</li></ul>
 </>
 係
@@ -380,7 +383,7 @@
 【個（个）】 go3 [kɔ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[kɔ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一～</li></ul>
 </>
 倒
-【倒】 du2 [tu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>倒（把碗裡的剩飯～掉）；斟（～酒）</li><li><span style="font-weight: bold">備註：</span>詞表，「斟（～酒）」義爲唐七元調查點記錄</li></ul>
+【倒】 du2 [tu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>倒（把碗裏的剩飯～掉）；斟（～酒）</li><li><span style="font-weight: bold">備註：</span>詞表，「斟（～酒）」義爲唐七元調查點記錄</li></ul>
 </>
 倒
 【倒】 du3 [tu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>斟（～酒）</li><li><span style="font-weight: bold">備註：</span>詞表，林亦調查點</li></ul>
@@ -659,7 +662,7 @@
 【別（别）】 bit6 [pit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[pit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～人</li></ul>
 </>
 利
-【利】 li6 [li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[li22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>快，鋒利（刀子～）；～錢，舌頭，豬～，豬舌頭，當菜的，注意婉稱</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【利】 li6 [li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[li22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>快，鋒利（刀子～）；～錢，舌頭，豬～，豬舌頭，當菜的，注意婉稱</li><li><span style="font-weight: bold">備註：</span>詞表，林亦調查點作「豬脷」，唐七元調查點作「豬利」</li></ul>
 </>
 别
 @@@LINK=別
@@ -1004,7 +1007,7 @@
 【吉】 gat1 [kɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[kɐt5]</li></ul>
 </>
 同
-【同】 tung4 [tʰʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>和（我～他都姓王）；和（我昨天～他去城裡了）；向（～他借一本書）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【同】 tung4 [tʰʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>和（我～他都姓王）；和（我昨天～他去城裏了）；向（～他借一本書）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 名
 【名】 meng4 [mɛŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[mɛŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>白讀</li></ul>
@@ -1016,7 +1019,7 @@
 @@@LINK=後
 </>
 吐
-【吐】 tu3 [tʰu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>吐，上聲（把果核兒～掉）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【吐】 tu3 [tʰu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>吐，上聲，把果核兒～掉</li><li><span style="font-weight: bold">備註：</span>詞表。釋義的「吐」對應的上聲用「吐」字，對應的去聲用「嘔」字，見「嘔」字</li></ul>
 </>
 向
 【向】 hoeng3 [hœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[hœŋ33]</li></ul>
@@ -1325,7 +1328,7 @@
 【嘅】 ge3 [kɛ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1989年洪珏《南寧白話的語音特點》P54 附：[kɛ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>語氣助詞</li><li><span style="font-weight: bold">備註：</span>本字爲「個」，參見唐七元《漢語方言同源詞研究》P275</li></ul>
 </>
 嘔
-【嘔（呕）】 au2 [∅ɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿɐu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>吐，去聲，嘔吐（喝酒喝～了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【嘔（呕）】 au2 [∅ɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿɐu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>吐，去聲，嘔吐：喝酒喝～了</li><li><span style="font-weight: bold">備註：</span>詞表。釋義的「吐」對應的上聲用「吐」字，對應的去聲用「嘔」字，見「吐」字</li></ul>
 </>
 嘗
 【嘗（尝）】 coeng4 [tʃʰœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧhœŋ21]</li></ul>
@@ -1397,7 +1400,7 @@
 【嚕（噜）】 lu1 [lu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[lu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～啲，那兒</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 嚕
-【嚕（噜）】 lu1 [lu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～啲，那裡（在這裡，不在～）；～個，那個（我要這個，不要～）</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
+【嚕（噜）】 lu1 [lu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～啲，那裏（在這裏，不在～）；～個，那個（我要這個，不要～）</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 嚗
 【嚗】 bok1 [pɔk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[pɔk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～佬：土包子</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1817,7 +1820,7 @@
 【孫（孙）】 slyun1 [ɬyn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ɬyn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～子</li></ul>
 </>
 孭
-【孭】 me1 [mɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>背（～孩子）；背，名詞</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【孭】 me1 [mɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>背（～孩子）；背，名詞</li><li><span style="font-weight: bold">備註：</span>詞表。作名詞時有誤，作名詞應作「背脊」</li></ul>
 </>
 學
 【學（学）】 hok6 [hɔk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[hɔk2]</li></ul>
@@ -2792,7 +2795,7 @@
 【搭】 daap3 [tap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[tap3]</li></ul>
 </>
 搵
-【搵（揾）】 wan2 [wɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[wɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>找</li><li><span style="font-weight: bold">備註：</span>詞表，原文未標音</li></ul>
+【搵（揾）】 wan2 [wɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[wɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>找</li><li><span style="font-weight: bold">備註：</span>詞表，原文字形作「⿰扌溫」</li></ul>
 </>
 搵
 【搵（揾）】 wan2 [wɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿuɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>找，尋找（鑰匙～到）；掙（打工～了一千塊錢）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
@@ -3728,7 +3731,7 @@
 @@@LINK=澗
 </>
 淋
-【淋】 lam4 [lɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lɐm21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>淋（衣服被雨～濕了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【淋】 lam4 [lɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lɐm21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>淋（衣服被雨～溼了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 淡
 【淡】 taam5 [tʰam24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[tham24]</li></ul>
@@ -3806,7 +3809,7 @@
 【溫（温）】 wan1 [wɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿuɐn55]</li></ul>
 </>
 溼
-【溼（湿）】 sap1 [ʃɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>濕，潮濕（衣服淋～了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【溼（湿）】 sap1 [ʃɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>溼，潮溼（衣服淋～了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 滅
 【滅（灭）】 mit6 [mit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[mit2]</li></ul>
@@ -3905,16 +3908,16 @@
 【灶】 zu3 [tʃu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧu33]</li></ul>
 </>
 灸
-【灸】 kau3 [kʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>針灸</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【灸】 kau3 [kʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>鍼灸</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 炎
 【炎】 jim4 [jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿim21]</li></ul>
 </>
 炕
-【炕】 hong3 [hɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[hɔŋ33]</li><li><span style="font-weight: bold">備註：</span>原文作「烘」字</li></ul>
+【炕】 haang1 [haŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[haŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>炕，土、磚砌的，睡覺用</li><li><span style="font-weight: bold">備註：</span>詞表，唐七元調查點發音人誤讀成「坑」，林亦調查點讀音標作（無）</li></ul>
 </>
 炕
-【炕】 kong3 [kʰɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>炕，土、磚砌的，睡覺用</li><li><span style="font-weight: bold">備註：</span>詞表，原文誤作[haŋ55]</li></ul>
+【炕】 hong3 [hɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[hɔŋ33]</li><li><span style="font-weight: bold">備註：</span>原文作「烘」字</li></ul>
 </>
 炦
 【炦】 baat6 [pat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P645 附：[pat2]</li><li><span style="font-weight: bold">詞例、解釋：</span>熱～～，熱得很</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
@@ -3968,7 +3971,7 @@
 【煙（烟）】 jin1 [jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿin55]</li></ul>
 </>
 煠
-【煠】 saap6 [ʃap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃap2]</li><li><span style="font-weight: bold">詞例、解釋：</span>煠蛋，煮（～帶殼的雞蛋）</li><li><span style="font-weight: bold">備註：</span>詞表，唐七元調查點，誤作[ʃɐp2]</li></ul>
+【煠】 saap6 [ʃap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃap2]</li><li><span style="font-weight: bold">詞例、解釋：</span>煠蛋，煮（～帶殼的雞蛋）</li><li><span style="font-weight: bold">備註：</span>詞表，唐七元調查點，誤作[ʃɐp2]，據視頻發音人修正</li></ul>
 </>
 煠
 【煠】 sep6 [ʃɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P648 附：[sɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>煮(雞蛋)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -4467,6 +4470,9 @@
 </>
 碟
 【碟】 dip6 [tip2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[tip2]</li></ul>
+</>
+碱
+@@@LINK=鹼
 </>
 磚
 【磚（砖）】 zyun1 [tʃyn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧyn55]</li></ul>
@@ -5072,7 +5078,7 @@
 【老】 lu5 [lu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[lu24]</li></ul>
 </>
 耍
-【耍】 saa2 [ʃa35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35]</li><li><span style="font-weight: bold">詞例、解釋：</span>玩兒，遊玩（到城裡～）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【耍】 saa2 [ʃa35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35]</li><li><span style="font-weight: bold">詞例、解釋：</span>玩兒，遊玩（到城裏～）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 耐
 【耐】 noi6 [nɔi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɔi22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>長（時間～）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
@@ -5222,7 +5228,7 @@
 @@@LINK=脫
 </>
 脷
-【脷】 li6 [li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[li22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>豬～，豬舌頭，當菜的，注意婉稱</li><li><span style="font-weight: bold">備註：</span>詞表，林亦調查點</li></ul>
+【脷】 li6 [li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[li22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>豬～，豬舌頭，當菜的，注意婉稱</li><li><span style="font-weight: bold">備註：</span>詞表，林亦調查點作「豬脷」，唐七元調查點作「豬利」</li></ul>
 </>
 脸
 @@@LINK=臉
@@ -5473,9 +5479,6 @@
 蔸
 【蔸】 dau1 [tɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɐu55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>條（一～魚）；條（一～蛇）；根（一～繩子）；座（一～橋）；條（一～河）；條（一～路）</li><li><span style="font-weight: bold">備註：</span>詞表，唐七元調查點</li></ul>
 </>
-蕈
-【蕈】 slan3 [ɬɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬɐn33]</li><li><span style="font-weight: bold">詞例、解釋：</span>香蕈，香菇</li><li><span style="font-weight: bold">備註：</span>詞表，原文作「香信」</li></ul>
-</>
 薄
 【薄】 bok6 [pɔk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[pɔk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞</li></ul>
 </>
@@ -5615,7 +5618,7 @@
 【蠟（蜡）】 laap6 [lap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[lap2]</li></ul>
 </>
 蠶
-【蠶（蚕）】 caam4 [tʃʰam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧham21]</li></ul>
+【蠶（蚕）】 caam4 [tʃʰam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧham21]</li><li><span style="font-weight: bold">備註：</span>根據唐七元調查點的視頻發音人，老年男性讀[tʃʰan21]，青年男性讀[tʃʰam21]，但兩者都記爲了[tʃʰam21]</li></ul>
 </>
 蠶
 【蠶（蚕）】 caan4 [tʃʰan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P649 附：[tsʰan21]</li></ul>
@@ -6150,6 +6153,9 @@
 </>
 軛
 【軛（轭）】 aak3 [ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>手～，手鐲</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+</>
+軛
+【軛（轭）】 aak3 [∅ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[∅ak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>鐲子</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字，誤作[ɐk33]</li></ul>
 </>
 軟
 【軟（软）】 jyun5 [jyn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿyn24]</li></ul>
@@ -6793,6 +6799,9 @@
 雷
 【雷】 lui4 [lui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[lui21]</li></ul>
 </>
+雹
+【雹】 paau3 [pʰau33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[phau33]</li><li><span style="font-weight: bold">詞例、解釋：</span>冰雹</li><li><span style="font-weight: bold">備註：</span>詞表，唐七元調查點，視頻發音人確實讀陰去，此是訓讀「泡」的陰去音</li></ul>
+</>
 雾
 @@@LINK=霧
 </>
@@ -7227,6 +7236,9 @@
 </>
 鹹
 【鹹（咸）】 hem4 [hɛm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[hɛm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>白讀，～淡</li></ul>
+</>
+鹼
+【鹼（碱）】 gen2 [kɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[kɛn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>肥皁</li><li><span style="font-weight: bold">備註：</span>詞表，原文作「梘」字，未標音</li></ul>
 </>
 鹽
 【鹽（盐）】 jim4 [jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿim21]</li></ul>
