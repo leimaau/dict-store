@@ -13,8 +13,20 @@
 㫱
 【㫱】 naan3 [nan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nan33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>疙瘩，蚊子咬後形成的</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>九、疾病/疙瘩</li></ul>
 </>
+㶶
+@@@LINK=燶
+</>
 㷹
 【㷹】 zeu3 [tʃɛu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧɛu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>炸（～油條）</li><li><span style="font-weight: bold">備註：</span>原文作「罩」字</li><li><span style="font-weight: bold">分類：</span>十一、飲食/炸</li></ul>
+</>
+䂿錘
+【䂿錘（䂿锤）】 dap6 cui4 [tɐp2 tʃʰui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɐp2 ʧhui21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>錘子</li><li><span style="font-weight: bold">備註：</span>原文作「撘錘」</li><li><span style="font-weight: bold">分類：</span>十五、商業/錘子</li></ul>
+</>
+䂿锤
+@@@LINK=䂿錘
+</>
+䍇
+【䍇】 taap3 [tʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>罈子（裝酒的～）</li><li><span style="font-weight: bold">備註：</span>原文作「塔」字</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/罈子</li></ul>
 </>
 一
 【一】 jat1 [jɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>一（～二三四五……），下同</li><li><span style="font-weight: bold">分類：</span>二十三、數量/數詞/一</li></ul>
@@ -157,23 +169,14 @@
 乖
 【乖】 gwaai1 [kʷai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kuai55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>乖</li><li><span style="font-weight: bold">分類：</span>十八、性狀/乖</li></ul>
 </>
-乜
-【乜】 me2 [mɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɛ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>歪（帽子戴～了）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/歪</li></ul>
-</>
 乜嘢
 【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[mɐt5 jɛ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼</li><li><span style="font-weight: bold">備註：</span>原文未標音</li><li><span style="font-weight: bold">分類：</span>二十、指代/什麼</li></ul>
 </>
 乜嘢
-【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼（你找～？）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點，原文作「物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/什麼</li></ul>
+【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼（你找～？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「乜嘢」，唐七元調查點作「物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/什麼</li></ul>
 </>
 乜嘢
-【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼（你找～？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>二十、指代/什麼</li></ul>
-</>
-乜嘢
-【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼（這個是～字？）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點，原文作「物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/什麼</li></ul>
-</>
-乜嘢
-【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼（這個是～字？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>二十、指代/什麼</li></ul>
+【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼（這個是～字？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「乜嘢」，唐七元調查點作「物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/什麼</li></ul>
 </>
 九
 【九】 gau2 [kɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɐu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>九</li><li><span style="font-weight: bold">分類：</span>二十三、數量/數詞/九</li></ul>
@@ -280,9 +283,6 @@
 件
 【件】 gin6 [kin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kin22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>件（一～事情）</li><li><span style="font-weight: bold">分類：</span>二十三、數量/量詞/件</li></ul>
 </>
-企理
-【企理】 ki5 li5 [kʰi24 li24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khi24 li24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>乾淨（衣服～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/乾淨</li></ul>
-</>
 伯母
 【伯母】 baak3 mu5 [pak3 mu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pak3 mu24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>伯母，呼稱，統稱</li><li><span style="font-weight: bold">分類：</span>七、稱謂/親屬/伯母</li></ul>
 </>
@@ -291,6 +291,12 @@
 </>
 伯爺
 【伯爺（伯爷）】 baak3 je4 [pak3 jɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pak3 Ǿiɛ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>伯父，呼稱，統稱</li><li><span style="font-weight: bold">分類：</span>七、稱謂/親屬/伯父</li></ul>
+</>
+伸
+【伸】 can1 [tʃʰɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhɐn55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>伸（～手）</li><li><span style="font-weight: bold">備註：</span>原文作「抻」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/伸</li></ul>
+</>
+佊
+【佊】 me2 [mɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɛ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>歪（帽子戴～了）</li><li><span style="font-weight: bold">備註：</span>原文作「乜」字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/歪</li></ul>
 </>
 低
 【低】 dai1 [tɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɐi55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>低（鳥飛得～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/低</li></ul>
@@ -356,16 +362,10 @@
 @@@LINK=傾偈
 </>
 做乜嘢
-【做乜嘢】 zu3 mat1 je5 [tʃu33 mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃu33 mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>幹什麼（你在～？）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點，原文作「做物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/幹什麼</li></ul>
+【做乜嘢】 zu3 mat1 je5 [tʃu33 mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃu33 mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>幹什麼（你在～？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「做乜嘢」，唐七元調查點作「做物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/幹什麼</li></ul>
 </>
 做乜嘢
-【做乜嘢】 zu3 mat1 je5 [tʃu33 mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃu33 mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>幹什麼（你在～？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>二十、指代/幹什麼</li></ul>
-</>
-做乜嘢
-【做乜嘢】 zu3 mat1 je5 [tʃu33 mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃu33 mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>爲什麼（你～不去？）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點，原文作「做物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/爲什麼</li></ul>
-</>
-做乜嘢
-【做乜嘢】 zu3 mat1 je5 [tʃu33 mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃu33 mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>爲什麼（你～不去？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>二十、指代/爲什麼</li></ul>
+【做乜嘢】 zu3 mat1 je5 [tʃu33 mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃu33 mɐt5 Ǿiɛ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>爲什麼（你～不去？）</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「做乜嘢」，唐七元調查點作「做物嘢」</li><li><span style="font-weight: bold">分類：</span>二十、指代/爲什麼</li></ul>
 </>
 做农工
 @@@LINK=做農工
@@ -390,9 +390,6 @@
 </>
 偷饭雀
 @@@LINK=偷飯雀
-</>
-傑
-【傑（杰）】 git6 [kit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>稠（稀飯～）</li><li><span style="font-weight: bold">備註：</span>原文「傑」爲同音替代</li><li><span style="font-weight: bold">分類：</span>十八、性狀/稠</li></ul>
 </>
 傻佬
 【傻佬】 slo4 lu2 [ɬɔ21 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬɔ21 lu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>傻子，統稱，非貶稱(無統稱則記成年男的)</li><li><span style="font-weight: bold">分類：</span>七、稱謂/一般稱謂/傻子</li></ul>
@@ -455,7 +452,7 @@
 @@@LINK=公崽書
 </>
 公崽書
-【公崽書（公崽书）】 gung1 zai2 syu1 [kʊŋ55 tʃɐi35 ʃy55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kuŋ55 ʧɐi35 ʃy55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>連環畫</li><li><span style="font-weight: bold">備註：</span>原文作「公仔書」</li><li><span style="font-weight: bold">分類：</span>十六、文化/捉迷藏</li></ul>
+【公崽書（公崽书）】 gung1 zai2 syu1 [kʊŋ55 tʃɐi35 ʃy55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kuŋ55 ʧɐi35 ʃy55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>連環畫</li><li><span style="font-weight: bold">備註：</span>原文作「公仔書」</li><li><span style="font-weight: bold">分類：</span>十六、文化/連環畫</li></ul>
 </>
 公猪郎
 @@@LINK=公豬郎
@@ -544,9 +541,6 @@
 再见
 @@@LINK=再見
 </>
-冚
-【冚】 kam2 [kʰɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐm35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>蓋（把茶杯～上）</li><li><span style="font-weight: bold">分類：</span>十七、動作/蓋</li></ul>
-</>
 农伯
 @@@LINK=農伯
 </>
@@ -617,7 +611,7 @@
 @@@LINK=鑿大
 </>
 刀柄
-【刀柄】 du1 beng3 [tu55 pɛŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tu55 pɛŋ33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>把兒（刀～）</li><li><span style="font-weight: bold">分類：</span>三、農事/把兒</li></ul>
+【刀柄】 du1 beng3 [tu55 pɛŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tu55 pɛŋ33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>欛兒（刀～）</li><li><span style="font-weight: bold">分類：</span>三、農事/欛兒</li></ul>
 </>
 利
 【利】 li6 [li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[li22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>快，鋒利（刀子～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/快</li></ul>
@@ -708,6 +702,12 @@
 </>
 厚
 【厚】 hau5 [hɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[hɐu24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>厚（木板～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/厚</li></ul>
+</>
+原子笔
+@@@LINK=原子筆
+</>
+原子筆
+【原子筆（原子笔）】 jyun4 zi2 bat1 [jyn21 tʃi35 pɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿyn21 ʧi35 pɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>圓珠筆</li><li><span style="font-weight: bold">備註：</span>原文作「圓子筆」</li><li><span style="font-weight: bold">分類：</span>十六、文化/圓珠筆</li></ul>
 </>
 厨房
 @@@LINK=廚房
@@ -884,7 +884,7 @@
 【吱喳蟲（吱喳虫）】 zi1 zaa1 cung4 [tʃi55 tʃa55 tʃʰʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧi55 ʧa55 ʧhuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>知了，統稱</li><li><span style="font-weight: bold">分類：</span>五、動物/知了</li></ul>
 </>
 呀呀
-【呀呀】 nge4 nge1 [ŋɛ21 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ21 ŋɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>二胡</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/笛子</li></ul>
+【呀呀】 nge4 nge1 [ŋɛ21 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ21 ŋɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>二胡</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/二胡</li></ul>
 </>
 呕
 @@@LINK=嘔
@@ -940,8 +940,8 @@
 哭呀呀
 【哭呀呀】 huk1 nge1 nge1 [hʊk5 ŋɛ55 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[huk5 ŋɛ55 ŋɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，小孩子哭。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哭</li></ul>
 </>
-哭霅霅
-【哭霅霅】 huk1 slap6 slap6 [hʊk5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[huk5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，小聲哭。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哭</li></ul>
+哭霫霫
+【哭霫霫】 huk1 slap6 slap6 [hʊk5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[huk5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，小聲哭。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哭</li></ul>
 </>
 哽
 【哽】 kang2 [kʰɐŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>噎（吃飯～着了）</li><li><span style="font-weight: bold">備註：</span>原文誤作「啃」字，唐七元調查點誤作[khɐŋ33]，林亦調查點對</li><li><span style="font-weight: bold">分類：</span>十一、飲食/噎</li></ul>
@@ -952,14 +952,17 @@
 唔该
 @@@LINK=唔該
 </>
+唥衫
+【唥衫】 laang1 saam1 [laŋ55 ʃam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[laŋ55 ʃam55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>毛衣</li><li><span style="font-weight: bold">備註：</span>原文作「冷衫」</li><li><span style="font-weight: bold">分類：</span>十、服飾/毛衣</li></ul>
+</>
 唱戏
 @@@LINK=唱戲
 </>
 唱戲
-【唱戲（唱戏）】 coeng3 hi3 [tʃʰœŋ33 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhœŋ33 hi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>演戲</li><li><span style="font-weight: bold">分類：</span>十六、文化/鑼鼓</li></ul>
+【唱戲（唱戏）】 coeng3 hi3 [tʃʰœŋ33 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhœŋ33 hi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>演戲</li><li><span style="font-weight: bold">分類：</span>十六、文化/演戲</li></ul>
 </>
 唱歌
-【唱歌】 coeng3 go1 [tʃʰœŋ33 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhœŋ33 kɔ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>唱歌</li><li><span style="font-weight: bold">分類：</span>十六、文化/演戲</li></ul>
+【唱歌】 coeng3 go1 [tʃʰœŋ33 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhœŋ33 kɔ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>唱歌</li><li><span style="font-weight: bold">分類：</span>十六、文化/唱歌</li></ul>
 </>
 啞佬
 【啞佬（哑佬）】 aa2 lu2 [a35 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿa35 lu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>啞巴，統稱，非貶稱(無統稱則記成年男的)</li><li><span style="font-weight: bold">分類：</span>七、稱謂/一般稱謂/啞巴</li></ul>
@@ -1027,12 +1030,6 @@
 嗌
 【嗌】 aai3 [ai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿai33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>罵（當面～人）</li><li><span style="font-weight: bold">分類：</span>十七、動作/罵</li></ul>
 </>
-嗍
-【嗍】 sok3 [ʃɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吮吸，用嘴唇聚攏吸取液體，如吃奶時</li><li><span style="font-weight: bold">分類：</span>十七、動作/吮吸</li></ul>
-</>
-嗍
-【嗍】 sok3 [ʃɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吸（～氣）</li><li><span style="font-weight: bold">分類：</span>十七、動作/吸</li></ul>
-</>
 嗒嘴
 【嗒嘴】 dep1 zui2 [tɛp5 tʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɛp5 ʧui35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>親嘴</li><li><span style="font-weight: bold">分類：</span>十七、動作/親嘴</li></ul>
 </>
@@ -1099,9 +1096,6 @@
 圆
 @@@LINK=圓
 </>
-圆子笔
-@@@LINK=圓子筆
-</>
 圍巾
 【圍巾（围巾）】 wai4 gan1 [wɐi21 kɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿuɐi21 kɐn55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>圍巾</li><li><span style="font-weight: bold">分類：</span>十、服飾/圍巾</li></ul>
 </>
@@ -1110,9 +1104,6 @@
 </>
 圓
 【圓（圆）】 jyun4 [jyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿyn21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>圓</li><li><span style="font-weight: bold">分類：</span>十八、性狀/圓</li></ul>
-</>
-圓子筆
-【圓子筆（圆子笔）】 jyun4 zi2 bat1 [jyn21 tʃi35 pɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿyn21 ʧi35 pɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>圓珠筆</li><li><span style="font-weight: bold">分類：</span>十六、文化/圓珠筆</li></ul>
 </>
 地方
 【地方】 di6 fong1 [ti22 fɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ti22 fɔŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>地方</li><li><span style="font-weight: bold">備註：</span>唐七元調查點，原文「地」字誤作[ti21]</li><li><span style="font-weight: bold">分類：</span>十九、方位/地方</li></ul>
@@ -1168,17 +1159,14 @@
 塊
 【塊（块）】 faai3 [fai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fai33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>面（一～鏡子）</li><li><span style="font-weight: bold">分類：</span>二十三、數量/量詞/面</li></ul>
 </>
-塔
-【塔】 taap3 [tʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>罈子（裝酒的～）</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/罈子</li></ul>
+塘尾
+【塘尾】 tong4 me1 [tʰɔŋ21 mɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thɔŋ21 mɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>蜻蜓，統稱</li><li><span style="font-weight: bold">備註：</span>原文作「塘咩」</li><li><span style="font-weight: bold">分類：</span>五、動物/蜻蜓</li></ul>
 </>
 塘边
 @@@LINK=塘邊
 </>
 塘邊
 【塘邊（塘边）】 tong4 bin1 [tʰɔŋ21 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thɔŋ21 pin55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>池塘</li><li><span style="font-weight: bold">分類：</span>一、自然/地理/池塘</li></ul>
-</>
-塘𧋦
-【塘𧋦】 tong4 me1 [tʰɔŋ21 mɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thɔŋ21 mɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>蜻蜓，統稱</li><li><span style="font-weight: bold">備註：</span>原文作「塘咩」</li><li><span style="font-weight: bold">分類：</span>五、動物/蜻蜓</li></ul>
 </>
 墊被
 【墊被（垫被）】 dim6 pi5 [tim22 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tim22 phi24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>褥子</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/褥子</li></ul>
@@ -1360,9 +1348,6 @@
 好生
 【好生】 hu2 saang1 [hu35 ʃaŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[hu24 ʃaŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>陌生（這個地方我很～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/陌生</li></ul>
 </>
-如果
-【如果】 jyu4 go2 [jy21 kɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿy21 kɔ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>如果（～忙你就別來了）</li><li><span style="font-weight: bold">分類：</span>二十二、介詞（連詞）/如果</li></ul>
-</>
 妗母
 【妗母】 kam5 mu5 [kʰɐm24 mu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐm24 mu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>舅媽，呼稱</li><li><span style="font-weight: bold">分類：</span>七、稱謂/親屬/舅媽</li></ul>
 </>
@@ -1532,7 +1517,7 @@
 【容易】 jung4 ji6 [jʊŋ21 ji22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiuŋ21 Ǿi22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>容易（這道題～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/容易</li></ul>
 </>
 宿
-【宿】 sluk1 [ɬʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>餿（飯～）</li><li><span style="font-weight: bold">備註：</span>林亦調查點，說法中寫作「宿」</li><li><span style="font-weight: bold">分類：</span>十八、性狀/餿</li></ul>
+【宿】 sluk1 [ɬʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>餿（飯～）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點作「餿」，林亦調查點作「宿」</li><li><span style="font-weight: bold">分類：</span>十八、性狀/餿</li></ul>
 </>
 密
 【密】 mat6 [mɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>密（菜種得～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/密</li></ul>
@@ -1665,6 +1650,12 @@
 </>
 岭
 @@@LINK=嶺
+</>
+崖鷹
+【崖鷹（崖鹰）】 ngaa4 jing1 [ŋa21 jeŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋa21 Ǿieŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>風箏</li><li><span style="font-weight: bold">備註：</span>原文作「牙鷹」</li><li><span style="font-weight: bold">分類：</span>十六、文化/風箏</li></ul>
+</>
+崖鹰
+@@@LINK=崖鷹
 </>
 崩䠡䠡
 【崩䠡䠡】 bang1 zo4 zo4 [pɐŋ55 tʃɔ21 tʃɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[pɐŋ55 tsɔ21 tsɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，房屋紛紛倒塌貌。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/倒塌</li></ul>
@@ -1867,6 +1858,9 @@
 徛
 【徛】 ki5 [kʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khi24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>站，站立（～起來）</li><li><span style="font-weight: bold">分類：</span>十七、動作/站</li></ul>
 </>
+徛理
+【徛理】 ki5 li5 [kʰi24 li24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khi24 li24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>乾淨（衣服～）</li><li><span style="font-weight: bold">備註：</span>原文作「企理」</li><li><span style="font-weight: bold">分類：</span>十八、性狀/乾淨</li></ul>
+</>
 徛蹬蹬
 【徛蹬蹬】 ki5 ngang6 ngang6 [kʰi24 ŋɐŋ22 ŋɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[kʰi24 ŋɐŋ22 ŋɐŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，直直地站着。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/站</li></ul>
 </>
@@ -2017,20 +2011,14 @@
 手藝人
 【手藝人（手艺人）】 sau2 ngai6 jan4 [ʃɐu35 ŋɐi22 jɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐu35 ŋɐi22 Ǿiɐn21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>手藝人</li><li><span style="font-weight: bold">分類：</span>七、稱謂/職業稱謂/手藝人</li></ul>
 </>
-手軛
-【手軛（手轭）】 sau2 aak3 [ʃɐu35 ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐu35 Ǿak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>手鐲</li><li><span style="font-weight: bold">分類：</span>十、服飾/手鐲</li></ul>
-</>
-手轭
-@@@LINK=手軛
+手鈪
+【手鈪】 sau2 aak3 [ʃɐu35 ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐu35 Ǿak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>手鐲</li><li><span style="font-weight: bold">備註：</span>原文作「手軛」</li><li><span style="font-weight: bold">分類：</span>十、服飾/手鐲</li></ul>
 </>
 手鐮
 【手鐮（手镰）】 sau2 lim4 [ʃɐu35 lim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐu35 lim21]</li><li><span style="font-weight: bold">詞例、解釋：</span>鐮刀</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>三、農事/鐮刀</li></ul>
 </>
 手镰
 @@@LINK=手鐮
-</>
-扑
-@@@LINK=撲
 </>
 打
 【打】 daa2 [ta35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ta35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打，統稱（他～了我一下）</li><li><span style="font-weight: bold">分類：</span>十七、動作/打</li></ul>
@@ -2081,7 +2069,7 @@
 @@@LINK=打麻將
 </>
 打麻將
-【打麻將（打麻将）】 daa2 maa4 zoeng3 [ta35 ma21 tʃœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ta35 ma21 ʧœŋ33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打麻將</li><li><span style="font-weight: bold">分類：</span>十六、文化/變魔術</li></ul>
+【打麻將（打麻将）】 daa2 maa4 zoeng3 [ta35 ma21 tʃœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ta35 ma21 ʧœŋ33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打麻將</li><li><span style="font-weight: bold">分類：</span>十六、文化/打麻將</li></ul>
 </>
 打鼻鼾
 【打鼻鼾】 daa2 bi6 hon6 [ta35 pi22 hɔn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ta35 pi22 hɔn22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打呼嚕</li><li><span style="font-weight: bold">分類：</span>十七、動作/打呼嚕</li></ul>
@@ -2093,7 +2081,7 @@
 【扛】 kong4 [kʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɔŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>抬（～轎）</li><li><span style="font-weight: bold">分類：</span>十七、動作/抬</li></ul>
 </>
 扣
-@@@LINK=釦
+【扣】 kau3 [kʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>扣（～釦子）</li><li><span style="font-weight: bold">分類：</span>十、服飾/扣</li></ul>
 </>
 执
 @@@LINK=執
@@ -2151,9 +2139,6 @@
 </>
 抹
 【抹】 maat3 [mat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>擦（用毛巾～手）</li><li><span style="font-weight: bold">分類：</span>十七、動作/擦</li></ul>
-</>
-抻
-【抻】 can1 [tʃʰɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhɐn55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>伸（～手）</li><li><span style="font-weight: bold">分類：</span>十七、動作/伸</li></ul>
 </>
 担
 @@@LINK=擔
@@ -2260,9 +2245,6 @@
 掃把
 【掃把（扫把）】 slu3 baa2 [ɬu33 pa35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬu33 pa35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>掃帚，統稱</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/掃帚</li></ul>
 </>
-掟
-【掟】 deng3 [tɛŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɛŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>扔，投擲（比一比誰～得遠）</li><li><span style="font-weight: bold">分類：</span>十七、動作/扔</li></ul>
-</>
 掹
 【掹】 mang1 [mɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>拔（～蘿蔔）</li><li><span style="font-weight: bold">分類：</span>十七、動作/拔</li></ul>
 </>
@@ -2273,13 +2255,19 @@
 【揀（拣）】 gen2 [kɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɛn35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>挑，挑選，選擇（你自己～一個）</li><li><span style="font-weight: bold">分類：</span>十七、動作/挑</li></ul>
 </>
 插
-【插】 caap3 [tʃʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>插（把香～到香爐里）</li><li><span style="font-weight: bold">分類：</span>十七、動作/插</li></ul>
+【插】 caap3 [tʃʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>插（把香～到香爐里）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點對，林亦調查點誤作[ʧha33]</li><li><span style="font-weight: bold">分類：</span>十七、動作/插</li></ul>
 </>
 插田
-【插田】 cep3 tin4 [tʃʰɛp3 tʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃhɛp33 thin21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>插秧</li><li><span style="font-weight: bold">分類：</span>三、農事/插秧</li></ul>
+【插田】 caap3 tin4 [tʃʰap3 tʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃhap33 thin21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>插秧</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>三、農事/插秧</li></ul>
+</>
+插田
+【插田】 cep3 tin4 [tʃʰɛp3 tʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃhɛp33 thin21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>插秧</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>三、農事/插秧</li></ul>
 </>
 插秧
-【插秧】 cep3 joeng1 [tʃʰɛp3 jœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃhɛp33 Ǿiœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>插秧</li><li><span style="font-weight: bold">分類：</span>三、農事/插秧</li></ul>
+【插秧】 caap3 joeng1 [tʃʰap3 jœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃhap33 Ǿiœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>插秧</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>三、農事/插秧</li></ul>
+</>
+插秧
+【插秧】 cep3 joeng1 [tʃʰɛp3 jœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃhɛp33 Ǿiœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>插秧</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>三、農事/插秧</li></ul>
 </>
 揾
 @@@LINK=搵
@@ -2288,7 +2276,7 @@
 @@@LINK=撳
 </>
 搋
-【搋】 caai1 [tʃʰai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>揉（～面做饅頭等）</li><li><span style="font-weight: bold">分類：</span>十一、飲食/揉</li></ul>
+【搋】 caai1 [tʃʰai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>揉（～麪做饅頭等）</li><li><span style="font-weight: bold">分類：</span>十一、飲食/揉</li></ul>
 </>
 搦
 【搦】 nik1 [nek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nek5]</li><li><span style="font-weight: bold">詞例、解釋：</span>拿（用手把蘋果～過來）</li><li><span style="font-weight: bold">分類：</span>十七、動作/拿</li></ul>
@@ -2307,12 +2295,6 @@
 </>
 摄石
 @@@LINK=攝石
-</>
-摩
-【摩】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɔ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>慢（走路比坐車～）</li><li><span style="font-weight: bold">備註：</span>原文作「摸」字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/慢</li></ul>
-</>
-摸
-【摸】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɔ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>慢（走路比坐車～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/慢</li></ul>
 </>
 摸
 【摸】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɔ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>摸（～頭）</li><li><span style="font-weight: bold">備註：</span>林亦調查點誤作[mɔ22]，唐七元調查點對</li><li><span style="font-weight: bold">分類：</span>十七、動作/摸</li></ul>
@@ -2344,12 +2326,6 @@
 撕
 【撕】 si1 [ʃi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃi55  ]</li><li><span style="font-weight: bold">詞例、解釋：</span>撕（把紙～了）</li><li><span style="font-weight: bold">分類：</span>十七、動作/撕</li></ul>
 </>
-撘錘
-【撘錘（撘锤）】 dap6 cui4 [tɐp2 tʃʰui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɐp2 ʧhui21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>錘子</li><li><span style="font-weight: bold">分類：</span>十五、商業/錘子</li></ul>
-</>
-撘锤
-@@@LINK=撘錘
-</>
 撚
 【撚】 nen2 [nɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɛn35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>捻（用拇指和食指來回～碎）</li><li><span style="font-weight: bold">備註：</span>原文作「捻」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/捻</li></ul>
 </>
@@ -2358,9 +2334,6 @@
 </>
 撬
 【撬】 geu6 [kɛu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɛu22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>撬（把門～開）</li><li><span style="font-weight: bold">分類：</span>十七、動作/撬</li></ul>
-</>
-撲
-【撲（扑）】 puk1 [pʰʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[phuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>趴（～着睡）</li><li><span style="font-weight: bold">分類：</span>十七、動作/趴</li></ul>
 </>
 撳
 【撳（揿）】 gam6 [kɐm22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɐm22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>摁，用手指按（～圖釘）</li><li><span style="font-weight: bold">分類：</span>十七、動作/摁</li></ul>
@@ -2464,9 +2437,6 @@
 斩
 @@@LINK=斬
 </>
-斫
-【斫】 zoek3 [tʃœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>剁（把肉～碎做餡兒）</li><li><span style="font-weight: bold">分類：</span>十七、動作/剁</li></ul>
-</>
 斬
 【斬（斩）】 zaam2 [tʃam35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧam35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>砍（～樹）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十七、動作/砍</li></ul>
 </>
@@ -2505,6 +2475,9 @@
 </>
 新郎公
 【新郎公】 slan1 long4 gung1 [ɬɐn55 lɔŋ21 kʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬɐn55 lɔŋ21 kuŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>新郎</li><li><span style="font-weight: bold">分類：</span>十四、婚喪/婚姻、生育/新郎</li></ul>
+</>
+斲
+【斲】 doek3 [tœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>剁（把肉～碎做餡兒）</li><li><span style="font-weight: bold">備註：</span>原文作「斫」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/剁</li></ul>
 </>
 斷氣
 【斷氣（断气）】 tyun5 hi3 [tʰyn24 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thyn24 hi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>咽氣</li><li><span style="font-weight: bold">分類：</span>十四、婚喪/壽辰、喪葬/咽氣</li></ul>
@@ -2683,9 +2656,6 @@
 来年
 @@@LINK=來年
 </>
-杰
-@@@LINK=傑
-</>
 松
 @@@LINK=鬆
 </>
@@ -2824,6 +2794,12 @@
 櫃桶
 【櫃桶（柜桶）】 gwai6 tung2 [kʷɐi22 tʰʊŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kuɐi22 thuŋ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>抽屜，桌子的</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/抽屜</li></ul>
 </>
+欶
+【欶】 sok3 [ʃɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吮吸，用嘴唇聚攏吸取液體，如吃奶時</li><li><span style="font-weight: bold">備註：</span>原文作「嗍」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/吮吸</li></ul>
+</>
+欶
+【欶】 sok3 [ʃɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吸（～氣）</li><li><span style="font-weight: bold">備註：</span>原文作「嗍」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/吸</li></ul>
+</>
 正月
 【正月】 zing1 jyut6 [tʃeŋ55 jyt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧeŋ55 Ǿyt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>正月，農曆</li><li><span style="font-weight: bold">分類：</span>二、時令/正月</li></ul>
 </>
@@ -2936,7 +2912,7 @@
 【河邊（河边）】 ho4 bin1 [hɔ21 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[hɔ21 pin55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>河岸</li><li><span style="font-weight: bold">分類：</span>一、自然/地理/河岸</li></ul>
 </>
 油㷹鬼
-【油㷹鬼】 jau4 zaau3 gwai2 [jɐu21 tʃau33 kʷɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɐu21 ʧau33 kuɐi24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>油條，舊稱</li><li><span style="font-weight: bold">備註：</span>原文作「罩」字，誤作[ʧau35]</li><li><span style="font-weight: bold">分類：</span>十一、飲食/油條</li></ul>
+【油㷹鬼】 jau4 zaau3 gwai2 [jɐu21 tʃau33 kʷɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɐu21 ʧau33 kuɐi24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>油條，舊稱</li><li><span style="font-weight: bold">備註：</span>原文作「罩」字，誤作[ʧau35]，「鬼」字誤作[kuɐi24]</li><li><span style="font-weight: bold">分類：</span>十一、飲食/油條</li></ul>
 </>
 油条
 @@@LINK=油條
@@ -3023,7 +2999,7 @@
 【渠老竇（渠老窦）】 kyu5 lu5 dau6 [kʰy24 lu24 tɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khy24 lu24 tɐu22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>他爸（～去世了）</li><li><span style="font-weight: bold">備註：</span>原文作「渠老豆」</li><li><span style="font-weight: bold">分類：</span>二十、指代/他爸</li></ul>
 </>
 渴
-【渴】 git6 [kit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>稠（稀飯～）</li><li><span style="font-weight: bold">備註：</span>原文作「傑」字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/稠</li></ul>
+【渴】 git6 [kit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>稠（稀飯～）</li><li><span style="font-weight: bold">備註：</span>原文作「傑」字，同音替代</li><li><span style="font-weight: bold">分類：</span>十八、性狀/稠</li></ul>
 </>
 渴
 【渴】 hot3 [hɔt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[hɔt3]</li><li><span style="font-weight: bold">詞例、解釋：</span>渴（口～）</li><li><span style="font-weight: bold">分類：</span>十一、飲食/渴</li></ul>
@@ -3037,8 +3013,8 @@
 湿
 @@@LINK=溼
 </>
-湿霅霅
-@@@LINK=溼霅霅
+湿霫霫
+@@@LINK=溼霫霫
 </>
 溶
 【溶】 jung4 [jʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>爛（肉煮得～）</li><li><span style="font-weight: bold">備註：</span>原文作「融」字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/爛</li></ul>
@@ -3052,8 +3028,8 @@
 溼
 【溼（湿）】 sap1 [ʃɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>溼，潮溼（衣服淋～了）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/溼</li></ul>
 </>
-溼霅霅
-【溼霅霅（湿霅霅）】 sap1 slap6 slap6 [ʃɐp5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐp5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，溼淋淋的。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/溼淋淋</li></ul>
+溼霫霫
+【溼霫霫（湿霫霫）】 sap1 slap6 slap6 [ʃɐp5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐp5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，溼淋淋的。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/溼淋淋</li></ul>
 </>
 滚水
 @@@LINK=滾水
@@ -3092,7 +3068,7 @@
 @@@LINK=激氣
 </>
 激氣
-【激氣（激气）】 gik1 hi3 [kek5 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kek5 hi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>生氣</li><li><span style="font-weight: bold">分類：</span>十七、動作/生氣</li></ul>
+【激氣（激气）】 gik1 hi3 [kek5 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kek5 hi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>生氣</li><li><span style="font-weight: bold">分類：</span>十七、動作/生氣</li></ul>
 </>
 濁
 【濁（浊）】 zuk6 [tʃʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃuk22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>渾（水～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/渾</li></ul>
@@ -3155,7 +3131,7 @@
 【炕】 haang1 [haŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[haŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>炕，土、磚砌的，睡覺用</li><li><span style="font-weight: bold">備註：</span>唐七元調查點發音人誤讀成「坑」，林亦調查點讀音標作（無）</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/炕</li></ul>
 </>
 炮仗
-【炮仗】 paau3 zoeng6 [pʰau33 tʃœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[phau33 ʧœŋ22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞭炮，統稱</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十六、文化/唱歌</li></ul>
+【炮仗】 paau3 zoeng6 [pʰau33 tʃœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[phau33 ʧœŋ22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞭炮，統稱</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十六、文化/鞭炮</li></ul>
 </>
 炮仗
 【炮仗】 peu3 zoeng6 [pʰɛu33 tʃœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[phɛu33 ʧœŋ22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞭炮，統稱</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>十六、文化/鞭炮</li></ul>
@@ -3257,10 +3233,10 @@
 【燒（烧）】 siu1 [ʃiu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃiu55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>燒（～柴）</li><li><span style="font-weight: bold">分類：</span>十七、動作/燒</li></ul>
 </>
 燕子
-【燕子】 jin3 zi2 [jin33 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿin33 ʧi35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>毽子</li><li><span style="font-weight: bold">分類：</span>十六、文化/風箏</li></ul>
+【燕子】 jin3 zi2 [jin33 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿin33 ʧi35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>毽子</li><li><span style="font-weight: bold">分類：</span>十六、文化/毽子</li></ul>
 </>
 燶
-【燶】 nung1 [nʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nuŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>糊（飯燒～了）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/糊</li></ul>
+【燶（㶶）】 nung1 [nʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nuŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>糊（飯燒～了）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/糊</li></ul>
 </>
 爛
 【爛（烂）】 laan6 [lan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lan22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>破（衣服～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/破</li></ul>
@@ -3285,12 +3261,6 @@
 </>
 牙
 【牙】 ngaa4 [ŋa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋa21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>牙齒</li><li><span style="font-weight: bold">分類：</span>八、人體/牙齒</li></ul>
-</>
-牙鷹
-【牙鷹（牙鹰）】 ngaa4 jing1 [ŋa21 jeŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋa21 Ǿieŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>風箏</li><li><span style="font-weight: bold">分類：</span>十六、文化/舞獅</li></ul>
-</>
-牙鹰
-@@@LINK=牙鷹
 </>
 牛
 【牛】 ngau4 [ŋɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɐu21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>牛</li><li><span style="font-weight: bold">分類：</span>五、動物/牛</li></ul>
@@ -3331,14 +3301,14 @@
 狼
 【狼】 long4 [lɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[lɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>名詞作形容詞，形容人兇狠似狼，例：佢好狼嘅</li><li><span style="font-weight: bold">分類：</span>十八、性狀/兇狠</li></ul>
 </>
-猜估
-【猜估】 caai1 gu2 [tʃʰai55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ku35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>猜謎語</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「猜估」，唐七元調查點作「猜古」</li><li><span style="font-weight: bold">分類：</span>十六、文化/猜謎語</li></ul>
+猜古
+【猜古】 caai1 gu2 [tʃʰai55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ku35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>猜謎語</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「猜估」，唐七元調查點作「猜古」</li><li><span style="font-weight: bold">分類：</span>十六、文化/猜謎語</li></ul>
 </>
 猜码
 @@@LINK=猜碼
 </>
 猜碼
-【猜碼（猜码）】 caai1 maa5 [tʃʰai55 ma24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ma24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>划拳</li><li><span style="font-weight: bold">分類：</span>十六、文化/下棋</li></ul>
+【猜碼（猜码）】 caai1 maa5 [tʃʰai55 ma24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ma24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>划拳</li><li><span style="font-weight: bold">分類：</span>十六、文化/划拳</li></ul>
 </>
 猪
 @@@LINK=豬
@@ -3523,14 +3493,14 @@
 瘦
 【瘦】 sau3 [ʃɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦，形容人、動物</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦</li></ul>
 </>
+瘦登登
+【瘦登登】 sau3 nang1 nang1 [ʃɐu33 nɐŋ55 nɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐu33 nɐŋ55 nɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，瘦得可憐。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦</li></ul>
+</>
 瘦蜢躿
 【瘦蜢躿】 sau3 mang1 kang1 [ʃɐu33 mɐŋ55 kʰɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐu33 mɐŋ55 kʰɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，很瘦。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦</li></ul>
 </>
 瘦蜢躿
 【瘦蜢躿】 sau3 meng2 keng2 [ʃɐu33 mɛŋ35 kʰɛŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐu33 mɛŋ35 kʰɛŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，瘦得很難看。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦</li></ul>
-</>
-瘦𤹍𤹍
-【瘦𤹍𤹍】 sau3 nang1 nang1 [ʃɐu33 nɐŋ55 nɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐu33 nɐŋ55 nɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，瘦得可憐。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦</li></ul>
 </>
 瘧疾
 【瘧疾（疟疾）】 joek6 zat6 [jœk2 tʃɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiœk2 ʧɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>患瘧疾</li><li><span style="font-weight: bold">分類：</span>九、疾病/患瘧疾</li></ul>
@@ -3722,19 +3692,19 @@
 【短】 dyun2 [tyn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tyn35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>短（線～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/短</li></ul>
 </>
 短衩
-【短衩】 dyun2 caa3 [tyn35 tʃʰa33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tyn35 ʧha33]</li><li><span style="font-weight: bold">詞例、解釋：</span>短褲</li><li><span style="font-weight: bold">備註：</span>原文誤作[ʧha55]</li><li><span style="font-weight: bold">分類：</span>十、服飾/短褲</li></ul>
+【短衩】 dyun2 caa3 [tyn35 tʃʰa33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tyn35 ʧha33]</li><li><span style="font-weight: bold">詞例、解釋：</span>短褲</li><li><span style="font-weight: bold">備註：</span>原文誤作[ʧha55]，據視頻發音人修正</li><li><span style="font-weight: bold">分類：</span>十、服飾/短褲</li></ul>
 </>
 矮
 【矮】 ai2 [ɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿɐi35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>矮（他比我～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/矮</li></ul>
+</>
+矮啲啲
+【矮啲啲】 ai2 net1 net1 [ɐi35 nɛt5 nɛt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[Ǿɐi35 nɛt5 nɛt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，矮得可憐。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/矮</li></ul>
 </>
 矮瓜
 【矮瓜】 ai2 gwaa1 [ɐi35 kʷa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿɐi35 kua55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>茄子，統稱</li><li><span style="font-weight: bold">分類：</span>四、植物/茄子</li></ul>
 </>
 矮黕黕
 【矮黕黕】 ai2 dam2 dam2 [ɐi35 tɐm35 tɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[Ǿɐi35 tɐm35 tɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，很矮。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/矮</li></ul>
-</>
-矮𦛠𦛠
-【矮𦛠𦛠】 ai2 net1 net1 [ɐi35 nɛt5 nɛt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[Ǿɐi35 nɛt5 nɛt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，矮得可憐。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/矮</li></ul>
 </>
 石头
 @@@LINK=石頭
@@ -3744,6 +3714,9 @@
 </>
 石頭
 【石頭（石头）】 sek6 tau4 [ʃɛk2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɛk2 thɐu21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>石頭，統稱</li><li><span style="font-weight: bold">分類：</span>一、自然/地理/石頭</li></ul>
+</>
+矴
+【矴】 deng3 [tɛŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɛŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>扔，投擲（比一比誰～得遠）</li><li><span style="font-weight: bold">備註：</span>原文作「掟」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/扔</li></ul>
 </>
 研面
 @@@LINK=研麪
@@ -3785,7 +3758,10 @@
 【磚頭（砖头）】 zyun1 tau4 [tʃyn55 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧyn55 thɐu21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>磚，整塊的</li><li><span style="font-weight: bold">分類：</span>一、自然/地理/磚</li></ul>
 </>
 磨
-【磨】 mo6 [mɔ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɔ22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨，名詞</li><li><span style="font-weight: bold">分類：</span>三、農事/磨</li></ul>
+【磨】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɔ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>慢（走路比坐車～）</li><li><span style="font-weight: bold">備註：</span>原文作「摸」字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/慢</li></ul>
+</>
+磨
+【磨】 mo6 [mɔ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɔ22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨，名詞</li><li><span style="font-weight: bold">備註：</span>林亦調查點爲陽去，唐七元調查點爲陽平</li><li><span style="font-weight: bold">分類：</span>三、農事/磨</li></ul>
 </>
 礼拜日
 @@@LINK=禮拜日
@@ -3878,13 +3854,13 @@
 【笑噱噱】 sliu3 kok1 kok1 [ɬiu33 kʰɔk5 kʰɔk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[ɬiu33 kʰɔk5 kʰɔk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，笑哈哈。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/笑</li></ul>
 </>
 笛
-【笛】 dik6 [tek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tek2]</li><li><span style="font-weight: bold">詞例、解釋：</span>笛子</li><li><span style="font-weight: bold">分類：</span>十六、文化/划拳</li></ul>
+【笛】 dik6 [tek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tek2]</li><li><span style="font-weight: bold">詞例、解釋：</span>笛子</li><li><span style="font-weight: bold">分類：</span>十六、文化/笛子</li></ul>
 </>
 笡
 【笡】 ce3 [tʃʰɛ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhɛ33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>陡（坡～，樓梯～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/陡</li></ul>
 </>
 笨
-【笨】 mang5 [mɐŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐŋ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鈍（刀～）</li><li><span style="font-weight: bold">備註：</span>原文有音無字，標音疑誤，應作[mɐn24]</li><li><span style="font-weight: bold">分類：</span>十八、性狀/鈍</li></ul>
+【笨】 mang5 [mɐŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐŋ24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鈍（刀～）</li><li><span style="font-weight: bold">備註：</span>原文有音無字，發音人確實讀[mɐŋ24]，但其餘文本資料作[mɐn24]，存疑</li><li><span style="font-weight: bold">分類：</span>十八、性狀/鈍</li></ul>
 </>
 笪定
 【笪定】 daat3 deng6 [tat3 tɛŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tat3 tɛŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>地方</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>十九、方位/地方</li></ul>
@@ -3988,6 +3964,9 @@
 紅豔豔
 【紅豔豔（红艳艳）】 hung4 jem1 jem1 [hʊŋ21 jɛm55 jɛm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[huŋ21 jɛm55 jɛm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，紅豔豔。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/紅</li></ul>
 </>
+紐
+【紐（纽）】 nau5 [nɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɐu24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>釦子</li><li><span style="font-weight: bold">備註：</span>原文作「鈕」字</li><li><span style="font-weight: bold">分類：</span>十、服飾/釦子</li></ul>
+</>
 紧
 @@@LINK=緊
 </>
@@ -4034,7 +4013,7 @@
 【綁（绑）】 bong2 [pɔŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɔŋ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>捆（～起來）</li><li><span style="font-weight: bold">分類：</span>十七、動作/捆</li></ul>
 </>
 綁
-【綁（绑）】 bong2 [pɔŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɔŋ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>系（～鞋帶）</li><li><span style="font-weight: bold">分類：</span>十、服飾/系</li></ul>
+【綁（绑）】 bong2 [pɔŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɔŋ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>繫（～鞋帶）</li><li><span style="font-weight: bold">分類：</span>十、服飾/繫</li></ul>
 </>
 經常
 【經常（经常）】 ging1 coeng4 [keŋ55 tʃʰœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[keŋ55 ʧhœŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>經常（我～去）</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/經常</li></ul>
@@ -4074,6 +4053,9 @@
 </>
 红萝卜
 @@@LINK=紅蘿蔔
+</>
+纽
+@@@LINK=紐
 </>
 细
 @@@LINK=細
@@ -4136,7 +4118,7 @@
 @@@LINK=翹
 </>
 翹
-【翹（翘）】 keu1 [kʰɛu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɛu55  ]</li><li><span style="font-weight: bold">詞例、解釋：</span>翹（～腿）</li><li><span style="font-weight: bold">分類：</span>十七、動作/翹</li></ul>
+【翹（翘）】 keu1 [kʰɛu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɛu55  ]</li><li><span style="font-weight: bold">詞例、解釋：</span>翹（～腿）</li><li><span style="font-weight: bold">備註：</span>本字「蹺」</li><li><span style="font-weight: bold">分類：</span>十七、動作/翹</li></ul>
 </>
 翼
 【翼】 jik6 [jek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiek2]</li><li><span style="font-weight: bold">詞例、解釋：</span>翅膀，鳥的，統稱</li><li><span style="font-weight: bold">分類：</span>五、動物/翅膀</li></ul>
@@ -4211,10 +4193,10 @@
 @@@LINK=耍把戲
 </>
 耍把戲
-【耍把戲（耍把戏）】 saa2 baa2 hi3 [ʃa35 pa35 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35 pa35 hi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>變魔術</li><li><span style="font-weight: bold">分類：</span>十六、文化/講故事</li></ul>
+【耍把戲（耍把戏）】 saa2 baa2 hi3 [ʃa35 pa35 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35 pa35 hi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>變魔術</li><li><span style="font-weight: bold">分類：</span>十六、文化/變魔術</li></ul>
 </>
 耍𠵿
-【耍𠵿】 saa2 pe1 [ʃa35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35 phɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/打麻將</li></ul>
+【耍𠵿】 saa2 pe1 [ʃa35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35 phɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/打撲克</li></ul>
 </>
 耐
 【耐】 noi6 [nɔi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɔi22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>長（時間～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/長</li></ul>
@@ -4229,7 +4211,7 @@
 【耳崽】 ji5 zai2 [ji24 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿi24 ʧɐi35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>耳朵</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>八、人體/耳朵</li></ul>
 </>
 耳窿
-【耳窿】 ji5 lung1 [ji24 lʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿi24 luŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>耳朵</li><li><span style="font-weight: bold">分類：</span>八、人體/耳窿</li></ul>
+【耳窿】 ji5 lung1 [ji24 lʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿi24 luŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>耳朵</li><li><span style="font-weight: bold">備註：</span>釋義疑誤，應是「耳朵眼兒、耳孔」</li><li><span style="font-weight: bold">分類：</span>八、人體/耳窿</li></ul>
 </>
 聋佬
 @@@LINK=聾佬
@@ -4237,8 +4219,14 @@
 聋嗙嗙
 @@@LINK=聾嗙嗙
 </>
+联衫针
+@@@LINK=聯衫針
+</>
 聞
 【聞（闻）】 man4 [mɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐn21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>聞，嗅（用鼻子～）</li><li><span style="font-weight: bold">分類：</span>十七、動作/聞</li></ul>
+</>
+聯衫針
+【聯衫針（联衫针）】 lin4 saam1 zam1 [lin21 ʃam55 tʃɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lin21 ʃam55 ʧɐm55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>縫衣針</li><li><span style="font-weight: bold">備註：</span>原文作「連衫針」</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/縫衣針</li></ul>
 </>
 聽
 【聽（听）】 teng1 [tʰɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thɛŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>聽（用耳朵～）</li><li><span style="font-weight: bold">分類：</span>十七、動作/聽</li></ul>
@@ -4379,7 +4367,7 @@
 @@@LINK=舞獅
 </>
 舞獅
-【舞獅（舞狮）】 mu5 si1 [mu24 ʃi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mu24 ʃi55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>舞獅</li><li><span style="font-weight: bold">分類：</span>十六、文化/鞭炮</li></ul>
+【舞獅（舞狮）】 mu5 si1 [mu24 ʃi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mu24 ʃi55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>舞獅</li><li><span style="font-weight: bold">分類：</span>十六、文化/舞獅</li></ul>
 </>
 色酒
 【色酒】 sik1 zau2 [ʃek5 tʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃek5 ʧɐu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃酒</li><li><span style="font-weight: bold">分類：</span>十一、飲食/黃酒</li></ul>
@@ -4407,6 +4395,9 @@
 </>
 芹菜
 【芹菜】 kan4 coi3 [kʰɐn21 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐn21 ʧhɔi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>芹菜</li><li><span style="font-weight: bold">分類：</span>四、植物/芹菜</li></ul>
+</>
+若果
+【若果】 joek6 go2 [jœk2 kɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[jœk2 kɔ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>如果（～忙你就別來了）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點，發音人說的是「若果」，但文字和記音卻寫作了「如果」，此處修正</li><li><span style="font-weight: bold">分類：</span>二十二、介詞（連詞）/如果</li></ul>
 </>
 苦
 【苦】 fu2 [fu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦</li><li><span style="font-weight: bold">分類：</span>十八、性狀/苦</li></ul>
@@ -4582,6 +4573,9 @@
 虾
 @@@LINK=蝦
 </>
+蚂蚁
+@@@LINK=螞蟻
+</>
 蚊帐
 @@@LINK=蚊帳
 </>
@@ -4624,12 +4618,6 @@
 蜡烛
 @@@LINK=蠟燭
 </>
-蜢蚁
-@@@LINK=蜢蟻
-</>
-蜢蟻
-【蜢蟻（蜢蚁）】 maang5 ngai5 [maŋ24 ŋɐi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐŋ24 ŋɐi24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>螞蟻</li><li><span style="font-weight: bold">分類：</span>五、動物/螞蟻</li></ul>
-</>
 蝦
 【蝦（虾）】 haa1 [ha55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ha55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝦，統稱</li><li><span style="font-weight: bold">分類：</span>五、動物/蝦</li></ul>
 </>
@@ -4638,6 +4626,9 @@
 </>
 蝴蝶
 【蝴蝶】 wu4 dip6 [wu21 tip2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿu21 tip2]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝴蝶，統稱</li><li><span style="font-weight: bold">分類：</span>五、動物/蝴蝶</li></ul>
+</>
+螞蟻
+【螞蟻（蚂蚁）】 maang5 ngai5 [maŋ24 ŋɐi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐŋ24 ŋɐi24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>螞蟻</li><li><span style="font-weight: bold">備註：</span>原文作「蜢蟻」</li><li><span style="font-weight: bold">分類：</span>五、動物/螞蟻</li></ul>
 </>
 螺丝批
 @@@LINK=螺絲批
@@ -4792,9 +4783,6 @@
 詐
 【詐（诈）】 zaa3 [tʃa33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧa33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>裝（～病）</li><li><span style="font-weight: bold">分類：</span>十七、動作/裝</li></ul>
 </>
-諗
-【諗（谂）】 nam2 [nɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[nɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>想、打算</li><li><span style="font-weight: bold">分類：</span>十七、動作/想</li></ul>
-</>
 講
 【講（讲）】 gong2 [kɔŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>話（說～）</li><li><span style="font-weight: bold">分類：</span>十七、動作/話</li></ul>
 </>
@@ -4802,7 +4790,7 @@
 【講（讲）】 gong2 [kɔŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>說（～話）</li><li><span style="font-weight: bold">分類：</span>十七、動作/說</li></ul>
 </>
 講古仔
-【講古仔（讲古仔）】 gong2 gu2 zai2 [kɔŋ35 ku35 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 ku35 ʧɐi35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>講故事</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十六、文化/猜謎語</li></ul>
+【講古仔（讲古仔）】 gong2 gu2 zai2 [kɔŋ35 ku35 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 ku35 ʧɐi35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>講故事</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十六、文化/講故事</li></ul>
 </>
 講古崽
 【講古崽（讲古崽）】 gong2 gu2 zai2 [kɔŋ35 ku35 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 ku35 ʧɐi35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>講故事</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>十六、文化/講故事</li></ul>
@@ -4810,8 +4798,8 @@
 講大話
 【講大話（讲大话）】 gong2 daai6 waa6 [kɔŋ35 tai22 wa22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 tai22 Ǿua22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>撒謊</li><li><span style="font-weight: bold">分類：</span>十七、動作/撒謊</li></ul>
 </>
-講畀…聽
-【講畀…聽（讲畀…听）】 gong2 bi2 … teng1 [kɔŋ35 pi35 … tʰɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 pi35 …tɛŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>告訴（～他）</li><li><span style="font-weight: bold">分類：</span>十七、動作/告訴</li></ul>
+講畀···聽
+【講畀···聽（讲畀···听）】 gong2 bi2···teng1 [kɔŋ35 pi35···tʰɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 pi35···tɛŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>告訴（～他）</li><li><span style="font-weight: bold">分類：</span>十七、動作/告訴</li></ul>
 </>
 講耍笑
 【講耍笑（讲耍笑）】 gong2 saa2 sliu3 [kɔŋ35 ʃa35 ɬiu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔŋ35 ʃa35 ɬiu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>開玩笑</li><li><span style="font-weight: bold">分類：</span>十七、動作/開玩笑</li></ul>
@@ -4849,8 +4837,8 @@
 讲大话
 @@@LINK=講大話
 </>
-讲畀…听
-@@@LINK=講畀…聽
+讲畀···听
+@@@LINK=講畀···聽
 </>
 讲耍笑
 @@@LINK=講耍笑
@@ -4863,9 +4851,6 @@
 </>
 诈
 @@@LINK=詐
-</>
-谂
-@@@LINK=諗
 </>
 谷
 【谷】 guk1 [kʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>稻穀，指子實</li><li><span style="font-weight: bold">分類：</span>四、植物/稻穀</li></ul>
@@ -5039,7 +5024,7 @@
 【跳】 tiu3 [tʰiu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thiu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>跳（青蛙～起來）</li><li><span style="font-weight: bold">分類：</span>十七、動作/跳</li></ul>
 </>
 跳繩
-【跳繩（跳绳）】 tiu3 sing4 [tʰiu33 ʃeŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thiu33 ʃeŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>跳繩</li><li><span style="font-weight: bold">分類：</span>十六、文化/毽子</li></ul>
+【跳繩（跳绳）】 tiu3 sing4 [tʰiu33 ʃeŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thiu33 ʃeŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>跳繩</li><li><span style="font-weight: bold">分類：</span>十六、文化/跳繩</li></ul>
 </>
 跳绳
 @@@LINK=跳繩
@@ -5054,7 +5039,7 @@
 【躲】 do2 [tɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɔ35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>躲，躲藏（他～在牀底下）</li><li><span style="font-weight: bold">分類：</span>十七、動作/躲</li></ul>
 </>
 躲雞
-【躲雞（躲鸡）】 do2 gi1 [tɔ35 ki55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɔ35 ki55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>捉迷藏</li><li><span style="font-weight: bold">備註：</span>原文作「機」字</li><li><span style="font-weight: bold">分類：</span>十六、文化/跳繩</li></ul>
+【躲雞（躲鸡）】 do2 gi1 [tɔ35 ki55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tɔ35 ki55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>捉迷藏</li><li><span style="font-weight: bold">備註：</span>原文作「機」字</li><li><span style="font-weight: bold">分類：</span>十六、文化/捉迷藏</li></ul>
 </>
 躲鸡
 @@@LINK=躲雞
@@ -5071,9 +5056,6 @@
 車腳
 【車腳（车脚）】 ce1 goek3 [tʃʰɛ55 kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhɛ55 kœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>路費</li><li><span style="font-weight: bold">分類：</span>十五、商業/路費</li></ul>
 </>
-軛
-【軛（轭）】 aak3 [ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[Ǿak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>鐲子</li><li><span style="font-weight: bold">備註：</span>原文有音無字，誤作[ɐk33]</li><li><span style="font-weight: bold">分類：</span>十、服飾/鐲子</li></ul>
-</>
 軟
 【軟（软）】 jyun5 [jyn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿyn24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>軟（糖～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/軟</li></ul>
 </>
@@ -5088,9 +5070,6 @@
 </>
 车脚
 @@@LINK=車腳
-</>
-轭
-@@@LINK=軛
 </>
 软
 @@@LINK=軟
@@ -5134,9 +5113,6 @@
 远
 @@@LINK=遠
 </>
-连衫针
-@@@LINK=連衫針
-</>
 迟
 @@@LINK=遲
 </>
@@ -5158,11 +5134,8 @@
 通胜
 @@@LINK=通勝
 </>
-連衫針
-【連衫針（连衫针）】 lin4 saam1 zam1 [lin21 ʃam55 tʃɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lin21 ʃam55 ʧɐm55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>縫衣針</li><li><span style="font-weight: bold">分類：</span>六、房舍/用具/縫衣針</li></ul>
-</>
 逳棋
-【逳棋】 juk1 ki4 [jʊk5 kʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiuk5 khi21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>下棋</li><li><span style="font-weight: bold">備註：</span>原文作「育」字</li><li><span style="font-weight: bold">分類：</span>十六、文化/打撲克</li></ul>
+【逳棋】 juk1 ki4 [jʊk5 kʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiuk5 khi21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>下棋</li><li><span style="font-weight: bold">備註：</span>原文作「育」字</li><li><span style="font-weight: bold">分類：</span>十六、文化/下棋</li></ul>
 </>
 過冬
 【過冬（过冬）】 go3 dung1 [kɔ33 tʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kɔ33 tuŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>冬至</li><li><span style="font-weight: bold">分類：</span>二、時令/冬至</li></ul>
@@ -5239,12 +5212,6 @@
 釐戥
 【釐戥（厘戥）】 li4 dang2 [li21 tɐŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[li21 tɐŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>戥子</li><li><span style="font-weight: bold">備註：</span>原文未標音</li><li><span style="font-weight: bold">分類：</span>十五、商業/戥子</li></ul>
 </>
-釦
-【釦（扣）】 kau3 [kʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>釦（～釦子）</li><li><span style="font-weight: bold">分類：</span>十、服飾/釦</li></ul>
-</>
-鈕
-【鈕（钮）】 nau5 [nɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɐu24 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>釦子</li><li><span style="font-weight: bold">分類：</span>十、服飾/釦子</li></ul>
-</>
 鈪
 【鈪】 aak3 [ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[Ǿak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>鐲子</li><li><span style="font-weight: bold">備註：</span>原文有音無字，誤作[ɐk33]</li><li><span style="font-weight: bold">分類：</span>十、服飾/鐲子</li></ul>
 </>
@@ -5300,7 +5267,7 @@
 【鑷（镊）】 nep3 [nɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>夾（用筷子～菜）</li><li><span style="font-weight: bold">分類：</span>十一、飲食/夾</li></ul>
 </>
 鑼鼓
-【鑼鼓（锣鼓）】 lo4 gu2 [lɔ21 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lɔ21 ku35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鑼鼓，統稱</li><li><span style="font-weight: bold">分類：</span>十六、文化/二胡</li></ul>
+【鑼鼓（锣鼓）】 lo4 gu2 [lɔ21 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lɔ21 ku35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鑼鼓，統稱</li><li><span style="font-weight: bold">分類：</span>十六、文化/鑼鼓</li></ul>
 </>
 鑿大
 【鑿大（凿大）】 zok6 daai6 [tʃɔk2 tai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧɔk2 tai22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛</li><li><span style="font-weight: bold">分類：</span>十七、動作/吹牛</li></ul>
@@ -5310,9 +5277,6 @@
 </>
 钢笔
 @@@LINK=鋼筆
-</>
-钮
-@@@LINK=鈕
 </>
 钳
 @@@LINK=鉗
@@ -5374,12 +5338,6 @@
 閃電
 【閃電（闪电）】 sim2 din6 [ʃim35 tin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃim35 tin22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>閃電，名詞</li><li><span style="font-weight: bold">分類：</span>一、自然/天文/閃電</li></ul>
 </>
-閉悘
-【閉悘（闭悘）】 bai3 ai3 [pɐi33 ɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɐi33 Ǿɐi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>難過，心理的</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>十七、動作/難過</li></ul>
-</>
-閉悘
-【閉悘（闭悘）】 bai3 ngai3 [pɐi33 ŋɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɐi33 ŋɐi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>難過，心理的</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十七、動作/難過</li></ul>
-</>
 閉翳
 【閉翳（闭翳）】 bai3 ai3 [pɐi33 ɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɐi33 Ǿɐi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>難過，心理的</li><li><span style="font-weight: bold">備註：</span>林亦調查點，原文作「閉悘」</li><li><span style="font-weight: bold">分類：</span>十七、動作/難過</li></ul>
 </>
@@ -5424,9 +5382,6 @@
 </>
 闪电
 @@@LINK=閃電
-</>
-闭悘
-@@@LINK=閉悘
 </>
 闭翳
 @@@LINK=閉翳
@@ -5696,9 +5651,6 @@
 @@@LINK=麪
 </>
 面
-@@@LINK=麵
-</>
-面
 【面】 min6 [min22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[min22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>臉（洗～）</li><li><span style="font-weight: bold">分類：</span>八、人體/臉</li></ul>
 </>
 面先
@@ -5854,9 +5806,6 @@
 餵豬
 【餵豬（喂猪）】 wai3 zyu1 [wɐi33 tʃy55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿuɐi33 ʧy55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>養豬</li><li><span style="font-weight: bold">分類：</span>五、動物/養豬</li></ul>
 </>
-餿
-【餿（馊）】 sluk1 [ɬʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>餿（飯～）</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十八、性狀/餿</li></ul>
-</>
 饅頭
 【饅頭（馒头）】 maan6 tau4 [man22 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[man22 thɐu21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>饅頭，無餡的，統稱</li><li><span style="font-weight: bold">分類：</span>十一、飲食/饅頭</li></ul>
 </>
@@ -5874,9 +5823,6 @@
 </>
 馄饨
 @@@LINK=餛飩
-</>
-馊
-@@@LINK=餿
 </>
 馒头
 @@@LINK=饅頭
@@ -6052,9 +5998,6 @@
 麥麪粉
 【麥麪粉（麦面粉）】 mak6 min6 fan2 [mɐk2 min22 fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐk2 min22 fɐn35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>麪粉，麥子磨的，統稱</li><li><span style="font-weight: bold">分類：</span>十一、飲食/麪粉</li></ul>
 </>
-麥麵粉
-【麥麵粉（麦面粉）】 mak6 min6 fan2 [mɐk2 min22 fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐk2 min22 fɐn35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>麵粉，麥子磨的，統稱</li><li><span style="font-weight: bold">分類：</span>十一、飲食/麵粉</li></ul>
-</>
 麦
 @@@LINK=麥
 </>
@@ -6064,14 +6007,8 @@
 麦面粉
 @@@LINK=麥麪粉
 </>
-麦面粉
-@@@LINK=麥麵粉
-</>
 麪
 【麪（面）】 min6 [min22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[min22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>麪條，統稱</li><li><span style="font-weight: bold">分類：</span>十一、飲食/麪條</li></ul>
-</>
-麵
-【麵（面）】 min6 [min22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[min22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>麵條，統稱</li><li><span style="font-weight: bold">分類：</span>十一、飲食/麵條</li></ul>
 </>
 麻油
 【麻油】 maa4 jau4 [ma21 jɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ma21 Ǿiɐu21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>香油</li><li><span style="font-weight: bold">分類：</span>十一、飲食/香油</li></ul>
@@ -6166,6 +6103,9 @@
 鼻涕水
 【鼻涕水】 bi6 tai3 sui2 [pi22 tʰɐi33 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pi22 thɐi33 ʃui35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鼻涕，統稱</li><li><span style="font-weight: bold">分類：</span>八、人體/鼻涕</li></ul>
 </>
+𠖫
+【𠖫】 kam2 [kʰɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐm35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>蓋（把茶杯～上）</li><li><span style="font-weight: bold">備註：</span>原文作「冚」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/蓋</li></ul>
+</>
 𠜱
 【𠜱】 pai1 [pʰɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[phɐi55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>削（～蘋果）</li><li><span style="font-weight: bold">備註：</span>原文作「批」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/削</li></ul>
 </>
@@ -6177,9 +6117,6 @@
 </>
 𤹍鸡
 @@@LINK=𤹍雞
-</>
-𦀬衫
-【𦀬衫】 laang1 saam1 [laŋ55 ʃam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[laŋ55 ʃam55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>毛衣</li><li><span style="font-weight: bold">備註：</span>原文作「冷衫」</li><li><span style="font-weight: bold">分類：</span>十、服飾/毛衣</li></ul>
 </>
 𧬈
 【𧬈】 hap1 [hɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[hɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>欺負</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/欺負</li></ul>

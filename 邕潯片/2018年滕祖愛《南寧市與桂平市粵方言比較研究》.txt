@@ -1552,6 +1552,12 @@
 唛
 @@@LINK=嘜
 </>
+唝
+@@@LINK=嗊
+</>
+唥
+【唥】 laang1 [laŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P113 附：[laŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>織～衫：織毛衣</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 唯
 【唯】 wai4 [wɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P110 附：[∅uɐi21]</li></ul>
 </>
@@ -1623,6 +1629,9 @@
 </>
 喻
 【喻】 jyu6 [jy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P109 附：[∅y22]</li><li><span style="font-weight: bold">備註：</span>原文誤作[∅y21]</li></ul>
+</>
+嗊
+【嗊（唝）】 gung3 [kʊŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P115 附：[kuŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>爬的意思</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 嗌
 【嗌】 aai3 [∅ai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P110 附：[∅ai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>訓斥</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -3978,9 +3987,6 @@
 </>
 擴
 【擴（扩）】 kong3 [kʰɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P114 附：[kʰɔŋ33]</li></ul>
-</>
-擸
-【擸】 laap3 [lap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P115 附：[lap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>挽的意思</li><li><span style="font-weight: bold">備註：</span>原文有音無字，誤作[lap5]</li></ul>
 </>
 擺
 【擺（摆）】 baai2 [pai35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P110 附：[pai35]</li></ul>
@@ -10216,9 +10222,6 @@
 需
 【需】 slyu1 [ɬy55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P108 附：[ɬy55]</li></ul>
 </>
-霅
-【霅】 slep3 [ɬɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P116 附：[ɬɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>哭～～：抽泣</li><li><span style="font-weight: bold">備註：</span>原文有音無字。應作陽入</li></ul>
-</>
 震
 【震】 zan3 [tʃɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P113 附：[tʃɐn33]</li></ul>
 </>
@@ -10236,6 +10239,9 @@
 </>
 霧
 【霧（雾）】 mu6 [mu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P108 附：[mu22]</li></ul>
+</>
+霫
+【霫】 slep3 [ɬɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P116 附：[ɬɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>哭～～：抽泣</li><li><span style="font-weight: bold">備註：</span>原文有音無字。應作陽入</li></ul>
 </>
 露
 【露】 lu6 [lu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P108 附：[lu22]</li></ul>
@@ -10942,9 +10948,6 @@
 𤙴
 【𤙴】 ceu1 [tʃʰɛu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P111 附：[tʃʰɛu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>牛用角頂人</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-𦀬
-【𦀬】 laang1 [laŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P113 附：[laŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>織～衫：織毛衣</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 𧬈
 【𧬈】 hap1 [hɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P115 附：[hɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>欺負</li><li><span style="font-weight: bold">備註：</span>原文有音無字，誤作[hap5]</li></ul>
 </>
@@ -10959,7 +10962,4 @@
 </>
 𪷽
 @@@LINK=灒
-</>
-𫋐
-【𫋐】 gung3 [kʊŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P115 附：[kuŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>爬的意思</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>

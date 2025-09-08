@@ -52,9 +52,6 @@
 㨂
 【㨂】 dung2 [toŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P278 附：[toŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>用棍子捅、戳</li><li><span style="font-weight: bold">備註：</span>本字「捅」</li></ul>
 </>
-㨆
-【㨆】 lam6 [lɐm22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P276 附：[ləm22]</li><li><span style="font-weight: bold">詞例、解釋：</span>碼；堆叠：～磚</li></ul>
-</>
 㨘
 【㨘】 slang3 [ɬɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P279 附：[ɬəŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>按住鼻孔出氣，使鼻涕排出</li><li><span style="font-weight: bold">備註：</span>一般作「擤」字</li></ul>
 </>
@@ -84,9 +81,6 @@
 </>
 䁬
 【䁬】 slang4 [ɬɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[ɬəŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>懵～～：糊糊塗塗</li><li><span style="font-weight: bold">備註：</span>原文作「䒏」字</li></ul>
-</>
-䁽
-【䁽】 laap2 [lap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[lap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>掃視，眼睛很快地向左右看：我冇有時間～一眼算喇</li><li><span style="font-weight: bold">備註：</span>原文作「妠」字</li></ul>
 </>
 䂿
 【䂿】 dap6 [tɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P278 附：[təp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>㈠①沉重的東西落在物體上②輕輕地捶㈡①一種農具，長方形的林框中間安着一個木磙子，人站在上面，用牛拉，將田磙平②磙軋：～田</li><li><span style="font-weight: bold">備註：</span>原文作「矺」字</li></ul>
@@ -178,9 +172,6 @@
 冇
 【冇】 me5 [me24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[me24]</li><li><span style="font-weight: bold">詞例、解釋：</span>①不：你去～去！|冇錯（不錯）②別：渠講過喇，你～講啊！</li><li><span style="font-weight: bold">備註：</span>本字「靡」，參見余瑾《廣西平話研究》P263，來源民國二十六年《邕寧縣誌》</li></ul>
 </>
-冚
-【冚】 kam2 [kʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[kʰəm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>蓋住，遮住</li><li><span style="font-weight: bold">備註：</span>原文作「𠖫」字</li></ul>
-</>
 准
 @@@LINK=準
 </>
@@ -262,6 +253,9 @@
 唠
 @@@LINK=嘮
 </>
+唥
+【唥】 laang1 [laŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P276 附：[laŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>毛綫，用獸類的毛紡成的綫，通常指羊毛紡成的綫：～衫（毛綫衣）</li></ul>
+</>
 啖
 【啖】 daam6 [tam22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P278 附：[tam22]</li><li><span style="font-weight: bold">詞例、解釋：</span>一口的數量：飲一～湯</li></ul>
 </>
@@ -301,9 +295,6 @@
 嚕
 【嚕（噜）】 lu3 [lu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[lu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>滾～～：物體滾動狀態</li><li><span style="font-weight: bold">備註：</span>原文作「轤」字。元代作「骨碌碌」，又作「骨嚕嚕」</li></ul>
 </>
-嚿
-【嚿】 gau4 [kɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P279 附：[kəu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>用於成團狀的泥土、米飯等：一～泥</li><li><span style="font-weight: bold">備註：</span>原文作「䊆」字</li></ul>
-</>
 圝
 【圝（𪢮）】 lon4 [lon21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[lon21]</li><li><span style="font-weight: bold">詞例、解釋：</span>圓：～臺（桌）</li></ul>
 </>
@@ -327,9 +318,6 @@
 </>
 奀
 【奀】 ngan1 [ŋɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P275 附：[ŋən53]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦小：～細</li></ul>
-</>
-妠
-【妠】 laap2 [lap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[lap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>①聚斂：亞啲嘢～做一堆②（同音字）掃視，眼睛很快地向左右看：我冇有時間～一眼算喇</li></ul>
 </>
 姣
 【姣】 haau4 [hau21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P278 附：[hau21]</li><li><span style="font-weight: bold">詞例、解釋：</span>（女人）輕浮，淫蕩</li></ul>
@@ -360,6 +348,9 @@
 </>
 層
 【層（层）】 zang4 [tʃɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[tsəŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>囤積，盛蓄</li><li><span style="font-weight: bold">備註：</span>同音替代</li></ul>
+</>
+幐
+【幐】 dang6 [tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[təŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>相稱，匹配</li><li><span style="font-weight: bold">備註：</span>原文作「鄧」字</li></ul>
 </>
 当
 @@@LINK=當
@@ -418,9 +409,6 @@
 戙
 【戙】 doeng6 [tœŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[tøŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>竪，使物體跟地面垂直</li></ul>
 </>
-戥
-【戥】 dang6 [tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[təŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>相稱，匹配</li><li><span style="font-weight: bold">備註：</span>原文作「鄧」字</li></ul>
-</>
 戾
 【戾】 lai5 [lɐi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[ləi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>𨂿，（腳）扭傷：～腳</li></ul>
 </>
@@ -432,9 +420,6 @@
 </>
 扳
 【扳】 maan1 [man53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[man53]</li><li><span style="font-weight: bold">詞例、解釋：</span>①扳，使固定的東西改變方向②攀爬</li><li><span style="font-weight: bold">備註：</span>原文作「𢺳」字</li></ul>
-</>
-扳
-【扳】 paan3 [pʰan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[pʰan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>兩手向側平伸的長度：亞條索（繩子）兩～長</li><li><span style="font-weight: bold">備註：</span>原文作「盼」字</li></ul>
 </>
 扻
 【扻】 ham5 [hɐm24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[həm24]</li><li><span style="font-weight: bold">詞例、解釋：</span>碰撞：渠～着頭喇</li></ul>
@@ -456,6 +441,9 @@
 </>
 抹
 【抹】 mut5 [mut24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[mut23]</li><li><span style="font-weight: bold">詞例、解釋：</span>切（成細絲或細末）：亞啲蔥花要～棉（細）啲</li><li><span style="font-weight: bold">備註：</span>原文作「末」字</li></ul>
+</>
+拉
+【拉】 laap2 [lap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[lap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>①聚斂：亞啲嘢～做一堆②（同音字）掃視，眼睛很快地向左右看：我冇有時間～一眼算喇</li><li><span style="font-weight: bold">備註：</span>原文作「妠」字</li></ul>
 </>
 拋
 【拋（抛）】 paau1 [pʰau53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[pʰau53]</li><li><span style="font-weight: bold">詞例、解釋：</span>兩方或幾方數量相等</li><li><span style="font-weight: bold">備註：</span>原文作「抛」字</li></ul>
@@ -559,11 +547,8 @@
 擳
 【擳】 zet3 [tʃɛt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[tset5]</li><li><span style="font-weight: bold">詞例、解釋：</span>擠：～牙膏</li><li><span style="font-weight: bold">備註：</span>原文作「㵶」字</li></ul>
 </>
-擸
-【擸】 laap2 [lap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[lap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>聚斂：亞啲嘢～做一堆</li><li><span style="font-weight: bold">備註：</span>原文作「妠」字</li></ul>
-</>
 攀
-【攀】 maan1 [man53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[man53]</li><li><span style="font-weight: bold">詞例、解釋：</span>①扳，使固定的東西改變方向②攀爬</li><li><span style="font-weight: bold">備註：</span>原文作「𢺳」字</li></ul>
+【攀】 maan1 [man53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[man53]</li><li><span style="font-weight: bold">詞例、解釋：</span>攀爬</li><li><span style="font-weight: bold">備註：</span>原文作「𢺳」字</li></ul>
 </>
 攋
 【攋（𪮶）】 laai5 [lai24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[lai24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～尿：尿牀</li></ul>
@@ -778,17 +763,11 @@
 盪
 【盪（荡）】 laang5 [laŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P276 附：[laŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>①水波晃動②把東西放在水裏擺動③把水放在器物裏搖動，把器物衝洗乾凈：～碗④漱：～口⑤水漸漸往上淹</li><li><span style="font-weight: bold">備註：</span>原文作「𠻴」字</li></ul>
 </>
-盼
-【盼】 paan3 [pʰan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[pʰan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>兩手向側平伸的長度：亞條索（繩子）兩～長</li><li><span style="font-weight: bold">備註：</span>同音替代，本字「扳」</li></ul>
-</>
 真
 【真】 zan1 [tʃɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[tsən53]</li><li><span style="font-weight: bold">詞例、解釋：</span>舊指用來裝酒、油等的瓶子：酒～</li><li><span style="font-weight: bold">備註：</span>同音替代，見「罇/樽」字</li></ul>
 </>
 睄
 【睄】 saau4 [ʃau21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P279 附：[sau21]</li><li><span style="font-weight: bold">詞例、解釋：</span>瞥，很快地看</li></ul>
-</>
-睺
-【睺】 hau1 [hɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[həu53]</li><li><span style="font-weight: bold">詞例、解釋：</span>①盯住：你幫我～緊（着）渠②監視：今夜我哋在亞啲～渠</li></ul>
 </>
 瞓
 【瞓】 wan3 [wɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[βən55]</li><li><span style="font-weight: bold">詞例、解釋：</span>累；疲乏：我哋行了幾里路～喇</li></ul>
@@ -907,6 +886,9 @@
 罟
 【罟】 sle1 [ɬe53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P276 附：[ɬe53]</li><li><span style="font-weight: bold">詞例、解釋：</span>①養魚苗的綱，很密：魚～②用綱攔或兜魚苗：～魚花</li><li><span style="font-weight: bold">備註：</span>原文作「⿰糹些」字</li></ul>
 </>
+罧
+【罧】 lam6 [lɐm22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P276 附：[ləm22]</li><li><span style="font-weight: bold">詞例、解釋：</span>碼；堆叠：～磚</li></ul>
+</>
 罯
 【罯】 ap2 [∅ɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[əp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>掩埋；合在一起漚：～草皮</li><li><span style="font-weight: bold">備註：</span>本站統一作「搕」字</li></ul>
 </>
@@ -980,7 +962,7 @@
 @@@LINK=褸
 </>
 褸
-【褸（褛）】 lau1 [lɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P281 附：[ləu53]</li><li><span style="font-weight: bold">詞例、解釋：</span>覆蓋或搭在肩背上；披：～住一件衫</li><li><span style="font-weight: bold">備註：</span>又作「摟」字</li></ul>
+【褸（褛）】 lau1 [lɐu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P281 附：[ləu53]</li><li><span style="font-weight: bold">詞例、解釋：</span>覆蓋或搭在肩背上；披：～住一件衫</li><li><span style="font-weight: bold">備註：</span>一般作「摟」字</li></ul>
 </>
 覣
 【覣】 wai1 [wɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[βəi53]</li><li><span style="font-weight: bold">詞例、解釋：</span>好看，漂亮</li></ul>
@@ -1037,10 +1019,13 @@
 @@@LINK=鄧
 </>
 鄧
-【鄧（邓）】 dang6 [tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[təŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>相稱，匹配</li><li><span style="font-weight: bold">備註：</span>同音替代，見「戥」字</li></ul>
+【鄧（邓）】 dang6 [tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[təŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>相稱，匹配</li><li><span style="font-weight: bold">備註：</span>同音替代，見「幐」字</li></ul>
 </>
 鉗
 【鉗（钳）】 gem4 [kɛm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[kem21]</li><li><span style="font-weight: bold">詞例、解釋：</span>燒、燎</li><li><span style="font-weight: bold">備註：</span>同音替代，古壯字作「㶰」，音gemz[kɛːm2]，本字應是「黔」</li></ul>
+</>
+鋬
+【鋬】 paan3 [pʰan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[pʰan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>兩手向側平伸的長度：亞條索（繩子）兩～長</li><li><span style="font-weight: bold">備註：</span>原文「盼」爲同音替代</li></ul>
 </>
 錄
 【錄（录）】 loek5 [lœk24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[løk23]</li><li><span style="font-weight: bold">詞例、解釋：</span>用熱水燙使毛髪等脫落</li><li><span style="font-weight: bold">備註：</span>同音替代，見「熝/淥」字</li></ul>
@@ -1171,9 +1156,6 @@
 𢷕
 【𢷕】 muk3 [mok5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P281 附：[mok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>用棍打：渠捱老子～一棍</li></ul>
 </>
-𢺳
-【𢺳（𪮳）】 maan1 [man53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P277 附：[man53]</li><li><span style="font-weight: bold">詞例、解釋：</span>①扳，使固定的東西改變方向②攀爬</li><li><span style="font-weight: bold">備註：</span>本字「扳」，參見「扳」</li></ul>
-</>
 𢾩
 【𢾩】 haap2 [hap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[hap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>磕碰</li></ul>
 </>
@@ -1194,9 +1176,6 @@
 </>
 𥾝
 【𥾝】 min4 [min21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P278 附：[min21]</li><li><span style="font-weight: bold">詞例、解釋：</span>細：切～啲（點兒）</li></ul>
-</>
-𦀬
-【𦀬】 laang1 [laŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P276 附：[laŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>毛綫，用獸類的毛紡成的綫，通常指羊毛紡成的綫：～衫（毛綫衣）</li></ul>
 </>
 𦊏
 【𦊏】 mu5 [mu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[mu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>將地分成較小塊的畦：起～</li></ul>
@@ -1260,9 +1239,6 @@
 </>
 𪫺
 @@@LINK=憸
-</>
-𪮳
-@@@LINK=𢺳
 </>
 𪮶
 @@@LINK=攋

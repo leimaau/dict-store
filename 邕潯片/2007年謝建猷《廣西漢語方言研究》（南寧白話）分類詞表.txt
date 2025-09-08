@@ -7,20 +7,11 @@
 㨁
 【㨁】 zaai6 [tʃai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1820 附：[tʃai22]</li><li><span style="font-weight: bold">詞例、解釋：</span>扔</li><li><span style="font-weight: bold">備註：</span>原文[tʃai22]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/扔</li></ul>
 </>
-㪐头发
-@@@LINK=㪐頭髮
-</>
-㪐胎
-【㪐胎】 lat1 toi1 [lɐt5 tʰɔi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1666 附：[lɐt5 tʰɔi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>小產</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、婚喪/小產</li></ul>
-</>
-㪐色
-【㪐色】 lat1 sik1 [lɐt5 ʃek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1522 附：[lɐt5 ʃik5]</li><li><span style="font-weight: bold">詞例、解釋：</span>褪色</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十、服飾/褪色</li></ul>
-</>
-㪐頭髮
-【㪐頭髮（㪐头发）】 lat1 tau4 faat3 [lɐt5 tʰɐu21 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1438 附：[lɐt5 tʰɐu21 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>脫頭髮</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>八、人體/脫頭髮</li></ul>
-</>
 㪗㪗
 【㪗㪗】 tau2 tau2 [tʰɐu35 tʰɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1620 附：[tʰɐu35 tʰɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>歇歇</li><li><span style="font-weight: bold">分類：</span>十二、起居/歇歇</li></ul>
+</>
+㫰
+【㫰】 long6 [lɔŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1522 附：[lɔŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>晾</li><li><span style="font-weight: bold">備註：</span>原文作「晾」字</li><li><span style="font-weight: bold">分類：</span>十、服飾/晾</li></ul>
 </>
 㳠头佬
 @@@LINK=澾頭佬
@@ -521,7 +512,7 @@
 @@@LINK=仰頭
 </>
 仰睡
-【仰睡】 joeng5 sui6 [jœŋ24 ʃui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1624 附：[iœŋ23 ʃui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>仰睡</li><li><span style="font-weight: bold">分類：</span>十二、起居/仰睡</li></ul>
+【仰睡】 joeng5 sui6 [jœŋ24 ʃui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1624 附：[iœŋ23 ʃui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>仰睡</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十二、起居/仰睡</li></ul>
 </>
 仰頭
 【仰頭（仰头）】 ngong5 tau4 [ŋɔŋ24 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1792 附：[ŋɔŋ23 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>擡頭</li><li><span style="font-weight: bold">備註：</span>原文作「昂」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/擡頭</li></ul>
@@ -791,7 +782,7 @@
 @@@LINK=出門
 </>
 別處
-【別處（别处）】 bit6 cyu3 [pit2 tʃʰy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1904 附：[pit2 tʃʰy33]</li><li><span style="font-weight: bold">詞例、解釋：</span>別處</li><li><span style="font-weight: bold">分類：</span>十九、方位/別處</li></ul>
+【別處（别处）】 bit6 cyu3 [pit2 tʃʰy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1904 附：[pit2 tʃʰy33]</li><li><span style="font-weight: bold">詞例、解釋：</span>別處</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十九、方位/別處</li></ul>
 </>
 利市
 【利市】 li6 si6 [li22 ʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1718 附：[li22 ʃi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>紅封包</li><li><span style="font-weight: bold">備註：</span>原文作「利是」</li><li><span style="font-weight: bold">分類：</span>十五、商業/紅封包</li></ul>
@@ -1154,7 +1145,7 @@
 @@@LINK=哪個
 </>
 哪個
-【哪個（哪个）】 naa5 go3 [na24 kɔ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1922 附：[na23 kɔ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哪個</li><li><span style="font-weight: bold">分類：</span>二十、指代/哪個</li></ul>
+【哪個（哪个）】 naa5 go3 [na24 kɔ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1922 附：[na23 kɔ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哪個</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>二十、指代/哪個</li></ul>
 </>
 哭
 【哭】 huk1 [hʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1798 附：[huk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>哭</li><li><span style="font-weight: bold">分類：</span>十七、動作/哭</li></ul>
@@ -1321,8 +1312,8 @@
 塘
 【塘】 tong4 [tʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1100 附：[tʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>池塘</li><li><span style="font-weight: bold">分類：</span>一、自然/池塘</li></ul>
 </>
-塘𧋦
-【塘𧋦】 tong4 me1 [tʰɔŋ21 mɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1300 附：[tʰɔŋ21 mɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>蜻蜓</li><li><span style="font-weight: bold">備註：</span>原文[mɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>五、動物/蜻蜓</li></ul>
+塘尾
+【塘尾】 tong4 me1 [tʰɔŋ21 mɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1300 附：[tʰɔŋ21 mɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>蜻蜓</li><li><span style="font-weight: bold">備註：</span>原文[mɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>五、動物/蜻蜓</li></ul>
 </>
 墊被
 【墊被（垫被）】 dim6 pi5 [tim22 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1338 附：[tim22 pʰi23]</li><li><span style="font-weight: bold">詞例、解釋：</span>褥子</li><li><span style="font-weight: bold">分類：</span>六、房舍/褥子</li></ul>
@@ -1454,7 +1445,7 @@
 【天井】 tin1 zing2 [tʰin55 tʃeŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1318 附：[tʰin55 tʃiŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>天井</li><li><span style="font-weight: bold">分類：</span>六、房舍/天井</li></ul>
 </>
 天光了
-【天光了】 tin1 gong1 liu5 [tʰin55 kɔŋ55 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1072 附：[tʰin55 kɔŋ55 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>天亮了</li><li><span style="font-weight: bold">分類：</span>一、自然/天亮了</li></ul>
+【天光了】 tin1 gong1 liu5 [tʰin55 kɔŋ55 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1072 附：[tʰin55 kɔŋ55 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>天亮了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>一、自然/天亮了</li></ul>
 </>
 天气
 @@@LINK=天氣
@@ -1463,7 +1454,7 @@
 【天氣（天气）】 tin1 hi3 [tʰin55 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1090 附：[tʰin55 hi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>天氣</li><li><span style="font-weight: bold">分類：</span>一、自然/天氣</li></ul>
 </>
 天黑了
-【天黑了】 tin1 hak1 liu5 [tʰin55 hɐk5 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1072 附：[tʰin55 hɐk5 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>天黑了</li><li><span style="font-weight: bold">分類：</span>一、自然/天黑了</li></ul>
+【天黑了】 tin1 hak1 liu5 [tʰin55 hɐk5 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1072 附：[tʰin55 hɐk5 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>天黑了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>一、自然/天黑了</li></ul>
 </>
 失口齒
 【失口齒（失口齿）】 sat1 hau2 ci2 [ʃɐt5 hɐu35 tʃʰi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1642 附：[ʃɐt5 hɐu35 tʃʰi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>失信</li><li><span style="font-weight: bold">分類：</span>十三、交際/失信</li></ul>
@@ -1706,7 +1697,7 @@
 【宵夜】 sliu1 je6 [ɬiu55 jɛ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1552 附：[ɬiu55 iɛ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>夜宵</li><li><span style="font-weight: bold">分類：</span>十一、飲食/夜宵</li></ul>
 </>
 宿了
-【宿了】 sluk1 liu5 [ɬʊk5 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1546 附：[ɬuk5 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>（飯）餿了</li><li><span style="font-weight: bold">備註：</span>原文[ɬuk5]有音無字</li><li><span style="font-weight: bold">分類：</span>十一、飲食/（飯）餿了</li></ul>
+【宿了】 sluk1 liu5 [ɬʊk5 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1546 附：[ɬuk5 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>（飯）餿了</li><li><span style="font-weight: bold">備註：</span>半書面，原文[ɬuk5]有音無字</li><li><span style="font-weight: bold">分類：</span>十一、飲食/（飯）餿了</li></ul>
 </>
 實在
 【實在（实在）】 sat6 zoi6 [ʃɐt2 tʃɔi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1940 附：[ʃɐt2 tʃɔi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>實在</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/實在</li></ul>
@@ -2435,7 +2426,7 @@
 @@@LINK=摎時
 </>
 摎時
-【摎時（摎时）】 laau5 si4 [lau24 ʃi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1946 附：[lau23 ʃi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>隨便</li><li><span style="font-weight: bold">備註：</span>原文[lau23]有音無字。可能源自平話的「老屎」，見覃遠雄等《南寧平話詞典》P136</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/隨便</li></ul>
+【摎時（摎时）】 laau5 si4 [lau24 ʃi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1946 附：[lau23 ʃi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>隨便</li><li><span style="font-weight: bold">備註：</span>原文[lau23]有音無字。應作「摎事」，此處誤作「時」字</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/隨便</li></ul>
 </>
 摺被
 【摺被（折被）】 zip3 pi5 [tʃip3 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1626 附：[tʃip3 pʰi23]</li><li><span style="font-weight: bold">詞例、解釋：</span>疊被子</li><li><span style="font-weight: bold">備註：</span>原文作「摺被」</li><li><span style="font-weight: bold">分類：</span>十二、起居/疊被子</li></ul>
@@ -2668,9 +2659,6 @@
 晴天
 【晴天】 cing4 tin1 [tʃʰeŋ21 tʰin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1090 附：[tʃʰiŋ21 tʰin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>晴天</li><li><span style="font-weight: bold">分類：</span>一、自然/晴天</li></ul>
 </>
-晾
-【晾】 long6 [lɔŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1522 附：[lɔŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>晾</li><li><span style="font-weight: bold">備註：</span>本字「㫰」</li><li><span style="font-weight: bold">分類：</span>十、服飾/晾</li></ul>
-</>
 暖水壶
 @@@LINK=暖水壺
 </>
@@ -2750,7 +2738,7 @@
 【杉樹（杉树）】 caam3 syu6 [tʃʰam33 ʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1212 附：[tʃʰam33 ʃy22]</li><li><span style="font-weight: bold">詞例、解釋：</span>杉樹</li><li><span style="font-weight: bold">分類：</span>四、植物/杉樹</li></ul>
 </>
 李子
-【李子】 li5 zy2 [li24 tsɿ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1238 附：[li23 tsɿ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>李子</li><li><span style="font-weight: bold">分類：</span>四、植物/李子</li></ul>
+【李子】 li5 zy2 [li24 tsɿ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1238 附：[li23 tsɿ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>李子</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>四、植物/李子</li></ul>
 </>
 杏
 【杏】 hang6 [hɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1224 附：[hɐŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>杏兒</li><li><span style="font-weight: bold">分類：</span>四、植物/杏兒</li></ul>
@@ -3443,7 +3431,7 @@
 【牡丹】 maau5 daan1 [mau24 tan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1222 附：[mau23 tan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>牡丹</li><li><span style="font-weight: bold">分類：</span>四、植物/牡丹</li></ul>
 </>
 牲畜
-【牲畜】 saang1 cuk1 [ʃaŋ55 tʃʰʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1246 附：[ʃaŋ55 tʃʰuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>牲口</li><li><span style="font-weight: bold">分類：</span>五、動物/牲口</li></ul>
+【牲畜】 saang1 cuk1 [ʃaŋ55 tʃʰʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1246 附：[ʃaŋ55 tʃʰuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>牲口</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>五、動物/牲口</li></ul>
 </>
 特登
 【特登】 dak6 dang1 [tɐk2 tɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1938 附：[tɐk2 tɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>故意</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/故意</li></ul>
@@ -3560,13 +3548,13 @@
 @@@LINK=甩頭髮
 </>
 甩胎
-【甩胎】 lat1 toi1 [lɐt5 tʰɔi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1666 附：[lɐt5 tʰɔi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>小產</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字，本字「㪐」</li><li><span style="font-weight: bold">分類：</span>十四、婚喪/小產</li></ul>
+【甩胎】 lat1 toi1 [lɐt5 tʰɔi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1666 附：[lɐt5 tʰɔi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>小產</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、婚喪/小產</li></ul>
 </>
 甩色
-【甩色】 lat1 sik1 [lɐt5 ʃek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1522 附：[lɐt5 ʃik5]</li><li><span style="font-weight: bold">詞例、解釋：</span>褪色</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字，本字「㪐」</li><li><span style="font-weight: bold">分類：</span>十、服飾/褪色</li></ul>
+【甩色】 lat1 sik1 [lɐt5 ʃek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1522 附：[lɐt5 ʃik5]</li><li><span style="font-weight: bold">詞例、解釋：</span>褪色</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十、服飾/褪色</li></ul>
 </>
 甩頭髮
-【甩頭髮（甩头发）】 lat1 tau4 faat3 [lɐt5 tʰɐu21 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1438 附：[lɐt5 tʰɐu21 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>脫頭髮</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字，本字「㪐」</li><li><span style="font-weight: bold">分類：</span>八、人體/脫頭髮</li></ul>
+【甩頭髮（甩头发）】 lat1 tau4 faat3 [lɐt5 tʰɐu21 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1438 附：[lɐt5 tʰɐu21 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>脫頭髮</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>八、人體/脫頭髮</li></ul>
 </>
 田地
 【田地】 tin4 di6 [tʰin21 ti22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1092 附：[tʰin21 ti22]</li><li><span style="font-weight: bold">詞例、解釋：</span>田地</li><li><span style="font-weight: bold">分類：</span>一、自然/田地</li></ul>
@@ -3614,7 +3602,7 @@
 @@@LINK=瘋狗
 </>
 病了
-【病了】 beng6 liu5 [pɛŋ22 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1486 附：[pɛŋ22 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>病了</li><li><span style="font-weight: bold">分類：</span>九、疾病/病了</li></ul>
+【病了】 beng6 liu5 [pɛŋ22 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1486 附：[pɛŋ22 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>病了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>九、疾病/病了</li></ul>
 </>
 病好啲了
 【病好啲了】 beng6 hu2 di1 liu5 [pɛŋ22 hu35 ti55 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1508 附：[pɛŋ22 hu35 ti55 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>病輕了</li><li><span style="font-weight: bold">備註：</span>原文[ti55]有音無字</li><li><span style="font-weight: bold">分類：</span>九、疾病/病輕了</li></ul>
@@ -3629,7 +3617,7 @@
 【痘】 dau6 [tɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1496 附：[tɐu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>（出）天花</li><li><span style="font-weight: bold">分類：</span>九、疾病/（出）天花</li></ul>
 </>
 瘋狗
-【瘋狗（疯狗）】 fung1 gau2 [fʊŋ55 kɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1252 附：[fuŋ55 kɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘋狗</li><li><span style="font-weight: bold">分類：</span>五、動物/瘋狗</li></ul>
+【瘋狗（疯狗）】 fung1 gau2 [fʊŋ55 kɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1252 附：[fuŋ55 kɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘋狗</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>五、動物/瘋狗</li></ul>
 </>
 瘦
 【瘦】 sau3 [ʃɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1868 附：[ʃɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦（不肥不瘦）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦（不肥不瘦）</li></ul>
@@ -3710,7 +3698,7 @@
 @@@LINK=盤貨
 </>
 盤貨
-【盤貨（盘货）】 pun4 fo3 [pʰun21 fɔ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1694 附：[pʰun21 fɔ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>盤貨</li><li><span style="font-weight: bold">分類：</span>十五、商業/盤貨</li></ul>
+【盤貨（盘货）】 pun4 fo3 [pʰun21 fɔ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1694 附：[pʰun21 fɔ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>盤貨</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十五、商業/盤貨</li></ul>
 </>
 盲佬
 【盲佬】 maang4 lu2 [maŋ21 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1502 附：[maŋ21 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瞎子</li><li><span style="font-weight: bold">分類：</span>九、疾病/瞎子</li></ul>
@@ -3788,7 +3776,7 @@
 【睇電視（睇电视）】 tai2 din6 si6 [tʰɐi35 tin22 ʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1774 附：[tʰɐi35 tin22 ʃi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>看電視</li><li><span style="font-weight: bold">備註：</span>原文[tʰɐi35]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/看電視</li></ul>
 </>
 睡了
-【睡了】 sui6 liu5 [ʃui22 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1624 附：[ʃui22 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>睡了</li><li><span style="font-weight: bold">分類：</span>十二、起居/睡了</li></ul>
+【睡了】 sui6 liu5 [ʃui22 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1624 附：[ʃui22 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>睡了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十二、起居/睡了</li></ul>
 </>
 睡晏覺
 【睡晏覺（睡晏觉）】 sui6 aan3 geu3 [ʃui22 an33 kɛu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1622 附：[ʃui22 an33 kɛu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>午睡</li><li><span style="font-weight: bold">分類：</span>十二、起居/午睡</li></ul>
@@ -3953,7 +3941,7 @@
 【窒】 zat1 [tʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1362 附：[tʃɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>瓶塞兒</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、房舍/瓶塞兒</li></ul>
 </>
 窗戶
-【窗戶（窗户）】 cong1 wu6 [tʃʰɔŋ55 wu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1330 附：[tʃʰɔŋ55 u22]</li><li><span style="font-weight: bold">詞例、解釋：</span>窗戶</li><li><span style="font-weight: bold">分類：</span>六、房舍/窗戶</li></ul>
+【窗戶（窗户）】 cong1 wu6 [tʃʰɔŋ55 wu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1330 附：[tʃʰɔŋ55 u22]</li><li><span style="font-weight: bold">詞例、解釋：</span>窗戶</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>六、房舍/窗戶</li></ul>
 </>
 窗户
 @@@LINK=窗戶
@@ -3974,7 +3962,7 @@
 @@@LINK=童養媳
 </>
 童養媳
-【童養媳（童养媳）】 tung4 joeng5 slik1 [tʰʊŋ21 jœŋ24 ɬek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1434 附：[tʰuŋ21 iœŋ23 ɬik5]</li><li><span style="font-weight: bold">詞例、解釋：</span>童養媳</li><li><span style="font-weight: bold">分類：</span>七、稱謂/童養媳</li></ul>
+【童養媳（童养媳）】 tung4 joeng5 slik1 [tʰʊŋ21 jœŋ24 ɬek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1434 附：[tʰuŋ21 iœŋ23 ɬik5]</li><li><span style="font-weight: bold">詞例、解釋：</span>童養媳</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>七、稱謂/童養媳</li></ul>
 </>
 竹
 【竹】 zuk1 [tʃʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1218 附：[tʃuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>竹子</li><li><span style="font-weight: bold">分類：</span>四、植物/竹子</li></ul>
@@ -4268,7 +4256,7 @@
 【老婆】 lu5 po4 [lu24 pʰɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1426 附：[lu23 pʰɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>妻子</li><li><span style="font-weight: bold">分類：</span>七、稱謂/妻子</li></ul>
 </>
 老朋友
-【老朋友】 lu5 pang4 jau5 [lu24 pʰɐŋ21 jɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1630 附：[lu23 pʰɐŋ21 iɐu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>老朋友</li><li><span style="font-weight: bold">分類：</span>十三、交際/老朋友</li></ul>
+【老朋友】 lu5 pang4 jau5 [lu24 pʰɐŋ21 jɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1630 附：[lu23 pʰɐŋ21 iɐu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>老朋友</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十三、交際/老朋友</li></ul>
 </>
 老板
 @@@LINK=老闆
@@ -4439,7 +4427,7 @@
 @@@LINK=腡
 </>
 脹了
-【脹了（胀了）】 zoeng3 liu5 [tʃœŋ33 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1594 附：[tʃœŋ33 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>（吃）脹了</li><li><span style="font-weight: bold">分類：</span>十一、飲食/（吃）脹了</li></ul>
+【脹了（胀了）】 zoeng3 liu5 [tʃœŋ33 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1594 附：[tʃœŋ33 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>（吃）脹了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十一、飲食/（吃）脹了</li></ul>
 </>
 脾气𠯋
 @@@LINK=脾氣𠯋
@@ -4478,7 +4466,7 @@
 【腳盆（脚盆）】 goek3 pun4 [kœk3 pʰun21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1346 附：[kœk3 pʰun21]</li><li><span style="font-weight: bold">詞例、解釋：</span>腳盆</li><li><span style="font-weight: bold">分類：</span>六、房舍/腳盆</li></ul>
 </>
 腳背
-【腳背（脚背）】 goek3 bui3 [kœk3 pui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1480 附：[kœk3 pui33]</li><li><span style="font-weight: bold">詞例、解釋：</span>腳背</li><li><span style="font-weight: bold">分類：</span>八、人體/腳背</li></ul>
+【腳背（脚背）】 goek3 bui3 [kœk3 pui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1480 附：[kœk3 pui33]</li><li><span style="font-weight: bold">詞例、解釋：</span>腳背</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>八、人體/腳背</li></ul>
 </>
 腳趾
 【腳趾（脚趾）】 goek3 zi2 [kœk3 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1482 附：[kœk3 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>腳趾</li><li><span style="font-weight: bold">分類：</span>八、人體/腳趾</li></ul>
@@ -4802,7 +4790,7 @@
 @@@LINK=蝦米
 </>
 蚊子
-【蚊子】 man1 zy2 [mɐn55 tsɿ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1292 附：[mɐn55 tsɿ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蚊子</li><li><span style="font-weight: bold">分類：</span>五、動物/蚊子</li></ul>
+【蚊子】 man1 zy2 [mɐn55 tsɿ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1292 附：[mɐn55 tsɿ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蚊子</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>五、動物/蚊子</li></ul>
 </>
 蚊帐
 @@@LINK=蚊帳
@@ -5251,6 +5239,9 @@
 賒帳
 【賒帳（赊帐）】 se1 zoeng3 [ʃɛ55 tʃœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1704 附：[ʃɛ55 tʃœŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>賒帳</li><li><span style="font-weight: bold">備註：</span>同「賒賬」</li><li><span style="font-weight: bold">分類：</span>十五、商業/賒帳</li></ul>
 </>
+賧
+【賧（赕）】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1810 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄（小孩）</li><li><span style="font-weight: bold">備註：</span>原文[tʰɐm33]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哄（小孩）</li></ul>
+</>
 賴菢雞
 【賴菢雞（赖菢鸡）】 laai6 bu6 gai1 [lai22 pu22 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1262 附：[lai22 pu22 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>菢窩雞</li><li><span style="font-weight: bold">分類：</span>五、動物/菢窩雞</li></ul>
 </>
@@ -5262,6 +5253,9 @@
 </>
 赊帐
 @@@LINK=賒帳
+</>
+赕
+@@@LINK=賧
 </>
 赖菢鸡
 @@@LINK=賴菢雞
@@ -5282,7 +5276,7 @@
 【起身】 hi2 san1 [hi35 ʃɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1600 附：[hi35 ʃɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>起牀</li><li><span style="font-weight: bold">分類：</span>十二、起居/起牀</li></ul>
 </>
 跌了
-【跌了】 dit3 liu5 [tit3 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1820 附：[tit3 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>摔了</li><li><span style="font-weight: bold">分類：</span>十七、動作/摔了</li></ul>
+【跌了】 dit3 liu5 [tit3 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1820 附：[tit3 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>摔了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十七、動作/摔了</li></ul>
 </>
 跛佬
 【跛佬】 bai1 lu2 [pɐi55 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1500 附：[pɐi55 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘸子</li><li><span style="font-weight: bold">備註：</span>原文[pɐi55]有音無字</li><li><span style="font-weight: bold">分類：</span>九、疾病/瘸子</li></ul>
@@ -5338,9 +5332,6 @@
 車轆
 【車轆（车辘）】 ce1 luk1 [tʃʰɛ55 lʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1178 附：[tʃʰɛ55 luk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>車輪</li><li><span style="font-weight: bold">分類：</span>三、農事/車輪</li></ul>
 </>
-軛
-【軛（轭）】 aak3 [ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1538 附：[ak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>鐲子</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十、服飾/鐲子</li></ul>
-</>
 輸賭
 【輸賭（输赌）】 syu1 du2 [ʃy55 tu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1786 附：[ʃy55 tu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>打賭</li><li><span style="font-weight: bold">分類：</span>十六、文化/打賭</li></ul>
 </>
@@ -5355,9 +5346,6 @@
 </>
 车辘
 @@@LINK=車轆
-</>
-轭
-@@@LINK=軛
 </>
 轿
 @@@LINK=轎
@@ -5510,7 +5498,7 @@
 【重】 zung6 [tʃʊŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1930 附：[tʃuŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>還（飯還沒熟）</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/還（飯還沒熟）</li></ul>
 </>
 野鴨
-【野鴨（野鸭）】 je5 aap3 [jɛ24 ap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1286 附：[iɛ23 ap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>水鴨子</li><li><span style="font-weight: bold">備註：</span>原文「野」字誤作[ia33]</li><li><span style="font-weight: bold">分類：</span>五、動物/水鴨子</li></ul>
+【野鴨（野鸭）】 je5 aap3 [jɛ24 ap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1286 附：[iɛ23 ap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>水鴨子</li><li><span style="font-weight: bold">備註：</span>書面，原文「野」字誤作[ia33]</li><li><span style="font-weight: bold">分類：</span>五、動物/水鴨子</li></ul>
 </>
 野鸭
 @@@LINK=野鴨
@@ -5526,6 +5514,9 @@
 </>
 釦針
 【釦針（扣针）】 kau3 zam1 [kʰɐu33 tʃɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1540 附：[kʰɐu33 tʃɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>別針兒</li><li><span style="font-weight: bold">分類：</span>十、服飾/別針兒</li></ul>
+</>
+鈪
+【鈪】 aak3 [ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1538 附：[ak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>鐲子</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十、服飾/鐲子</li></ul>
 </>
 鉗
 【鉗（钳）】 kem4 [kʰɛm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1176 附：[kʰɛm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>鉗子</li><li><span style="font-weight: bold">分類：</span>三、農事/鉗子</li></ul>
@@ -5795,7 +5786,7 @@
 【難頂（难顶）】 naan4 ding2 [nan21 teŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1870 附：[nan21 tiŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>難過</li><li><span style="font-weight: bold">分類：</span>十八、性狀/難過</li></ul>
 </>
 雨停了
-【雨停了】 jyu5 ting4 liu5 [jy24 tʰeŋ21 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1084 附：[y23 tʰiŋ21 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>雨停了</li><li><span style="font-weight: bold">分類：</span>一、自然/雨停了</li></ul>
+【雨停了】 jyu5 ting4 liu5 [jy24 tʰeŋ21 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1084 附：[y23 tʰiŋ21 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>雨停了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>一、自然/雨停了</li></ul>
 </>
 雪条
 @@@LINK=雪條
@@ -5813,7 +5804,7 @@
 【雷公響（雷公响）】 lui4 gung1 hoeng2 [lui21 kʊŋ55 hœŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1080 附：[lui21 kuŋ55 hœŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>打雷</li><li><span style="font-weight: bold">分類：</span>一、自然/打雷</li></ul>
 </>
 電冰箱
-【電冰箱（电冰箱）】 din6 bing1 sloeng1 [tin22 peŋ55 ɬœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1370 附：[tin22 piŋ55 ɬœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>電冰箱</li><li><span style="font-weight: bold">分類：</span>六、房舍/電冰箱</li></ul>
+【電冰箱（电冰箱）】 din6 bing1 sloeng1 [tin22 peŋ55 ɬœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1370 附：[tin22 piŋ55 ɬœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>電冰箱</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>六、房舍/電冰箱</li></ul>
 </>
 電視機
 【電視機（电视机）】 din6 si6 gi1 [tin22 ʃi22 ki55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1370 附：[tin22 ʃi22 ki55]</li><li><span style="font-weight: bold">詞例、解釋：</span>電視機</li><li><span style="font-weight: bold">分類：</span>六、房舍/電視機</li></ul>
@@ -6065,7 +6056,7 @@
 【養崽（养崽）】 joeng5 zai2 [jœŋ24 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1434 附：[iœŋ23 tʃɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>養子</li><li><span style="font-weight: bold">分類：</span>七、稱謂/養子</li></ul>
 </>
 餓了
-【餓了（饿了）】 ngo6 liu5 [ŋɔ22 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1582 附：[ŋɔ22 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>餓了</li><li><span style="font-weight: bold">分類：</span>十一、飲食/餓了</li></ul>
+【餓了（饿了）】 ngo6 liu5 [ŋɔ22 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1582 附：[ŋɔ22 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>餓了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十一、飲食/餓了</li></ul>
 </>
 餛飩
 【餛飩（馄饨）】 wan4 tan1 [wɐn21 tʰɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1550 附：[uɐn21 tʰɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>餛飩</li><li><span style="font-weight: bold">分類：</span>十一、飲食/餛飩</li></ul>
@@ -6266,7 +6257,7 @@
 【鵝（鹅）】 ngo4 [ŋɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1266 附：[ŋɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>鵝</li><li><span style="font-weight: bold">分類：</span>五、動物/鵝</li></ul>
 </>
 鷯哥
-【鷯哥（鹩哥）】 leu1 go1 [lɛu55 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1284 附：[lɛu55 kɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>八哥兒</li><li><span style="font-weight: bold">分類：</span>五、動物/鷯哥</li></ul>
+【鷯哥（鹩哥）】 leu1 go1 [lɛu55 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1284 附：[lɛu55 kɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>八哥兒</li><li><span style="font-weight: bold">備註：</span>原文作「了哥」。釋義爲「八哥兒」不準確，兩者形似但不同</li><li><span style="font-weight: bold">分類：</span>五、動物/鷯哥</li></ul>
 </>
 鸚鵡
 【鸚鵡（鹦鹉）】 jing1 mu5 [jeŋ55 mu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1284 附：[iŋ55 mu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>鸚鵡</li><li><span style="font-weight: bold">分類：</span>五、動物/鸚鵡</li></ul>
@@ -6368,7 +6359,7 @@
 【黃䘆（黄䘆）】 wong4 hyun2 [wɔŋ21 hyn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1288 附：[uɔŋ21 hyn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蚯蚓</li><li><span style="font-weight: bold">備註：</span>原文[yn35]有音無字，應作[hyn35]</li><li><span style="font-weight: bold">分類：</span>五、動物/蚯蚓</li></ul>
 </>
 黃牛
-【黃牛（黄牛）】 wong4 ngau4 [wɔŋ21 ŋɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1248 附：[uɔŋ21 ŋɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃牛</li><li><span style="font-weight: bold">分類：</span>五、動物/黃牛</li></ul>
+【黃牛（黄牛）】 wong4 ngau4 [wɔŋ21 ŋɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1248 附：[uɔŋ21 ŋɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃牛</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>五、動物/黃牛</li></ul>
 </>
 黃皮
 【黃皮（黄皮）】 wong4 pi4 [wɔŋ21 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1240 附：[uɔŋ21 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃皮</li><li><span style="font-weight: bold">分類：</span>四、植物/黃皮</li></ul>
@@ -6476,16 +6467,13 @@
 【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1850 附：[iɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞（不好）</li><li><span style="font-weight: bold">備註：</span>原文[jɐi21]有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/壞（不好）</li></ul>
 </>
 𠵿
-【𠵿】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1782 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>撲克</li><li><span style="font-weight: bold">分類：</span>十六、文化/撲克</li></ul>
+【𠵿】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1782 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/撲克</li></ul>
 </>
 𢳂羹
 【𢳂羹】 bat1 gang1 [pɐt5 kɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1812 附：[pɐt5 kɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀湯</li><li><span style="font-weight: bold">備註：</span>原文[pɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/舀湯</li></ul>
 </>
 𤶊
 @@@LINK=癐
-</>
-𧨾
-【𧨾】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1810 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄（小孩）</li><li><span style="font-weight: bold">備註：</span>原文[tʰɐm33]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哄（小孩）</li></ul>
 </>
 𧬈
 【𧬈】 hap1 [hɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1640 附：[hɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>欺負</li><li><span style="font-weight: bold">備註：</span>原文[hɐp5]有音無字</li><li><span style="font-weight: bold">分類：</span>十三、交際/欺負</li></ul>
