@@ -869,9 +869,6 @@
 @@@LINK=蔔
 </>
 卟
-【卟】 bap1 [pɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P647 附：[pɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～耳：耷拉着耳朵</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
 【卟】 bap6 [pɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[pɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>拍～～，「卟卟」地拍</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 占
@@ -1220,7 +1217,7 @@
 【啱】 ngaam1 [ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P646 附：[ŋam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>合適、恰巧</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 啱
-【啱】 ngaam1 [ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋam55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>只（我～去過一趟）；剛（這雙鞋我穿着～好）；剛（我～到）；才（你怎麼～來啊？）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【啱】 ngaam1 [ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋam55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>只（我～去過一趟）；剛（這雙鞋我穿着～好）；剛（我～到）；纔（你怎麼～來啊？）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 啲
 【啲】 di1 [ti55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P642 附：[ti55]</li><li><span style="font-weight: bold">詞例、解釋：</span>邊～：哪兒</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1411,6 +1408,12 @@
 嚴
 【嚴（严）】 jim4 [jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿim21]</li></ul>
 </>
+囊
+【囊】 nang1 [nɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[nɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～肌[kɐi55]：疤</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+囊
+【囊】 nang1 [nɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～肌[kɐi55]，疤，好了的</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
+</>
 四
 【四】 sli3 [ɬi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ɬi33]</li></ul>
 </>
@@ -1527,6 +1530,9 @@
 </>
 城
 【城】 sing4 [ʃeŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʃeŋ21]</li></ul>
+</>
+埝
+【埝】 nep1 [nɛp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[nɛp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～穀：秕穀</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 域
 【域】 wik6 [wek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P655 附：[wik2]</li></ul>
@@ -1778,7 +1784,10 @@
 【嫩】 nyun6 [nyn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[nyn22]</li></ul>
 </>
 嫲
-【嫲】 maa4 [ma21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ma21]</li><li><span style="font-weight: bold">詞例、解釋：</span>阿～，奶奶，呼稱，最通用的</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【嫲】 maa2 [ma35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ma35]</li><li><span style="font-weight: bold">詞例、解釋：</span>阿～，奶奶，呼稱，最通用的</li><li><span style="font-weight: bold">備註：</span>詞表。林亦調查點</li></ul>
+</>
+嫲
+【嫲】 maa4 [ma21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ma21]</li><li><span style="font-weight: bold">詞例、解釋：</span>阿～，奶奶，呼稱，最通用的</li><li><span style="font-weight: bold">備註：</span>詞表。唐七元調查點</li></ul>
 </>
 子
 【子】 zi2 [tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧi35]</li></ul>
@@ -2587,6 +2596,9 @@
 披
 【披】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P642 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>挨[a55]～椅：靠背椅</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
+披
+【披】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>耍～，打撲克</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
+</>
 抱
 【抱】 pu5 [pʰu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[phu24]</li></ul>
 </>
@@ -2733,9 +2745,6 @@
 </>
 掛
 【掛（挂）】 gwaa3 [kʷa33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[kua33]</li></ul>
-</>
-掝
-【掝】 jak6 [jɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[jɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～手：擺手</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 掝
 【掝】 wak6 [wɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[wɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～旗嘅：(戲臺上)打旗的</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -2928,6 +2937,9 @@
 </>
 擘
 【擘】 mik1 [mek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mek5]</li><li><span style="font-weight: bold">詞例、解釋：</span>掐（用拇指和食指的指甲～皮肉）；掰（把橘子～開，把饅頭～開）；剝（～花生）；摘（～花）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+</>
+擛
+【擛】 jak6 [jɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[jɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～手：擺手</li><li><span style="font-weight: bold">備註：</span>原文有音無字。當爲「擛[jɐp2]」的韻尾誤讀，釋義有誤，應是「招手」</li></ul>
 </>
 擤
 【擤】 slang3 [ɬɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬɐŋ33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>擤（～鼻涕）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
@@ -3656,6 +3668,9 @@
 【法】 faat3 [fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[fat3]</li></ul>
 </>
 泥
+【泥】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P644 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞的</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+泥
 【泥】 nai4 [nɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[nɐi21]</li></ul>
 </>
 泼
@@ -3795,6 +3810,9 @@
 </>
 溫
 【溫（温）】 wan1 [wɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿuɐn55]</li></ul>
+</>
+溶
+【溶】 jung4 [jʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>爛（肉煮得～）</li><li><span style="font-weight: bold">備註：</span>詞表，原文作「融」字</li></ul>
 </>
 溼
 【溼（湿）】 sap1 [ʃɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>溼，潮溼（衣服淋～了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
@@ -4191,9 +4209,6 @@
 </>
 甲
 【甲】 lep3 [lɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P648 附：[lɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>穀～：秕穀皮兒</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-甲
-【甲】 nep1 [nɛp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[nɛp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～穀：秕穀</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 画
 @@@LINK=畫
@@ -4823,7 +4838,7 @@
 【給（给）】 gai1 [kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2001年洪珏《南寧白話的變音現象》P46 附：[kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>口語音</li></ul>
 </>
 給
-【給（给）】 gai1 [kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2004年洪珏《南寧話與廣州話語音系統的比較》P60 附：[kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>邕州官話借詞</li><li><span style="font-weight: bold">備註：</span>原文未標調。更多參見[1]余瑾《廣西平話研究》P238[2]覃遠雄.平話、粵語與壯語「給」義的詞.《民族語文》.2007(05)21.[3]覃東生.對廣西三個區域性語法現象的考察.河北師範大學博士論文.2012-03-05.[4]黃曉雪;賀學貴.漢語方言與「給」義動詞相關的受益格標記.《語言研究》.2018-10-15.</li></ul>
+【給（给）】 gai1 [kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2004年洪珏《南寧話與廣州話語音系統的比較》P60 附：[kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>邕州官話借詞</li><li><span style="font-weight: bold">備註：</span>原文未標調</li></ul>
 </>
 給
 【給（给）】 gai1 [kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年褚俊海《桂南平話與白話的介詞研究》P37 附：[kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>與格介詞，相當於「畀」</li><li><span style="font-weight: bold">備註：</span>原文提到發音人對「畀/給」哪個是南寧白話地道用法有爭議</li></ul>
@@ -5087,6 +5102,9 @@
 【耳】 ji5 [ji24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿi24]</li></ul>
 </>
 耷
+【耷】 bap1 [pɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P647 附：[pɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～耳：耷拉着耳朵</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+耷
 【耷】 dap1 [tɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P647 附：[tɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>膊頭～：溜肩</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 耸
@@ -5299,6 +5317,9 @@
 舔
 【舔】 lem2 [lɛm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lɛm35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>舔（人用舌頭～）</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
+舕
+【舕】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P647 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 船
 【船】 syun4 [ʃyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʃyn21]</li></ul>
 </>
@@ -5358,9 +5379,6 @@
 </>
 茶
 【茶】 caa4 [tʃʰa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧha21]</li></ul>
-</>
-茸
-【茸】 jung4 [jʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>爛（肉煮得～）</li><li><span style="font-weight: bold">備註：</span>詞表，原文誤作「融」字</li></ul>
 </>
 草
 【草】 cu2 [tʃʰu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧhu35]</li></ul>
@@ -5965,9 +5983,6 @@
 賣
 【賣（卖）】 maai6 [mai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[mai22]</li></ul>
 </>
-賧
-【賧（赕）】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P647 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 賭
 【賭（赌）】 du2 [tu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[tu35]</li></ul>
 </>
@@ -6036,9 +6051,6 @@
 </>
 赔
 @@@LINK=賠
-</>
-赕
-@@@LINK=賧
 </>
 赚
 @@@LINK=賺
@@ -6419,7 +6431,7 @@
 【鋤（锄）】 co4 [tʃʰɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧhɔ21]</li></ul>
 </>
 鋥
-【鋥（锃）】 saang3 [ʃaŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[saŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃～～，黃燦燦</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【鋥（锃）】 saang3 [ʃaŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[saŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃～～，黃燦燦</li><li><span style="font-weight: bold">備註：</span>詞表。原文有音無字</li></ul>
 </>
 鋪
 【鋪（铺）】 pu1 [pʰu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[phu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞</li></ul>
@@ -7309,23 +7321,11 @@
 𠜱
 【𠜱】 pai1 [pʰɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pʰɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>削（～蘋果）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
-𠯋
-【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P644 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞的</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𠵿
-【𠵿】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>耍～，打撲克</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
-</>
 𠹁
 【𠹁】 we6 [wɛ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1989年洪珏《南寧白話的語音特點》P54 附：[vɛ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>語氣助詞</li></ul>
 </>
 𤶊
 @@@LINK=癐
-</>
-𤹍
-【𤹍】 nang1 [nɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P653 附：[nɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～雞[kɐi55]：疤</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𤹍
-【𤹍】 nang1 [nɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～雞，疤，好了的</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 𦅇
 【𦅇（𫄪）】 song3 [ʃɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃～～，金黃色</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>

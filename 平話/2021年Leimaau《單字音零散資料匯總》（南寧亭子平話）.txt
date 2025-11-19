@@ -16,9 +16,6 @@
 㕭
 【㕭】 jaau1 [jau53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P671 附：[jau53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～咋[jak5]咋[jak5]：吵吵嚷嚷</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-㕭
-【㕭】 jaau3 [jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P12 附：[∅iau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>意～：不認真，嘻嘻哈哈</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 㖮
 【㖮】 lan1 [lɐn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P16 附：[lən53]</li><li><span style="font-weight: bold">詞例、解釋：</span>繩索等搓絞得緊：亞條索冇夠～</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -84,6 +81,9 @@
 </>
 㩧
 【㩧】 boek3 [pœk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P673 附：[pœk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>(拿石頭)砸(人)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+㩵
+【㩵】 jaat6 [jat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[∅iat2]</li><li><span style="font-weight: bold">詞例、解釋：</span>(建築物等)下陷：牆腳～喇</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 㪗
 【㪗】 tau2 [tʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P12，13 附：[tʰəu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>～氣：呼吸</li></ul>
@@ -473,7 +473,7 @@
 【刉】 ge3 [ke55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[ke55]</li><li><span style="font-weight: bold">詞例、解釋：</span>割</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 刊
-【刊】 haan5 [han24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P667 附：[han24]</li></ul>
+【刊】 haan5 [han24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P667 附：[han24]</li><li><span style="font-weight: bold">備註：</span>小字</li></ul>
 </>
 刏
 【刏】 ge3 [ke55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[ke55]</li><li><span style="font-weight: bold">詞例、解釋：</span>割</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -574,30 +574,6 @@
 卜
 @@@LINK=蔔
 </>
-卟
-【卟】 baap3 [pap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>使勁甩使粘在別的東西上：～泥上牆</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
-【卟】 baap3 [pap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[pap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>糊(泥)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
-【卟】 bap2 [pɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pəp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>垂蓋：亞隻豬耳朵冇～，是籐(豎)起來嘅</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
-【卟】 bap3 [pɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[pɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>耷拉，垂下</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
-【卟】 bap6 [pɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pəp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>疊：亞啲衫～好去</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
-【卟】 paap3 [pʰap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pʰap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>搭：亞條濕毛巾～住膊頭(搭在肩膀上)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
-【卟】 pap3 [pʰɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pʰəp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>聚攏：亞啲嘢～做一堆</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-卟
-【卟】 pap3 [pʰɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[pʰɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>搡(耳光)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 卤
 @@@LINK=滷
 </>
@@ -687,6 +663,9 @@
 </>
 呢
 【呢】 ne5 [ne24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[ne24]</li><li><span style="font-weight: bold">詞例、解釋：</span>語氣詞，引人注意用</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+呦
+【呦】 jaau3 [jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P12 附：[∅iau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>意～：不認真，嘻嘻哈哈</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 呱
 【呱】 gwaa4 [kʷa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[kua21]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：樓上響～～，冇識做門(不知幹什麼)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1086,6 +1065,9 @@
 </>
 囉
 【囉（啰）】 lo1 [lo53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P10 附：[lo53]</li></ul>
+</>
+囊
+【囊】 nang1 [nɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P672 附：[nɐŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～肌[kɐi53]：瘡疤</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 囗(bot6)
 【囗(bot6)】 bot6 [pot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P668 附：[pot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～囗[lot2]子[tʃi33]：小蝌蚪</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1790,6 +1772,9 @@
 【抨】 biang5 [piɐŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P674 附：[piɐŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>趕(牛)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 披
+【披】 pe1 [pʰe53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[pʰe53]</li><li><span style="font-weight: bold">詞例、解釋：</span>打～：打撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+披
 【披】 pe1 [pʰe53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[pʰe53]</li><li><span style="font-weight: bold">詞例、解釋：</span>竹～：建築用踏板，係將竹片用鐵絲連綴在一起製成</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 抿
@@ -1948,9 +1933,6 @@
 捏
 【捏】 net6 [nɛt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[net2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～實飯去：把飯壓實了</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-捕
-【捕】 bu5 [pu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[pu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～燈蟲：飛蛾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 捞
 @@@LINK=撈
 </>
@@ -2054,7 +2036,7 @@
 【揈】 fang4 [fɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P18 附：[fəŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高興：你～我亦～</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 揈
-【揈】 fang4 [fɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P672 附：[fɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～寥[liu55]寥[liu55]：得意貌。也可以說成揈[fɐŋ55]哩[li55]哩[li55]</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【揈】 fang4 [fɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P672 附：[fɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～溜[liu55]溜[liu55]：得意貌。也可以說成揈[fɐŋ55]哩[li55]哩[li55]</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 揊
 【揊】 fik3 [fek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P25 附：[fek5]</li><li><span style="font-weight: bold">詞例、解釋：</span>甩：～乾手上水去</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -2160,6 +2142,15 @@
 </>
 搧
 【搧】 sin1 [ʃin53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P670 附：[ʃin53]</li><li><span style="font-weight: bold">詞例、解釋：</span>扇(耳光)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+搭
+【搭】 paap3 [pʰap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pʰap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>搭：亞條濕毛巾～住膊頭(搭在肩膀上)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+搭
+【搭】 pap3 [pʰɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pʰəp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>聚攏：亞啲嘢～做一堆</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+搭
+【搭】 pap3 [pʰɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[pʰɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>搡(耳光)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 摁
 【摁】 an2 [∅ɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P16 附：[∅ən33]</li><li><span style="font-weight: bold">詞例、解釋：</span>～手模：按手印</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -2386,9 +2377,6 @@
 攋
 【攋】 laai5 [lai24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[lai24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～屎：大便失禁</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-攋
-【攋（𪮶）】 le5 [le24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[le24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～出來：潑或流出來</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 攏
 【攏（拢）】 loeng5 [lœŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[løŋ24]</li></ul>
 </>
@@ -2507,10 +2495,7 @@
 【杧】 maang1 [maŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P670 附：[maŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>芒果</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 杵
-【杵】 cyu5 [tʃʰy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[tsʰy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>舂～</li></ul>
-</>
-杵
-【杵】 cyu5 [tʃʰy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃʰy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>舂～，碓杵</li><li><span style="font-weight: bold">備註：</span>原文作「舂柱」，未標音</li></ul>
+【杵】 cyu5 [tʃʰy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[tsʰy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>舂～</li><li><span style="font-weight: bold">備註：</span>但《廣西通誌·漢語方言誌》P271寫作「舂柱」，「柱」不送氣</li></ul>
 </>
 板
 【板】 paan2 [pʰan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》P161，361 附：[pʰan33]</li><li><span style="font-weight: bold">詞例、解釋：</span>手～心，手掌心；腳～心，腳掌心</li></ul>
@@ -2762,6 +2747,9 @@
 【沒（没）】 mot6 [mot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22，23 附：[mot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>打～子：潛泳</li><li><span style="font-weight: bold">備註：</span>原文作「𩑦」字</li></ul>
 </>
 沓
+【沓】 bap6 [pɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pəp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>疊：亞啲衫～好去</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+沓
 【沓】 nap6 [nɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[nəp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>重～～：沉甸甸</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 沓
@@ -2793,6 +2781,12 @@
 </>
 泣
 【泣】 lap2 [lɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[ləp3]</li></ul>
+</>
+泥
+【泥】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P11 附：[∅iəi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>差，次：亞種布～一世、脾氣～</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+泥
+【泥】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞(可用於人、物、地)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 泵
 【泵】 bam1 [pɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P665 附：[pɐm53]</li></ul>
@@ -3305,6 +3299,12 @@
 【矴】 diang3 [tiɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P674 附：[tiɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>(拿石頭)砸(人)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 矺
+【矺】 baap3 [pap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>使勁甩使粘在別的東西上：～泥上牆</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+矺
+【矺】 baap3 [pap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[pap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>糊(泥)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+矺
 【矺】 dap6 [tɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20，21 附：[təp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>用手輕捶使舒服：～背脊</li><li><span style="font-weight: bold">備註：</span>應作「䂿」字</li></ul>
 </>
 砊
@@ -3324,6 +3324,9 @@
 </>
 研
 【研】 njen1 [ȵɛn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P674 附：[ȵɛn53]</li></ul>
+</>
+砵
+【砵】 bot2 [pot3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[pot3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～車：對小孩兒稱汽車</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 硌
 【硌】 gaak6 [kak2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24 附：[kak2]</li><li><span style="font-weight: bold">詞例、解釋：</span>歏[kan21]～，不滿足；不過癮：吃了三碗仲[tsoŋ21](還)～</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -3379,9 +3382,6 @@
 磑
 【磑（硙）】 ngai1 [ŋɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[ŋɐi53]</li><li><span style="font-weight: bold">詞例、解釋：</span>乞求。動詞，可帶賓語。～～篩[ʃɐi53]篩[ʃɐi53]：低三下四地乞求</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-磡
-【磡】 haam3 [ham55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[ham55]</li><li><span style="font-weight: bold">詞例、解釋：</span>邊緣。如：塘～，江～</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 磨
 【磨】 mo5 [mo24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P10 附：[mo24]</li><li><span style="font-weight: bold">詞例、解釋：</span>禁～：(事情)不容易做完</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -3407,6 +3407,9 @@
 【禍（祸）】 o6 [∅o22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P10 附：[∅o22]</li></ul>
 </>
 秿
+【秿】 bu5 [pu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[pu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～燈蟲：飛蛾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+秿
 【秿】 bu5 [pu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[pu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>蚊蠅麇集</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 稃
@@ -3429,6 +3432,9 @@
 </>
 突
 【突】 doek3 [tœk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P25 附：[tøk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～頭：突出的額頭</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+突
+【突】 dot3 [tot5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P668 附：[tot5]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容汽車響聲，象聲詞</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 突
 【突】 duk3 [tok5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P25 附：[tok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>珠[ty53]～：疙瘩</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -3468,9 +3474,6 @@
 </>
 笠
 【笠】 lap3 [lɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[lɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>竹簍</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-笠
-【笠】 lep6 [lɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P21 附：[lep2]</li><li><span style="font-weight: bold">詞例、解釋：</span>鴨～：用竹子編成的用以圈住鴨子的圍簾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 笡
 【笡】 ce3 [tʃʰe55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[tsʰe55]</li><li><span style="font-weight: bold">詞例、解釋：</span>陡：亞隻嶺好～</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字</li></ul>
@@ -3605,7 +3608,7 @@
 【縛（缚）】 fuk6 [fok2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24，25 附：[fok2]</li><li><span style="font-weight: bold">詞例、解釋：</span>白讀：～人、～茅草</li></ul>
 </>
 縱
-【縱（纵）】 coeng3 [tʃʰœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P673 附：[tʃʰœŋ55]</li></ul>
+【縱（纵）】 coeng3 [tʃʰœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P673 附：[tʃʰœŋ55]</li><li><span style="font-weight: bold">備註：</span>小字</li></ul>
 </>
 繃
 【繃（绷）】 bang3 [pɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P18 附：[pəŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>脹～～：脹鼓鼓</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -3714,6 +3717,12 @@
 </>
 耳
 【耳】 nji5 [ȵi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ɲi24]</li></ul>
+</>
+耷
+【耷】 bap2 [pɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[pəp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>垂蓋：亞隻豬耳朵冇～，是籐(豎)起來嘅</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+耷
+【耷】 bap3 [pɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[pɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>耷拉，垂下</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 耷
 【耷】 dap2 [tɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[təp3]</li></ul>
@@ -3862,6 +3871,9 @@
 舔
 【舔】 lem5 [lɛm24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2000年李連進《南寧近郊平話方言島》P64 附：[lEm24]</li><li><span style="font-weight: bold">詞例、解釋：</span>以舌取物</li><li><span style="font-weight: bold">備註：</span>原文未標調</li></ul>
 </>
+舕
+【舕】 tam3 [tʰɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[tʰɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄騙</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 舜
 【舜】 san3 [ʃɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P16 附：[sən55]</li></ul>
 </>
@@ -3894,6 +3906,9 @@
 </>
 芫
 【芫】 jin4 [jin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P669 附：[jin21]</li></ul>
+</>
+苙
+【苙】 lep6 [lɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P21 附：[lep2]</li><li><span style="font-weight: bold">詞例、解釋：</span>鴨～：用竹子編成的用以圈住鴨子的圍簾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 苴
 【苴】 zaa5 [tʃa24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[tsa24]</li><li><span style="font-weight: bold">詞例、解釋：</span>質量差；次</li><li><span style="font-weight: bold">備註：</span>原文作「鮓」字</li></ul>
@@ -4219,17 +4234,11 @@
 賄
 【賄（贿）】 hui5 [hui24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P10 附：[hui24]</li></ul>
 </>
-賧
-【賧（赕）】 tam3 [tʰɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[tʰɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄騙</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 賴
 【賴（赖）】 laai3 [lai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[lai55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～臭：耍賴</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 贿
 @@@LINK=賄
-</>
-赕
-@@@LINK=賧
 </>
 赖
 @@@LINK=賴
@@ -4305,9 +4314,6 @@
 </>
 躿
 【躿】 kiang3 [kʰiɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P18 附：[kʰiɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦蜢[miɐŋ55]～：形容很瘦</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-軋
-【軋（轧）】 jaat6 [jat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[∅iat2]</li><li><span style="font-weight: bold">詞例、解釋：</span>(建築物等)下陷：牆腳～喇</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 軋
 【軋（轧）】 njaat3 [ȵat5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[ɲat5]</li><li><span style="font-weight: bold">詞例、解釋：</span>利錢粗～～，冇想吃(舌頭粗澀，不想吃飯)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -4434,6 +4440,9 @@
 </>
 邪
 【邪】 ce4 [tʃʰe21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2000年李連進《南寧近郊平話方言島》P63 附：[tɕʰiE21]</li><li><span style="font-weight: bold">備註：</span>原文未標調</li></ul>
+</>
+酹
+【酹】 le5 [le24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[le24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～出來：潑或流出來</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 醃
 【醃（腌）】 jip2 [jip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[∅ip3]</li></ul>
@@ -4972,11 +4981,11 @@
 齐
 @@@LINK=齊
 </>
+齗
+【齗（龂）】 ngen1 [ŋɛn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P17 附：[ŋen53]</li><li><span style="font-weight: bold">詞例、解釋：</span>吝嗇</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 齙
 【齙（龅）】 beu6 [pɛu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P12，13 附：[peu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～牙</li></ul>
-</>
-齞
-【齞】 ngen1 [ŋɛn53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P17 附：[ŋen53]</li><li><span style="font-weight: bold">詞例、解釋：</span>吝嗇</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 齦
 【齦（龈）】 hen5 [hɛn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P17 附：[hen24]</li><li><span style="font-weight: bold">詞例、解釋：</span>啃；嚙：老鼠～門腳喇</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -4986,6 +4995,9 @@
 </>
 齷
 【齷（龌）】 uk2 [∅ok3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P673 附：[∅ok3]</li></ul>
+</>
+龂
+@@@LINK=齗
 </>
 龅
 @@@LINK=齙
@@ -5020,17 +5032,8 @@
 𠜴
 【𠜴】 kwaa2 [kʷʰa33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[kʷʰa33]</li><li><span style="font-weight: bold">詞例、解釋：</span>～草(割草)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-𠯋
-【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P11 附：[∅iəi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>差，次：亞種布～一世、脾氣～</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𠯋
-【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞(可用於人、物、地)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 𠯔
 【𠯔】 pat3 [pʰɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22，23 附：[pʰət5]</li><li><span style="font-weight: bold">詞例、解釋：</span>～斜[tsʰe21]咧[le21]，嘆詞，呸：～，一啲本事冇有</li></ul>
-</>
-𠵿
-【𠵿】 pe1 [pʰe53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[pʰe53]</li><li><span style="font-weight: bold">詞例、解釋：</span>打～：打撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 𠶲
 【𠶲】 gaap6 [kap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20 附：[kap2]</li><li><span style="font-weight: bold">詞例、解釋：</span>隱語，吃：你～(⿰未曾)(你吃了沒有)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -5043,12 +5046,6 @@
 </>
 𠿓
 【𠿓】 slap3 [ɬɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[ɬɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>吸食，如喝粥叫「～粥[tʃœk5]」</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𡀖
-【𡀖】 bot2 [pot3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[pot3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～車：對小孩兒稱汽車</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𡁯
-【𡁯】 dot3 [tot5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P668 附：[tot5]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容汽車響聲，象聲詞</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 𡃡
 【𡃡】 loeng1 [lœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P656 附：[lœŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>吵鬧</li><li><span style="font-weight: bold">備註：</span>原文有音無字，標音誤作[luŋ53]，此處依據覃遠雄等《南寧平話詞典》P304修正</li></ul>
@@ -5098,11 +5095,8 @@
 𤗈
 【𤗈】 slep2 [ɬɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P20，21 附：[ɬep3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～平檯腳：墊平桌腳</li></ul>
 </>
-𤶸
-【𤶸】 naa1 [na53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[na53]</li><li><span style="font-weight: bold">詞例、解釋：</span>補～：補丁</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𤹍
-【𤹍】 nang1 [nɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P672 附：[nɐŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～雞[kɐi53]：瘡疤</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+𤶠
+【𤶠】 naa1 [na53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[na53]</li><li><span style="font-weight: bold">詞例、解釋：</span>補～：補丁</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 𥀈
 【𥀈】 njaap3 [ȵap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[ȵap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>癢</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -5223,9 +5217,6 @@
 </>
 𪨊
 @@@LINK=㞞
-</>
-𪮶
-@@@LINK=攋
 </>
 𪷽
 @@@LINK=濽

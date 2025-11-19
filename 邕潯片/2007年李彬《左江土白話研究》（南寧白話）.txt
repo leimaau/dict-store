@@ -4625,7 +4625,7 @@
 【掏】 tu4 [tʰu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P218 附：[tʰu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>掏出來</li></ul>
 </>
 掐
-【掐】 ken2 [kʰɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P232 附：[kʰɛn35]</li><li><span style="font-weight: bold">備註：</span>訓讀字，本字「攥」</li></ul>
+【掐】 ken2 [kʰɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P232 附：[kʰɛn35]</li><li><span style="font-weight: bold">備註：</span>訓讀字</li></ul>
 </>
 排
 【排】 paai4 [pʰai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P203 附：[pʰai21]</li></ul>
@@ -4746,6 +4746,9 @@
 </>
 搭
 【搭】 daap3 [tap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P230 附：[tap3]</li></ul>
+</>
+搴
+【搴】 ken2 [kʰɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P232 附：[kʰɛn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>掐</li><li><span style="font-weight: bold">備註：</span>原文作「掐」字</li></ul>
 </>
 搶
 【搶（抢）】 coeng2 [tʃʰœŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P261 附：[tsʰœŋ35]</li></ul>
@@ -4929,9 +4932,6 @@
 </>
 攤
 【攤（摊）】 taan1 [tʰan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P238 附：[tʰan55]</li></ul>
-</>
-攥
-【攥】 ken2 [kʰɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P232 附：[kʰɛn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>掐</li><li><span style="font-weight: bold">備註：</span>原文作「掐」字</li></ul>
 </>
 攪
 【攪（搅）】 geu2 [kɛu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P221 附：[kɛu35]</li></ul>

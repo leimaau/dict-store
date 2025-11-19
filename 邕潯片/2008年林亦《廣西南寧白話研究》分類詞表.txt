@@ -2,10 +2,10 @@
 @@@LINK=···㞓㞓聲
 </>
 ···㞓㞓聲
-【···㞓㞓聲（···㞓㞓声）】 hai1 hai1 seng1 [hɐi55 hɐi55 ʃɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[hɐi55 hɐi55 ʃɛŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了8，詈語</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···㞓㞓聲（···㞓㞓声）】 hai1 hai1 seng1 [hɐi55 hɐi55 ʃɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[hɐi55 hɐi55 ʃɛŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了8，詈語</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···㞓魂
-【···㞓魂】 hai1 wan4 [hɐi55 wɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[hɐi55 wɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了7，詈語</li><li><span style="font-weight: bold">備註：</span>原文[hɐi55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···㞓魂】 hai1 wan4 [hɐi55 wɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[hɐi55 wɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了7，詈語</li><li><span style="font-weight: bold">備註：</span>原文[hɐi55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···一係···
 【···一係···（···一系···）】 ···aa1 hai6··· [···a55 hɐi22···] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P236 附：[···a55 hɐi22···]</li><li><span style="font-weight: bold">詞例、解釋：</span>或···或2</li><li><span style="font-weight: bold">備註：</span>原文作「···啊係···」</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/或···或</li></ul>
@@ -17,70 +17,73 @@
 【···上下】 soeng6 haa2 [ʃœŋ22 ha35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P244 附：[ʃœŋ22 ha35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···上下</li><li><span style="font-weight: bold">備註：</span>原文「下」字作變調[22-35]</li><li><span style="font-weight: bold">分類：</span>三十、數字等/···上下</li></ul>
 </>
 ···不得了
-【···不得了】 bat1 dak1 liu5 [pɐt5 tɐk5 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[pɐt5 tɐk5 liu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>···不得了</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···不得了</li></ul>
+【···不得了】 bat1 dak1 liu5 [pɐt5 tɐk5 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[pɐt5 tɐk5 liu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>···不得了</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···不得了</li></ul>
 </>
 ···唅唅
-【···唅唅】 ham4 ham4 [hɐm21 hɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[hɐm21 hɐm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>紛紛貌、急促貌、紛亂貌1</li><li><span style="font-weight: bold">備註：</span>原文[hɐm21]有音無字，未釋義</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/紛紛貌、急促貌、紛亂貌</li></ul>
+【···唅唅】 ham4 ham4 [hɐm21 hɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[hɐm21 hɐm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···紛紛貌、急促貌、紛亂貌1</li><li><span style="font-weight: bold">備註：</span>原文[hɐm21]有音無字，未釋義</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···紛紛貌、急促貌、紛亂貌</li></ul>
 </>
 ···啲
-【···啲】 di1 [ti55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ti55]</li><li><span style="font-weight: bold">詞例、解釋：</span>···啲2，表程度輕</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···啲</li></ul>
+【···啲】 di1 [ti55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ti55]</li><li><span style="font-weight: bold">詞例、解釋：</span>···啲2，表程度輕</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···啲</li></ul>
 </>
 ···啲
-【···啲】 di2 [ti35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ti35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···啲1，表程度輕</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···啲</li></ul>
+【···啲】 di2 [ti35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ti35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···啲1，表程度輕</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···啲</li></ul>
 </>
 ···喳喳
-【···喳喳】 zaa4 zaa4 [tʃa21 tʃa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tʃa21 tʃa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>紛紛貌、急促貌、紛亂貌2</li><li><span style="font-weight: bold">備註：</span>原文[tʃa21]有音無字，未釋義</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/紛紛貌、急促貌、紛亂貌</li></ul>
+【···喳喳】 zaa4 zaa4 [tʃa21 tʃa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tʃa21 tʃa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···紛紛貌、急促貌、紛亂貌2</li><li><span style="font-weight: bold">備註：</span>原文[tʃa21]有音無字，未釋義</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···紛紛貌、急促貌、紛亂貌</li></ul>
 </>
 ···多多声
 @@@LINK=···多多聲
 </>
 ···多多聲
-【···多多聲（···多多声）】 do1 do1 seng1 [tɔ55 tɔ55 ʃɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɔ55 tɔ55 ʃɛŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了10</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···多多聲（···多多声）】 do1 do1 seng1 [tɔ55 tɔ55 ʃɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɔ55 tɔ55 ʃɛŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了10</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···左右
 【···左右】 zo2 jau6 [tʃɔ35 jɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P244 附：[tʃɔ35 jɐu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>···左右</li><li><span style="font-weight: bold">分類：</span>三十、數字等/···左右</li></ul>
 </>
 ···得
-【···得】 dak1 [tɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɐk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···得</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···得</li></ul>
+【···得】 dak1 [tɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɐk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···得</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···得</li></ul>
 </>
-···得世
-【···得世】 dak1 sai3 [tɐk5 ʃɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɐk5 ʃɐi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了9</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+···得势
+@@@LINK=···得勢
+</>
+···得勢
+【···得勢（···得势）】 dak1 sai3 [tɐk5 ʃɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɐk5 ʃɐi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了9</li><li><span style="font-weight: bold">備註：</span>原文作「得世」。但P294寫作「得勢」</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···得很
-【···得很】 dak1 han2 [tɐk5 hɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɐk5 hɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···得很</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···得很</li></ul>
+【···得很】 dak1 han2 [tɐk5 hɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tɐk5 hɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···得很</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···得很</li></ul>
 </>
 ···死人
-【···死人】 sli2 jan4 [ɬi35 jɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ɬi35 jɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···死人</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···死人</li></ul>
+【···死人】 sli2 jan4 [ɬi35 jɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ɬi35 jɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···死人</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···死人</li></ul>
 </>
 ···腏死
-【···腏死】 cot6 sli2 [tʃʰɔt2 ɬi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tʃʰɔt2 ɬi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···得要死，詈語</li><li><span style="font-weight: bold">備註：</span>原文未釋義</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···腏死，詈語</li></ul>
+【···腏死】 cot6 sli2 [tʃʰɔt2 ɬi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tʃʰɔt2 ɬi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···得要死，詈語</li><li><span style="font-weight: bold">備註：</span>原文未釋義</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···得要死</li></ul>
 </>
 ···要命
-【···要命】 jiu3 meng6 [jiu33 mɛŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jiu33 mɛŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>···要命</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···要命</li></ul>
+【···要命】 jiu3 meng6 [jiu33 mɛŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jiu33 mɛŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>···要命</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···要命</li></ul>
 </>
 ···要死
-【···要死】 jiu3 sli2 [jiu33 ɬi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jiu33 ɬi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···要死</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···要死</li></ul>
+【···要死】 jiu3 sli2 [jiu33 ɬi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jiu33 ɬi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>···要死</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···要死</li></ul>
 </>
 ···鬼魂
-【···鬼魂】 gwai2 wan4 [kʷɐi35 wɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了6</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···鬼魂】 gwai2 wan4 [kʷɐi35 wɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了6</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···鬼魂啊失
-【···鬼魂啊失】 gwai2 wan4 aa1 sat1 [kʷɐi35 wɐn21 a55 ʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 a55 ʃɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···鬼魂啊失】 gwai2 wan4 aa1 sat1 [kʷɐi35 wɐn21 a55 ʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 a55 ʃɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···鬼魂啊折
-【···鬼魂啊折】 gwai2 wan4 aa1 sit6 [kʷɐi35 wɐn21 a55 ʃit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 a55 ʃit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了4</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···鬼魂啊折】 gwai2 wan4 aa1 sit6 [kʷɐi35 wɐn21 a55 ʃit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 a55 ʃit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了4</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···鬼魂失
-【···鬼魂失】 gwai2 wan4 sat1 [kʷɐi35 wɐn21 ʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 ʃɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了5</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···鬼魂失】 gwai2 wan4 sat1 [kʷɐi35 wɐn21 ʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 ʃɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了5</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···鬼魂都失
-【···鬼魂都失】 gwai2 wan4 du1 sat1 [kʷɐi35 wɐn21 tu55 ʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 tu55 ʃɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···鬼魂都失】 gwai2 wan4 du1 sat1 [kʷɐi35 wɐn21 tu55 ʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 tu55 ʃɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···鬼魂都折
-【···鬼魂都折】 gwai2 wan4 du1 sit6 [kʷɐi35 wɐn21 tu55 ʃit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 tu55 ʃit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了3</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了</li></ul>
+【···鬼魂都折】 gwai2 wan4 du1 sit6 [kʷɐi35 wɐn21 tu55 ʃit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[kʷɐi35 wɐn21 tu55 ʃit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了3</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了</li></ul>
 </>
 ···齊
-【···齊（···齐）】 cai4 [tʃʰɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tʃʰɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了（貶義），一般用於消極的，貶義的</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/···極了（貶義）</li></ul>
+【···齊（···齐）】 cai4 [tʃʰɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[tʃʰɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>···極了（貶義），一般用於消極的，貶義的</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···極了（貶義）</li></ul>
 </>
 ···齐
 @@@LINK=···齊
@@ -278,7 +281,10 @@
 【䊲】 caan2 [tʃʰan35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P134 附：[tʃʰan35]</li><li><span style="font-weight: bold">詞例、解釋：</span>䊲，植株類似穀子，子實略帶紅色</li><li><span style="font-weight: bold">備註：</span>原文作「薒」字，不妥</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/䊲</li></ul>
 </>
 䋎被
-【䋎被】 daan3 pi5 [tan33 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P189 附：[tan33 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>做被臥2</li><li><span style="font-weight: bold">備註：</span>原文「旦」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/做被臥</li></ul>
+【䋎被】 daan3 pi5 [tan33 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P189 附：[tan33 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>做被臥2.1</li><li><span style="font-weight: bold">備註：</span>原文「旦」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/做被臥</li></ul>
+</>
+䋎被
+【䋎被】 naan3 pi5 [nan33 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P189 附：[nan33 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>做被臥2.2</li><li><span style="font-weight: bold">備註：</span>原文[nan33]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/做被臥</li></ul>
 </>
 䍇
 【䍇】 taap3 [tʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P154 附：[tʰap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>罈子1</li><li><span style="font-weight: bold">備註：</span>原文作「塔」字</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（3）炊事用具/罈子</li></ul>
@@ -465,9 +471,6 @@
 </>
 一剂
 @@@LINK=一劑
-</>
-一剔
-【一剔】 jat1 tek3 [jɐt5 tʰɛk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[jɐt5 tʰɛk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>一挑</li><li><span style="font-weight: bold">備註：</span>原文作「一踢」，「一」字誤作[jat5]</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/一挑</li></ul>
 </>
 一副
 【一副】 aa1 fu3 [a55 fu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P237 附：[a55 fu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一副1（手套）</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一副（手套）</li></ul>
@@ -1606,6 +1609,9 @@
 一趟
 【一趟】 aa1 tong3 [a55 tʰɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P240 附：[a55 tʰɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>（走）一趟2</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/（走）一趟</li></ul>
 </>
+一趯
+【一趯】 jat1 tek3 [jɐt5 tʰɛk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[jɐt5 tʰɛk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>一挑</li><li><span style="font-weight: bold">備註：</span>原文作「一踢」，「一」字誤作[jat5]</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/一挑</li></ul>
+</>
 一身
 【一身】 aa1 san1 [a55 ʃɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P239 附：[a55 ʃɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一身1（棉衣）</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一身（棉衣）</li></ul>
 </>
@@ -1642,8 +1648,8 @@
 一鋪
 【一鋪（一铺）】 aa1 pu1 [a55 pʰu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[a55 pʰu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>（打）一圈（麻將）</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/（打）一圈（麻將）</li></ul>
 </>
-一鋪𠵿
-【一鋪𠵿（一铺𠵿）】 aa1 pu1 pe1 [a55 pʰu55 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[a55 pʰu55 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>（打）一盤撲克</li><li><span style="font-weight: bold">備註：</span>原文[pʰɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/（打）一盤撲克</li></ul>
+一鋪披
+【一鋪披（一铺披）】 aa1 pu1 pe1 [a55 pʰu55 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[a55 pʰu55 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>（打）一盤撲克</li><li><span style="font-weight: bold">備註：</span>原文[pʰɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/（打）一盤撲克</li></ul>
 </>
 一鑊
 【一鑊（一镬）】 aa1 wok6 [a55 wɔk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P238 附：[a55 wɔk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>一鍋（菜）</li><li><span style="font-weight: bold">備註：</span>原文「鑊」字誤作[wɐk2]</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一鍋（菜）</li></ul>
@@ -1651,8 +1657,8 @@
 一铺
 @@@LINK=一鋪
 </>
-一铺𠵿
-@@@LINK=一鋪𠵿
+一铺披
+@@@LINK=一鋪披
 </>
 一镬
 @@@LINK=一鑊
@@ -1849,14 +1855,14 @@
 一齣
 【一齣（一出）】 aa1 cyut1 [a55 tʃʰyt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P236 附：[a55 tʃʰyt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>一齣（戲）</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一齣（戲）</li></ul>
 </>
+一𤶠
+【一𤶠】 aa1 naa1 [a55 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P237 附：[a55 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一個2（鐵鍋的補丁）</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一個（鐵鍋的補丁）</li></ul>
+</>
+一𤶠
+【一𤶠】 aa1 naa1 [a55 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P237 附：[a55 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一個（補丁）</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一個（補丁）</li></ul>
+</>
 一𨂾
 【一𨂾】 aa1 naam3 [a55 nam33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P240 附：[a55 nam33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一跨，一步距離</li><li><span style="font-weight: bold">備註：</span>原文[nam33]有音無字</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一跨</li></ul>
-</>
-一𪐀
-【一𪐀】 aa1 naa1 [a55 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P237 附：[a55 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一個2（鐵鍋的補丁）</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一個（鐵鍋的補丁）</li></ul>
-</>
-一𪐀
-【一𪐀】 aa1 naa1 [a55 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P237 附：[a55 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一個（補丁）</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一個（補丁）</li></ul>
 </>
 丁
 【丁】 ding1 [teŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P246 附：[teŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>丁</li><li><span style="font-weight: bold">分類：</span>三十二、干支/丁</li></ul>
@@ -2048,7 +2054,7 @@
 【三月三】 slaam1 jyut6 slaam1 [ɬam55 jyt2 ɬam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P127 附：[ɬam55 jyt2 ɬam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>三月三，傳統壯族踏青、唱歌的節日，一些地區漢族也過</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/三月三</li></ul>
 </>
 三朝
-【三朝】 slaam1 ziu1 [ɬam55 tʃiu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[ɬam55 tʃiu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>三朝，小孩兒生下三天才能見外人</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（1）婚姻、生育/三朝</li></ul>
+【三朝】 slaam1 ziu1 [ɬam55 tʃiu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[ɬam55 tʃiu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>三朝，小孩兒生下三天纔能見外人</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（1）婚姻、生育/三朝</li></ul>
 </>
 三滚粥
 @@@LINK=三滾粥
@@ -2756,7 +2762,7 @@
 @@@LINK=乞兒
 </>
 乞兒
-【乞兒（乞儿）】 hat1 ji1 [hɐt5 ji55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P160 附：[hɐt5 ji55]</li><li><span style="font-weight: bold">詞例、解釋：</span>乞丐</li><li><span style="font-weight: bold">備註：</span>討飯這一動作讀作「乞飯」</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/乞丐</li></ul>
+【乞兒（乞儿）】 hat1 ji1 [hɐt5 ji55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P160 附：[hɐt5 ji55]</li><li><span style="font-weight: bold">詞例、解釋：</span>乞丐</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/乞丐</li></ul>
 </>
 乡下
 @@@LINK=鄉下
@@ -3650,10 +3656,10 @@
 【來路貨（来路货）】 loi4 lu6 fo3 [lɔi21 lu22 fɔ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P199 附：[lɔi21 lu22 fɔ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>洋貨2</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/洋貨</li></ul>
 </>
 來頭
-【來頭（来头）】 lai4 tau4 [lɐi21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[lɐi21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>來頭1.2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/來頭</li></ul>
+【來頭（来头）】 lai4 tau4 [lɐi21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[lɐi21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>來頭1.2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/來頭</li></ul>
 </>
 來頭
-【來頭（来头）】 loi4 tau4 [lɔi21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[lɔi21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>來頭1.1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/來頭</li></ul>
+【來頭（来头）】 loi4 tau4 [lɔi21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[lɔi21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>來頭1.1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/來頭</li></ul>
 </>
 供
 【供】 gung1 [kʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P194 附：[kʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>供（～出同謀）</li><li><span style="font-weight: bold">分類：</span>十七、訟事/供</li></ul>
@@ -3725,7 +3731,7 @@
 【倒返】 du3 faan1 [tu33 fan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P236 附：[tu33 fan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>反而</li><li><span style="font-weight: bold">備註：</span>原文作「到翻」</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/反而</li></ul>
 </>
 倔
-【倔】 gwat6 [kʷɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[kʷɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>禿1</li><li><span style="font-weight: bold">備註：</span>原文作「橛」字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/屈</li></ul>
+【倔】 gwat6 [kʷɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[kʷɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>禿1</li><li><span style="font-weight: bold">備註：</span>原文作「橛」字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/禿</li></ul>
 </>
 倔䐁巷
 【倔䐁巷】 gwat6 duk1 hong2 [kʷɐt2 tʊk5 hɔŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P126 附：[kʷɐt2 tʊk5 hɔŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>死衚衕</li><li><span style="font-weight: bold">備註：</span>原文作「橛督巷」</li><li><span style="font-weight: bold">分類：</span>二、地理（5）城鄉處所/死衚衕</li></ul>
@@ -3737,7 +3743,7 @@
 @@@LINK=倔頭褲
 </>
 倔律出
-【倔律出】 gwat6 loet1 coet1 [kʷɐt2 lœt5 tʃʰœt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[kʷɐt2 lœt5 tʃʰœt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>禿2，禿貌</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「橛囗[lœt5]囗[tʃʰœt5]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/屈</li></ul>
+【倔律出】 gwat6 loet1 coet1 [kʷɐt2 lœt5 tʃʰœt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[kʷɐt2 lœt5 tʃʰœt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>禿2，禿貌</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「橛囗[lœt5]囗[tʃʰœt5]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/禿</li></ul>
 </>
 倔袖衫
 【倔袖衫】 gwat6 zau6 saam1 [kʷɐt2 tʃɐu22 ʃam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P175 附：[kʷɐt2 tʃɐu22 ʃam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>短袖2</li><li><span style="font-weight: bold">備註：</span>原文作「掘」字</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/短袖</li></ul>
@@ -3860,7 +3866,7 @@
 【做氣功（做气功）】 zu3 hi3 gung1 [tʃu33 hi33 kʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P208 附：[tʃu33 hi33 kʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>做氣功</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（3）武術、舞蹈/做氣功</li></ul>
 </>
 做法
-【做法】 zu3 faat3 [tʃu33 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʃu33 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>幹頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/幹頭兒</li></ul>
+【做法】 zu3 faat3 [tʃu33 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʃu33 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>幹頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/幹頭兒</li></ul>
 </>
 做法事
 【做法事】 zu3 faat3 si6 [tʃu33 fat3 ʃi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P188 附：[tʃu33 fat3 ʃi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>做道場1</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（3）迷信/做道場</li></ul>
@@ -3887,7 +3893,7 @@
 @@@LINK=做針子
 </>
 做頭
-【做頭（做头）】 zu3 tau4 [tʃu33 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʃu33 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>幹頭兒1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/幹頭兒</li></ul>
+【做頭（做头）】 zu3 tau4 [tʃu33 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʃu33 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>幹頭兒1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/幹頭兒</li></ul>
 </>
 側住睡
 【側住睡（侧住睡）】 zak1 zyu6 sui6 [tʃɐk5 tʃy22 ʃui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P192 附：[tʃɐk5 tʃy22 ʃui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>側着睡1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/側着睡</li></ul>
@@ -4385,7 +4391,7 @@
 @@@LINK=六號
 </>
 六月初六
-【六月初六】 luk6 jyut6 co1 luk6 [lʊk2 jyt2 tʃʰɔ55 lʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[lʊk2 jyt2 tʃʰɔ55 lʊk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>六月初六，嘗新節</li><li><span style="font-weight: bold">備註：</span>原文「六」字誤作[luk24]</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/六月初六</li></ul>
+【六月初六】 luk6 jyut6 co1 luk6 [lʊk2 jyt2 tʃʰɔ55 lʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[lʊk2 jyt2 tʃʰɔ55 lʊk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘗新節</li><li><span style="font-weight: bold">備註：</span>原文「六」字誤作[luk24]</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/嘗新節</li></ul>
 </>
 六號
 【六號（六号）】 luk6 hu6 [lʊk2 hu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[lʊk2 hu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>六號</li><li><span style="font-weight: bold">分類：</span>三十、數字等/六號</li></ul>
@@ -5299,24 +5305,6 @@
 剑麻
 @@@LINK=劍麻
 </>
-剔土旁
-【剔土旁】 tek3 tu2 pong4 [tʰɛk3 tʰu35 pʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[tʰɛk3 tʰu35 pʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁2</li><li><span style="font-weight: bold">備註：</span>原文作「踢土旁」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提土旁</li></ul>
-</>
-剔手旁
-【剔手旁】 tek3 sau2 pong4 [tʰɛk3 ʃɐu35 pʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[tʰɛk3 ʃɐu35 pʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁1（扌）</li><li><span style="font-weight: bold">備註：</span>原文作「踢手旁」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提手旁（扌）</li></ul>
-</>
-剔手边
-@@@LINK=剔手邊
-</>
-剔手邊
-【剔手邊（剔手边）】 tek3 sau2 bin1 [tʰɛk3 ʃɐu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[tʰɛk3 ʃɐu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁2（扌）</li><li><span style="font-weight: bold">備註：</span>原文作「踢手邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提手旁（扌）</li></ul>
-</>
-剔算盘
-@@@LINK=剔算盤
-</>
-剔算盤
-【剔算盤（剔算盘）】 tik1 slyun3 pun4 [tʰek5 ɬyn33 pʰun21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P201 附：[tʰek5 ɬyn33 pʰun21]</li><li><span style="font-weight: bold">詞例、解釋：</span>打算盤2</li><li><span style="font-weight: bold">備註：</span>原文[tʰek5]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（3）賬目、度量衡/打算盤</li></ul>
-</>
 剔骨
 【剔骨】 tek3 gwat1 [tʰɛk3 kʷɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P181 附：[tʰɛk3 kʷɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>起骨2，把骨頭取出</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/起骨</li></ul>
 </>
@@ -5603,7 +5591,7 @@
 @@@LINK=千交帶萬交帶
 </>
 千交帶萬交帶
-【千交帶萬交帶（千交带万交带）】 cin1 geu1 daai3 maan6 geu1 daai3 [tʃʰin55 kɛu55 tai33 man22 kɛu55 tai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[tʃʰin55 kɛu55 tai33 man22 kɛu55 tai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>千交帶萬交帶</li><li><span style="font-weight: bold">備註：</span>原文「帶」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/千交帶萬交帶</li></ul>
+【千交帶萬交帶（千交带万交带）】 cin1 geu1 daai3 maan6 geu1 daai3 [tʃʰin55 kɛu55 tai33 man22 kɛu55 tai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[tʃʰin55 kɛu55 tai33 man22 kɛu55 tai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>千交代萬交代</li><li><span style="font-weight: bold">備註：</span>原文「帶」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/千交代萬交代</li></ul>
 </>
 千军万马
 @@@LINK=千軍萬馬
@@ -5800,15 +5788,6 @@
 南粉
 【南粉】 naam4 fan2 [nam21 fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P183 附：[nam21 fɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>粉條1，薯粉</li><li><span style="font-weight: bold">分類：</span>十四、飲食（5）菜/粉條</li></ul>
 </>
-卟烟
-@@@LINK=卟菸
-</>
-卟菸
-【卟菸（卟烟）】 baap1 jin1 [pap5 jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P191 附：[pap5 jin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>抽菸3</li><li><span style="font-weight: bold">備註：</span>原文[pap5]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/抽菸</li></ul>
-</>
-卟菸
-【卟菸（卟烟）】 bap1 jin1 [pɐp5 jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P185 附：[pɐp5 jin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>抽菸3</li><li><span style="font-weight: bold">備註：</span>原文[pɐp5]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、飲食（7）菸、茶、酒/抽菸</li></ul>
-</>
 卡佬
 【卡佬】 kaa1 lu2 [kʰa55 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P162 附：[kʰa55 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>司機1</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/司機</li></ul>
 </>
@@ -5874,6 +5853,9 @@
 </>
 厅底
 @@@LINK=廳底
+</>
+压
+@@@LINK=壓
 </>
 压大
 @@@LINK=壓大
@@ -6673,23 +6655,17 @@
 咸鱼翻身
 @@@LINK=鹹魚翻身
 </>
-咿㕭
-【咿㕭】 ji1 jaau1 [ji55 jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[ji55 jau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>馬虎2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/馬虎</li></ul>
+咿呦
+【咿呦】 ji1 jaau1 [ji55 jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[ji55 jau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>馬虎2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/馬虎</li></ul>
 </>
-咿㕭
-【咿㕭】 ji1 jaau1 [ji55 jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[ji55 jau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>馬虎1</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「衣囗[jau55]」，「衣」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/馬虎</li></ul>
+咿呦
+【咿呦】 ji1 jaau1 [ji55 jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[ji55 jau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>馬虎1</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「衣囗[jau55]」，「衣」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/馬虎</li></ul>
 </>
-咿咿㕭㕭
-【咿咿㕭㕭】 ji1 ji1 jaau1 jaau1 [ji55 ji55 jau55 jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[ji55 ji55 jau55 jau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>馬虎2</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「衣衣囗[jau55]囗[jau55]」，「衣」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/馬虎</li></ul>
-</>
-咿咿逳逳
-【咿咿逳逳】 ji1 ji1 juk1 juk1 [ji55 ji55 jʊk5 jʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P213 附：[ji55 ji55 jʊk5 jʊk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>動個不停</li><li><span style="font-weight: bold">備註：</span>原文「衣衣育育」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/動個不停</li></ul>
-</>
-咿咿逳逳
-【咿咿逳逳】 ji1 ji1 juk1 juk1 [ji55 ji55 jʊk5 jʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P224 附：[ji55 ji55 jʊk5 jʊk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>活絡2</li><li><span style="font-weight: bold">備註：</span>原文作「衣衣育育」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/活絡</li></ul>
+咿咿呦呦
+【咿咿呦呦】 ji1 ji1 jaau1 jaau1 [ji55 ji55 jau55 jau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[ji55 ji55 jau55 jau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>馬虎2</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「衣衣囗[jau55]囗[jau55]」，「衣」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/馬虎</li></ul>
 </>
 哄
-【哄】 hung2 [hʊŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[hʊŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>騙1，我～你玩的，不是真的</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/騙</li></ul>
+【哄】 hung2 [hʊŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[hʊŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>騙1，我～你耍的，不是真的</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/騙</li></ul>
 </>
 哈巴狗
 【哈巴狗】 haa1 baa1 gau2 [ha55 pa55 kɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P144 附：[ha55 pa55 kɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>哈巴狗</li><li><span style="font-weight: bold">備註：</span>原文作「哈吧狗」</li><li><span style="font-weight: bold">分類：</span>六、動物（1）牲畜/哈巴狗</li></ul>
@@ -6818,7 +6794,7 @@
 【問（问）】 man6 [mɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P235 附：[mɐn22]</li><li><span style="font-weight: bold">詞例、解釋：</span>問（～佢借本書）</li><li><span style="font-weight: bold">備註：</span>原文分類誤歸入「向」字，此處據詞彙調查表修正</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/問</li></ul>
 </>
 問至
-【問至（问至）】 man6 zi3 [mɐn22 tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P235 附：[mɐn22 tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>···才···2</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/···才···</li></ul>
+【問至（问至）】 man6 zi3 [mɐn22 tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P235 附：[mɐn22 tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>···纔···2</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/···才···</li></ul>
 </>
 啓明星
 【啓明星（启明星）】 kai2 ming4 sling1 [kʰɐi35 meŋ21 ɬeŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P120 附：[kʰɐi35 meŋ21 ɬeŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>啓明星</li><li><span style="font-weight: bold">備註：</span>原文「啓」字誤作[kɐi35]</li><li><span style="font-weight: bold">分類：</span>一、天文（1）日、月、星/啓明星</li></ul>
@@ -7060,6 +7036,15 @@
 嗒
 【嗒】 nep1 [nɛp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P147 附：[nɛp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>（蚊子）叮1</li><li><span style="font-weight: bold">備註：</span>原文作「齧（啮）」字</li><li><span style="font-weight: bold">分類：</span>六、動物（3）蟲類/（蚊子）叮</li></ul>
 </>
+嗒烟
+@@@LINK=嗒菸
+</>
+嗒菸
+【嗒菸（嗒烟）】 baap1 jin1 [pap5 jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P191 附：[pap5 jin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>抽菸3</li><li><span style="font-weight: bold">備註：</span>原文[pap5]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/抽菸</li></ul>
+</>
+嗒菸
+【嗒菸（嗒烟）】 bap1 jin1 [pɐp5 jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P185 附：[pɐp5 jin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>抽菸3</li><li><span style="font-weight: bold">備註：</span>原文[pɐp5]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、飲食（7）菸、茶、酒/抽菸</li></ul>
+</>
 嗒酒
 【嗒酒】 dep1 zau2 [tɛp5 tʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P191 附：[tɛp5 tʃɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>喝酒2</li><li><span style="font-weight: bold">備註：</span>原文[tɛp5]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/喝酒</li></ul>
 </>
@@ -7256,10 +7241,10 @@
 【囉柚（啰柚）】 lo1 jau2 [lɔ55 jɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P169 附：[lɔ55 jɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>屁股2</li><li><span style="font-weight: bold">備註：</span>原文「囉柚」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/屁股</li></ul>
 </>
 囊肌
-【囊肌】 nang1 gai1 [nɐŋ55 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[nɐŋ55 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤1</li><li><span style="font-weight: bold">備註：</span>原文[nɐŋ55]有音無字，誤作[ŋɐŋ55]</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/疤</li></ul>
+【囊肌】 nang1 gai1 [nɐŋ55 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[nɐŋ55 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤1</li><li><span style="font-weight: bold">備註：</span>原文[nɐŋ55]有音無字，誤作[ŋɐŋ55]，「雞」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/疤</li></ul>
 </>
 囊肌疤
-【囊肌疤】 nang1 gai1 baa1 [nɐŋ55 kɐi55 pa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[nɐŋ55 kɐi55 pa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤2</li><li><span style="font-weight: bold">備註：</span>原文[nɐŋ55]有音無字，誤作[ŋɐŋ55]</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/疤</li></ul>
+【囊肌疤】 nang1 gai1 baa1 [nɐŋ55 kɐi55 pa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[nɐŋ55 kɐi55 pa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤2</li><li><span style="font-weight: bold">備註：</span>原文[nɐŋ55]有音無字，誤作[ŋɐŋ55]，「雞」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/疤</li></ul>
 </>
 四
 【四】 sli3 [ɬi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[ɬi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>四</li><li><span style="font-weight: bold">分類：</span>三十、數字等/四</li></ul>
@@ -7879,6 +7864,9 @@
 報考
 【報考（报考）】 bu3 haau2 [pu33 hau35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P204 附：[pu33 hau35]</li><li><span style="font-weight: bold">詞例、解釋：</span>報考</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（3）讀書識字/報考</li></ul>
 </>
+塌皮
+【塌皮】 taat3 pi4 [tʰat3 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[tʰat3 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>蹭破皮兒1</li><li><span style="font-weight: bold">備註：</span>原文作「蹋皮」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/蹭破皮兒</li></ul>
+</>
 塔裙
 【塔裙】 taap3 kwan4 [tʰap3 kʷʰɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P175 附：[tʰap3 kʷʰɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>塔裙</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/塔裙</li></ul>
 </>
@@ -8049,6 +8037,9 @@
 </>
 壅
 【壅】 ung1 [ʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P187 附：[ʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>葬2</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（2）壽辰、喪葬/葬</li></ul>
+</>
+壓
+【壓（压）】 at1 [ɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P211 附：[ɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>（往袋裏）塞2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/（往袋裏）塞</li></ul>
 </>
 壓大
 【壓大（压大）】 aat3 daai6 [at3 tai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P208 附：[at3 tai22]</li><li><span style="font-weight: bold">詞例、解釋：</span>壓大，爭上游</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/壓大</li></ul>
@@ -8507,7 +8498,7 @@
 【大排檔（大排档）】 daai6 paai4 dong3 [tai22 pʰai21 tɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P197 附：[tai22 pʰai21 tɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>大排檔1</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（1）經商行業/大排檔</li></ul>
 </>
 大擤
-【大擤】 daai6 slang3 [tai22 ɬɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P200 附：[tai22 ɬɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>大擤，花錢大手大腳</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/大擤</li></ul>
+【大擤】 daai6 slang3 [tai22 ɬɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P200 附：[tai22 ɬɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>花錢大手大腳</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/花錢大手大腳</li></ul>
 </>
 大擤
 【大擤】 daai6 slang3 [tai22 ɬɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[tai22 ɬɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>花錢大手大腳</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/花錢大手大腳</li></ul>
@@ -9050,7 +9041,7 @@
 @@@LINK=奔頭
 </>
 奔頭
-【奔頭（奔头）】 ban1 tau4 [pɐn55 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[pɐn55 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>奔頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/奔頭兒</li></ul>
+【奔頭（奔头）】 ban1 tau4 [pɐn55 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[pɐn55 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>奔頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/奔頭兒</li></ul>
 </>
 女
 【女】 nyu2 [ny35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P165 附：[ny35]</li><li><span style="font-weight: bold">詞例、解釋：</span>女兒</li><li><span style="font-weight: bold">分類：</span>十、親屬（3）晚輩/女兒</li></ul>
@@ -9254,7 +9245,7 @@
 【姑媽（姑妈）】 gu1 maa1 [ku55 ma55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P163 附：[ku55 ma55]</li><li><span style="font-weight: bold">詞例、解釋：</span>父之姐</li><li><span style="font-weight: bold">分類：</span>十、親屬（1）長輩/姑媽</li></ul>
 </>
 姑媽
-【姑媽（姑妈）】 gu1 maa1 [ku55 ma55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P164 附：[ku55 ma55]</li><li><span style="font-weight: bold">詞例、解釋：</span>大姑子2，夫之姐</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/大姑子</li></ul>
+【姑媽（姑妈）】 gu1 maa1 [ku55 ma55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P164 附：[ku55 ma55]</li><li><span style="font-weight: bold">詞例、解釋：</span>大姑子2，夫之姐</li><li><span style="font-weight: bold">備註：</span>存疑</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/大姑子</li></ul>
 </>
 姑嫂
 【姑嫂】 gu1 slu2 [ku55 ɬu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P222 附：[ku55 ɬu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>姑嫂們</li><li><span style="font-weight: bold">分類：</span>二十四、代詞等/姑嫂們</li></ul>
@@ -10747,6 +10738,12 @@
 帽檐
 【帽檐】 mu6 jim2 [mu22 jim35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P177 附：[mu22 jim35]</li><li><span style="font-weight: bold">詞例、解釋：</span>帽檐兒</li><li><span style="font-weight: bold">備註：</span>原文作「掩」字</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/帽檐兒</li></ul>
 </>
+幐幐揈揈
+【幐幐揈揈】 dang6 dang6 fang3 fang3 [tɐŋ22 tɐŋ22 fɐŋ33 fɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P214 附：[tɐŋ22 tɐŋ22 fɐŋ33 fɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>晃悠3，垂晃貌</li><li><span style="font-weight: bold">備註：</span>原文[fɐŋ33]有音無字，「鄧鄧」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/晃悠</li></ul>
+</>
+幐得啱
+【幐得啱】 dang6 dak1 ngaam1 [tɐŋ22 tɐk5 ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[tɐŋ22 tɐk5 ŋam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>般配3</li><li><span style="font-weight: bold">備註：</span>原文作「戥得啱」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/般配</li></ul>
+</>
 幫
 【幫（帮）】 bong1 [pɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P214 附：[pɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>撐腰2（支持）</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/撐腰（支持）</li></ul>
 </>
@@ -11104,6 +11101,9 @@
 开价
 @@@LINK=開價
 </>
+开估
+@@@LINK=開估
+</>
 开单
 @@@LINK=開單
 </>
@@ -11112,9 +11112,6 @@
 </>
 开口枣
 @@@LINK=開口棗
-</>
-开古
-@@@LINK=開古
 </>
 开墙脚
 @@@LINK=開牆腳
@@ -11660,7 +11657,7 @@
 【恁恁】 nam2 nam2 [nɐm35 nɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P215 附：[nɐm35 nɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>想想1</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/想想</li></ul>
 </>
 恁法
-【恁法】 nam2 faat3 [nɐm35 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[nɐm35 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>想頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/想頭兒</li></ul>
+【恁法】 nam2 faat3 [nɐm35 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[nɐm35 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>想頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/想頭兒</li></ul>
 </>
 恁着
 【恁着】 nam2 zoek6 [nɐm35 tʃœk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P216 附：[nɐm35 tʃœk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>想起來了2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/想起來了</li></ul>
@@ -11690,7 +11687,7 @@
 【恁起身】 nam2 hi2 san1 [nɐm35 hi35 ʃɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P216 附：[nɐm35 hi35 ʃɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>想起來了1</li><li><span style="font-weight: bold">備註：</span>原文「身」字誤作[ʃɐŋ55]</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/想起來了</li></ul>
 </>
 恁頭
-【恁頭（恁头）】 nam2 tau4 [nɐm35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[nɐm35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>想頭兒1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/想頭兒</li></ul>
+【恁頭（恁头）】 nam2 tau4 [nɐm35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[nɐm35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>想頭兒1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/想頭兒</li></ul>
 </>
 恂
 【恂】 slan4 [ɬɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P171 附：[ɬɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>發抖1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（2）內科/發抖</li></ul>
@@ -11965,12 +11962,6 @@
 戥子
 【戥子】 dang2 zi2 [tɐŋ35 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P201 附：[tɐŋ35 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>戥子</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（3）賬目、度量衡/戥子</li></ul>
 </>
-戥得啱
-【戥得啱】 dang6 dak1 ngaam1 [tɐŋ22 tɐk5 ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[tɐŋ22 tɐk5 ŋam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>般配3</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/般配</li></ul>
-</>
-戥戥揈揈
-【戥戥揈揈】 dang6 dang6 fang3 fang3 [tɐŋ22 tɐŋ22 fɐŋ33 fɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P214 附：[tɐŋ22 tɐŋ22 fɐŋ33 fɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>晃悠3，垂晃貌</li><li><span style="font-weight: bold">備註：</span>原文[fɐŋ33]有音無字，「鄧鄧」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/晃悠</li></ul>
-</>
 戥盘
 @@@LINK=戥盤
 </>
@@ -12194,7 +12185,7 @@
 @@@LINK=扒鴨
 </>
 扒龍船
-【扒龍船（扒龙船）】 paa4 lung4 syun4 [pʰa21 lʊŋ21 ʃyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[pʰa21 lʊŋ21 ʃyn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>扒龍船1，划龍船</li><li><span style="font-weight: bold">備註：</span>原文「扒」字誤作[pa21]</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/扒龍船</li></ul>
+【扒龍船（扒龙船）】 paa4 lung4 syun4 [pʰa21 lʊŋ21 ʃyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[pʰa21 lʊŋ21 ʃyn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>划龍船1</li><li><span style="font-weight: bold">備註：</span>原文「扒」字誤作[pa21]</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/划龍船</li></ul>
 </>
 扒龙船
 @@@LINK=扒龍船
@@ -12300,6 +12291,9 @@
 </>
 打折
 【打折】 daa2 zit3 [ta35 tʃit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P199 附：[ta35 tʃit3]</li><li><span style="font-weight: bold">詞例、解釋：</span>折扣1</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/折扣</li></ul>
+</>
+打披
+【打披】 daa2 pe1 [ta35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P207 附：[ta35 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克1</li><li><span style="font-weight: bold">備註：</span>原文[pʰɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/打撲克</li></ul>
 </>
 打拖拉机
 @@@LINK=打拖拉機
@@ -12460,9 +12454,6 @@
 打齋
 【打齋（打斋）】 daa2 zaai1 [ta35 tʃai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P188 附：[ta35 tʃai55]</li><li><span style="font-weight: bold">詞例、解釋：</span>做道場2</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（3）迷信/做道場</li></ul>
 </>
-打𠵿
-【打𠵿】 daa2 pe1 [ta35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P207 附：[ta35 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克1</li><li><span style="font-weight: bold">備註：</span>原文[pʰɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/打撲克</li></ul>
-</>
 托儿所
 @@@LINK=託兒所
 </>
@@ -12492,9 +12483,6 @@
 </>
 扣针
 @@@LINK=釦針
-</>
-扤
-【扤】 at1 [ɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P211 附：[ɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>（往袋裏）塞2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/（往袋裏）塞</li></ul>
 </>
 扤
 【扤】 nget6 [ŋɛt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P213 附：[ŋɛt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>艱難行走</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/艱難行走</li></ul>
@@ -12556,9 +12544,6 @@
 扬花
 @@@LINK=揚花
 </>
-扭丝边
-@@@LINK=扭絲邊
-</>
 扭扭拧拧
 @@@LINK=扭扭擰擰
 </>
@@ -12585,9 +12570,6 @@
 </>
 扭紐
 【扭紐（扭纽）】 nau2 nau2 [nɐu35 nɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P176 附：[nɐu35 nɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>扣釦子2</li><li><span style="font-weight: bold">備註：</span>原文作「紐紐」， 「紐」字作陽上</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/扣釦子</li></ul>
-</>
-扭絲邊
-【扭絲邊（扭丝边）】 nau2 si1 bin1 [nɐu35 ʃi55 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[nɐu35 ʃi55 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>絞絲旁（糹）</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/絞絲旁（糹）</li></ul>
 </>
 扭纹柴
 @@@LINK=扭紋柴
@@ -12626,7 +12608,7 @@
 【扶住】 fu4 zyu6 [fu21 tʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P212 附：[fu21 tʃy22]</li><li><span style="font-weight: bold">詞例、解釋：</span>扶着</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/扶着</li></ul>
 </>
 批摥
-【批摥】 pai1 tong3 [pʰɐi55 tʰɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P156 附：[pʰɐi55 tʰɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>批摥，用抹子抹平</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/批摥</li></ul>
+【批摥】 pai1 tong3 [pʰɐi55 tʰɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P156 附：[pʰɐi55 tʰɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>批摥，用抹子抹平</li><li><span style="font-weight: bold">備註：</span>廣州話稱「批盪」</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/批摥</li></ul>
 </>
 批灰
 【批灰】 pai1 fui1 [pʰɐi55 fui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P156 附：[pʰɐi55 fui55]</li><li><span style="font-weight: bold">詞例、解釋：</span>批灰，抹灰</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/批灰</li></ul>
@@ -12816,6 +12798,9 @@
 </>
 抨出去
 【抨出去】 paang5 cyut1 hyu3 [pʰaŋ24 tʃʰyt5 hy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P197 附：[pʰaŋ24 tʃʰyt5 hy33]</li><li><span style="font-weight: bold">詞例、解釋：</span>攆出去</li><li><span style="font-weight: bold">備註：</span>原文[pʰaŋ24]有音無字</li><li><span style="font-weight: bold">分類：</span>十八、交際/攆出去</li></ul>
+</>
+披
+【披】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P207 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/撲克</li></ul>
 </>
 披麻带孝
 @@@LINK=披麻帶孝
@@ -13130,7 +13115,7 @@
 【拜年】 baai3 nin4 [pai33 nin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P127 附：[pai33 nin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>拜年</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/拜年</li></ul>
 </>
 拜月光
-【拜月光】 baai3 jyut6 gong1 [pai33 jyt2 kɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[pai33 jyt2 kɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>拜月光</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/拜月光</li></ul>
+【拜月光】 baai3 jyut6 gong1 [pai33 jyt2 kɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[pai33 jyt2 kɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>拜月</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/拜月</li></ul>
 </>
 拜眼困
 @@@LINK=拜眼睏
@@ -13254,9 +13239,6 @@
 </>
 挖耳屎
 【挖耳屎】 wet3 ji5 si2 [wɛt3 ji24 ʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P191 附：[wɛt3 ji24 ʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>掏耳朵3</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/掏耳朵</li></ul>
-</>
-挞皮
-@@@LINK=撻皮
 </>
 挠
 @@@LINK=撓
@@ -13747,6 +13729,9 @@
 搲
 【搲】 we2 [wɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P211 附：[wɛ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>抓撓，用指甲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/抓撓</li></ul>
 </>
+搴
+【搴】 ken2 [kʰɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P211 附：[kʰɛn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>掐（脖子）</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/掐（脖子）</li></ul>
+</>
 搵
 【搵（揾）】 wan2 [wɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P211 附：[wɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>找</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/找</li></ul>
 </>
@@ -13867,11 +13852,8 @@
 摟
 【摟（搂）】 lau1 [lɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P196 附：[lɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>拉近乎</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、交際/拉近乎</li></ul>
 </>
-摩
-【摩】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[mɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨磳1</li><li><span style="font-weight: bold">備註：</span>原文作「摸」字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/磨磳</li></ul>
-</>
 摩打
-【摩打】 mo1 daa2 [mɔ55 ta35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P202 附：[mɔ55 ta35]</li><li><span style="font-weight: bold">詞例、解釋：</span>馬達，自行車燈的小型電機</li><li><span style="font-weight: bold">備註：</span>即「馬達」，英語motor</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/馬達</li></ul>
+【摩打】 mo1 daa2 [mɔ55 ta35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P202 附：[mɔ55 ta35]</li><li><span style="font-weight: bold">詞例、解釋：</span>自行車燈的小型電機</li><li><span style="font-weight: bold">備註：</span>即「馬達」，英語motor</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/馬達</li></ul>
 </>
 摩托
 【摩托】 mo1 tok3 [mɔ55 tʰɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P202 附：[mɔ55 tʰɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>摩托車2</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/摩托車</li></ul>
@@ -13884,9 +13866,6 @@
 </>
 摩的
 【摩的】 mo1 dik1 [mɔ55 tek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P202 附：[mɔ55 tek5]</li><li><span style="font-weight: bold">詞例、解釋：</span>摩托車3，營運的</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/摩托車</li></ul>
-</>
-摩趿趿
-【摩趿趿】 mo1 slap6 slap6 [mɔ55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[mɔ55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨磳2</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「摸囗[ɬɐp2]囗[ɬɐp2]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/磨磳</li></ul>
 </>
 摮
 【摮】 ngaau4 [ŋau21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P212 附：[ŋau21]</li><li><span style="font-weight: bold">詞例、解釋：</span>用力搖動1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/用力搖動</li></ul>
@@ -14088,9 +14067,6 @@
 </>
 撳釘
 【撳釘（揿钉）】 gam6 deng1 [kɐm22 tɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P203 附：[kɐm22 tɛŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>圖釘</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（2）教室、文具/圖釘</li></ul>
-</>
-撻皮
-【撻皮（挞皮）】 taat3 pi4 [tʰat3 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[tʰat3 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>蹭破皮兒1</li><li><span style="font-weight: bold">備註：</span>原文作「蹋皮」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/蹭破皮兒</li></ul>
 </>
 擀面
 @@@LINK=擀麪
@@ -14325,9 +14301,6 @@
 </>
 攤飯
 【攤飯（摊饭）】 taan1 faan6 [tʰan55 fan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P190 附：[tʰan55 fan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>減飯</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/減飯</li></ul>
-</>
-攥
-【攥】 ken2 [kʰɛn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P211 附：[kʰɛn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>掐（脖子）</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/掐（脖子）</li></ul>
 </>
 攪屎棍
 【攪屎棍（搅屎棍）】 geu2 si2 gwan3 [kɛu35 ʃi35 kʷɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P160 附：[kɛu35 ʃi35 kʷɐn33]</li><li><span style="font-weight: bold">詞例、解釋：</span>調皮搗蛋、挑撥離間的人</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/搞事者</li></ul>
@@ -14885,7 +14858,7 @@
 【明年】 ming4 nin4 [meŋ21 nin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[meŋ21 nin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>明年</li><li><span style="font-weight: bold">分類：</span>三、時令時間（3）年/明年</li></ul>
 </>
 昏昏七七
-【昏昏七七】 wan1 wan1 cat1 cat1 [wɐn55 wɐn55 tʃʰɐt5 tʃʰɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[wɐn55 wɐn55 tʃʰɐt5 tʃʰɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>昏昏七七，暈頭轉向</li><li><span style="font-weight: bold">備註：</span>原文作「瘟瘟七七」，「七七」當爲襯字，元曲寫法，如「炒炒七七」</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/昏昏七七</li></ul>
+【昏昏七七】 wan1 wan1 cat1 cat1 [wɐn55 wɐn55 tʃʰɐt5 tʃʰɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[wɐn55 wɐn55 tʃʰɐt5 tʃʰɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>暈頭轉向</li><li><span style="font-weight: bold">備註：</span>原文作「瘟瘟七七」，「七七」當爲襯字，元曲寫法，如「炒炒七七」</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/暈頭轉向</li></ul>
 </>
 星期日
 【星期日】 sling1 ki4 jat6 [ɬeŋ55 kʰi21 jɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P129 附：[ɬeŋ55 kʰi21 jɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>星期天2</li><li><span style="font-weight: bold">備註：</span>原文「期」字誤作[ki21]</li><li><span style="font-weight: bold">分類：</span>三、時令時間（5）日、時/星期天</li></ul>
@@ -15286,8 +15259,8 @@
 有啲
 【有啲】 jau5 dit1 [jɐu24 tit5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P233 附：[jɐu24 tit5]</li><li><span style="font-weight: bold">詞例、解釋：</span>有點兒1.2（天～冷）</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/有點兒</li></ul>
 </>
-有噉啱戥噉巧
-【有噉啱戥噉巧】 jau5 gam2 ngaam1 dang6 gam2 kiu2 [jɐu24 kɐm35 ŋam55 tɐŋ22 kɐm35 kʰiu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P233 附：[jɐu24 kɐm35 ŋam55 tɐŋ22 kɐm35 kʰiu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>太巧了</li><li><span style="font-weight: bold">備註：</span>原文「鄧」爲同音替代字，「巧」字誤作[ŋam55]</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/太巧了</li></ul>
+有噉啱幐噉巧
+【有噉啱幐噉巧】 jau5 gam2 ngaam1 dang6 gam2 kiu2 [jɐu24 kɐm35 ŋam55 tɐŋ22 kɐm35 kʰiu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P233 附：[jɐu24 kɐm35 ŋam55 tɐŋ22 kɐm35 kʰiu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>太巧了</li><li><span style="font-weight: bold">備註：</span>原文「鄧」爲同音替代字，「巧」字誤作[ŋam55]</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/太巧了</li></ul>
 </>
 有崽
 【有崽】 jau5 zai2 [jɐu24 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[jɐu24 tʃɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>懷孕了4</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（1）婚姻、生育/懷孕了</li></ul>
@@ -15844,8 +15817,8 @@
 树泱
 @@@LINK=樹泱
 </>
-树疙𤶸
-@@@LINK=樹疙𤶸
+树疙𤶠
+@@@LINK=樹疙𤶠
 </>
 树皮
 @@@LINK=樹皮
@@ -16360,8 +16333,8 @@
 樹泱
 【樹泱（树泱）】 syu6 joeng1 [ʃy22 jœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P139 附：[ʃy22 jœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>樹膠</li><li><span style="font-weight: bold">分類：</span>五、植物（3）樹木/樹膠</li></ul>
 </>
-樹疙𤶸
-【樹疙𤶸（树疙𤶸）】 syu6 gat1 naa1 [ʃy22 kɐt5 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P139 附：[ʃy22 kɐt5 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>樹節疤</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>五、植物（3）樹木/樹節疤</li></ul>
+樹疙𤶠
+【樹疙𤶠（树疙𤶠）】 syu6 gat1 naa1 [ʃy22 kɐt5 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P139 附：[ʃy22 kɐt5 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>樹節疤</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>五、植物（3）樹木/樹節疤</li></ul>
 </>
 樹皮
 【樹皮（树皮）】 syu6 pi4 [ʃy22 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P139 附：[ʃy22 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>樹皮</li><li><span style="font-weight: bold">分類：</span>五、植物（3）樹木/樹皮</li></ul>
@@ -16519,6 +16492,9 @@
 欶鼻涕
 【欶鼻涕】 sok3 bi6 tai3 [ʃɔk3 pi22 tʰɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P214 附：[ʃɔk3 pi22 tʰɐi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>吸溜鼻涕</li><li><span style="font-weight: bold">備註：</span>原文作「嗍鼻涕」</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/吸溜鼻涕</li></ul>
 </>
+歄哂
+【歄哂】 gwaa1 slaai3 [kʷa55 ɬai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[kʷa55 ɬai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>死了5</li><li><span style="font-weight: bold">備註：</span>原文作「瓜哂」</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（2）壽辰、喪葬/死了</li></ul>
+</>
 歡喜
 【歡喜（欢喜）】 fun1 hi2 [fun55 hi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[fun55 hi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>高興1</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/高興</li></ul>
 </>
@@ -16583,13 +16559,13 @@
 【歸一（归一）】 gwai1 jat1 [kʷɐi55 jɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P225 附：[kʷɐi55 jɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>整齊4</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/整齊</li></ul>
 </>
 死···
-【死···】 sli2 [ɬi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[ɬi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>死···，啲菜～鹹</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/死···</li></ul>
+【死···】 sli2 [ɬi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[ɬi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>死···（啲菜～鹹）</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/死···</li></ul>
 </>
 死···烂···
 @@@LINK=死···爛···
 </>
 死···爛···
-【死···爛···（死···烂···）】 sli2···laan6··· [ɬi35···lan22···] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[ɬi35···lan22···]</li><li><span style="font-weight: bold">詞例、解釋：</span>死···爛···（啲菜死鹹爛鹹）</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/死···爛···</li></ul>
+【死···爛···（死···烂···）】 sli2···laan6··· [ɬi35···lan22···] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[ɬi35···lan22···]</li><li><span style="font-weight: bold">詞例、解釋：</span>死···爛···（啲菜死鹹爛鹹）</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/死···爛···</li></ul>
 </>
 死哂
 【死哂】 sli2 slaai3 [ɬi35 ɬai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[ɬi35 ɬai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>死了1</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（2）壽辰、喪葬/死了</li></ul>
@@ -17330,7 +17306,16 @@
 【波鞋】 bo1 haai4 [pɔ55 hai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P176 附：[pɔ55 hai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>球鞋</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/球鞋</li></ul>
 </>
 泥
+【泥】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P222 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞1，不好</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/壞</li></ul>
+</>
+泥
+【泥】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P222 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>次2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/次</li></ul>
+</>
+泥
 【泥】 nai4 [nɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P125 附：[nɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>泥土</li><li><span style="font-weight: bold">分類：</span>二、地理（4）石沙、土塊、礦物/泥土</li></ul>
+</>
+泥嘢
+【泥嘢】 jai4 je5 [jɐi21 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P199 附：[jɐi21 jɛ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>次貨1</li><li><span style="font-weight: bold">備註：</span>原文[jɐi21]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/次貨</li></ul>
 </>
 泥水佬
 【泥水佬】 nai4 sui2 lu2 [nɐi21 ʃui35 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P162 附：[nɐi21 ʃui35 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瓦匠，砌牆、抹牆的</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/瓦匠</li></ul>
@@ -17594,7 +17579,7 @@
 @@@LINK=海魚
 </>
 浸田
-【浸田】 zam3 tin4 [tʃɐm33 tʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P131 附：[tʃɐm33 tʰin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>浸田，冬天犁過的田春天要泡軟才能耙</li><li><span style="font-weight: bold">分類：</span>四、農業（1）農事/浸田</li></ul>
+【浸田】 zam3 tin4 [tʃɐm33 tʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P131 附：[tʃɐm33 tʰin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>浸田，冬天犁過的田春天要泡軟纔能耙</li><li><span style="font-weight: bold">分類：</span>四、農業（1）農事/浸田</li></ul>
 </>
 浸穀種
 【浸穀種（浸谷种）】 zam3 guk1 zung2 [tʃɐm33 kʊk5 tʃʊŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P131 附：[tʃɐm33 kʊk5 tʃʊŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>浸種</li><li><span style="font-weight: bold">分類：</span>四、農業（1）農事/浸種</li></ul>
@@ -18433,11 +18418,8 @@
 炖粉糕
 @@@LINK=燉粉糕
 </>
-炩烁烁
-@@@LINK=炩爍爍
-</>
-炩爍爍
-【炩爍爍（炩烁烁）】 ling3 slaak6 slaak6 [leŋ33 ɬak2 ɬak2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[leŋ33 ɬak2 ɬak2]</li><li><span style="font-weight: bold">詞例、解釋：</span>鋥亮2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/鋥亮</li></ul>
+炩噻噻
+【炩噻噻】 ling3 slaak6 slaak6 [leŋ33 ɬak2 ɬak2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[leŋ33 ɬak2 ɬak2]</li><li><span style="font-weight: bold">詞例、解釋：</span>鋥亮2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/鋥亮</li></ul>
 </>
 炭
 【炭】 taan3 [tʰan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P125 附：[tʰan33]</li><li><span style="font-weight: bold">詞例、解釋：</span>木炭</li><li><span style="font-weight: bold">分類：</span>二、地理（4）石沙、土塊、礦物/木炭</li></ul>
@@ -19432,12 +19414,6 @@
 牙尖嘴利
 【牙尖嘴利】 ngaa4 zim1 zui2 li6 [ŋa21 tʃim55 tʃui35 li22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[ŋa21 tʃim55 tʃui35 li22]</li><li><span style="font-weight: bold">詞例、解釋：</span>伶牙俐齒，口齒伶俐，能說會道</li><li><span style="font-weight: bold">備註：</span>原文[tʃim55]誤作「小」</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/伶牙俐齒</li></ul>
 </>
-牙烟
-@@@LINK=牙煙
-</>
-牙煙
-【牙煙（牙烟）】 ngaa4 jin1 [ŋa21 jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[ŋa21 jin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>勉強，險3</li><li><span style="font-weight: bold">備註：</span>原文「牙煙」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/勉強，險</li></ul>
-</>
 牙肉
 【牙肉】 ngaa4 juk6 [ŋa21 jʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P167 附：[ŋa21 jʊk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>牙牀</li><li><span style="font-weight: bold">分類：</span>十一、身體（1）五官/牙牀</li></ul>
 </>
@@ -19795,8 +19771,8 @@
 猜
 【猜】 caai1 [tʃʰai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P215 附：[tʃʰai55]</li><li><span style="font-weight: bold">詞例、解釋：</span>猜想1</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/猜想</li></ul>
 </>
-猜古
-【猜古】 caai1 gu2 [tʃʰai55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P206 附：[tʃʰai55 ku35]</li><li><span style="font-weight: bold">詞例、解釋：</span>猜謎兒2</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（1）遊戲、玩具/猜謎兒</li></ul>
+猜估
+【猜估】 caai1 gu2 [tʃʰai55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P206 附：[tʃʰai55 ku35]</li><li><span style="font-weight: bold">詞例、解釋：</span>猜謎兒2</li><li><span style="font-weight: bold">備註：</span>原文作「猜古」</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（1）遊戲、玩具/猜謎兒</li></ul>
 </>
 猜码
 @@@LINK=猜碼
@@ -20089,9 +20065,6 @@
 璺峻
 【璺峻】 men3 slen3 [mɛn33 ɬɛn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[mɛn33 ɬɛn33]</li><li><span style="font-weight: bold">詞例、解釋：</span>勉強，險2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/勉強，險</li></ul>
 </>
-瓜哂
-【瓜哂】 gwaa1 slaai3 [kʷa55 ɬai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[kʷa55 ɬai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>死了5</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（2）壽辰、喪葬/死了</li></ul>
-</>
 瓜子
 【瓜子】 gwaa1 zi2 [kʷa55 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P142 附：[kʷa55 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瓜子兒</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/瓜子兒</li></ul>
 </>
@@ -20204,7 +20177,7 @@
 @@@LINK=甜麪醬
 </>
 甜頭
-【甜頭（甜头）】 tim4 tau4 [tʰim21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʰim21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/甜頭兒</li></ul>
+【甜頭（甜头）】 tim4 tau4 [tʰim21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʰim21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/甜頭兒</li></ul>
 </>
 甜麥菜
 【甜麥菜（甜麦菜）】 tim4 mak6 coi3 [tʰim21 mɐk2 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P137 附：[tʰim21 mɐk2 tʃʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜麥菜</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/甜麥菜</li></ul>
@@ -20229,9 +20202,6 @@
 </>
 生冷降
 【生冷降】 saang1 laang5 gong3 [ʃaŋ55 laŋ24 kɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P178 附：[ʃaŋ55 laŋ24 kɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>生冷降，飯放冷了</li><li><span style="font-weight: bold">分類：</span>十四、飲食（2）米食/生冷降</li></ul>
-</>
-生勾勾
-【生勾勾】 saang1 ngau1 ngau1 [ʃaŋ55 ŋɐu55 ŋɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[ʃaŋ55 ŋɐu55 ŋɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>生2，人、瓜果生</li><li><span style="font-weight: bold">備註：</span>原文[ŋau55]有音無字，應作[ŋɐu55]</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/生</li></ul>
 </>
 生口生面
 【生口生面】 saang1 hau2 saang1 min6 [ʃaŋ55 hɐu35 ʃaŋ55 min22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P227 附：[ʃaŋ55 hɐu35 ʃaŋ55 min22]</li><li><span style="font-weight: bold">詞例、解釋：</span>生面孔2</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/生面孔</li></ul>
@@ -20280,6 +20250,12 @@
 </>
 生抽
 【生抽】 saang1 cau1 [ʃaŋ55 tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P184 附：[ʃaŋ55 tʃʰɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>醬油3</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/醬油</li></ul>
+</>
+生挠挠
+@@@LINK=生撓撓
+</>
+生撓撓
+【生撓撓（生挠挠）】 saang1 ngau1 ngau1 [ʃaŋ55 ŋɐu55 ŋɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[ʃaŋ55 ŋɐu55 ŋɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>生2，人、瓜果生</li><li><span style="font-weight: bold">備註：</span>原文[ŋau55]有音無字。廣州話作「生勾勾」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/生</li></ul>
 </>
 生日
 【生日】 saang1 jat6 [ʃaŋ55 jɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[ʃaŋ55 jɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>生日</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（2）壽辰、喪葬/生日</li></ul>
@@ -20480,13 +20456,13 @@
 @@@LINK=由細到大
 </>
 由頭
-【由頭（由头）】 jau4 tau4 [jɐu21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[jɐu21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>由頭</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/由頭</li></ul>
+【由頭（由头）】 jau4 tau4 [jɐu21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[jɐu21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>由頭</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/由頭</li></ul>
 </>
 甲
 【甲】 gaap3 [kap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P246 附：[kap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>甲</li><li><span style="font-weight: bold">分類：</span>三十二、干支/甲</li></ul>
 </>
 甲
-【甲】 lep3 [lɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P134 附：[lɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>穀殼2，舊時用來作燃料</li><li><span style="font-weight: bold">備註：</span>原文[lɛp3]有音無字</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/穀殼</li></ul>
+【甲】 lep3 [lɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P134 附：[lɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>穀殼2</li><li><span style="font-weight: bold">備註：</span>原文[lɛp3]有音無字</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/穀殼</li></ul>
 </>
 申
 【申】 san1 [ʃɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P246 附：[ʃɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>申</li><li><span style="font-weight: bold">分類：</span>三十二、干支/申</li></ul>
@@ -20662,8 +20638,8 @@
 疏经
 @@@LINK=疏經
 </>
-疙𤶸
-【疙𤶸】 gat6 naa1 [kɐt2 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[kɐt2 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>吝嗇4</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/吝嗇</li></ul>
+疙𤶠
+【疙𤶠】 gat6 naa1 [kɐt2 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[kɐt2 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>吝嗇4</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/吝嗇</li></ul>
 </>
 疟疾
 @@@LINK=瘧疾
@@ -20695,6 +20671,15 @@
 痕入骨
 【痕入骨】 han4 jap6 gwat1 [hɐn21 jɐp2 kʷɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[hɐn21 jɐp2 kʷɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>極癢</li><li><span style="font-weight: bold">備註：</span>原文「痕」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/極癢</li></ul>
 </>
+痘皮
+【痘皮】 dau6 pi4 [tɐu22 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P174 附：[tɐu22 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>痲子2（疤）</li><li><span style="font-weight: bold">備註：</span>原文作「豆皮」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（4）殘疾等/痲子（疤）</li></ul>
+</>
+痘皮公
+【痘皮公】 dau6 pi4 gung1 [tɐu22 pʰi21 kʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P174 附：[tɐu22 pʰi21 kʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>痲子2（人）</li><li><span style="font-weight: bold">備註：</span>原文作「豆皮公」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（4）殘疾等/痲子（人）</li></ul>
+</>
+痘皮婆
+【痘皮婆】 dau6 pi4 po4 [tɐu22 pʰi21 pʰɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P174 附：[tɐu22 pʰi21 pʰɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>痲子3（人）</li><li><span style="font-weight: bold">備註：</span>原文作「豆皮婆」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（4）殘疾等/痲子（人）</li></ul>
+</>
 痛
 【痛】 tung3 [tʰʊŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P216 附：[tʰʊŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>疼愛2，對人</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/疼愛</li></ul>
 </>
@@ -20705,7 +20690,7 @@
 【痣】 zi3 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P170 附：[tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>痣</li><li><span style="font-weight: bold">分類：</span>十一、身體（3）其他/痣</li></ul>
 </>
 痣
-【痣】 zi3 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P173 附：[tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>痦子2</li><li><span style="font-weight: bold">備註：</span>原文誤作[tʃi35]</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/痦子</li></ul>
+【痣】 zi3 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P173 附：[tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>痦子</li><li><span style="font-weight: bold">備註：</span>原文誤作[tʃi35]</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/痦子</li></ul>
 </>
 痧气
 @@@LINK=痧氣
@@ -21131,7 +21116,7 @@
 【白露】 baak6 lu6 [pak2 lu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P127 附：[pak2 lu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>白露</li><li><span style="font-weight: bold">分類：</span>三、時令時間（1）季節/白露</li></ul>
 </>
 白頭翁
-【白頭翁（白头翁）】 baak6 tau4 ung1 [pak2 tʰɐu21 ʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P138 附：[pak2 tʰɐu21 ʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>（當地野菜）白頭翁，艾的一種，做粢粑用</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/白頭翁</li></ul>
+【白頭翁（白头翁）】 baak6 tau4 ung1 [pak2 tʰɐu21 ʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P138 附：[pak2 tʰɐu21 ʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>（當地野菜）白頭翁，艾的一種，做餈粑用</li><li><span style="font-weight: bold">備註：</span>原文釋義作「粢粑」</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/白頭翁</li></ul>
 </>
 白頭霜
 【白頭霜（白头霜）】 baak6 tau4 sloeng1 [pak2 tʰɐu21 ɬœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P122 附：[pak2 tʰɐu21 ɬœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>霜2.1</li><li><span style="font-weight: bold">分類：</span>一、天文（3）冰、雪、霜、露/霜</li></ul>
@@ -21415,17 +21400,17 @@
 相家
 【相家】 sloeng3 gaa1 [ɬœŋ33 ka55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P161 附：[ɬœŋ33 ka55]</li><li><span style="font-weight: bold">詞例、解釋：</span>能幹的人</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/能手</li></ul>
 </>
+相幐
+【相幐】 sloeng1 dang6 [ɬœŋ55 tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[ɬœŋ55 tɐŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>相稱</li><li><span style="font-weight: bold">備註：</span>原文作「相戥」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/相稱</li></ul>
+</>
+相幐
+【相幐】 sloeng1 dang6 [ɬœŋ55 tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[ɬœŋ55 tɐŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>般配2</li><li><span style="font-weight: bold">備註：</span>原文作「相戥」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/般配</li></ul>
+</>
 相思树
 @@@LINK=相思樹
 </>
 相思樹
 【相思樹（相思树）】 sloeng1 si1 syu6 [ɬœŋ55 ʃi55 ʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P139 附：[ɬœŋ55 ʃi55 ʃy22]</li><li><span style="font-weight: bold">詞例、解釋：</span>紅豆樹</li><li><span style="font-weight: bold">分類：</span>五、植物（3）樹木/紅豆樹</li></ul>
-</>
-相戥
-【相戥】 sloeng1 dang6 [ɬœŋ55 tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[ɬœŋ55 tɐŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>相稱</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/相稱</li></ul>
-</>
-相戥
-【相戥】 sloeng1 dang6 [ɬœŋ55 tɐŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[ɬœŋ55 tɐŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>般配2</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/般配</li></ul>
 </>
 相親
 【相親（相亲）】 sloeng3 can1 [ɬœŋ33 tʃʰɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P185 附：[ɬœŋ33 tʃʰɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>相親1</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（1）婚姻、生育/相親</li></ul>
@@ -21665,7 +21650,7 @@
 【睇更】 tai2 gaang1 [tʰɐi35 kaŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P161 附：[tʰɐi35 kaŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>值夜班</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/值夜班</li></ul>
 </>
 睇法
-【睇法】 tai2 faat3 [tʰɐi35 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʰɐi35 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>看頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/看頭兒</li></ul>
+【睇法】 tai2 faat3 [tʰɐi35 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʰɐi35 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>看頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/看頭兒</li></ul>
 </>
 睇病
 【睇病】 tai2 beng6 [tʰɐi35 pɛŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P170 附：[tʰɐi35 pɛŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>看病</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（1）一般用語/看病</li></ul>
@@ -21695,7 +21680,7 @@
 @@@LINK=睇見
 </>
 睇頭
-【睇頭（睇头）】 tai2 tau4 [tʰɐi35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʰɐi35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>看頭兒1，這齣戲有～</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/看頭兒</li></ul>
+【睇頭（睇头）】 tai2 tau4 [tʰɐi35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[tʰɐi35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>看頭兒1，這齣戲有～</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/看頭兒</li></ul>
 </>
 睇風水
 【睇風水（睇风水）】 tai2 fung1 sui2 [tʰɐi35 fʊŋ55 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P188 附：[tʰɐi35 fʊŋ55 ʃui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>看風水</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（3）迷信/看風水</li></ul>
@@ -22009,6 +21994,15 @@
 破邊
 【破邊（破边）】 po3 bin1 [pʰɔ33 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P189 附：[pʰɔ33 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>破邊1.2，剖開兩半</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/破邊</li></ul>
 </>
+砵砵車
+【砵砵車（砵砵车）】 bot1 bot1 ce1 [pɔt5 pɔt5 tʃʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P201 附：[pɔt5 pɔt5 tʃʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>汽車2.2，兒童語</li><li><span style="font-weight: bold">備註：</span>原文[pɔt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/汽車</li></ul>
+</>
+砵砵車
+【砵砵車（砵砵车）】 but1 but1 ce1 [put5 put5 tʃʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P201 附：[put5 put5 tʃʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>汽車2.1，兒童語</li><li><span style="font-weight: bold">備註：</span>原文[put5]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/汽車</li></ul>
+</>
+砵砵车
+@@@LINK=砵砵車
+</>
 硌馬腳
 【硌馬腳（硌马脚）】 gak6 maa5 goek3 [kɐk2 ma24 kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P207 附：[kɐk2 ma24 kœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>絆馬腳</li><li><span style="font-weight: bold">備註：</span>原文[kɐk2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/絆馬腳</li></ul>
 </>
@@ -22186,6 +22180,9 @@
 磨
 【磨】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[mɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>慢2</li><li><span style="font-weight: bold">備註：</span>原文作「摸」字，本字即「磨」，由轉圈義引申</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/慢</li></ul>
 </>
+磨
+【磨】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[mɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨磳1</li><li><span style="font-weight: bold">備註：</span>原文作「摸」字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/磨磳</li></ul>
+</>
 磨墨
 【磨墨】 mo4 mak6 [mɔ21 mɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P204 附：[mɔ21 mɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>研墨</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（2）教室、文具/研墨</li></ul>
 </>
@@ -22215,6 +22212,9 @@
 </>
 磨耳
 【磨耳】 mo6 ji5 [mɔ22 ji24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P133 附：[mɔ22 ji24]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨耳，插磨欛的地方</li><li><span style="font-weight: bold">分類：</span>四、農業（2）農具/磨耳</li></ul>
+</>
+磨趿趿
+【磨趿趿】 mo1 slap6 slap6 [mɔ55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[mɔ55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨磳2</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「摸囗[ɬɐp2]囗[ɬɐp2]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/磨磳</li></ul>
 </>
 磨頂
 【磨頂（磨顶）】 mo6 deng2 [mɔ22 tɛŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P133 附：[mɔ22 tɛŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨頂，磨盤上的圓石盤</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>四、農業（2）農具/磨頂</li></ul>
@@ -23587,6 +23587,9 @@
 紐窿
 【紐窿（纽窿）】 nau2 lung1 [nɐu35 lʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P176 附：[nɐu35 lʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>釦眼兒1</li><li><span style="font-weight: bold">備註：</span>原文「紐」字作陽上</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/釦眼兒</li></ul>
 </>
+紐絲邊
+【紐絲邊（纽丝边）】 nau2 si1 bin1 [nɐu35 ʃi55 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[nɐu35 ʃi55 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>絞絲旁（糹）</li><li><span style="font-weight: bold">備註：</span>原文作「扭絲邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/絞絲旁（糹）</li></ul>
+</>
 純藍
 【純藍（纯蓝）】 san4 laam4 [ʃɐn21 lam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P204 附：[ʃɐn21 lam21]</li><li><span style="font-weight: bold">詞例、解釋：</span>純藍墨水</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（2）教室、文具/純藍墨水</li></ul>
 </>
@@ -24075,6 +24078,9 @@
 </>
 纽
 @@@LINK=紐
+</>
+纽丝边
+@@@LINK=紐絲邊
 </>
 纽眼
 @@@LINK=紐眼
@@ -24781,6 +24787,9 @@
 耍把戲
 【耍把戲（耍把戏）】 saa2 baa2 hi3 [ʃa35 pa35 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P209 附：[ʃa35 pa35 hi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>變戲法1，魔術</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（4）戲劇/變戲法</li></ul>
 </>
+耍披
+【耍披】 saa2 pe1 [ʃa35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P207 附：[ʃa35 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克2</li><li><span style="font-weight: bold">備註：</span>原文[pʰɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/打撲克</li></ul>
+</>
 耍枪
 @@@LINK=耍槍
 </>
@@ -24788,7 +24797,7 @@
 【耍槍（耍枪）】 saa2 coeng1 [ʃa35 tʃʰœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P208 附：[ʃa35 tʃʰœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>耍槍1</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（3）武術、舞蹈/耍槍</li></ul>
 </>
 耍流星
-【耍流星】 saa2 lau4 sling1 [ʃa35 lɐu21 ɬeŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P208 附：[ʃa35 lɐu21 ɬeŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>耍流星</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（3）武術、舞蹈/耍流星</li></ul>
+【耍流星】 saa2 lau4 sling1 [ʃa35 lɐu21 ɬeŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P208 附：[ʃa35 lɐu21 ɬeŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>耍流星錘</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（3）武術、舞蹈/耍流星錘</li></ul>
 </>
 耍符法
 【耍符法】 saa2 fu4 fet1 [ʃa35 fu21 fɛt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[ʃa35 fu21 fɛt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>放蠱</li><li><span style="font-weight: bold">備註：</span>原文[fɛt5]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/放蠱</li></ul>
@@ -24810,9 +24819,6 @@
 </>
 耍魔術
 【耍魔術（耍魔术）】 saa2 mo1 sat6 [ʃa35 mɔ55 ʃɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P209 附：[ʃa35 mɔ55 ʃɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>變戲法2，現代</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（4）戲劇/變戲法</li></ul>
-</>
-耍𠵿
-【耍𠵿】 saa2 pe1 [ʃa35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P207 附：[ʃa35 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克2</li><li><span style="font-weight: bold">備註：</span>原文[pʰɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/打撲克</li></ul>
 </>
 耕田
 【耕田】 gaang1 tin4 [kaŋ55 tʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P131 附：[kaŋ55 tʰin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>犁田4</li><li><span style="font-weight: bold">分類：</span>四、農業（1）農事/犁田</li></ul>
@@ -25405,8 +25411,8 @@
 腊鸭
 @@@LINK=臘鴨
 </>
-腊鸭肫
-@@@LINK=臘鴨肫
+腊鸭䐃
+@@@LINK=臘鴨䐃
 </>
 腍
 【腍】 nam4 [nɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[nɐm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>軟爛，指肉、瓜果</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/軟爛（指肉、瓜果）</li></ul>
@@ -25636,8 +25642,8 @@
 臘鴨
 【臘鴨（腊鸭）】 laap6 aap3 [lap2 ap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P182 附：[lap2 ap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>臘鴨</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/臘鴨</li></ul>
 </>
-臘鴨肫
-【臘鴨肫（腊鸭肫）】 laap6 aap3 kan5 [lap2 ap3 kʰɐn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P182 附：[lap2 ap3 kʰɐn24]</li><li><span style="font-weight: bold">詞例、解釋：</span>臘鴨肫</li><li><span style="font-weight: bold">備註：</span>原文「近」爲同音替代字，誤作[kɐn24]</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/臘鴨肫</li></ul>
+臘鴨䐃
+【臘鴨䐃（腊鸭䐃）】 laap6 aap3 kan5 [lap2 ap3 kʰɐn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P182 附：[lap2 ap3 kʰɐn24]</li><li><span style="font-weight: bold">詞例、解釋：</span>臘鴨肫</li><li><span style="font-weight: bold">備註：</span>原文「近」爲同音替代字，誤作[kɐn24]</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/臘鴨肫</li></ul>
 </>
 臨帖
 【臨帖（临帖）】 lam4 tip3 [lɐm21 tʰip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[lɐm21 tʰip3]</li><li><span style="font-weight: bold">詞例、解釋：</span>臨帖</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/臨帖</li></ul>
@@ -25703,7 +25709,7 @@
 【至】 zi3 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P234 附：[tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>最2</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/最</li></ul>
 </>
 至
-【至】 zi3 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P235 附：[tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>···才···1</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/···才···</li></ul>
+【至】 zi3 [tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P235 附：[tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>···纔···1</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/···才···</li></ul>
 </>
 至多
 【至多】 zi3 do1 [tʃi33 tɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P235 附：[tʃi33 tɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>大不了2</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/大不了</li></ul>
@@ -25800,6 +25806,9 @@
 </>
 舔
 【舔】 lem2 [lɛm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P210 附：[lɛm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>舔</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/舔</li></ul>
+</>
+舕
+【舕】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>騙2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/騙</li></ul>
 </>
 舞
 【舞】 mu5 [mu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P213 附：[mu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>做3</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/做</li></ul>
@@ -25928,7 +25937,7 @@
 @@@LINK=芋頭糕
 </>
 芋蒙
-【芋蒙】 wu6 mung4 [wu22 mʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P135 附：[wu22 mʊŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>芋蒙，芋葉莖、芋苗，可食</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/芋蒙</li></ul>
+【芋蒙】 wu6 mung4 [wu22 mʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P135 附：[wu22 mʊŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>芋葉莖，可食</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/芋葉莖</li></ul>
 </>
 芋頭
 【芋頭（芋头）】 wu6 tau4 [wu22 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P135 附：[wu22 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>芋頭（芋塊莖）</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/芋頭（芋塊莖）</li></ul>
@@ -26180,7 +26189,7 @@
 【苦瓜】 fu2 gwaa1 [fu35 kʷa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P136 附：[fu35 kʷa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦瓜1</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/苦瓜</li></ul>
 </>
 苦頭
-【苦頭（苦头）】 fu2 tau4 [fu35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[fu35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/苦頭兒</li></ul>
+【苦頭（苦头）】 fu2 tau4 [fu35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P242 附：[fu35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/苦頭兒</li></ul>
 </>
 苦麥菜
 【苦麥菜（苦麦菜）】 fu2 mak6 coi3 [fu35 mɐk2 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P137 附：[fu35 mɐk2 tʃʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦麥菜</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/苦麥菜</li></ul>
@@ -27748,8 +27757,8 @@
 补镬佬
 @@@LINK=補鑊佬
 </>
-补𤶸
-@@@LINK=補𤶸
+补𤶠
+@@@LINK=補𤶠
 </>
 表
 @@@LINK=錶
@@ -27958,8 +27967,8 @@
 補鑊佬
 【補鑊佬（补镬佬）】 bu2 wok6 lu2 [pu35 wɔk2 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P162 附：[pu35 wɔk2 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>補鍋的</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/補鍋的</li></ul>
 </>
-補𤶸
-【補𤶸（补𤶸）】 bu2 naa1 [pu35 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P189 附：[pu35 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打補丁</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/打補丁</li></ul>
+補𤶠
+【補𤶠（补𤶠）】 bu2 naa1 [pu35 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P189 附：[pu35 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打補丁</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/打補丁</li></ul>
 </>
 裝整
 【裝整（装整）】 zong1 zing2 [tʃɔŋ55 tʃeŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P174 附：[tʃɔŋ55 tʃeŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>打扮1</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/打扮</li></ul>
@@ -28690,15 +28699,6 @@
 豆漿
 【豆漿（豆浆）】 dau6 zoeng1 [tɐu22 tʃœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P183 附：[tɐu22 tʃœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>豆漿</li><li><span style="font-weight: bold">分類：</span>十四、飲食（5）菜/豆漿</li></ul>
 </>
-豆皮
-【豆皮】 dau6 pi4 [tɐu22 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P174 附：[tɐu22 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>痲子2（疤）</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（4）殘疾等/痲子（疤）</li></ul>
-</>
-豆皮公
-【豆皮公】 dau6 pi4 gung1 [tɐu22 pʰi21 kʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P174 附：[tɐu22 pʰi21 kʊŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>痲子2（人）</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（4）殘疾等/痲子（人）</li></ul>
-</>
-豆皮婆
-【豆皮婆】 dau6 pi4 po4 [tɐu22 pʰi21 pʰɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P174 附：[tɐu22 pʰi21 pʰɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>痲子3（人）</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（4）殘疾等/痲子（人）</li></ul>
-</>
 豆粉
 【豆粉】 dau6 fan2 [tɐu22 fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P183 附：[tɐu22 fɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>芡粉</li><li><span style="font-weight: bold">分類：</span>十四、飲食（5）菜/芡粉</li></ul>
 </>
@@ -29023,9 +29023,6 @@
 賤格
 【賤格（贱格）】 zin6 gaak3 [tʃin22 kak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P230 附：[tʃin22 kak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>缺德2</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/缺德</li></ul>
 </>
-賧
-【賧（赕）】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>騙2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/騙</li></ul>
-</>
 賬房
 【賬房（账房）】 zoeng3 fong4 [tʃœŋ33 fɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P200 附：[tʃœŋ33 fɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>賬房</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（3）賬目、度量衡/賬房</li></ul>
 </>
@@ -29045,7 +29042,7 @@
 【賺頭折尾（赚头折尾）】 zaan6 tau4 sit6 mi5 [tʃan22 tʰɐu21 ʃit2 mi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P199 附：[tʃan22 tʰɐu21 ʃit2 mi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>賺頭折尾，前面賣貴賺了，剩下的便宜賣了</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/賺頭折尾</li></ul>
 </>
 賽龍船
-【賽龍船（赛龙船）】 soi3 lung4 syun4 [ʃɔi33 lʊŋ21 ʃyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[ʃɔi33 lʊŋ21 ʃyn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>扒龍船2，划龍船</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/扒龍船</li></ul>
+【賽龍船（赛龙船）】 soi3 lung4 syun4 [ʃɔi33 lʊŋ21 ʃyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P128 附：[ʃɔi33 lʊŋ21 ʃyn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>划龍船2</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/划龍船</li></ul>
 </>
 败家仔
 @@@LINK=敗家仔
@@ -29103,9 +29100,6 @@
 </>
 赊数
 @@@LINK=賒數
-</>
-赕
-@@@LINK=賧
 </>
 赖臭
 @@@LINK=賴臭
@@ -29218,8 +29212,26 @@
 趯喳喳
 【趯喳喳】 dek3 zaa4 zaa4 [tɛk3 tʃa21 tʃa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P213 附：[tɛk3 tʃa21 tʃa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>紛紛跑貌1</li><li><span style="font-weight: bold">備註：</span>原文[tʃa21]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/紛紛跑貌</li></ul>
 </>
+趯土旁
+【趯土旁】 tek3 tu2 pong4 [tʰɛk3 tʰu35 pʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[tʰɛk3 tʰu35 pʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁2</li><li><span style="font-weight: bold">備註：</span>原文作「踢土旁」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提土旁</li></ul>
+</>
+趯手旁
+【趯手旁】 tek3 sau2 pong4 [tʰɛk3 ʃɐu35 pʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[tʰɛk3 ʃɐu35 pʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁1（扌）</li><li><span style="font-weight: bold">備註：</span>原文作「踢手旁」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提手旁（扌）</li></ul>
+</>
+趯手边
+@@@LINK=趯手邊
+</>
+趯手邊
+【趯手邊（趯手边）】 tek3 sau2 bin1 [tʰɛk3 ʃɐu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P205 附：[tʰɛk3 ʃɐu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁2（扌）</li><li><span style="font-weight: bold">備註：</span>原文作「踢手邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提手旁（扌）</li></ul>
+</>
 趯更
 【趯更】 dek3 gaang1 [tɛk3 kaŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P213 附：[tɛk3 kaŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>偷跑；開小差</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/偷跑</li></ul>
+</>
+趯算盘
+@@@LINK=趯算盤
+</>
+趯算盤
+【趯算盤（趯算盘）】 tik1 slyun3 pun4 [tʰek5 ɬyn33 pʰun21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P201 附：[tʰek5 ɬyn33 pʰun21]</li><li><span style="font-weight: bold">詞例、解釋：</span>打算盤2</li><li><span style="font-weight: bold">備註：</span>原文[tʰek5]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（3）賬目、度量衡/打算盤</li></ul>
 </>
 足球
 【足球】 zuk1 kau4 [tʃʊk5 kʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P208 附：[tʃʊk5 kʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>足球</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/足球</li></ul>
@@ -30004,6 +30016,12 @@
 迟早
 @@@LINK=遲早
 </>
+迻迻逳逳
+【迻迻逳逳】 ji1 ji1 juk1 juk1 [ji55 ji55 jʊk5 jʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P213 附：[ji55 ji55 jʊk5 jʊk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>動個不停</li><li><span style="font-weight: bold">備註：</span>原文「衣衣育育」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/動個不停</li></ul>
+</>
+迻迻逳逳
+【迻迻逳逳】 ji1 ji1 juk1 juk1 [ji55 ji55 jʊk5 jʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P224 附：[ji55 ji55 jʊk5 jʊk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>活絡2</li><li><span style="font-weight: bold">備註：</span>原文作「衣衣育育」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/活絡</li></ul>
+</>
 追
 【追】 zui1 [tʃui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P213 附：[tʃui55]</li><li><span style="font-weight: bold">詞例、解釋：</span>追趕2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/追趕</li></ul>
 </>
@@ -30398,7 +30416,7 @@
 【酸咪咪】 slyun1 mi1 mi1 [ɬyn55 mi55 mi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P143 附：[ɬyn55 mi55 mi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>酢漿草</li><li><span style="font-weight: bold">分類：</span>五、植物（5）花草、菌類/酢漿草</li></ul>
 </>
 酸嗒子
-【酸嗒子】 slyun1 dep1 zi2 [ɬyn55 tɛp5 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P143 附：[ɬyn55 tɛp5 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>酸嗒子，雀梅藤果實，有酸味，可食</li><li><span style="font-weight: bold">備註：</span>原文[tɛp5]有音無字</li><li><span style="font-weight: bold">分類：</span>五、植物（5）花草、菌類/酸嗒子</li></ul>
+【酸嗒子】 slyun1 dep1 zi2 [ɬyn55 tɛp5 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P143 附：[ɬyn55 tɛp5 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>雀梅藤果實，有酸味，可食</li><li><span style="font-weight: bold">備註：</span>原文[tɛp5]有音無字</li><li><span style="font-weight: bold">分類：</span>五、植物（5）花草、菌類/雀梅藤果實</li></ul>
 </>
 酸坛
 @@@LINK=酸罈
@@ -30440,7 +30458,7 @@
 【酸菜】 slyun1 coi3 [ɬyn55 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P183 附：[ɬyn55 tʃʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>酸菜，用芥菜醃製</li><li><span style="font-weight: bold">分類：</span>十四、飲食（5）菜/酸菜</li></ul>
 </>
 酸蒙
-【酸蒙】 slyun1 mung4 [ɬyn55 mʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P135 附：[ɬyn55 mʊŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>酸蒙，醃酸的芋莖</li><li><span style="font-weight: bold">備註：</span>醃酸的芋苗</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/酸蒙</li></ul>
+【酸蒙】 slyun1 mung4 [ɬyn55 mʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P135 附：[ɬyn55 mʊŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>醃酸的芋莖</li><li><span style="font-weight: bold">分類：</span>五、植物（1）農作物/醃酸的芋莖</li></ul>
 </>
 酸醋
 【酸醋】 slyun1 cu3 [ɬyn55 tʃʰu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P184 附：[ɬyn55 tʃʰu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>醋3</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/醋</li></ul>
@@ -31462,6 +31480,9 @@
 閉翳
 【閉翳（闭翳）】 bai3 ai3 [pɐi33 ɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[pɐi33 ɐi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>沮喪2</li><li><span style="font-weight: bold">備註：</span>原文[ɐi33]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/沮喪</li></ul>
 </>
+開估
+【開估（开估）】 hoi1 gu2 [hɔi55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P206 附：[hɔi55 ku35]</li><li><span style="font-weight: bold">詞例、解釋：</span>公開謎底</li><li><span style="font-weight: bold">備註：</span>原文作「開古」</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（1）遊戲、玩具/公開謎底</li></ul>
+</>
 開價
 【開價（开价）】 hoi1 gaa3 [hɔi55 ka33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P198 附：[hɔi55 ka33]</li><li><span style="font-weight: bold">詞例、解釋：</span>開價1</li><li><span style="font-weight: bold">備註：</span>原文「價」字誤作[ka22]</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/開價</li></ul>
 </>
@@ -31470,9 +31491,6 @@
 </>
 開口棗
 【開口棗（开口枣）】 hoi1 hau2 zu2 [hɔi55 hɐu35 tʃu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P180 附：[hɔi55 hɐu35 tʃu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>開口棗</li><li><span style="font-weight: bold">分類：</span>十四、飲食（3）麪食/開口棗</li></ul>
-</>
-開古
-【開古（开古）】 hoi1 gu2 [hɔi55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P206 附：[hɔi55 ku35]</li><li><span style="font-weight: bold">詞例、解釋：</span>公開謎底</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（1）遊戲、玩具/公開謎底</li></ul>
 </>
 開單
 【開單（开单）】 hoi1 daan1 [hɔi55 tan55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P170 附：[hɔi55 tan55]</li><li><span style="font-weight: bold">詞例、解釋：</span>開藥方子1</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（1）一般用語/開藥方子</li></ul>
@@ -33248,7 +33266,7 @@
 【食奶】 sik6 naai5 [ʃek2 nai24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[ʃek2 nai24]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃奶1</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（1）婚姻、生育/吃奶</li></ul>
 </>
 食宵夜
-【食宵夜】 sik6 sliu1 je2 [ʃek2 ɬiu55 jɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P178 附：[ʃek2 ɬiu55 jɛ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃夜宵</li><li><span style="font-weight: bold">備註：</span>原文「夜」字作變調[22-35]</li><li><span style="font-weight: bold">分類：</span>十四、飲食（1）伙食/消夜</li></ul>
+【食宵夜】 sik6 sliu1 je2 [ʃek2 ɬiu55 jɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P178 附：[ʃek2 ɬiu55 jɛ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>消夜，吃夜宵</li><li><span style="font-weight: bold">備註：</span>原文「夜」字作變調[22-35]</li><li><span style="font-weight: bold">分類：</span>十四、飲食（1）伙食/消夜</li></ul>
 </>
 食弥弥
 @@@LINK=食瀰瀰
@@ -33281,7 +33299,7 @@
 【食殺崽（食杀崽）】 sik6 saat3 zai2 [ʃek2 ʃat3 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[ʃek2 ʃat3 tʃɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃空子2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/吃空子</li></ul>
 </>
 食法
-【食法】 sik6 faat3 [ʃek2 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ʃek2 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/吃頭兒</li></ul>
+【食法】 sik6 faat3 [ʃek2 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ʃek2 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/吃頭兒</li></ul>
 </>
 食波餅
 【食波餅（食波饼）】 sik6 bo1 beng2 [ʃek2 pɔ55 pɛŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P208 附：[ʃek2 pɔ55 pɛŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>被球打到身上</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/被球擊中</li></ul>
@@ -33314,7 +33332,7 @@
 【食過早（食过早）】 sik6 go3 zu2 [ʃek2 kɔ33 tʃu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P190 附：[ʃek2 kɔ33 tʃu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃早飯</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/吃早飯</li></ul>
 </>
 食頭
-【食頭（食头）】 sik6 tau4 [ʃek2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ʃek2 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒1，啲菜常用冇有乜嘢～</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/吃頭兒</li></ul>
+【食頭（食头）】 sik6 tau4 [ʃek2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[ʃek2 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒1，啲菜常用冇有乜嘢～</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/吃頭兒</li></ul>
 </>
 食飯
 【食飯（食饭）】 sik6 faan6 [ʃek2 fan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P178 附：[ʃek2 fan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃飯</li><li><span style="font-weight: bold">分類：</span>十四、飲食（1）伙食/吃飯</li></ul>
@@ -33374,7 +33392,7 @@
 【飲水（饮水）】 jam2 sui2 [jɐm35 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P191 附：[jɐm35 ʃui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>喝水</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/喝水</li></ul>
 </>
 飲法
-【飲法（饮法）】 jam2 faat3 [jɐm35 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jɐm35 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>喝頭兒2</li><li><span style="font-weight: bold">備註：</span>原文誤頂格排列</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/喝頭兒</li></ul>
+【飲法（饮法）】 jam2 faat3 [jɐm35 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jɐm35 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>喝頭兒2</li><li><span style="font-weight: bold">備註：</span>原文誤頂格排列</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/喝頭兒</li></ul>
 </>
 飲滿月酒
 【飲滿月酒（饮满月酒）】 jam2 mun5 jyut6 zau2 [jɐm35 mun24 jyt2 tʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P186 附：[jɐm35 mun24 jyt2 tʃɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>飲滿月酒</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（1）婚姻、生育/飲滿月酒</li></ul>
@@ -33395,7 +33413,7 @@
 【飲酒醉（饮酒醉）】 jam2 zau2 zui3 [jɐm35 tʃɐu35 tʃui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P191 附：[jɐm35 tʃɐu35 tʃui33]</li><li><span style="font-weight: bold">詞例、解釋：</span>喝醉</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/喝醉</li></ul>
 </>
 飲頭
-【飲頭（饮头）】 jam2 tau4 [jɐm35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jɐm35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>喝頭兒1，啲菜常用冇有乜嘢～</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/喝頭兒</li></ul>
+【飲頭（饮头）】 jam2 tau4 [jɐm35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P241 附：[jɐm35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>喝頭兒1，啲菜常用冇有乜嘢～</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/喝頭兒</li></ul>
 </>
 飲食店
 【飲食店（饮食店）】 jam2 sik6 dim3 [jɐm35 ʃek2 tim33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P197 附：[jɐm35 ʃek2 tim33]</li><li><span style="font-weight: bold">詞例、解釋：</span>飯館2</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（1）經商行業/飯館</li></ul>
@@ -34139,7 +34157,7 @@
 【魚䉴（鱼䉴）】 jyu4 neng2 [jy21 nɛŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P148 附：[jy21 nɛŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>魚簍兒1.1</li><li><span style="font-weight: bold">備註：</span>原文[nɛŋ35]有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/魚簍兒</li></ul>
 </>
 魚䉴
-【魚䉴（鱼䉴）】 jyu4 ning2 [jy21 neŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P148 附：[jy21 neŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>魚簍兒1.2</li><li><span style="font-weight: bold">備註：</span>原文[nɛŋ35/neŋ35]有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/魚簍兒</li></ul>
+【魚䉴（鱼䉴）】 jyu4 ning2 [jy21 neŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P148 附：[jy21 neŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>魚簍兒1.2</li><li><span style="font-weight: bold">備註：</span>原文[neŋ35]有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/魚簍兒</li></ul>
 </>
 魚丸
 【魚丸（鱼丸）】 jyu4 jyun4 [jy21 jyn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P182 附：[jy21 jyn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>魚丸</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/魚丸</li></ul>
@@ -34196,7 +34214,7 @@
 【魚骨（鱼骨）】 jyu4 gwat1 [jy21 kʷɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P148 附：[jy21 kʷɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>魚刺1</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/魚刺</li></ul>
 </>
 魚鰈子
-【魚鰈子（鱼鲽子）】 jyu4 dep1 zi2 [jy21 tɛp5 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P173 附：[jy21 tɛp5 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘊子1</li><li><span style="font-weight: bold">備註：</span>原文[tɛp5]有音無字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/瘊子</li></ul>
+【魚鰈子（鱼鲽子）】 jyu4 dep1 zi2 [jy21 tɛp5 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P173 附：[jy21 tɛp5 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘊子</li><li><span style="font-weight: bold">備註：</span>原文[tɛp5]有音無字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/瘊子</li></ul>
 </>
 魚鰭
 【魚鰭（鱼鳍）】 jyu4 ki4 [jy21 kʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P148 附：[jy21 kʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>鰭</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/鰭</li></ul>
@@ -34468,11 +34486,11 @@
 鵮
 【鵮（鹐）】 daam1 [tam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P210 附：[tam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>叼，魚捱貓～哂</li><li><span style="font-weight: bold">備註：</span>原文作「擔」字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/叼</li></ul>
 </>
-鵮煙
-【鵮煙（鹐烟）】 daam1 jin1 [tam55 jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P210 附：[tam55 jin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>叼煙</li><li><span style="font-weight: bold">備註：</span>原文作「擔煙」</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/叼煙</li></ul>
-</>
 鵮牙籤
 【鵮牙籤（鹐牙签）】 daam1 ngaa4 cim1 [tam55 ŋa21 tʃʰim55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P210 附：[tam55 ŋa21 tʃʰim55]</li><li><span style="font-weight: bold">詞例、解釋：</span>叼牙籤</li><li><span style="font-weight: bold">備註：</span>原文作「擔牙籤」</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/叼牙籤</li></ul>
+</>
+鵮菸
+【鵮菸（鹐烟）】 daam1 jin1 [tam55 jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P210 附：[tam55 jin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>叼菸</li><li><span style="font-weight: bold">備註：</span>原文作「擔菸」</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/叼菸</li></ul>
 </>
 鵮魚雀
 【鵮魚雀（鹐鱼雀）】 dem1 jyu4 coek3 [tɛm55 jy21 tʃʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P146 附：[tɛm55 jy21 tʃʰœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>翠鳥</li><li><span style="font-weight: bold">備註：</span>原文[tɛm55]有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（2）鳥獸/翠鳥</li></ul>
@@ -34727,7 +34745,7 @@
 @@@LINK=鵮
 </>
 鹐烟
-@@@LINK=鵮煙
+@@@LINK=鵮菸
 </>
 鹐牙签
 @@@LINK=鵮牙籤
@@ -35497,27 +35515,6 @@
 𠜱書
 【𠜱書（𠜱书）】 mai1 syu1 [mɐi55 ʃy55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P204 附：[mɐi55 ʃy55]</li><li><span style="font-weight: bold">詞例、解釋：</span>用功讀書</li><li><span style="font-weight: bold">備註：</span>原文[mɐi55]有音無字</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（3）讀書識字/用功讀書</li></ul>
 </>
-𠯋
-【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P222 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞1，不好</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/壞</li></ul>
-</>
-𠯋
-【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P222 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>次2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/次</li></ul>
-</>
-𠯋嘢
-【𠯋嘢】 jai4 je5 [jɐi21 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P199 附：[jɐi21 jɛ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>次貨1</li><li><span style="font-weight: bold">備註：</span>原文[jɐi21]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/次貨</li></ul>
-</>
-𠵿
-【𠵿】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P207 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/撲克</li></ul>
-</>
-𡀖𡀖車
-【𡀖𡀖車（𡀖𡀖车）】 bot1 bot1 ce1 [pɔt5 pɔt5 tʃʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P201 附：[pɔt5 pɔt5 tʃʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>汽車2.2，兒童語</li><li><span style="font-weight: bold">備註：</span>原文[pɔt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/汽車</li></ul>
-</>
-𡀖𡀖車
-【𡀖𡀖車（𡀖𡀖车）】 but1 but1 ce1 [put5 put5 tʃʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P201 附：[put5 put5 tʃʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>汽車2.1，兒童語</li><li><span style="font-weight: bold">備註：</span>原文[put5]有音無字</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/汽車</li></ul>
-</>
-𡀖𡀖车
-@@@LINK=𡀖𡀖車
-</>
 𢳂汤
 @@@LINK=𢳂湯
 </>
@@ -35531,7 +35528,7 @@
 @@@LINK=𢳂飯
 </>
 𢴬
-【𢴬】 baan3 [pan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P212 附：[pan33]</li><li><span style="font-weight: bold">詞例、解釋：</span>用力摔打：～穀/～佢一身夠夠（用棍子等狠狠地揍他一頓）</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/用力摔打</li></ul>
+【𢴬】 baan3 [pan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P212 附：[pan33]</li><li><span style="font-weight: bold">詞例、解釋：</span>用力摔打：～穀/～佢一身夠夠（用棍子等狠狠地揍他一頓）；摔得很重：～了一跤</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/用力摔打；摔得很重</li></ul>
 </>
 𢴬交
 【𢴬交】 baan3 geu1 [pan33 kɛu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P209 附：[pan33 kɛu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>摔倒2</li><li><span style="font-weight: bold">備註：</span>原文[pan33]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/摔倒</li></ul>
@@ -35562,21 +35559,6 @@
 </>
 𤶊䧒䧒
 @@@LINK=癐䧒䧒
-</>
-𤹍雞
-【𤹍雞（𤹍鸡）】 nang1 gai1 [nɐŋ55 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[nɐŋ55 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤1</li><li><span style="font-weight: bold">備註：</span>原文[nɐŋ55]有音無字，誤作[ŋɐŋ55]</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/疤</li></ul>
-</>
-𤹍雞疤
-【𤹍雞疤（𤹍鸡疤）】 nang1 gai1 baa1 [nɐŋ55 kɐi55 pa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[nɐŋ55 kɐi55 pa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤2</li><li><span style="font-weight: bold">備註：</span>原文[nɐŋ55]有音無字，誤作[ŋɐŋ55]</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/疤</li></ul>
-</>
-𤹍鸡
-@@@LINK=𤹍雞
-</>
-𤹍鸡疤
-@@@LINK=𤹍雞疤
-</>
-𦍀被
-【𦍀被】 naan3 pi5 [nan33 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P189 附：[nan33 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>做被臥3</li><li><span style="font-weight: bold">備註：</span>原文[nan33]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/做被臥</li></ul>
 </>
 𧊅
 【𧊅】 kwe2 [kʷʰɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P149 附：[kʷʰɛ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>小青蛙</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/小青蛙</li></ul>

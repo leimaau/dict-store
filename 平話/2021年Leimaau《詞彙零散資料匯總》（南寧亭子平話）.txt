@@ -115,11 +115,8 @@
 脷前
 【脷前】 li6 zin4 [li22 tʃin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P658 附：[li22 tʃin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>舌頭</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-舂杵
-【舂杵】 coeng1 cyu5 [tʃʰœŋ53 tʃʰy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃʰœŋ53 tʃʰy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>碓杵</li><li><span style="font-weight: bold">備註：</span>原文作「舂柱」，未標音</li></ul>
-</>
 舂柱
-【舂柱】 coeng1 cyu5 [tʃʰœŋ53 tʃʰy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃʰœŋ53 tʃʰy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>碓杵</li><li><span style="font-weight: bold">備註：</span>原文未標音</li></ul>
+【舂柱】 coeng1 zyu5 [tʃʰœŋ53 tʃy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃʰœŋ53 tʃy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>碓杵</li><li><span style="font-weight: bold">備註：</span>原文未標音。據《廣西通誌·漢語方言誌》P271補充，「柱」不送氣。但覃遠雄等《南寧平話詞典》P307寫作「舂杵[tsʰy24]」，當是「杵」與「柱」混淆</li></ul>
 </>
 草子
 【草子】 caau2 zi2 [tʃʰau33 tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃʰau33 tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>稗子</li><li><span style="font-weight: bold">備註：</span>原文未標音</li></ul>
@@ -155,7 +152,7 @@
 @@@LINK=車手
 </>
 造火
-【造火】 zau5 hu2 [tʃɐu24 hu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃɐu24 hu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>燒火</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【造火】 zau5 hu2 [tʃɐu24 hu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃɐu24 hu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>燒火</li><li><span style="font-weight: bold">備註：</span>原文[tʃɐu24]有音無字，當讀[tʃau24]</li></ul>
 </>
 鐺
 【鐺（铛）】 ciang1 [tʃʰiɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[tʃʰɛŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>炒菜鍋</li><li><span style="font-weight: bold">備註：</span>原文作[tʃʰɛŋ53]</li></ul>
@@ -194,5 +191,5 @@
 @@@LINK=𢫦鉤
 </>
 𤊶水
-【𤊶水】 lat3 sui2 [lɐt5 ʃui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[lɐt5 ʃui33]</li><li><span style="font-weight: bold">詞例、解釋：</span>熱水</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【𤊶水】 lat3 sui2 [lɐt5 ʃui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[lɐt5 ʃui33]</li><li><span style="font-weight: bold">詞例、解釋：</span>熱水</li><li><span style="font-weight: bold">備註：</span>原文[lɐt5]有音無字，當讀[lat5]</li></ul>
 </>

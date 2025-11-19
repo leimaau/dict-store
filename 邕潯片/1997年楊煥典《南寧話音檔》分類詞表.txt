@@ -70,6 +70,9 @@
 乜嘢
 【乜嘢】 mat1 je5 [mɐt5 jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[mɐt5 jɛ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十一、代詞/什麼</li></ul>
 </>
+乜嘢
+【乜嘢】 me1 e5 [mɛ55 ɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[mɛ55 ɛ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十一、代詞/什麼</li></ul>
+</>
 九
 【九】 gau2 [kɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[kɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>九</li><li><span style="font-weight: bold">分類：</span>十六、數詞/九</li></ul>
 </>
@@ -267,9 +270,6 @@
 </>
 听日
 @@@LINK=聽日
-</>
-咩嘢
-【咩嘢】 me1 e5 [mɛ55 ɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[mɛ55 ɛ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>什麼2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十一、代詞/什麼</li></ul>
 </>
 咸
 @@@LINK=鹹

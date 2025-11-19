@@ -980,7 +980,7 @@
 【啱】 ngaam1 [ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋam55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>只（我～去過一趟）</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/只</li></ul>
 </>
 啱
-【啱】 ngaam1 [ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋam55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>才（你怎麼～來啊？）</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/才</li></ul>
+【啱】 ngaam1 [ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋam55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>纔（你怎麼～來啊？）</li><li><span style="font-weight: bold">分類：</span>二十一、副詞/才</li></ul>
 </>
 啲
 【啲】 di1 [ti55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ti55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>些（一～東西）</li><li><span style="font-weight: bold">分類：</span>二十三、數量/量詞/些</li></ul>
@@ -3301,8 +3301,8 @@
 狼
 【狼】 long4 [lɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[lɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>名詞作形容詞，形容人兇狠似狼，例：佢好狼嘅</li><li><span style="font-weight: bold">分類：</span>十八、性狀/兇狠</li></ul>
 </>
-猜古
-【猜古】 caai1 gu2 [tʃʰai55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ku35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>猜謎語</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「猜估」，唐七元調查點作「猜古」</li><li><span style="font-weight: bold">分類：</span>十六、文化/猜謎語</li></ul>
+猜估
+【猜估】 caai1 gu2 [tʃʰai55 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧhai55 ku35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>猜謎語</li><li><span style="font-weight: bold">備註：</span>林亦調查點作「猜估」，唐七元調查點作「猜古」</li><li><span style="font-weight: bold">分類：</span>十六、文化/猜謎語</li></ul>
 </>
 猜码
 @@@LINK=猜碼
@@ -4195,8 +4195,8 @@
 耍把戲
 【耍把戲（耍把戏）】 saa2 baa2 hi3 [ʃa35 pa35 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35 pa35 hi33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>變魔術</li><li><span style="font-weight: bold">分類：</span>十六、文化/變魔術</li></ul>
 </>
-耍𠵿
-【耍𠵿】 saa2 pe1 [ʃa35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35 phɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/打撲克</li></ul>
+耍披
+【耍披】 saa2 pe1 [ʃa35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃa35 phɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/打撲克</li></ul>
 </>
 耐
 【耐】 noi6 [nɔi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɔi22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>長（時間～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/長</li></ul>
@@ -5447,7 +5447,10 @@
 【阿嫂】 aa3 slu2 [a33 ɬu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿa33 ɬu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>嫂子，呼稱，統稱</li><li><span style="font-weight: bold">分類：</span>七、稱謂/親屬/嫂子</li></ul>
 </>
 阿嫲
-【阿嫲】 aa3 maa4 [a33 ma21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿa33 ma21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>奶奶，呼稱，最通用的</li><li><span style="font-weight: bold">分類：</span>七、稱謂/親屬/奶奶</li></ul>
+【阿嫲】 aa3 maa2 [a33 ma35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿa33 ma35]</li><li><span style="font-weight: bold">詞例、解釋：</span>奶奶，呼稱，最通用的</li><li><span style="font-weight: bold">備註：</span>林亦調查點</li><li><span style="font-weight: bold">分類：</span>七、稱謂/親屬/奶奶</li></ul>
+</>
+阿嫲
+【阿嫲】 aa3 maa4 [a33 ma21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿa33 ma21]</li><li><span style="font-weight: bold">詞例、解釋：</span>奶奶，呼稱，最通用的</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>七、稱謂/親屬/奶奶</li></ul>
 </>
 阿爷
 @@@LINK=阿爺
@@ -5903,7 +5906,7 @@
 @@@LINK=高腳瘸
 </>
 高腳瘸
-【高腳瘸（高脚瘸）】 gu1 goek3 kwe4 [ku55 kœk3 kʷʰɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[ku55 kœk3 kʷʰɛ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高蹺</li><li><span style="font-weight: bold">備註：</span>原文未標音，又作「高蹻瘸」</li><li><span style="font-weight: bold">分類：</span>十六、文化/高蹺</li></ul>
+【高腳瘸（高脚瘸）】 gu1 goek3 kwe4 [ku55 kœk3 kʷʰɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[ku55 kœk3 kʷʰɛ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高蹺</li><li><span style="font-weight: bold">備註：</span>原文未標音，本字「高蹻瘸」，平話有同一用法，見1998年楊煥典主編《廣西通誌·漢語方言誌》P296</li><li><span style="font-weight: bold">分類：</span>十六、文化/高蹺</li></ul>
 </>
 鬆
 【鬆（松）】 slung1 [ɬʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬuŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>鬆（捆得～）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/鬆</li></ul>
@@ -6111,12 +6114,6 @@
 </>
 𤶊
 @@@LINK=癐
-</>
-𤹍雞
-【𤹍雞（𤹍鸡）】 nang1 gai1 [nɐŋ55 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[nɐŋ55 kɐi55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤，好了的</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>九、疾病/疤</li></ul>
-</>
-𤹍鸡
-@@@LINK=𤹍雞
 </>
 𧬈
 【𧬈】 hap1 [hɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[hɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>欺負</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/欺負</li></ul>

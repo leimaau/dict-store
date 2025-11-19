@@ -88,6 +88,9 @@
 䆟章
 【䆟章】 kap1 zoeng1 [kʰɐp5 tʃœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P53 附：[kʰɐp5 tsœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>蓋印2</li><li><span style="font-weight: bold">備註：</span>原文作「冚章」</li><li><span style="font-weight: bold">分類：</span>十七、訟事/蓋章</li></ul>
 </>
+䋎被
+【䋎被】 naan3 pi5 [nan33 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[nan33 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>縫被臥2</li><li><span style="font-weight: bold">備註：</span>原文[nan33]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/做被臥</li></ul>
+</>
 䍇
 【䍇】 taap3 [tʰap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P36 附：[tʰap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>罐子4</li><li><span style="font-weight: bold">備註：</span>原文作「塔」字</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（3）炊事用具/罈子</li></ul>
 </>
@@ -144,9 +147,6 @@
 </>
 一剂药
 @@@LINK=一劑藥
-</>
-一剔
-【一剔】 aa1 tek3 [a55 tʰɛk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[a55 tʰɛk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>一挑</li><li><span style="font-weight: bold">備註：</span>原文作「一踢」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/一挑</li></ul>
 </>
 一劑
 【一劑（一剂）】 aa1 zai1 [a55 tʃɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P69 附：[a55 tsɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一服2（～藥）</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一服（藥）</li></ul>
@@ -531,6 +531,9 @@
 </>
 一趟
 【一趟】 aa1 tong3 [a55 tʰɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P70 附：[a55 tʰɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一趟（走～）</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/（走）一趟</li></ul>
+</>
+一趯
+【一趯】 aa1 tek3 [a55 tʰɛk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[a55 tʰɛk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>一挑</li><li><span style="font-weight: bold">備註：</span>原文作「一踢」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/一挑</li></ul>
 </>
 一道
 【一道】 jat1 du6 [jɐt5 tu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P69 附：[jɐt5 tu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>一道（～菜）</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/一道（菜）</li></ul>
@@ -2179,9 +2182,6 @@
 制服
 【制服】 zai3 fuk6 [tʃɐi33 fʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P46 附：[tsɐi33 fok2]</li><li><span style="font-weight: bold">詞例、解釋：</span>制服</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/制服</li></ul>
 </>
-刷把
-【刷把】 caat3 baa2 [tʃʰat3 pa35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P36 附：[tsʰat3 pa35]</li><li><span style="font-weight: bold">詞例、解釋：</span>炊帚</li><li><span style="font-weight: bold">備註：</span>又作「擦把」</li><li><span style="font-weight: bold">分類：</span>四、農業（2）農具/鍋帚</li></ul>
-</>
 刷牙
 【刷牙】 caat3 ngaa4 [tʃʰat3 ŋa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[tsʰat3 ŋa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>刷牙1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/刷牙</li></ul>
 </>
@@ -2241,21 +2241,6 @@
 </>
 前頭
 【前頭（前头）】 cin4 tau4 [tʃʰin21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P65 附：[tsʰin21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>前邊</li><li><span style="font-weight: bold">分類：</span>二十三、位置/前邊</li></ul>
-</>
-剔土旁
-【剔土旁】 tek3 tu2 pong4 [tʰɛk3 tʰu35 pʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[tʰɛk3 tʰu35 pʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁1</li><li><span style="font-weight: bold">備註：</span>原文作「踢土旁」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提土旁</li></ul>
-</>
-剔土边
-@@@LINK=剔土邊
-</>
-剔土邊
-【剔土邊（剔土边）】 tek3 tu2 bin1 [tʰɛk3 tʰu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[tʰɛk3 tʰu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁2</li><li><span style="font-weight: bold">備註：</span>原文作「踢土邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提土旁</li></ul>
-</>
-剔手边
-@@@LINK=剔手邊
-</>
-剔手邊
-【剔手邊（剔手边）】 tek3 sau2 bin1 [tʰɛk3 ʃɐu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[tʰɛk3 sɐu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁</li><li><span style="font-weight: bold">備註：</span>原文作「踢手邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提手旁（扌）</li></ul>
 </>
 剩
 【剩】 zing6 [tʃeŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tseŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>剩2（下）</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/剩（下）</li></ul>
@@ -3478,6 +3463,9 @@
 報喪
 【報喪（报丧）】 bu3 slong1 [pu33 ɬɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P51 附：[pu33 ɬɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>訃聞</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（2）壽辰、喪葬/訃聞</li></ul>
 </>
+塌皮
+【塌皮】 taat3 pi4 [tʰat3 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P44 附：[tʰat3 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>蹭破皮</li><li><span style="font-weight: bold">備註：</span>原文作「撻皮」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/蹭破皮兒</li></ul>
+</>
 塌膊
 【塌膊】 taap3 bok3 [tʰap3 pɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P42 附：[tʰap3 pɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>溜肩膀兒2</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/溜肩膀兒</li></ul>
 </>
@@ -4150,9 +4138,6 @@
 婆乸
 【婆乸】 po4 naa2 [pʰɔ21 na35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[pʰɔ21 na35]</li><li><span style="font-weight: bold">詞例、解釋：</span>女人3</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/女人</li></ul>
 </>
-婆啲
-【婆啲】 po4 di1 [pʰɔ21 ti55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[pʰɔ21 ti55]</li><li><span style="font-weight: bold">詞例、解釋：</span>老太婆2</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/老太婆</li></ul>
-</>
 婆姼
 【婆姼】 po4 di1 [pʰɔ21 ti55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[pʰɔ21 ti55]</li><li><span style="font-weight: bold">詞例、解釋：</span>老太婆2</li><li><span style="font-weight: bold">備註：</span>原文作「啲」字</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/老太婆</li></ul>
 </>
@@ -4670,7 +4655,7 @@
 【差不多】 caa1 bat1 do1 [tʃʰa55 pɐt5 tɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[tsʰa55 pɐt5 tɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>差不多2</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/差不多</li></ul>
 </>
 差唔多
-【差唔多】 caa1 m4 do1 [tʃʰa55 m̩21 tɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[tsʰa55 m̩21 tɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>差不多1，差不離</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/差不多</li></ul>
+【差唔多】 caa1 m4 do1 [tʃʰa55 m̩21 tɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[tsʰa55 m̩21 tɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>差不多1，差不離</li><li><span style="font-weight: bold">備註：</span>罕用，應當是「差冇多」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/差不多</li></ul>
 </>
 差啲
 【差啲】 caa1 di1 [tʃʰa55 ti55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[tsʰa55 ti55]</li><li><span style="font-weight: bold">詞例、解釋：</span>差點兒2</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/差點兒</li></ul>
@@ -5632,6 +5617,9 @@
 打扮
 【打扮】 daa2 baan6 [ta35 pan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P45 附：[ta35 pan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>打扮1</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/打扮</li></ul>
 </>
+打披
+【打披】 daa2 pe1 [ta35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[ta35 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克</li><li><span style="font-weight: bold">備註：</span>原文作「打𠯔」</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/打撲克</li></ul>
+</>
 打掌
 【打掌】 daa2 zoeng2 [ta35 tʃœŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P27 附：[ta35 tsœŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>釘掌</li><li><span style="font-weight: bold">分類：</span>四、農業（2）農具/釘掌</li></ul>
 </>
@@ -5650,8 +5638,8 @@
 打玻珠
 【打玻珠】 daa2 bo1 zyu1 [ta35 pɔ55 tʃy55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[ta35 pɔ55 tsy55]</li><li><span style="font-weight: bold">詞例、解釋：</span>彈球兒</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（1）遊戲、玩具/彈球兒</li></ul>
 </>
-打疙𤶸
-【打疙𤶸】 daa2 gat1 naa1 [ta35 kɐt5 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P27 附：[ta35 kɐt5 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打結</li><li><span style="font-weight: bold">備註：</span>原文作「紇」字，標變調[2-5]</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/打結</li></ul>
+打疙𤶠
+【打疙𤶠】 daa2 gat6 naa1 [ta35 kɐt2 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P27 附：[ta35 kɐt2 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打結</li><li><span style="font-weight: bold">備註：</span>原文作「紇𤶸」，標變調[5-2]</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/打結</li></ul>
 </>
 打穀
 【打穀（打谷）】 daa2 guk1 [ta35 kʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P26 附：[ta35 kok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>打穀</li><li><span style="font-weight: bold">分類：</span>四、農業（1）農事/打穀</li></ul>
@@ -5710,9 +5698,6 @@
 打齋
 【打齋（打斋）】 daa2 zaai1 [ta35 tʃai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P52 附：[ta35 tsai55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打醮1</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（3）迷信/做道場</li></ul>
 </>
-打𠵿
-【打𠵿】 daa2 pe1 [ta35 pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[ta35 pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打撲克</li><li><span style="font-weight: bold">備註：</span>原文作「打𠯔」</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/打撲克</li></ul>
-</>
 扣肉
 【扣肉】 kau3 juk6 [kʰɐu33 jʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P49 附：[kʰɐu33 jok2]</li><li><span style="font-weight: bold">詞例、解釋：</span>扣肉</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/扣肉</li></ul>
 </>
@@ -5752,17 +5737,11 @@
 扫把星
 @@@LINK=掃把星
 </>
-扭丝边
-@@@LINK=扭絲邊
-</>
 扭秧歌
 【扭秧歌】 nau2 joeng1 go1 [nɐu35 jœŋ55 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P61 附：[nɐu35 jœŋ55 kɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>扭秧歌</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（3）武術、舞蹈/扭秧歌兒</li></ul>
 </>
 扭紋柴
 【扭紋柴（扭纹柴）】 nau2 man4 caai4 [nɐu35 mɐn21 tʃʰai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P51 附：[nɐu35 mɐn21 tsʰai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>小孩好哭撒嬌2</li><li><span style="font-weight: bold">備註：</span>原文誤作「紐」字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/（小孩）不聽話</li></ul>
-</>
-扭絲邊
-【扭絲邊（扭丝边）】 nau2 sy1 bin1 [nɐu35 sɿ55 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[nɐu35 sɿ55 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>絞絲旁</li><li><span style="font-weight: bold">備註：</span>原文作「紐絲邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/絞絲旁（糹）</li></ul>
 </>
 扭纹柴
 @@@LINK=扭紋柴
@@ -6026,7 +6005,7 @@
 【拜年】 baai3 nin4 [pai33 nin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P25 附：[pai33 nin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>拜年</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/拜年</li></ul>
 </>
 拜月光
-【拜月光】 baai3 jyut6 gong1 [pai33 jyt2 kɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P25 附：[pai33 jyt2 kɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>拜月光</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/拜月光</li></ul>
+【拜月光】 baai3 jyut6 gong1 [pai33 jyt2 kɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P25 附：[pai33 jyt2 kɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>拜月</li><li><span style="font-weight: bold">分類：</span>三、時令時間（2）節日/拜月</li></ul>
 </>
 拜眼困
 @@@LINK=拜眼睏
@@ -6096,9 +6075,6 @@
 </>
 挑
 【挑】 teu2 [tʰɛu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tʰɛu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>提起3</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/提</li></ul>
-</>
-挞皮
-@@@LINK=撻皮
 </>
 挤
 @@@LINK=擠
@@ -6441,9 +6417,6 @@
 </>
 撳手印
 【撳手印（揿手印）】 gam6 sau2 jan3 [kɐm22 ʃɐu35 jɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P53 附：[kɐm22 sɐu35 jɐn33]</li><li><span style="font-weight: bold">詞例、解釋：</span>畫押</li><li><span style="font-weight: bold">備註：</span>原文作「搇手印」</li><li><span style="font-weight: bold">分類：</span>十七、訟事/畫押</li></ul>
-</>
-撻皮
-【撻皮（挞皮）】 taat3 pi4 [tʰat3 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P44 附：[tʰat3 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>蹭破皮</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/蹭破皮兒</li></ul>
 </>
 擀面
 @@@LINK=擀麪
@@ -8147,6 +8120,9 @@
 【波鞋】 bo1 haai4 [pɔ55 hai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P46 附：[pɔ55 hai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>球鞋</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/球鞋</li></ul>
 </>
 泥
+【泥】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞（不好）、次1</li><li><span style="font-weight: bold">備註：</span>原文作「曳」字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/壞</li></ul>
+</>
+泥
 【泥】 nai4 [nɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P23 附：[nɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>泥土</li><li><span style="font-weight: bold">分類：</span>二、地理（4）石沙、土塊、礦物/泥土</li></ul>
 </>
 泥水佬
@@ -8348,7 +8324,7 @@
 【游水】 jau4 sui2 [jɐu21 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[jɐu21 sui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>游泳</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/游泳</li></ul>
 </>
 湊
-【湊（凑）】 cau3 [tʃʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P69 附：[tsʰɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>和、向2</li><li><span style="font-weight: bold">備註：</span>原文作變調[21-33]</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/給</li></ul>
+【湊（凑）】 cau3 [tʃʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P69 附：[tsʰɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>和、向2</li><li><span style="font-weight: bold">備註：</span>原文作變調[33-21]，疑誤</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/給</li></ul>
 </>
 湊埋
 【湊埋（凑埋）】 cau3 maai4 [tʃʰɐu33 mai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tsʰɐu33 mai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮伴兒3</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/與</li></ul>
@@ -9643,8 +9619,8 @@
 疏寥寥
 【疏寥寥】 so1 laau1 laau1 [ʃɔ55 lau55 lau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[sɔ55 lau55 lau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>稀少</li><li><span style="font-weight: bold">備註：</span>原文[lau55]有音無字，誤作[lau33]</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/稀</li></ul>
 </>
-疙𤶸
-【疙𤶸】 gat1 naa1 [kɐt5 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P27 附：[kɐt5 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>活結</li><li><span style="font-weight: bold">備註：</span>原文作「紇」字，標變調[2-5]</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/活結</li></ul>
+疙𤶠
+【疙𤶠】 gat6 naa1 [kɐt2 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P27 附：[kɐt2 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>活結</li><li><span style="font-weight: bold">備註：</span>原文作「紇𤶸」，標變調[5-2]</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/活結</li></ul>
 </>
 疝气
 @@@LINK=疝氣
@@ -10130,7 +10106,7 @@
 【睇電影（睇电影）】 tai2 din6 jing2 [tʰɐi35 tin22 jeŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P61 附：[tʰɐi35 tin22 jeŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>看電影</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（4）戲劇/看電影</li></ul>
 </>
 睇頭
-【睇頭（睇头）】 tai2 tau4 [tʰɐi35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[tʰɐi35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>看頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/看頭兒</li></ul>
+【睇頭（睇头）】 tai2 tau4 [tʰɐi35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[tʰɐi35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>看頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/看頭兒</li></ul>
 </>
 睡住
 【睡住】 sui6 zyu6 [ʃui22 tʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P55 附：[sui22 tsy22]</li><li><span style="font-weight: bold">詞例、解釋：</span>躺着</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/躺着</li></ul>
@@ -10990,6 +10966,9 @@
 紐窿
 【紐窿（纽窿）】 nau2 lung1 [nɐu35 lʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P46 附：[nɐu35 loŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>釦眼2</li><li><span style="font-weight: bold">備註：</span>原文作「鈕」字，作陽上</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/釦眼兒</li></ul>
 </>
+紐絲邊
+【紐絲邊（纽丝边）】 nau2 sy1 bin1 [nɐu35 sɿ55 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[nɐu35 sɿ55 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>絞絲旁</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/絞絲旁（糹）</li></ul>
+</>
 紐門
 【紐門（纽门）】 nau2 mun4 [nɐu35 mun21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P37，46 附：[nɐu35 mun21]</li><li><span style="font-weight: bold">詞例、解釋：</span>釦眼1</li><li><span style="font-weight: bold">備註：</span>原文作「鈕」字，作陽上</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/釦眼兒</li></ul>
 </>
@@ -11021,7 +11000,7 @@
 【細仔（细仔）】 slai3 zai2 [ɬɐi33 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P40 附：[ɬɐi33 tsɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>小兒子1</li><li><span style="font-weight: bold">分類：</span>十、親屬（3）晚輩/小兒子</li></ul>
 </>
 細佬
-【細佬（细佬）】 slai3 lu2 [ɬɐi33 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P40 附：[ɬɐi33 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>弟3</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/弟弟</li></ul>
+【細佬（细佬）】 slai3 lu2 [ɬɐi33 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P40 附：[ɬɐi33 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>弟3</li><li><span style="font-weight: bold">備註：</span>原文「佬」字標變調[24-35]</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/弟弟</li></ul>
 </>
 細佬哥
 【細佬哥（细佬哥）】 slai3 lu2 go1 [ɬɐi33 lu35 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[ɬɐi33 lu35 kɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>小孩兒3</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/小孩兒</li></ul>
@@ -11172,6 +11151,9 @@
 </>
 纽
 @@@LINK=紐
+</>
+纽丝边
+@@@LINK=紐絲邊
 </>
 纽窿
 @@@LINK=紐窿
@@ -12038,7 +12020,7 @@
 【舅父】 kau5 fu2 [kʰɐu24 fu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P40 附：[kʰɐu24 fu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>舅父1</li><li><span style="font-weight: bold">分類：</span>十、親屬（1）長輩/舅父</li></ul>
 </>
 舅父
-【舅父】 kau5 fu2 [kʰɐu24 fu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P41 附：[kʰɐu24 fu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>內兄弟2</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/內兄弟</li></ul>
+【舅父】 kau5 fu2 [kʰɐu24 fu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P41 附：[kʰɐu24 fu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>內兄弟2</li><li><span style="font-weight: bold">備註：</span>存疑</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/內兄弟</li></ul>
 </>
 舉手
 【舉手（举手）】 gyu2 sau2 [ky35 ʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[ky35 sɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>舉手</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/舉手</li></ul>
@@ -12072,6 +12054,9 @@
 </>
 舒服
 【舒服】 syu1 fuk6 [ʃy55 fʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[sy55 fok2]</li><li><span style="font-weight: bold">詞例、解釋：</span>舒服</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/舒服</li></ul>
+</>
+舕
+【舕】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P63 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄騙1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/騙</li></ul>
 </>
 舞狮子
 @@@LINK=舞獅子
@@ -12224,7 +12209,7 @@
 【苦瓜】 fu2 gwaa1 [fu35 kʷa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P28 附：[fu35 kʷa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦瓜</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/苦瓜</li></ul>
 </>
 苦頭
-【苦頭（苦头）】 fu2 tau4 [fu35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[fu35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/苦頭兒</li></ul>
+【苦頭（苦头）】 fu2 tau4 [fu35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[fu35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦頭兒</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/苦頭兒</li></ul>
 </>
 苦麥菜
 【苦麥菜（苦麦菜）】 fu2 mak6 coi3 [fu35 mɐk2 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P28 附：[fu35 mɐk2 tsʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>苦麥菜</li><li><span style="font-weight: bold">備註：</span>原文作「苦墨菜」</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/苦麥菜</li></ul>
@@ -13099,8 +13084,8 @@
 补裤
 @@@LINK=補褲
 </>
-补𤶸
-@@@LINK=補𤶸
+补𤶠
+@@@LINK=補𤶠
 </>
 表
 @@@LINK=錶
@@ -13240,8 +13225,8 @@
 補褲
 【補褲（补裤）】 bu2 fu3 [pu35 fu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[pu35 fu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>補褲子</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/補褲子</li></ul>
 </>
-補𤶸
-【補𤶸（补𤶸）】 bu2 naa1 [pu35 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P37 附：[pu35 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>補丁</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/打補丁</li></ul>
+補𤶠
+【補𤶠（补𤶠）】 bu2 naa1 [pu35 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P37 附：[pu35 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>補丁</li><li><span style="font-weight: bold">備註：</span>原文[na55]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/打補丁</li></ul>
 </>
 裝癡
 【裝癡（装痴）】 zong1 ci1 [tʃɔŋ55 tʃʰi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P55 附：[tsɔŋ55 tsʰi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>裝傻3</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/裝糊塗</li></ul>
@@ -13906,9 +13891,6 @@
 賤格
 【賤格（贱格）】 zin6 gaak3 [tʃin22 kak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[tsin22 kak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>缺德、賤</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/缺德</li></ul>
 </>
-賧
-【賧（赕）】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P63 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄騙1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/騙</li></ul>
-</>
 賬房
 【賬房（账房）】 zoeng3 fong4 [tʃœŋ33 fɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P56 附：[tsœŋ33 fɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>賬房</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（3）賬目、度量衡/賬房</li></ul>
 </>
@@ -13960,9 +13942,6 @@
 赊数
 @@@LINK=賒數
 </>
-赕
-@@@LINK=賧
-</>
 赖
 @@@LINK=賴
 </>
@@ -13998,6 +13977,21 @@
 </>
 趯
 【趯】 dek3 [tɛk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P63 附：[tɛk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>跑</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/跑</li></ul>
+</>
+趯土旁
+【趯土旁】 tek3 tu2 pong4 [tʰɛk3 tʰu35 pʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[tʰɛk3 tʰu35 pʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁1</li><li><span style="font-weight: bold">備註：</span>原文作「踢土旁」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提土旁</li></ul>
+</>
+趯土边
+@@@LINK=趯土邊
+</>
+趯土邊
+【趯土邊（趯土边）】 tek3 tu2 bin1 [tʰɛk3 tʰu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[tʰɛk3 tʰu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁2</li><li><span style="font-weight: bold">備註：</span>原文作「踢土邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提土旁</li></ul>
+</>
+趯手边
+@@@LINK=趯手邊
+</>
+趯手邊
+【趯手邊（趯手边）】 tek3 sau2 bin1 [tʰɛk3 ʃɐu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[tʰɛk3 sɐu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁</li><li><span style="font-weight: bold">備註：</span>原文作「踢手邊」</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（4）寫字/提手旁（扌）</li></ul>
 </>
 趴住睡
 【趴住睡】 paa1 zyu6 sui6 [pʰa55 tʃy22 ʃui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P55 附：[pʰa55 tsy22 sui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>俯睡1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/趴着睡</li></ul>
@@ -15254,7 +15248,7 @@
 @@@LINK=阿媽
 </>
 阿妹
-【阿妹】 aa3 mui2 [a33 mui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P40 附：[a33 mui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>妹妹2</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/妹妹</li></ul>
+【阿妹】 aa3 mui2 [a33 mui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P40 附：[a33 mui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>妹妹2</li><li><span style="font-weight: bold">備註：</span>變調</li><li><span style="font-weight: bold">分類：</span>十、親屬（2）平輩/妹妹</li></ul>
 </>
 阿姑
 【阿姑】 aa3 gu1 [a33 ku55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P40 附：[a33 ku55]</li><li><span style="font-weight: bold">詞例、解釋：</span>姑2</li><li><span style="font-weight: bold">分類：</span>十、親屬（1）長輩/姑姑</li></ul>
@@ -15628,8 +15622,8 @@
 面条
 @@@LINK=麪條
 </>
-面疙𤶸
-@@@LINK=麪疙𤶸
+面疙𤶠
+@@@LINK=麪疙𤶠
 </>
 面皮厚
 【面皮厚】 min6 pi4 hau5 [min22 pʰi21 hɐu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P41 附：[min22 pʰi21 hɐu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>不要臉2</li><li><span style="font-weight: bold">分類：</span>十八、交際/丟人</li></ul>
@@ -15992,7 +15986,7 @@
 【食欖（食榄）】 sik6 laam2 [ʃek2 lam35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P60 附：[sek2 lam35]</li><li><span style="font-weight: bold">詞例、解釋：</span>織拙</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（1）遊戲、玩具/翻繩</li></ul>
 </>
 食法
-【食法】 sik6 faat3 [ʃek2 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[sek2 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/吃頭兒</li></ul>
+【食法】 sik6 faat3 [ʃek2 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[sek2 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒2</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/吃頭兒</li></ul>
 </>
 食消口
 【食消口】 sik6 sliu1 hau2 [ʃek2 ɬiu55 hɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[sek2 ɬiu55 hɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃零食2</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/吃零食</li></ul>
@@ -16016,7 +16010,7 @@
 【食過早（食过早）】 sik6 go3 zu2 [ʃek2 kɔ33 tʃu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[sek2 kɔ33 tsu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃早點</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/吃早飯</li></ul>
 </>
 食頭
-【食頭（食头）】 sik6 tau4 [ʃek2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[sek2 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分/吃頭兒</li></ul>
+【食頭（食头）】 sik6 tau4 [ʃek2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[sek2 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃頭兒1</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/吃頭兒</li></ul>
 </>
 食飯
 【食飯（食饭）】 sik6 faan6 [ʃek2 fan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[sek2 fan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>吃飯</li><li><span style="font-weight: bold">分類：</span>十四、飲食（1）伙食/吃飯</li></ul>
@@ -16792,8 +16786,8 @@
 麪條
 【麪條（面条）】 min6 tiu4 [min22 tʰiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P47 附：[min22 tʰiu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>麪條1</li><li><span style="font-weight: bold">分類：</span>十四、飲食（3）麪食/麪條兒</li></ul>
 </>
-麪疙𤶸
-【麪疙𤶸（面疙𤶸）】 min6 gat1 naa1 [min22 kɐt5 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P47 附：[min22 kɐt5 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>麪疙瘩1</li><li><span style="font-weight: bold">分類：</span>十四、飲食（3）麪食/麪疙瘩</li></ul>
+麪疙𤶠
+【麪疙𤶠（面疙𤶠）】 min6 gat1 naa1 [min22 kɐt5 na55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P47 附：[min22 kɐt5 na55]</li><li><span style="font-weight: bold">詞例、解釋：</span>麪疙瘩1</li><li><span style="font-weight: bold">備註：</span>原文作「麪疙𤶸」</li><li><span style="font-weight: bold">分類：</span>十四、飲食（3）麪食/麪疙瘩</li></ul>
 </>
 麪粉
 【麪粉（面粉）】 min6 fan2 [min22 fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P47 附：[min22 fɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>麪粉1</li><li><span style="font-weight: bold">分類：</span>十四、飲食（3）麪食/麪粉</li></ul>
@@ -17062,9 +17056,6 @@
 𠖫
 【𠖫】 kam2 [kʰɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[kʰɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蓋</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/蓋</li></ul>
 </>
-𠯋
-【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[jɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞（不好）、次1</li><li><span style="font-weight: bold">備註：</span>原文作「曳」字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/壞</li></ul>
-</>
 𢳂水
 【𢳂水】 bat1 sui2 [pɐt5 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[pɐt5 sui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀水</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/舀水</li></ul>
 </>
@@ -17088,15 +17079,6 @@
 </>
 𤶊
 @@@LINK=癐
-</>
-𤹍雞
-【𤹍雞（𤹍鸡）】 nang1 gai1 [nɐŋ55 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P44 附：[nɐŋ55 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤、疤痕</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/疤</li></ul>
-</>
-𤹍鸡
-@@@LINK=𤹍雞
-</>
-𦍀被
-【𦍀被】 naan3 pi5 [nan33 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[nan33 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>縫被臥2</li><li><span style="font-weight: bold">備註：</span>原文[nan33]有音無字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/做被臥</li></ul>
 </>
 𧊅
 【𧊅】 kwe2 [kʷʰɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P34 附：[kʷʰɛ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>小青蛙</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/小青蛙</li></ul>

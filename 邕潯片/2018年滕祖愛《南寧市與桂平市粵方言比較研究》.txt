@@ -1505,7 +1505,7 @@
 【咽】 jin1 [jin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P111 附：[∅in55]</li></ul>
 </>
 咿
-【咿】 ji1 [ji55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P108 附：[∅i55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～㕭[∅iau55]㕭[∅iau55]：嬉皮笑臉</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【咿】 ji1 [ji55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P108 附：[∅i55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～呦[∅iau55]呦[∅iau55]：嬉皮笑臉</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 哀
 【哀】 oi1 [∅ɔi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P110 附：[∅ɔi55]</li></ul>
@@ -3782,7 +3782,7 @@
 【掌】 zoeng2 [tʃœŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P114 附：[tʃœŋ35]</li></ul>
 </>
 掐
-【掐】 caa1 [tʃʰa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P109 附：[tʃʰa55]</li><li><span style="font-weight: bold">備註：</span>疑訓讀「揢/扠」字，見馮思禹《廣州音字彙》「揢」字</li></ul>
+【掐】 caa1 [tʃʰa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P109 附：[tʃʰa55]</li><li><span style="font-weight: bold">備註：</span>疑訓讀「扠」字，又疑或編排有誤</li></ul>
 </>
 排
 【排】 paai4 [pʰai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P110 附：[pʰai21]</li></ul>
@@ -7592,7 +7592,7 @@
 【膽（胆）】 daam2 [tam35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P112 附：[tam35]</li></ul>
 </>
 臀
-【臀】 din6 [tin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P111 附：[tin22]</li></ul>
+【臀】 din6 [tin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P111 附：[tin22]</li><li><span style="font-weight: bold">備註：</span>讀同「殿」</li></ul>
 </>
 臀
 【臀】 tan4 [tʰɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2018年滕祖愛《南寧市與桂平市粵方言比較研究》P113 附：[tʰɐn21]</li><li><span style="font-weight: bold">備註：</span>原文作[thuɐn21]</li></ul>

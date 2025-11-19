@@ -28,6 +28,9 @@
 㜺
 【㜺】 zaan2 [tʃan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[tsan33]</li><li><span style="font-weight: bold">詞例、解釋：</span>好看；漂亮：亞隻女崽～啝</li></ul>
 </>
+㜺
+【㜺】 zon2 [tʃon33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[tson33]</li><li><span style="font-weight: bold">詞例、解釋：</span>好，漂亮</li><li><span style="font-weight: bold">備註：</span>原文作「𩯳」字</li></ul>
+</>
 㞓
 【㞓】 hai1 [hɐi53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P278 附：[həi53]</li><li><span style="font-weight: bold">詞例、解釋：</span>①女陰：～毛②某些雌性動物的生殖器：狗～③詈语，用來修飾某些詞語：亞隻～人，更難講（這麼難說話）</li></ul>
 </>
@@ -132,9 +135,6 @@
 </>
 䭔
 【䭔（𫗰）】 dui1 [tui53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P281 附：[tui53]</li><li><span style="font-weight: bold">詞例、解釋：</span>一種餅類食品</li></ul>
-</>
-䰖
-【䰖】 zon2 [tʃon33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[tson33]</li><li><span style="font-weight: bold">詞例、解釋：</span>好，漂亮</li><li><span style="font-weight: bold">備註：</span>原文作「𩯳」字</li></ul>
 </>
 东
 @@@LINK=東
@@ -787,9 +787,6 @@
 磕
 【磕】 haap2 [hap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[hap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>磕碰</li><li><span style="font-weight: bold">備註：</span>原文作「𢾩」字</li></ul>
 </>
-磡
-【磡】 haam2 [ham33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[ham33]</li><li><span style="font-weight: bold">詞例、解釋：</span>高而險，幾近垂直的河岸：龐屋～（地名）</li><li><span style="font-weight: bold">備註：</span>原文作「墈」字</li></ul>
-</>
 礘
 【礘】 ngap6 [ŋɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[ŋəp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>（魚）張口呼吸：魚浮頭～喇</li></ul>
 </>
@@ -1210,12 +1207,6 @@
 𨅬
 @@@LINK=躝
 </>
-𨲽
-【𨲽】 zon2 [tʃon33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[tson33]</li><li><span style="font-weight: bold">詞例、解釋：</span>好，漂亮</li><li><span style="font-weight: bold">備註：</span>原文作「𩯳」字</li></ul>
-</>
-𨳄
-【𨳄】 zon2 [tʃon33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[tson33]</li><li><span style="font-weight: bold">詞例、解釋：</span>好，漂亮</li><li><span style="font-weight: bold">備註：</span>原文作「𩯳」字</li></ul>
-</>
 𩑦
 【𩑦】 mot6 [mot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[mot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>屏着氣沒入水中</li></ul>
 </>
@@ -1223,7 +1214,7 @@
 @@@LINK=𩯳
 </>
 𩯳
-【𩯳（𩯒）】 zon2 [tʃon33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[tson33]</li><li><span style="font-weight: bold">詞例、解釋：</span>好，漂亮</li></ul>
+【𩯳（𩯒）】 zon2 [tʃon33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[tson33]</li><li><span style="font-weight: bold">詞例、解釋：</span>好，漂亮</li><li><span style="font-weight: bold">備註：</span>應當作「㜺」字</li></ul>
 </>
 𪃏
 【𪃏（𪉏）】 mui4 [mui21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[mui21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～子：①用以誘鳥的馴鳥 ②指跟別人配合引誘人上當的人</li></ul>

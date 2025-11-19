@@ -832,18 +832,6 @@
 前頭
 【前頭（前头）】 cin4 tau4 [tʃʰin21 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1894 附：[tʃʰin21 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>前面</li><li><span style="font-weight: bold">分類：</span>十九、方位/前面</li></ul>
 </>
-剔土边
-@@@LINK=剔土邊
-</>
-剔土邊
-【剔土邊（剔土边）】 tek3 tu2 bin1 [tʰɛk3 tʰu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1762 附：[tʰɛk3 tʰu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁（土）</li><li><span style="font-weight: bold">備註：</span>原文作「踢土邊」</li><li><span style="font-weight: bold">分類：</span>十六、文化/提土旁（土）</li></ul>
-</>
-剔手边
-@@@LINK=剔手邊
-</>
-剔手邊
-【剔手邊（剔手边）】 tek3 sau2 bin1 [tʰɛk3 ʃɐu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1764 附：[tʰɛk3 ʃɐu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁（扌）</li><li><span style="font-weight: bold">備註：</span>原文作「踢手邊」</li><li><span style="font-weight: bold">分類：</span>十六、文化/提手旁（扌）</li></ul>
-</>
 剩落
 【剩落】 zing6 lok6 [tʃeŋ22 lɔk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1834 附：[tʃiŋ22 lɔk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>剩下</li><li><span style="font-weight: bold">分類：</span>十七、動作/剩下</li></ul>
 </>
@@ -2242,6 +2230,9 @@
 折被
 @@@LINK=摺被
 </>
+披
+【披】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1782 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/撲克</li></ul>
+</>
 披上
 【披上】 pi1 soeng5 [pʰi55 ʃœŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1808 附：[pʰi55 ʃœŋ23]</li><li><span style="font-weight: bold">詞例、解釋：</span>披上</li><li><span style="font-weight: bold">分類：</span>十七、動作/披上</li></ul>
 </>
@@ -3062,6 +3053,9 @@
 【泡打粉】 peu1 daa2 fan2 [pʰɛu55 ta35 fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1580 附：[pʰɛu55 ta35 fɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>麥酵子</li><li><span style="font-weight: bold">分類：</span>十一、飲食/麥酵子</li></ul>
 </>
 泥
+【泥】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1850 附：[iɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞（不好）</li><li><span style="font-weight: bold">備註：</span>原文[jɐi21]有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/壞（不好）</li></ul>
+</>
+泥
 【泥】 nai4 [nɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1106 附：[nɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>泥土</li><li><span style="font-weight: bold">分類：</span>一、自然/泥土</li></ul>
 </>
 泥水佬
@@ -3620,7 +3614,7 @@
 【瘋狗（疯狗）】 fung1 gau2 [fʊŋ55 kɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1252 附：[fuŋ55 kɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘋狗</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>五、動物/瘋狗</li></ul>
 </>
 瘦
-【瘦】 sau3 [ʃɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1868 附：[ʃɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦（不肥不瘦）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦（不肥不瘦）</li></ul>
+【瘦】 sau3 [ʃɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1868 附：[ʃɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦（不肥不胖）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘦（不肥不胖）</li></ul>
 </>
 癐
 【癐（𤶊）】 gui6 [kui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1876 附：[kui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>疲勞</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/疲勞</li></ul>
@@ -4429,11 +4423,11 @@
 脹了
 【脹了（胀了）】 zoeng3 liu5 [tʃœŋ33 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1594 附：[tʃœŋ33 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>（吃）脹了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十一、飲食/（吃）脹了</li></ul>
 </>
-脾气𠯋
-@@@LINK=脾氣𠯋
+脾气泥
+@@@LINK=脾氣泥
 </>
-脾氣𠯋
-【脾氣𠯋（脾气𠯋）】 pi4 hi3 jai4 [pʰi21 hi33 jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1880 附：[pʰi21 hi33 iɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>脾氣壞</li><li><span style="font-weight: bold">備註：</span>原文[iɐi21]有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/脾氣壞</li></ul>
+脾氣泥
+【脾氣泥（脾气泥）】 pi4 hi3 jai4 [pʰi21 hi33 jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1880 附：[pʰi21 hi33 iɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>脾氣壞</li><li><span style="font-weight: bold">備註：</span>原文[iɐi21]有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/脾氣壞</li></ul>
 </>
 腊肠
 @@@LINK=臘腸
@@ -4536,6 +4530,9 @@
 </>
 舊飯
 【舊飯（旧饭）】 gau6 faan6 [kɐu22 fan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1544 附：[kɐu22 fan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>剩飯</li><li><span style="font-weight: bold">分類：</span>十一、飲食/剩飯</li></ul>
+</>
+舕
+【舕】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1810 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄（小孩）</li><li><span style="font-weight: bold">備註：</span>原文[tʰɐm33]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哄（小孩）</li></ul>
 </>
 舞狮子
 @@@LINK=舞獅子
@@ -5239,9 +5236,6 @@
 賒帳
 【賒帳（赊帐）】 se1 zoeng3 [ʃɛ55 tʃœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1704 附：[ʃɛ55 tʃœŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>賒帳</li><li><span style="font-weight: bold">備註：</span>同「賒賬」</li><li><span style="font-weight: bold">分類：</span>十五、商業/賒帳</li></ul>
 </>
-賧
-【賧（赕）】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1810 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄（小孩）</li><li><span style="font-weight: bold">備註：</span>原文[tʰɐm33]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哄（小孩）</li></ul>
-</>
 賴菢雞
 【賴菢雞（赖菢鸡）】 laai6 bu6 gai1 [lai22 pu22 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1262 附：[lai22 pu22 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>菢窩雞</li><li><span style="font-weight: bold">分類：</span>五、動物/菢窩雞</li></ul>
 </>
@@ -5253,9 +5247,6 @@
 </>
 赊帐
 @@@LINK=賒帳
-</>
-赕
-@@@LINK=賧
 </>
 赖菢鸡
 @@@LINK=賴菢雞
@@ -5274,6 +5265,18 @@
 </>
 起身
 【起身】 hi2 san1 [hi35 ʃɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1600 附：[hi35 ʃɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>起牀</li><li><span style="font-weight: bold">分類：</span>十二、起居/起牀</li></ul>
+</>
+趯土边
+@@@LINK=趯土邊
+</>
+趯土邊
+【趯土邊（趯土边）】 tek3 tu2 bin1 [tʰɛk3 tʰu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1762 附：[tʰɛk3 tʰu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提土旁（土）</li><li><span style="font-weight: bold">備註：</span>原文作「踢土邊」</li><li><span style="font-weight: bold">分類：</span>十六、文化/提土旁（土）</li></ul>
+</>
+趯手边
+@@@LINK=趯手邊
+</>
+趯手邊
+【趯手邊（趯手边）】 tek3 sau2 bin1 [tʰɛk3 ʃɐu35 pin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1764 附：[tʰɛk3 ʃɐu35 pin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提手旁（扌）</li><li><span style="font-weight: bold">備註：</span>原文作「踢手邊」</li><li><span style="font-weight: bold">分類：</span>十六、文化/提手旁（扌）</li></ul>
 </>
 跌了
 【跌了】 dit3 liu5 [tit3 liu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1820 附：[tit3 liu23]</li><li><span style="font-weight: bold">詞例、解釋：</span>摔了</li><li><span style="font-weight: bold">備註：</span>書面</li><li><span style="font-weight: bold">分類：</span>十七、動作/摔了</li></ul>
@@ -6462,12 +6465,6 @@
 </>
 𠍲嘅
 【𠍲嘅】 kyu5 ge3 [kʰy24 kɛ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1912 附：[kʰy23 kɛ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>他的</li><li><span style="font-weight: bold">備註：</span>原文[kɛ33]有音無字</li><li><span style="font-weight: bold">分類：</span>二十、指代/他的</li></ul>
-</>
-𠯋
-【𠯋】 jai4 [jɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1850 附：[iɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞（不好）</li><li><span style="font-weight: bold">備註：</span>原文[jɐi21]有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/壞（不好）</li></ul>
-</>
-𠵿
-【𠵿】 pe1 [pʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1782 附：[pʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>撲克</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/撲克</li></ul>
 </>
 𢳂羹
 【𢳂羹】 bat1 gang1 [pɐt5 kɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1812 附：[pɐt5 kɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀湯</li><li><span style="font-weight: bold">備註：</span>原文[pɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/舀湯</li></ul>
