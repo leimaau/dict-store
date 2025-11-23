@@ -3955,9 +3955,6 @@
 紅咚咚
 【紅咚咚（红咚咚）】 hung4 dung1 dung1 [hʊŋ21 tʊŋ55 tʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[huŋ21 tuŋ55 tuŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，紅彤彤。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/紅</li></ul>
 </>
-紅艷艷
-【紅艷艷（红艳艳）】 hung4 jem1 jem1 [hʊŋ21 jɛm55 jɛm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[huŋ21 jɛm55 jɛm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，紅艷艷。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/紅</li></ul>
-</>
 紅蘿蔔
 【紅蘿蔔（红萝卜）】 hung4 lo4 baak6 [hʊŋ21 lɔ21 pak2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[huŋ21 lɔ21 pak2]</li><li><span style="font-weight: bold">詞例、解釋：</span>胡蘿蔔</li><li><span style="font-weight: bold">分類：</span>四、植物/胡蘿蔔</li></ul>
 </>
@@ -4044,9 +4041,6 @@
 </>
 红咚咚
 @@@LINK=紅咚咚
-</>
-红艳艳
-@@@LINK=紅艷艷
 </>
 红艳艳
 @@@LINK=紅豔豔
@@ -5719,20 +5713,20 @@
 风尘
 @@@LINK=風塵
 </>
-飛發
-【飛發（飞发）】 fi1 faat3 [fi55 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fi55 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>理髮</li><li><span style="font-weight: bold">分類：</span>十、服飾/理髮</li></ul>
+飛髮
+【飛髮（飞发）】 fi1 faat3 [fi55 fat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fi55 fat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>理髮</li><li><span style="font-weight: bold">分類：</span>十、服飾/理髮</li></ul>
 </>
-飛發佬
-【飛發佬（飞发佬）】 fi1 faat3 lu2 [fi55 fat3 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fi55 fat3 lu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>理髮師</li><li><span style="font-weight: bold">分類：</span>七、稱謂/職業稱謂/理髮師</li></ul>
+飛髮佬
+【飛髮佬（飞发佬）】 fi1 faat3 lu2 [fi55 fat3 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fi55 fat3 lu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>理髮師</li><li><span style="font-weight: bold">分類：</span>七、稱謂/職業稱謂/理髮師</li></ul>
 </>
 飛鼠
 【飛鼠（飞鼠）】 fi1 syu2 [fi55 ʃy35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fi55 ʃy35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝙蝠</li><li><span style="font-weight: bold">分類：</span>五、動物/蝙蝠</li></ul>
 </>
 飞发
-@@@LINK=飛發
+@@@LINK=飛髮
 </>
 飞发佬
-@@@LINK=飛發佬
+@@@LINK=飛髮佬
 </>
 飞鼠
 @@@LINK=飛鼠

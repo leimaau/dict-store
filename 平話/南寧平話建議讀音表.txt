@@ -3389,7 +3389,7 @@
 【咥】南寧平話：hi3「大笑貌」,dit6「咬」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>hei3,dit6</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 咦
-【咦】南寧平話：ji4<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)ji5</li><li><span style="font-weight: bold">廣州話：</span>ji2；本讀ji4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
+【咦】南寧平話：ji4「嘆詞」,hi1「笑貌」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)ji5</li><li><span style="font-weight: bold">廣州話：</span>ji2；本讀ji4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 咧
 【咧】南寧平話：lyut5「咧嘴」,le3「大大咧咧（口語稱大啦啦）；唓[tʃʰe55]～，話多、愛表現，源自啁嘐/周遮，語多」<ul type="square"><li><span style="font-weight: bold">又音：</span>(語)le4「語氣詞，𠯔斜[tsʰe21]～，呸；象聲詞，唏[hi21]哩[li21]㗾[he21]～，喘氣聲，啤[pi21]哩[li21]嘣[pɛm21]～，鞭炮聲」,(語)le2「嗲[te33]嗲[te33]～～，撒嬌的聲音或態度」</li><li><span style="font-weight: bold">廣州話：</span>lit6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -3626,7 +3626,7 @@
 【唬】南寧平話：hu2「唬人」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>fu2；同嚇</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 唭
-【唭】南寧平話：ki3「無聞見；有聲無辭」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kei3,gei1</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【唭】南寧平話：ki3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>kei3,gei1</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
 </>
 售
 【售】南寧平話：sau6<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sau6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -6476,7 +6476,7 @@
 【屍（尸）】南寧平話：si1「屍骨，死屍」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>si1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 屎
-【屎】南寧平話：si2「屎尿；〈語〉差勁、水平低」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>si2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【屎】南寧平話：si2「屎尿，拉屎；菸筒～，菸油子；〈語〉差勁、水平低」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>si2</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 屏
 【屏】南寧平話：bing4「屏風」,bing2「屏除，屏息」,bing1「屏營」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>1)ping4:屏風 2)bing2:屏息;同摒</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -8939,7 +8939,7 @@
 【拚】南寧平話：pun3「拚命，拚死，源自拌」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>pun3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 招
-【招】南寧平話：ziu1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ziu1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【招】南寧平話：ziu1「招手，招牌」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>ziu1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 拜
 【拜】南寧平話：baai3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>baai3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -18485,7 +18485,7 @@
 【篡】南寧平話：con3<ul type="square"><li><span style="font-weight: bold">廣州話：</span>saan3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 篢
-【篢（𬕂）】南寧平話：goeng1「篢笠」,loeng3「箱籠，本字籠；地名用字」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lung5</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
+【篢（𬕂）】南寧平話：goeng1「篢笠」,loeng3「同籠字；地名用字」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>lung5</li><li><span style="font-weight: bold">字表等級：</span>3級字</li></ul>
 </>
 篣
 【篣】南寧平話：baang4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>pang4,pong4</li><li><span style="font-weight: bold">字表等級：</span>5級字</li></ul>
@@ -21512,7 +21512,7 @@
 【菶】南寧平話：boeng2「菶菶」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>bung2</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 菸
-【菸（烟）】南寧平話：jyun1「香菸，菸草」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jin1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【菸（烟）】南寧平話：jyun1「香菸，菸草；吃～，抽菸；～筒屎，菸具中的菸垢、菸油子」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jin1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 菹
 【菹】南寧平話：zyu1<ul type="square"><li><span style="font-weight: bold">廣州話：</span>zeoi1</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -33329,7 +33329,7 @@ heu3
 <span style="font-weight: bold">音節：</span>heu3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://耗">耗</a>」
 </>
 hi1
-<span style="font-weight: bold">音節：</span>hi1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://俙">俙</a>」,「<a href="entry://鱚">鱚</a>」,「<a href="entry://魌">魌</a>」,「<a href="entry://釐">釐</a>」,「<a href="entry://醯">醯</a>」,「<a href="entry://郗">郗</a>」,「<a href="entry://豨">豨</a>」,「<a href="entry://譆">譆</a>」,「<a href="entry://誒">誒</a>」,「<a href="entry://羲">羲</a>」,「<a href="entry://絺">絺</a>」,「<a href="entry://稀">稀</a>」,「<a href="entry://禧">禧</a>」,「<a href="entry://睎">睎</a>」,「<a href="entry://琋">琋</a>」,「<a href="entry://犧">犧</a>」,「<a href="entry://爔">爔</a>」,「<a href="entry://熹">熹</a>」,「<a href="entry://熙">熙</a>」,「<a href="entry://烯">烯</a>」,「<a href="entry://浠">浠</a>」,「<a href="entry://欺">欺</a>」,「<a href="entry://欷">欷</a>」,「<a href="entry://榿">榿</a>」,「<a href="entry://曦">曦</a>」,「<a href="entry://晞">晞</a>」,「<a href="entry://希">希</a>」,「<a href="entry://巇">巇</a>」,「<a href="entry://嬉">嬉</a>」,「<a href="entry://娭">娭</a>」,「<a href="entry://嚱">嚱</a>」,「<a href="entry://嘿">嘿</a>」,「<a href="entry://嘻">嘻</a>」,「<a href="entry://唏">唏</a>」,「<a href="entry://兮">兮</a>」,「<a href="entry://僖">僖</a>」
+<span style="font-weight: bold">音節：</span>hi1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://俙">俙</a>」,「<a href="entry://鱚">鱚</a>」,「<a href="entry://魌">魌</a>」,「<a href="entry://釐">釐</a>」,「<a href="entry://醯">醯</a>」,「<a href="entry://郗">郗</a>」,「<a href="entry://豨">豨</a>」,「<a href="entry://譆">譆</a>」,「<a href="entry://誒">誒</a>」,「<a href="entry://羲">羲</a>」,「<a href="entry://絺">絺</a>」,「<a href="entry://稀">稀</a>」,「<a href="entry://禧">禧</a>」,「<a href="entry://睎">睎</a>」,「<a href="entry://琋">琋</a>」,「<a href="entry://犧">犧</a>」,「<a href="entry://爔">爔</a>」,「<a href="entry://熹">熹</a>」,「<a href="entry://熙">熙</a>」,「<a href="entry://烯">烯</a>」,「<a href="entry://浠">浠</a>」,「<a href="entry://欺">欺</a>」,「<a href="entry://欷">欷</a>」,「<a href="entry://榿">榿</a>」,「<a href="entry://曦">曦</a>」,「<a href="entry://晞">晞</a>」,「<a href="entry://希">希</a>」,「<a href="entry://巇">巇</a>」,「<a href="entry://嬉">嬉</a>」,「<a href="entry://娭">娭</a>」,「<a href="entry://嚱">嚱</a>」,「<a href="entry://嘿">嘿</a>」,「<a href="entry://嘻">嘻</a>」,「<a href="entry://唏">唏</a>」,「<a href="entry://咦">咦</a>」,「<a href="entry://兮">兮</a>」,「<a href="entry://僖">僖</a>」
 </>
 hi2
 <span style="font-weight: bold">音節：</span>hi2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://呇">呇</a>」,「<a href="entry://𨭎">𨭎</a>」,「<a href="entry://起">起</a>」,「<a href="entry://豈">豈</a>」,「<a href="entry://蟢">蟢</a>」,「<a href="entry://芑">芑</a>」,「<a href="entry://玘">玘</a>」,「<a href="entry://暿">暿</a>」,「<a href="entry://憙">憙</a>」,「<a href="entry://屺">屺</a>」,「<a href="entry://囍">囍</a>」,「<a href="entry://喜">喜</a>」,「<a href="entry://啟">啟</a>」,「<a href="entry://啓">啓</a>」

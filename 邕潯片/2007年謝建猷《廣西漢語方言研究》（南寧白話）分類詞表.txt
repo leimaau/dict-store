@@ -794,7 +794,7 @@
 【利息】 li6 slik1 [li22 ɬek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1718 附：[li22 ɬik5]</li><li><span style="font-weight: bold">詞例、解釋：</span>紅利</li><li><span style="font-weight: bold">分類：</span>十五、商業/紅利</li></ul>
 </>
 利錢
-【利錢（利钱）】 li6 cin4 [li22 tʃʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1454 附：[li22 tʃʰin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>舌頭</li><li><span style="font-weight: bold">分類：</span>八、人體/舌頭</li></ul>
+【利錢（利钱）】 li6 cin4 [li22 tʃʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1454 附：[li22 tʃʰin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>舌頭</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>八、人體/舌頭</li></ul>
 </>
 利钱
 @@@LINK=利錢

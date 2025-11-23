@@ -10,8 +10,11 @@
 凐水
 【凐水】 jan1 sui2 [jɐn53 ʃui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P656 附：[jɐn53 ʃui33]</li><li><span style="font-weight: bold">詞例、解釋：</span>涼水</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-利前
-【利前】 li6 zin4 [li22 tʃin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P658 附：[li22 tʃin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>舌頭</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+利錢
+【利錢（利钱）】 li6 zin4 [li22 tʃin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P658 附：[li22 tʃin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>舌頭</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+利钱
+@@@LINK=利錢
 </>
 剁
 【剁】 diak2 [tiɐk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P656 附：[tɛk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>剁肉</li><li><span style="font-weight: bold">備註：</span>原文有音無字，標音[tɛk3]</li></ul>

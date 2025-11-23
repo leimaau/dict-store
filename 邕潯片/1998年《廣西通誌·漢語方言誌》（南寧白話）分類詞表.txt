@@ -6239,7 +6239,7 @@
 【搋麪粉（搋面粉）】 caai1 min6 fan2 [tʃʰai55 min22 fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P50 附：[tsʰai55 min22 fɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>和麪</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/和麪</li></ul>
 </>
 搏抵
-【搏抵】 bok3 dai2 [pɔk3 tɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P56 附：[pɔk3 tɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>揩油2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/佔便宜</li></ul>
+【搏抵】 bok3 dai2 [pɔk3 tɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P56 附：[pɔk3 tɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>揩油2</li><li><span style="font-weight: bold">備註：</span>原文作「博抵」</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/佔便宜</li></ul>
 </>
 搓衫板
 【搓衫板】 co1 saam1 baan2 [tʃʰɔ55 ʃam55 pan35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P37 附：[tsʰɔ55 sam55 pan35]</li><li><span style="font-weight: bold">詞例、解釋：</span>洗衣板1</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（5）其他生活用品/洗衣板兒</li></ul>
@@ -10030,14 +10030,8 @@
 眼角
 【眼角】 ngen5 gok3 [ŋɛn24 kɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P41 附：[ŋɛn24 kɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>眼梢</li><li><span style="font-weight: bold">分類：</span>十一、身體（1）五官/眼角兒</li></ul>
 </>
-眼轉囉囉
-【眼轉囉囉（眼转啰啰）】 ngen5 zyun3 lo1 lo1 [ŋɛn24 tʃyn33 lɔ55 lɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[ŋɛn24 tsyn33 lɔ55 lɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>眼睛亂轉</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/眼睛亂轉</li></ul>
-</>
 眼轉螺螺
 【眼轉螺螺（眼转螺螺）】 ngen5 zyun3 lo1 lo1 [ŋɛn24 tʃyn33 lɔ55 lɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[ŋɛn24 tsyn33 lɔ55 lɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>眼睛亂轉</li><li><span style="font-weight: bold">備註：</span>原文作「眼轉囉囉」</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/眼睛亂轉</li></ul>
-</>
-眼转啰啰
-@@@LINK=眼轉囉囉
 </>
 眼转螺螺
 @@@LINK=眼轉螺螺
