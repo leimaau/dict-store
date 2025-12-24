@@ -22,9 +22,6 @@
 哄
 【哄】 hoeng2 [hœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P658 附：[hœŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>騙</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-囗(bot6)囗(lot6)子(zi2)
-【囗(bot6)囗(lot6)子(zi2)】 bot6 lot6 zi2 [pot2 lot2 tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P658 附：[pɔt2 lɔt2 tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝌蚪</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 囗(njaang3)
 【囗(njaang3)】 njaang3 [ȵaŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P656 附：[ȵaŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>咬</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -46,6 +43,9 @@
 忔
 【忔】 nget3 [ŋɛt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P661 附：[ŋɛt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>小氣</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
+拨剌子
+@@@LINK=撥剌子
+</>
 揼水
 【揼水】 dam3 sui2 [tɐm55 ʃui33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P656 附：[tɐm55 ʃui33]</li><li><span style="font-weight: bold">詞例、解釋：</span>汲水</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -54,6 +54,9 @@
 </>
 摄石
 @@@LINK=攝石
+</>
+撥剌子
+【撥剌子（拨剌子）】 bot6 lot6 zi2 [pot2 lot2 tʃi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P658 附：[pɔt2 lɔt2 tʃi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝌蚪</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 攝石
 【攝石（摄石）】 sip2 sik6 [ʃip3 ʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P657 附：[ʃip3 ʃek2]</li><li><span style="font-weight: bold">詞例、解釋：</span>磁石</li><li><span style="font-weight: bold">備註：</span>原文未標音</li></ul>

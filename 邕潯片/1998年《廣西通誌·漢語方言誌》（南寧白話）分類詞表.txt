@@ -11362,12 +11362,6 @@
 翳氣
 【翳氣（翳气）】 ai3 hi3 [ɐi33 hi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P65 附：[ɐi33 hi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>慪氣1</li><li><span style="font-weight: bold">備註：</span>原文[ɐi33]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/慪氣</li></ul>
 </>
-翻头婆
-@@@LINK=翻頭婆
-</>
-翻頭婆
-【翻頭婆（翻头婆）】 faan1 tau4 po4 [fan55 tʰɐu21 pʰɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P39 附：[fan55 tʰɐu21 pʰɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>二婚頭</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/二婚頭</li></ul>
-</>
 翻風
 【翻風（翻风）】 faan1 fung1 [fan55 fʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P22 附：[fan55 foŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>颳風</li><li><span style="font-weight: bold">分類：</span>一、天文（2）風、雲、雷、雨/颳風</li></ul>
 </>
@@ -14323,11 +14317,17 @@
 返來
 【返來（返来）】 faan1 lai4 [fan55 lɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[fan55 lɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>回家2</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（4）行/回家</li></ul>
 </>
+返头婆
+@@@LINK=返頭婆
+</>
 返屋
 【返屋】 faan1 uk1 [fan55 ʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[fan55 ok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>回家1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（4）行/回家</li></ul>
 </>
 返来
 @@@LINK=返來
+</>
+返頭婆
+【返頭婆（返头婆）】 faan1 tau4 po4 [fan55 tʰɐu21 pʰɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P39 附：[fan55 tʰɐu21 pʰɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>二婚頭</li><li><span style="font-weight: bold">備註：</span>原文作「翻頭婆」</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/二婚頭</li></ul>
 </>
 还价
 @@@LINK=還價

@@ -238,6 +238,9 @@
 丫
 【丫】 jaa1 [ja53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[∅ia53]</li></ul>
 </>
+丼
+【丼】 bam5 [pɐm24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P14 附：[pəm24]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞，打水聲：揸住草皮打～～(比喻做事穩妥)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 乌
 @@@LINK=烏
 </>
@@ -496,6 +499,9 @@
 剌
 【剌】 let6 [lɛt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[let2]</li><li><span style="font-weight: bold">詞例、解釋：</span>用刀劃：～開去、～一刀</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
+剌
+【剌】 lot6 [lot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[lot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>撥[pot2]～子：蝌蚪</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 剝
 【剝（剥）】 baak2 [pak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24 附：[pak3]</li></ul>
 </>
@@ -705,6 +711,9 @@
 </>
 咕
 【咕】 gu5 [ku24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ku24]</li><li><span style="font-weight: bold">詞例、解釋：</span>咕[ku21]～咕[ku21]：稱男童生殖器</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+咝
+@@@LINK=噝
 </>
 咤
 @@@LINK=吒
@@ -1021,6 +1030,9 @@
 噜
 @@@LINK=嚕
 </>
+噝
+【噝（咝）】 sli4 [ɬi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ɬi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～趿[ɬep2]趿[ɬep2]：腳擦地向前移動的聲音：渠老喇，～，半日冇行得一步</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 噠
 【噠（哒）】 daat3 [tat5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P667 附：[tat5]</li><li><span style="font-weight: bold">詞例、解釋：</span>裂開近乎斷</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -1069,9 +1081,6 @@
 囊
 【囊】 nang1 [nɐŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P672 附：[nɐŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～肌[kɐi53]：瘡疤</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-囗(bot6)
-【囗(bot6)】 bot6 [pot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P668 附：[pot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～囗[lot2]子[tʃi33]：小蝌蚪</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 囗(bung5)
 【囗(bung5)】 bung5 [poŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P673 附：[poŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>大蚊～：大頭蒼蠅</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -1113,9 +1122,6 @@
 </>
 囗(lo3)
 【囗(lo3)】 lo3 [lo55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[lo55]</li><li><span style="font-weight: bold">詞例、解釋：</span>倒。～垃[lap24]圾[ɬap3]：倒垃圾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-囗(lot6)
-【囗(lot6)】 lot6 [lot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[lot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>囗[pot2]～子：蝌蚪</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 囗(lut2)
 【囗(lut2)】 lut2 [lut3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[lut3]</li><li><span style="font-weight: bold">詞例、解釋：</span>撮：擰(拿)鏟箕來～垃圾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1162,9 +1168,6 @@
 囗(slaang5)
 【囗(slaang5)】 slaang5 [ɬaŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P18 附：[ɬaŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>穿着不整齊：渠～一世</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-囗(sli4)
-【囗(sli4)】 sli4 [ɬi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ɬi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～囗[ɬep2]囗[ɬep2]：腳擦地向前移動的聲音：渠老喇，～，半日冇行得一步</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 囗(slon5)
 【囗(slon5)】 slon5 [ɬon24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P17 附：[ɬon24]</li><li><span style="font-weight: bold">詞例、解釋：</span>恂[ɬən21]～：因老年行動遲鈍</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -1173,12 +1176,6 @@
 </>
 囗(sot3)
 【囗(sot3)】 sot3 [ʃot5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[sot5]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：嗽牛奶嗽得～～聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-囗(taak3)
-【囗(taak3)】 taak3 [tʰak5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24 附：[tʰak5]</li><li><span style="font-weight: bold">詞例、解釋：</span>囗[lak5]～，眼睜睜：渠～看住人哋擰(拿)去嘢，冇敢奈何</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-囗(tak3)
-【囗(tak3)】 tak3 [tʰɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P25 附：[tʰək5]</li><li><span style="font-weight: bold">詞例、解釋：</span>梯～田：梯田</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 囗(zung5)
 【囗(zung5)】 zung5 [tʃoŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P19 附：[tsoŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>柴～：裝柴的工具，用兩條竹片彎成</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1582,6 +1579,9 @@
 忌
 【忌】 gai6 [kɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P664 附：[kɐi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>怕</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
+忒
+【忒】 tak3 [tʰɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P25 附：[tʰək5]</li><li><span style="font-weight: bold">詞例、解釋：</span>梯～田：梯田</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 忔
 【忔】 nget2 [ŋɛt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[ŋet3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～失[set3]：吝嗇</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -1819,6 +1819,9 @@
 拐
 【拐】 kwaai2 [kʷʰai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[kʷʰai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>拐棍</li></ul>
 </>
+拓
+【拓】 taak3 [tʰak5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24 附：[tʰak5]</li><li><span style="font-weight: bold">詞例、解釋：</span>眼白阞[lak5]～，眼睜睜：渠～看住人哋擰(拿)去嘢，冇敢奈何</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 拗
 【拗】 eu2 [∅ɛu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P12，13 附：[∅eu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>～斷：折斷</li></ul>
 </>
@@ -1833,6 +1836,9 @@
 </>
 拧
 @@@LINK=擰
+</>
+拨
+@@@LINK=撥
 </>
 括
 【括】 gwaat2 [kʷat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[kuat3]</li></ul>
@@ -2238,6 +2244,9 @@
 </>
 撚
 【撚】 nen5 [nɛn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P17 附：[nen24]</li><li><span style="font-weight: bold">詞例、解釋：</span>摁：～燈製(燈開關)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+撥
+【撥（拨）】 bot6 [pot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P668 附：[pot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>～剌[lot2]子[tʃi33]：小蝌蚪</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 撩
 【撩】 leu1 [lɛu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P12 附：[leu53]</li></ul>
@@ -2853,9 +2862,6 @@
 </>
 渗
 @@@LINK=滲
-</>
-渢
-【渢（沨）】 bam5 [pɐm24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P14 附：[pəm24]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞，打水聲：揸住草皮打～～(比喻做事穩妥)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 渢
 【渢（沨）】 bung5 [poŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P19 附：[poŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞，打水聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -4841,7 +4847,7 @@
 【鯇（鲩）】 waan5 [wan24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P667 附：[wan24]</li></ul>
 </>
 鰈
-【鰈（鲽）】 dep3 [tɛp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P21 附：[tep5]</li><li><span style="font-weight: bold">詞例、解釋：</span>魚～子：手上的痦子</li><li><span style="font-weight: bold">備註：</span>原文有音無字。2009年班弨《底層理論與漢臺語關係》認爲來源於「魚鱗痣」</li></ul>
+【鰈（鲽）】 dep3 [tɛp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P21 附：[tep5]</li><li><span style="font-weight: bold">詞例、解釋：</span>魚～子：手上的痦子</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 鰐
 【鰐（鳄）】 ngaak5 [ŋak24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24 附：[ŋak23]</li></ul>

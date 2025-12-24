@@ -5006,7 +5006,10 @@
 【跌】 dit3 [tit3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tit3]</li><li><span style="font-weight: bold">詞例、解釋：</span>摔，跌（小孩～倒了）</li><li><span style="font-weight: bold">分類：</span>十七、動作/摔</li></ul>
 </>
 跌跫緪
-【跌跫緪】 dit3 gung4 gang4 [tit3 kʊŋ21 kɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[tit3 kuŋ21 kɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，「卟通」地倒下。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/摔</li></ul>
+【跌跫緪（跌跫𬘵）】 dit3 gung4 gang4 [tit3 kʊŋ21 kɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[tit3 kuŋ21 kɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，「卟通」地倒下。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/摔</li></ul>
+</>
+跌跫𬘵
+@@@LINK=跌跫緪
 </>
 跛佬
 【跛佬】 bai1 lu2 [pɐi55 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɐi55 lu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘸子，統稱，非貶稱(無統稱則記成年男的)</li><li><span style="font-weight: bold">分類：</span>七、稱謂/一般稱謂/瘸子</li></ul>

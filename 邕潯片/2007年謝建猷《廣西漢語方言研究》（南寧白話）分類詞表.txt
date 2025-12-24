@@ -1493,7 +1493,7 @@
 @@@LINK=契爺
 </>
 契爺
-【契爺（契爷）】 kai3 je4 [kʰɐi33 jɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1432 附：[kʰɐi33 iɛ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>繼父</li><li><span style="font-weight: bold">分類：</span>七、稱謂/繼父</li></ul>
+【契爺（契爷）】 kai3 je4 [kʰɐi33 jɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1432 附：[kʰɐi33 iɛ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>繼父</li><li><span style="font-weight: bold">備註：</span>有誤，應叫「後爸」或「後老竇」</li><li><span style="font-weight: bold">分類：</span>七、稱謂/繼父</li></ul>
 </>
 女
 【女】 nyu2 [ny35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1378 附：[ny35]</li><li><span style="font-weight: bold">詞例、解釋：</span>女孩兒</li><li><span style="font-weight: bold">分類：</span>七、稱謂/女孩兒</li></ul>

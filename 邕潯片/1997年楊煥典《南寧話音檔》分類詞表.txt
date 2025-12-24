@@ -4,11 +4,47 @@
 -婆
 【-婆】 -po4 [-pʰɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P21 附：[-pʰɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>女人2</li><li><span style="font-weight: bold">分類：</span>九、稱謂/女人</li></ul>
 </>
+㧟
+@@@LINK=擓
+</>
+㨁
+【㨁】 zaai6 [tʃai22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tsai22]</li><li><span style="font-weight: bold">詞例、解釋：</span>擲</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/擲</li></ul>
+</>
+㶶
+@@@LINK=燶
+</>
+䂿
+【䂿】 dam6 [tɐm22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tɐm22]</li><li><span style="font-weight: bold">詞例、解釋：</span>跺</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/跺</li></ul>
+</>
+䂿
+【䂿】 dap6 [tɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>搥</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/搥</li></ul>
+</>
 一
 【一】 jat1 [jɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[jɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>一</li><li><span style="font-weight: bold">分類：</span>十六、數詞/一</li></ul>
 </>
+一䊆石头
+@@@LINK=一䊆石頭
+</>
+一䊆石頭
+【一䊆石頭（一䊆石头）】 jat1 gau6 sek6 tau4 [jɐt5 kɐu22 ʃɛk2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 kɐu22 sɛk2 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>一塊石頭</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「舊」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一塊石頭</li></ul>
+</>
+一䊆砖
+@@@LINK=一䊆磚
+</>
+一䊆磚
+【一䊆磚（一䊆砖）】 jat1 gau6 zyun1 [jɐt5 kɐu22 tʃyn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 kɐu22 tsyn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一塊磚</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「舊」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一塊磚</li></ul>
+</>
+一䊆飯
+【一䊆飯（一䊆饭）】 jat1 gau6 faan6 [jɐt5 kɐu22 fan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 kɐu22 fan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>一塊飯</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「舊」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一塊飯</li></ul>
+</>
+一䊆饭
+@@@LINK=一䊆飯
+</>
+一䐁尿
+【一䐁尿】 jat1 duk1 niu6 [jɐt5 tʊk5 niu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tuk5 niu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>一泡尿</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「督」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一泡尿</li></ul>
+</>
 一位客人
-【一位客人】 jat1 wai2 haak3 jan4 [jɐt5 wɐi35 hak3 jɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[jɐt5 wɐi35 hak3 jɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>一位客人</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一位客人</li></ul>
+【一位客人】 jat1 wai6 haak3 jan4 [jɐt5 wɐi22 hak3 jɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[jɐt5 wɐi22 hak3 jɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>一位客人</li><li><span style="font-weight: bold">備註：</span>原文「一位」未標音，但從錄音材料中得知發音人讀[jɐt5 wɐi22]</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一位客人</li></ul>
 </>
 一只牛
 @@@LINK=一隻牛
@@ -16,11 +52,26 @@
 一只猪
 @@@LINK=一隻豬
 </>
+一台酒
+@@@LINK=一檯酒
+</>
+一味菜
+【一味菜】 jat1 mi2 coi3 [jɐt5 mi35 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 mi35 tsʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一道菜</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一道菜</li></ul>
+</>
+一对筷条
+@@@LINK=一對筷條
+</>
 一对鞋
 @@@LINK=一對鞋
 </>
+一對筷條
+【一對筷條（一对筷条）】 jat1 dui3 faai3 tiu4 [jɐt5 tui33 fai33 tʰiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tui33 fai33 tʰiu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>一雙筷子</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一雙筷子</li></ul>
+</>
 一對鞋
 【一對鞋（一对鞋）】 jat1 dui3 haai4 [jɐt5 tui33 hai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[jɐt5 tui33 hai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>一雙鞋</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一雙鞋</li></ul>
+</>
+一条票
+@@@LINK=一條票
 </>
 一架車
 【一架車（一架车）】 jat1 kaa3 ce1 [jɐt5 kʰa33 tʃʰɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[jɐt5 kʰa33 tsʰɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一輛車</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一輛車</li></ul>
@@ -28,8 +79,68 @@
 一架车
 @@@LINK=一架車
 </>
+一條票
+【一條票（一条票）】 jat1 tiu4 piu3 [jɐt5 tʰiu21 pʰiu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tʰiu21 pʰiu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一張票</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一張票</li></ul>
+</>
+一棵树
+@@@LINK=一棵樹
+</>
+一棵樹
+【一棵樹（一棵树）】 jat1 po1 syu6 [jɐt5 pʰɔ55 ʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 pʰɔ55 sy22]</li><li><span style="font-weight: bold">詞例、解釋：</span>一棵樹</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「坡」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一棵樹</li></ul>
+</>
+一棵菜
+【一棵菜】 jat1 po1 coi3 [jɐt5 pʰɔ55 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 pʰɔ55 tsʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一棵菜</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「坡」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一棵菜</li></ul>
+</>
+一樽酒
+【一樽酒】 jat1 zan1 zau2 [jɐt5 tʃɐn55 tʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tsɐn55 tsɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>一瓶酒</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一瓶酒</li></ul>
+</>
+一橛蔗
+【一橛蔗】 jat1 ket1 ze3 [jɐt5 kʰɛt5 tʃɛ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 kʰɛt5 tsɛ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一截蔗</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kʰɛt5]有音無字，其餘未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一截蔗</li></ul>
+</>
+一檯酒
+【一檯酒（一台酒）】 jat1 toi4 zau2 [jɐt5 tʰɔi21 tʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tʰɔi21 tsɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>一桌酒席</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一桌酒席</li></ul>
+</>
+一番席
+@@@LINK=一番蓆
+</>
+一番蓆
+【一番蓆（一番席）】 jat1 faan1 zek6 [jɐt5 fan55 tʃɛk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 fan55 tsɛk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>一牀蓆子</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「翻」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一牀蓆子</li></ul>
+</>
 一番被
 【一番被】 jat1 faan1 pi5 [jɐt5 fan55 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[jɐt5 fan55 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>一牀被</li><li><span style="font-weight: bold">備註：</span>原文作「一翻被」</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一牀被</li></ul>
+</>
+一眼灯
+@@@LINK=一眼燈
+</>
+一眼燈
+【一眼燈（一眼灯）】 jat1 ngen2 dang1 [jɐt5 ŋɛn35 tɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 ŋɛn35 tɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一盞燈</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一盞燈</li></ul>
+</>
+一碌棍
+【一碌棍】 jat1 luk1 gwan3 [jɐt5 lʊk5 kʷɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 luk5 kʷɐn33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一截棍</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「轆」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一截棍</li></ul>
+</>
+一穙行李
+【一穙行李】 jat1 buk6 hang4 li5 [jɐt5 pʊk2 hɐŋ21 li24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 puk2 hɐŋ21 li24]</li><li><span style="font-weight: bold">詞例、解釋：</span>一捆行李</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[puk2]有音無字，其餘未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一捆行李</li></ul>
+</>
+一窦鸡
+@@@LINK=一竇雞
+</>
+一竇雞
+【一竇雞（一窦鸡）】 jat1 dau3 gai1 [jɐt5 tɐu33 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tɐu33 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>一窩雞</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一窩雞</li></ul>
+</>
+一蔸树
+@@@LINK=一蔸樹
+</>
+一蔸桥
+@@@LINK=一蔸橋
+</>
+一蔸樹
+【一蔸樹（一蔸树）】 jat1 dau1 syu6 [jɐt5 tɐu55 ʃy22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tɐu55 sy22]</li><li><span style="font-weight: bold">詞例、解釋：</span>一棵樹</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「兜」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一棵樹</li></ul>
+</>
+一蔸橋
+【一蔸橋（一蔸桥）】 jat1 dau1 kiu4 [jɐt5 tɐu55 kʰiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tɐu55 kʰiu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>一座橋</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「兜」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一座橋</li></ul>
+</>
+一蔸菜
+【一蔸菜】 jat1 dau1 coi3 [jɐt5 tɐu55 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P53 附：[jɐt5 tɐu55 tsʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>一棵菜</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「兜」字，未標音</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一棵菜</li></ul>
 </>
 一隻牛
 【一隻牛（一只牛）】 jat1 zek3 ngau4 [jɐt5 tʃɛk3 ŋɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[jɐt5 tsɛk3 ŋɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>一頭牛</li><li><span style="font-weight: bold">備註：</span>原文詞頭誤作「一條牛」</li><li><span style="font-weight: bold">分類：</span>十二、量詞/一頭牛</li></ul>
@@ -81,6 +192,9 @@
 </>
 乞兒
 【乞兒（乞儿）】 hat1 ji1 [hɐt5 ji55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P22 附：[hɐt5 ji55]</li><li><span style="font-weight: bold">詞例、解釋：</span>乞丐</li><li><span style="font-weight: bold">分類：</span>九、稱謂/乞丐</li></ul>
+</>
+乸
+【乸】 naa2 [na35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[na35]</li><li><span style="font-weight: bold">詞例、解釋：</span>雌性</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>九、稱謂/雌性</li></ul>
 </>
 乾乾淨淨
 【乾乾淨淨（干干净净）】 gon1 gon1 zeng6 zeng6 [kɔn55 kɔn55 tʃɛŋ22 tʃɛŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P28 附：[kɔn55 kɔn55 tsɛŋ22 tsɛŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>乾淨</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/乾淨</li></ul>
@@ -188,7 +302,7 @@
 【八】 bet3 [pɛt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[pɛt3]</li><li><span style="font-weight: bold">詞例、解釋：</span>八1.2</li><li><span style="font-weight: bold">分類：</span>十六、數詞/八</li></ul>
 </>
 八月十五
-【八月十五】 bet3 jyut6 sap6 m5 [pɛt3 jyt2 ʃɐp2 m̩24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P17 附：[pɛt3 jyt2 sɐp2 m̩24]</li><li><span style="font-weight: bold">詞例、解釋：</span>中秋節</li><li><span style="font-weight: bold">分類：</span>二、時令、時節/中秋節</li></ul>
+【八月十五】 bet3 jyut6 sap6 m5 [pɛt3 jyt2 ʃɐp2 m̩24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P17 附：[pɛt3 jyt2 sɐp2 m̩24]</li><li><span style="font-weight: bold">詞例、解釋：</span>中秋節</li><li><span style="font-weight: bold">備註：</span>原文P13-14聲韻音變舉例，有連讀音變，八月十五[pɛt3 jyt2 sɐp2 ŋ24]➔[pɛt3 jyt2 sɐp2 m24]</li><li><span style="font-weight: bold">分類：</span>二、時令、時節/中秋節</li></ul>
 </>
 公公道道
 【公公道道】 gung1 gung1 du6 du6 [kʊŋ55 kʊŋ55 tu22 tu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P28 附：[kuŋ55 kuŋ55 tu22 tu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>公道</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/公道</li></ul>
@@ -229,6 +343,12 @@
 几耐
 @@@LINK=幾耐
 </>
+凸
+【凸】 dat6 [tɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>凸</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/凸</li></ul>
+</>
+凹
+【凹】 map1 [mɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[mɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>凹</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/凹</li></ul>
+</>
 制
 【制】 zai3 [tʃɐi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P51 附：[tsɐi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>剎車</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>五、房舍/器具/剎車</li></ul>
 </>
@@ -245,7 +365,7 @@
 【十】 sap6 [ʃɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[sɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>十</li><li><span style="font-weight: bold">分類：</span>十六、數詞/十</li></ul>
 </>
 十一
-【十一】 sap6 jat1 [ʃɐp2 jɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[sɐp2 jɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>十一</li><li><span style="font-weight: bold">分類：</span>十六、數詞/十一</li></ul>
+【十一】 sap6 jat1 [ʃɐp2 jɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[sɐp2 jɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>十一</li><li><span style="font-weight: bold">備註：</span>原文P13聲韻音變舉例，有連讀音變，十一[sɐp2 jɐt5]➔[sɐʔ22 ɐt5]，但錄音材料是[sɐʔ22 jɐt5]</li><li><span style="font-weight: bold">分類：</span>十六、數詞/十一</li></ul>
 </>
 十二
 【十二】 sap6 ji6 [ʃɐp2 ji22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[sɐp2 ji22]</li><li><span style="font-weight: bold">詞例、解釋：</span>十二</li><li><span style="font-weight: bold">分類：</span>十六、數詞/十二</li></ul>
@@ -268,11 +388,8 @@
 反手
 【反手】 faan2 sau2 [fan35 ʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P19 附：[fan35 sɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>左手2</li><li><span style="font-weight: bold">分類：</span>六、身體/左手</li></ul>
 </>
-古裏古怪
-【古裏古怪（古里古怪）】 gu2 li5 gu2 gwaai3 [ku35 li24 ku35 kʷai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ku35 li24 ku35 kʷai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>古怪</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/古怪</li></ul>
-</>
-古里古怪
-@@@LINK=古裏古怪
+古哩古怪
+【古哩古怪】 gu2 li1 gu2 gwaai3 [ku35 li55 ku35 kʷai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ku35 li55 ku35 kʷai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>古怪</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音，但錄音材料的「裏」讀[li55]，當是變調[li24-55]，此處改爲「哩」字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/古怪</li></ul>
 </>
 只
 【只】 zi2 [tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P24 附：[tsi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>只</li><li><span style="font-weight: bold">分類：</span>十五、副詞、連詞、介詞/只</li></ul>
@@ -292,8 +409,11 @@
 右邊
 【右邊（右边）】 jau6 bin6 [jɐu22 pin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[jɐu22 pin22]</li><li><span style="font-weight: bold">詞例、解釋：</span>右邊</li><li><span style="font-weight: bold">分類：</span>十三、方位詞/右邊</li></ul>
 </>
+叻
+【叻】 lek1 [lɛk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[lɛk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>能幹</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/能幹</li></ul>
+</>
 吊儾儾
-【吊儾儾】 diu3 naang3 naang3 [tiu33 naŋ33 naŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[tiu33 naŋ33 naŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>吊</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[naŋ33 naŋ33]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/吊</li></ul>
+【吊儾儾】 diu3 naang3 naang3 [tiu33 naŋ33 naŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27，55 附：[tiu33 naŋ33 naŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>吊，孤零零地吊着</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[naŋ33 naŋ33]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/吊</li></ul>
 </>
 同
 【同】 tung4 [tʰʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P24 附：[tʰuŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>和</li><li><span style="font-weight: bold">分類：</span>十五、副詞、連詞、介詞/和</li></ul>
@@ -307,11 +427,17 @@
 向日葵
 【向日葵】 hoeng3 jat6 kwai4 [hœŋ33 jɐt2 kʷʰɐi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P18 附：[hœŋ33 jɐt2 kʷʰɐi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>向日葵</li><li><span style="font-weight: bold">分類：</span>三、植物/向日葵</li></ul>
 </>
+吟沉
+【吟沉】 ngam4 cam4 [ŋɐm21 tʃʰɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ŋɐm21 tsʰɐm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>囉嗦</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字，釋義作「羅嗦」</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/囉嗦</li></ul>
+</>
 听一阵
 @@@LINK=聽一陣
 </>
 听日
 @@@LINK=聽日
+</>
+咬硞硞
+【咬硞硞】 ngeu5 kuk1 kuk1 [ŋɛu24 kʰʊk5 kʰʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[ŋɛu24 kʰuk5 kʰuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>咬得咯咯響</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kʰuk5 kʰuk5]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/咬</li></ul>
 </>
 咸
 @@@LINK=鹹
@@ -320,10 +446,16 @@
 【哥哥】 go4 go1 [kɔ21 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P50 附：[kɔ21 kɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>哥哥</li><li><span style="font-weight: bold">備註：</span>詞表外。原文無釋義</li><li><span style="font-weight: bold">分類：</span>七、親屬/哥哥</li></ul>
 </>
 哭呀呀
+【哭呀呀】 huk1 ngaa1 ngaa1 [hʊk5 ŋa55 ŋa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[huk5 ŋa55 ŋa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>大哭貌</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ŋa55 ŋa55]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/哭</li></ul>
+</>
+哭呀呀
 【哭呀呀】 huk1 nge1 nge1 [hʊk5 ŋɛ55 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[hʊk5 ŋɛ55 ŋɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>哭</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ŋɛ55 ŋɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/哭</li></ul>
 </>
-啰里啰嗦
-@@@LINK=囉裏囉嗦
+哭霫霫
+【哭霫霫】 huk1 slap6 slap6 [hʊk5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[huk5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>小聲哭</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ɬɐp2 ɬɐp2]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/哭</li></ul>
+</>
+啰哩啰嗦
+@@@LINK=囉哩囉嗦
 </>
 啱
 【啱】 ngaam1 [ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P24 附：[ŋam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛（～來）</li><li><span style="font-weight: bold">分類：</span>十五、副詞、連詞、介詞/剛（～來）</li></ul>
@@ -333,6 +465,18 @@
 </>
 啱好
 【啱好】 ngaam1 hu2 [ŋam55 hu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P24 附：[ŋam55 hu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>正好</li><li><span style="font-weight: bold">分類：</span>十五、副詞、連詞、介詞/正好</li></ul>
+</>
+嗌
+【嗌】 aai3 [ai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>罵</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/罵</li></ul>
+</>
+嗌交
+【嗌交】 aai3 geu1 [ai33 kɛu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ai33 kɛu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>吵架</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/吵架</li></ul>
+</>
+嘢
+【嘢】 je5 [jɛ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[jɛ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>東西</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>五、房舍/器具/東西</li></ul>
+</>
+噉
+【噉】 gam2 [kɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[kɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>這樣</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十一、代詞/這樣</li></ul>
 </>
 噜只
 @@@LINK=嚕隻
@@ -346,8 +490,14 @@
 嚕隻
 【嚕隻（噜只）】 lu1 zek3 [lu55 tʃɛk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[lu55 tsɛk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>那個</li><li><span style="font-weight: bold">備註：</span>原文[lu55]有音無字</li><li><span style="font-weight: bold">分類：</span>十一、代詞/那個</li></ul>
 </>
-囉裏囉嗦
-【囉裏囉嗦（啰里啰嗦）】 lo1 li5 lo1 slo1 [lɔ55 li24 lɔ55 ɬɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[lɔ55 li24 lɔ55 ɬɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>囉嗦</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/囉嗦</li></ul>
+嚗佬
+【嚗佬】 bok1 lu2 [pɔk5 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P54 附：[pɔk5 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>土包子</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[pɔk5]有音無字</li><li><span style="font-weight: bold">分類：</span>九、稱謂/土包子</li></ul>
+</>
+囉哩囉嗦
+【囉哩囉嗦（啰哩啰嗦）】 lo1 li1 lo1 slo1 [lɔ55 li55 lɔ55 ɬɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[lɔ55 li55 lɔ55 ɬɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>囉嗦</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音，但錄音材料的「裏」讀[li55]，當是變調[li24-55]，此處改爲「哩」字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/囉嗦</li></ul>
+</>
+囊肌
+【囊肌】 nang1 gai1 [nɐŋ55 kɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[nɐŋ55 kɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>疤</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十、疾病/疤</li></ul>
 </>
 四
 【四】 sli3 [ɬi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[ɬi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>四</li><li><span style="font-weight: bold">分類：</span>十六、數詞/四</li></ul>
@@ -378,6 +528,9 @@
 </>
 头
 @@@LINK=頭
+</>
+奀
+【奀】 ngan1 [ŋɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ŋɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦小</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/瘦小</li></ul>
 </>
 女
 【女】 nyu2 [ny35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P20 附：[ny35]</li><li><span style="font-weight: bold">詞例、解釋：</span>女兒</li><li><span style="font-weight: bold">分類：</span>七、親屬/女兒</li></ul>
@@ -414,6 +567,9 @@
 </>
 婆婆
 【婆婆】 po4 po2 [pʰɔ21 pʰɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P50 附：[pʰɔ21 pʰɔ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>外祖母</li><li><span style="font-weight: bold">備註：</span>詞表外。原文無釋義</li><li><span style="font-weight: bold">分類：</span>七、親屬/外祖母</li></ul>
+</>
+嫪
+【嫪】 laau3 [lau33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[lau33]</li><li><span style="font-weight: bold">詞例、解釋：</span>淫蕩</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/淫蕩</li></ul>
 </>
 屋
 【屋】 uk1 [ʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P19 附：[uk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>房子（整所）</li><li><span style="font-weight: bold">分類：</span>五、房舍/房子（整所）</li></ul>
@@ -490,6 +646,9 @@
 微微雨
 【微微雨】 mi1 mi1 jyu5 [mi55 mi55 jy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P50 附：[mi55 mi55 jy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>毛毛雨</li><li><span style="font-weight: bold">備註：</span>詞表外。原文無釋義</li><li><span style="font-weight: bold">分類：</span>一、自然現象/毛毛雨</li></ul>
 </>
+忔失
+【忔失】 nget1 set1 [ŋɛt5 ʃɛt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ŋɛt5 sɛt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>吝嗇</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/吝嗇</li></ul>
+</>
 恁計
 【恁計（恁计）】 nam2 gai2 [nɐm35 kɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P50 附：[nɐm35 kɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>想主意</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「𬑛計」</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/想主意</li></ul>
 </>
@@ -501,6 +660,12 @@
 </>
 慢慢行
 【慢慢行】 maan6 maan2 haang4 [man22 man35 haŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P51 附：[man22 man35 haŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>慢慢走</li><li><span style="font-weight: bold">備註：</span>詞表外。原文無釋義</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/慢慢走</li></ul>
+</>
+戆佬
+@@@LINK=戇佬
+</>
+戇佬
+【戇佬（戆佬）】 ngang1 lu2 [ŋɐŋ55 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P54 附：[ŋɐŋ55 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>傻瓜</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ŋɐŋ55]有音無字，誤作[ŋaŋ55]</li><li><span style="font-weight: bold">分類：</span>九、稱謂/傻瓜</li></ul>
 </>
 我
 【我】 ngo5 [ŋɔ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P22 附：[ŋɔ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>我</li><li><span style="font-weight: bold">分類：</span>十一、代詞/我</li></ul>
@@ -544,17 +709,44 @@
 指甲
 【指甲】 zi2 gep3 [tʃi35 kɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P19 附：[tsi35 kɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>指甲</li><li><span style="font-weight: bold">分類：</span>六、身體/指甲</li></ul>
 </>
+掝
+【掝】 wak6 [wɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[wɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>招（手）</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/招（手）</li></ul>
+</>
+掹
+【掹】 mang1 [mɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[mɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>拔</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/拔</li></ul>
+</>
+揾
+@@@LINK=搵
+</>
 搏抵
 【搏抵】 bok3 dai2 [pɔk3 tɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[pɔk3 tɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>揩油</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「博底」，未標音</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/揩油</li></ul>
+</>
+搵
+【搵（揾）】 wan2 [wɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[wɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>找</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/找</li></ul>
 </>
 摄炩
 @@@LINK=攝炩
 </>
+摒
+【摒】 fing3 [feŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[feŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>搖（頭）</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/搖（頭）</li></ul>
+</>
+撚
+【撚】 nan2 [nɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[nɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>做作</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/做作</li></ul>
+</>
+擓
+【擓（㧟）】 kwe3 [kʷʰɛ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[kʰʷɛ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>扒拉</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/扒拉</li></ul>
+</>
 擰
 【擰（拧）】 ning1 [neŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P25 附：[neŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>拿1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十五、副詞、連詞、介詞/拿</li></ul>
 </>
+攀
+【攀】 maan1 [man55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[man55]</li><li><span style="font-weight: bold">詞例、解釋：</span>攀</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/攀</li></ul>
+</>
 攝炩
 【攝炩（摄炩）】 sip3 leng6 [ʃip3 lɛŋ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[sip3 lɛŋ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>閃電</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「攝令」，未標音</li><li><span style="font-weight: bold">分類：</span>一、自然現象/閃電</li></ul>
+</>
+攞
+【攞】 lo2 [lɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[lɔ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>取、拿</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/取、拿</li></ul>
 </>
 散紙
 【散紙（散纸）】 slaan2 zi2 [ɬan35 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ɬan35 tsi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>零錢</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>五、房舍/器具/零錢</li></ul>
@@ -564,6 +756,9 @@
 </>
 日头
 @@@LINK=日頭
+</>
+日日
+【日日】 jat6 jat6 [jɐt2 jɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P14 附：[jɐt2 jɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>每天</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未釋義，原文P13-14聲韻音變舉例，有連讀音變，日日[jɐt2 jɐt2]➔[jɐ22 jɐt2]</li><li><span style="font-weight: bold">分類：</span>二、時令、時節/每天</li></ul>
 </>
 日頭
 【日頭（日头）】 jat6 tau4 [jɐt2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P17 附：[jɐt2 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>太陽1</li><li><span style="font-weight: bold">分類：</span>一、自然現象/太陽</li></ul>
@@ -594,6 +789,12 @@
 </>
 月光
 【月光】 jyut6 gong1 [jyt2 kɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P17 附：[jyt2 kɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>月亮</li><li><span style="font-weight: bold">分類：</span>一、自然現象/月亮</li></ul>
+</>
+木瓜乸
+【木瓜乸】 muk6 gwaa1 naa2 [mʊk2 kʷa55 na35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P58 附：[muk2 kʷa55 na35]</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音，未釋義</li><li><span style="font-weight: bold">分類：</span>三、植物/木瓜</li></ul>
+</>
+木瓜公
+【木瓜公】 muk6 gwaa1 gung1 [mʊk2 kʷa55 kʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P58 附：[muk2 kʷa55 kuŋ55]</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音，未釋義</li><li><span style="font-weight: bold">分類：</span>三、植物/木瓜</li></ul>
 </>
 木虱
 @@@LINK=木蝨
@@ -664,11 +865,23 @@
 煙通
 【煙通（烟通）】 jin1 tung1 [jin55 tʰʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P19 附：[jin55 tʰuŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>煙囪</li><li><span style="font-weight: bold">分類：</span>五、房舍/煙囪</li></ul>
 </>
+煠
+【煠】 sep6 [ʃɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[sɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>用水煮</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>八、飯食/用水煮</li></ul>
+</>
+煲
+【煲】 bu1 [pu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[pu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>煮、燒</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>八、飯食/煮、燒</li></ul>
+</>
+煲䐁
+【煲䐁】 bu1 duk1 [pu55 tʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[pu55 tuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>鍋底</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>八、飯食/鍋底</li></ul>
+</>
 熱
 【熱（热）】 jit6 [jit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P24 附：[jit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>熱</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/熱</li></ul>
 </>
 熱頭
 【熱頭（热头）】 jit6 tau4 [jit2 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P17 附：[jit2 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>太陽2</li><li><span style="font-weight: bold">分類：</span>一、自然現象/太陽</li></ul>
+</>
+燶
+【燶（㶶）】 nung1 [nʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[nuŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>糊</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/糊</li></ul>
 </>
 爷爷
 @@@LINK=爺爺
@@ -709,6 +922,9 @@
 生曬
 【生曬（生晒）】 saang1 saai3 [ʃaŋ55 ʃai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P21 附：[saŋ55 sai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>豉油2</li><li><span style="font-weight: bold">分類：</span>八、飯食/豉油</li></ul>
 </>
+甩
+【甩】 lat1 [lɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[lɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>掉</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/掉</li></ul>
+</>
 男人
 【男人】 naam4 jan4 [nam21 jɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P21 附：[nam21 jɐn21]</li><li><span style="font-weight: bold">詞例、解釋：</span>男人1</li><li><span style="font-weight: bold">分類：</span>九、稱謂/男人</li></ul>
 </>
@@ -748,6 +964,9 @@
 白實實
 【白實實（白实实）】 baak6 set6 set6 [pak2 ʃɛt2 ʃɛt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[pak2 sɛt2 sɛt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>白1</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[sɛt2 sɛt2]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/白</li></ul>
 </>
+白截截
+【白截截】 baak6 zet6 zet6 [pak2 tʃɛt2 tʃɛt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[pak2 tsɛt2 tsɛt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>慘白慘白，看着令人難受</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[tsɛt2 tsɛt2]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/白</li></ul>
+</>
 白簇簇
 【白簇簇】 baak6 sluk1 sluk1 [pak2 ɬʊk5 ɬʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[pak2 ɬuk5 ɬuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>白2</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ɬuk5 ɬuk5]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/白</li></ul>
 </>
@@ -756,6 +975,12 @@
 </>
 盐
 @@@LINK=鹽
+</>
+盲佬
+【盲佬】 maang4 lu2 [maŋ21 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P54 附：[maŋ21 lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>瞎子</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>九、稱謂/瞎子</li></ul>
+</>
+眲
+【眲】 ngak1 [ŋɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ŋɐk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>騙</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/騙</li></ul>
 </>
 着衫
 【着衫】 zoek3 saam1 [tʃœk3 ʃam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tsœk3 sam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>穿衣服</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/穿衣服</li></ul>
@@ -776,7 +1001,10 @@
 【矮瓜】 ai2 gwaa1 [ɐi35 kʷa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P18 附：[ɐi35 kʷa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>茄子</li><li><span style="font-weight: bold">分類：</span>三、植物/茄子</li></ul>
 </>
 矮黕黕
-【矮黕黕】 ai2 dam2 dam2 [ɐi35 tɐm35 tɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ɐi35 tɐm35 tɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>矮</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[tɐm35 tɐm35]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/矮</li></ul>
+【矮黕黕】 ai2 dam2 dam2 [ɐi35 tɐm35 tɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27，56 附：[ɐi35 tɐm35 tɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>矮，矮墩墩的樣子，矮而胖、重、結實</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[tɐm35 tɐm35]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/矮</li></ul>
+</>
+矴
+【矴】 deng3 [tɛŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tɛŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>扔</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/扔</li></ul>
 </>
 礼拜日
 @@@LINK=禮拜日
@@ -787,8 +1015,14 @@
 窗
 【窗】 cong1 [tʃʰɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P19 附：[tsʰɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>窗戶</li><li><span style="font-weight: bold">分類：</span>五、房舍/窗戶</li></ul>
 </>
+笑吟吟
+【笑吟吟】 sliu3 jam1 jam1 [ɬiu33 jɐm55 jɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[ɬiu33 jɐm55 jɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>笑咪咪</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[jɐm55 jɐm55]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/笑</li></ul>
+</>
 笑哈哈
 【笑哈哈】 sliu3 he1 he1 [ɬiu33 hɛ55 hɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ɬiu33 hɛ55 hɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>笑1</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[hɛ55 hɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/笑</li></ul>
+</>
+笑喳喳
+【笑喳喳】 sliu3 ze4 ze4 [ɬiu33 tʃɛ21 tʃɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[ɬiu33 tsɛ21 tsɛ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>笑嘻嘻</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[tsɛ21 tsɛ21]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/笑</li></ul>
 </>
 笑噱噱
 【笑噱噱】 sliu3 kuk1 kuk1 [ɬiu33 kʰʊk5 kʰʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ɬiu33 kʰuk5 kʰuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>笑2</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kʰuk5 kʰuk5]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/笑</li></ul>
@@ -925,6 +1159,9 @@
 舊年
 【舊年（旧年）】 gau6 nin4 [kɐu22 nin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P17 附：[kɐu22 nin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>去年</li><li><span style="font-weight: bold">分類：</span>二、時令、時節/去年</li></ul>
 </>
+舕
+【舕】 tam3 [tʰɐm33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tʰɐm33]</li><li><span style="font-weight: bold">詞例、解釋：</span>哄</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/哄</li></ul>
+</>
 菠菜
 【菠菜】 bo1 coi3 [pɔ55 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P18 附：[pɔ55 tsʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>菠菜</li><li><span style="font-weight: bold">分類：</span>三、植物/菠菜</li></ul>
 </>
@@ -946,6 +1183,15 @@
 裏底
 【裏底（里底）】 li5 dai2 [li24 tɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P24 附：[li24 tɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>裏面</li><li><span style="font-weight: bold">分類：</span>十三、方位詞/裏面</li></ul>
 </>
+諧
+【諧（谐）】 haai4 [hai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[hai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>粗糙</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/粗糙</li></ul>
+</>
+諰譡
+【諰譡】 slaai1 dong3 [ɬai55 tɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ɬai55 tɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>譏笑</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/譏笑</li></ul>
+</>
+谐
+@@@LINK=諧
+</>
 豉油
 【豉油】 si6 jau4 [ʃi22 jɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P21 附：[si22 jɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>豉油1</li><li><span style="font-weight: bold">備註：</span>原文「豉」作陽平，受後字調類化</li><li><span style="font-weight: bold">分類：</span>八、飯食/豉油</li></ul>
 </>
@@ -958,8 +1204,20 @@
 豬公
 【豬公（猪公）】 zyu1 gung1 [tʃy55 kʊŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P18 附：[tsy55 kuŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>公豬1（專用於交配）</li><li><span style="font-weight: bold">分類：</span>四、動物/公豬</li></ul>
 </>
+走䠡䠡
+【走䠡䠡】 zau2 zo4 zo4 [tʃɐu35 tʃɔ21 tʃɔ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[tsɐu35 tsɔ21 tsɔ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>急促地跑</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[tsɔ21 tsɔ21]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/走</li></ul>
+</>
 走喳喳
 【走喳喳】 zau2 zaa4 zaa4 [tʃɐu35 tʃa21 tʃa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[tsɐu35 tsa21 tsa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>走</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[tsa21 tsa21]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/走</li></ul>
+</>
+趯喳喳
+【趯喳喳】 dek3 zaa4 zaa4 [tɛk3 tʃa21 tʃa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[tɛk3 tsa21 tsa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>四處亂跑</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/跑</li></ul>
+</>
+跌跫緪
+【跌跫緪（跌跫𬘵）】 dit3 gung4 gang4 [tit3 kʊŋ21 kɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[tit3 kuŋ21 kɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>重重地倒下</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kuŋ21 kɐŋ21]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/跌</li></ul>
+</>
+跌跫𬘵
+@@@LINK=跌跫緪
 </>
 跙
 【跙】 ce2 [tʃʰɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tsʰɛ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>走、回</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「扯」字，未標音</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/走、回</li></ul>
@@ -969,6 +1227,9 @@
 </>
 跛腳
 【跛腳（跛脚）】 bai1 goek3 [pɐi55 kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P22 附：[pɐi55 kœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘸子</li><li><span style="font-weight: bold">備註：</span>原文[pɐi55]有音無字</li><li><span style="font-weight: bold">分類：</span>十、疾病/瘸子</li></ul>
+</>
+踎
+【踎】 mau1 [mɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[mɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>蹲</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/蹲</li></ul>
 </>
 边个
 @@@LINK=邊個
@@ -991,17 +1252,20 @@
 通胜
 @@@LINK=通勝
 </>
+逳
+【逳】 juk1 [jʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[juk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>動（手）</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/動（手）</li></ul>
+</>
 過哂
 【過哂（过哂）】 go3 slaai3 [kɔ33 ɬai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P22 附：[kɔ33 ɬai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>死了2</li><li><span style="font-weight: bold">分類：</span>十、疾病/死了</li></ul>
 </>
 過早
 【過早（过早）】 go3 zu2 [kɔ33 tʃu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P21 附：[kɔ33 tsu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>早飯</li><li><span style="font-weight: bold">分類：</span>八、飯食/早飯</li></ul>
 </>
-遴裏遴盡
-【遴裏遴盡（遴里遴尽）】 lan6 li5 lan6 zan6 [lɐn22 li24 lɐn22 tʃɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P28 附：[lɐn22 li24 lɐn22 tʃɐn22]</li><li><span style="font-weight: bold">詞例、解釋：</span>遴盡：囉嗦、糾纏</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/囉嗦</li></ul>
+遴哩遴尽
+@@@LINK=遴哩遴盡
 </>
-遴里遴尽
-@@@LINK=遴裏遴盡
+遴哩遴盡
+【遴哩遴盡（遴哩遴尽）】 lan6 li1 lan6 zan6 [lɐn22 li55 lɐn22 tʃɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P28 附：[lɐn22 li55 lɐn22 tʃɐn22]</li><li><span style="font-weight: bold">詞例、解釋：</span>遴盡：囉嗦、糾纏</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音，但錄音材料的「裏」讀[li55]，當是變調[li24-55]，此處改爲「哩」字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/囉嗦</li></ul>
 </>
 邊個
 【邊個（边个）】 bin1 go3 [pin55 kɔ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[pin55 kɔ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>誰</li><li><span style="font-weight: bold">分類：</span>十一、代詞/誰</li></ul>
@@ -1035,6 +1299,12 @@
 </>
 鈪
 【鈪】 aak3 [∅ak3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P51 附：[ak3]</li><li><span style="font-weight: bold">詞例、解釋：</span>鐲子</li><li><span style="font-weight: bold">備註：</span>詞表外。原文作「軛」字，未標音</li><li><span style="font-weight: bold">分類：</span>五、房舍/器具/鐲子</li></ul>
+</>
+鑷
+【鑷（镊）】 nep3 [nɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[nɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>夾（菜）</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/夾（菜）</li></ul>
+</>
+镊
+@@@LINK=鑷
 </>
 長
 【長（长）】 coeng4 [tʃʰœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P24 附：[tsʰœŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>長</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/長</li></ul>
@@ -1168,6 +1438,9 @@
 高哐哐
 【高哐哐】 gu1 kwang4 kwang4 [ku55 kʷʰɐŋ21 kʷʰɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ku55 kʷʰɐŋ21 kʷʰɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高1</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kʷʰɐŋ21 kʷʰɐŋ21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
 </>
+高嫋嫋
+【高嫋嫋】 gu1 neu4 neu4 [ku55 nɛu21 nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[ku55 nɛu21 nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高得瘦而單薄</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[nɛu21 nɛu21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
+</>
 高层层
 @@@LINK=高層層
 </>
@@ -1213,20 +1486,23 @@
 麪條
 【麪條（面条）】 min6 tiu4 [min22 tʰiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P21 附：[min22 tʰiu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>麪條1</li><li><span style="font-weight: bold">分類：</span>八、飯食/麪條</li></ul>
 </>
-麻裏麻煩
-【麻裏麻煩（麻里麻烦）】 maa4 li5 maa4 faan4 [ma21 li24 ma21 fan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P28 附：[ma21 li24 ma21 fan21]</li><li><span style="font-weight: bold">詞例、解釋：</span>麻煩</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/麻煩</li></ul>
+麻哩麻烦
+@@@LINK=麻哩麻煩
 </>
-麻里麻烦
-@@@LINK=麻裏麻煩
+麻哩麻煩
+【麻哩麻煩（麻哩麻烦）】 maa4 li1 maa4 faan4 [ma21 li55 ma21 fan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P28 附：[ma21 li55 ma21 fan21]</li><li><span style="font-weight: bold">詞例、解釋：</span>麻煩</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音，但錄音材料的「裏」讀[li55]，當是變調[li24-55]，此處改爲「哩」字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/麻煩</li></ul>
 </>
 麻雀
 【麻雀】 maa4 coek3 [ma21 tʃʰœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P18 附：[ma21 tsʰœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>麻雀</li><li><span style="font-weight: bold">分類：</span>四、動物/麻雀</li></ul>
 </>
 黃黚黚
+【黃黚黚（黄黚黚）】 wong4 gam4 gam4 [wɔŋ21 kɐm21 kɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[wɔŋ21 kɐm21 kɐm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>暗黃色，黃而無光澤</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kɐm21 kɐm21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/黃</li></ul>
+</>
+黃黚黚
 【黃黚黚（黄黚黚）】 wong4 kam4 kam4 [wɔŋ21 kʰɐm21 kʰɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[wɔŋ21 kʰɐm21 kʰɐm21]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃2</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kʰɐm21 kʰɐm21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/黃</li></ul>
 </>
 黃𦅇𦅇
-【黃𦅇𦅇（黄𫄪𫄪）】 wong4 song3 song3 [wɔŋ21 ʃɔŋ33 ʃɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[wɔŋ21 sɔŋ33 sɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃1</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[sɔŋ33 sɔŋ33]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/黃</li></ul>
+【黃𦅇𦅇（黄𫄪𫄪）】 wong4 song3 song3 [wɔŋ21 ʃɔŋ33 ʃɔŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27，56 附：[wɔŋ21 sɔŋ33 sɔŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃1，金黃色的，令人喜歡</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[sɔŋ33 sɔŋ33]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/黃</li></ul>
 </>
 黄黚黚
 @@@LINK=黃黚黚
@@ -1234,9 +1510,27 @@
 黄𫄪𫄪
 @@@LINK=黃𦅇𦅇
 </>
+黑嘛嘛
+【黑嘛嘛】 hak1 maa1 maa1 [hɐk5 ma55 ma55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[hɐk5 ma55 ma55]</li><li><span style="font-weight: bold">詞例、解釋：</span>表示黑的程度加深，伸手不見五指</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ma55 ma55]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/黑</li></ul>
+</>
 點樣
 【點樣（点样）】 dim2 joeng2 [tim35 jœŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P23 附：[tim35 jœŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>怎麼樣2</li><li><span style="font-weight: bold">分類：</span>十一、代詞/怎麼樣</li></ul>
 </>
 鼻哥
 【鼻哥】 bi6 go1 [pi22 kɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P19 附：[pi22 kɔ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>鼻子</li><li><span style="font-weight: bold">分類：</span>六、身體/鼻子</li></ul>
+</>
+𠖫
+【𠖫】 kam2 [kʰɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[kʰɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蓋</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/蓋</li></ul>
+</>
+𣩢
+【𣩢】 leu3 [lɛu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[lɛu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>蔫</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/蔫</li></ul>
+</>
+𧬈
+【𧬈】 hap1 [hɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[hɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>欺負</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/欺負</li></ul>
+</>
+𧰵
+【𧰵】 duk1 [tʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[tuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>戳</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/戳</li></ul>
+</>
+𨂾
+【𨂾】 naam3 [nam33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[nam33]</li><li><span style="font-weight: bold">詞例、解釋：</span>跨</li><li><span style="font-weight: bold">備註：</span>詞表外。原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/跨</li></ul>
 </>

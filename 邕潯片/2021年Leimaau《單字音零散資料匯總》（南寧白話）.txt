@@ -926,6 +926,12 @@
 【參（参）】 sam1 [ʃɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʃɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>人～</li></ul>
 </>
 又
+【又】 a6 [∅ɐ22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2001年洪珏《南寧白話的變音現象》P46 附：[ɐ22]</li><li><span style="font-weight: bold">詞例、解釋：</span>連讀脫落半元音[j]和韻尾[u]，你～來我～來</li><li><span style="font-weight: bold">備註：</span>原文標作[a22]，但根據上下文實際應是[ɐ22]</li></ul>
+</>
+又
+【又】 au6 [∅ɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2001年洪珏《南寧白話的變音現象》P46 附：[ɐu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>連讀脫落半元音[j]，佢～冇係細佬哥</li><li><span style="font-weight: bold">備註：</span>原文標作[au22]，但根據上下文實際應是[ɐu22]</li></ul>
+</>
+又
 【又】 jau6 [jɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɐu22 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>又（他～來了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 及
@@ -5630,10 +5636,13 @@
 【蠟（蜡）】 laap6 [lap2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[lap2]</li></ul>
 </>
 蠶
-【蠶（蚕）】 caam4 [tʃʰam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧham21]</li><li><span style="font-weight: bold">備註：</span>根據唐七元調查點的視頻發音人，老年男性讀[tʃʰan21]，青年男性讀[tʃʰam21]，但兩者都記爲了[tʃʰam21]</li></ul>
+【蠶（蚕）】 caam4 [tʃʰam21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧham21]</li><li><span style="font-weight: bold">備註：</span>青年男性。根據唐七元調查點的視頻，老年男性讀[tʃʰan21]，青年男性讀[tʃʰam21]，但兩者都記爲了[tʃʰam21]</li></ul>
 </>
 蠶
 【蠶（蚕）】 caan4 [tʃʰan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P649 附：[tsʰan21]</li></ul>
+</>
+蠶
+【蠶（蚕）】 caan4 [tʃʰan21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧhan21]</li><li><span style="font-weight: bold">備註：</span>老年男性。根據唐七元調查點的視頻，老年男性讀[tʃʰan21]，青年男性讀[tʃʰam21]，但兩者都記爲了[tʃʰam21]</li></ul>
 </>
 血
 【血】 hyut3 [hyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[hyt3]</li></ul>

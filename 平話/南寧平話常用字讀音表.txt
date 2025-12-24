@@ -2350,9 +2350,6 @@
 囑
 【囑（嘱）】zoek2 [tʃœk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P824 附：[tʃœk3]；[B]2000年李連進《平話音韻研究》P377 附：[tɕøk3]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P377 附：[tsøk3]</li><li><span style="font-weight: bold">同音字：</span>卓, 足, 蜀 [10..] <a href="entry://zoek2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]囑咐，遺囑</li></ul>
 </>
-囗(bot6)
-【囗(bot6)】bot6 [pot2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P263 附：[pot2]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://bot6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]～囗[lot2]子[tʃi33]：小蝌蚪</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
-</>
 囗(bung5)
 【囗(bung5)】bung5 [poŋ24]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P266 附：[poŋ24]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://bung5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]大蚊～：大頭蒼蠅</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
 </>
@@ -5556,6 +5553,9 @@
 </>
 撤
 【撤】cyut2 [tʃʰyt3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P736 附：[tʃʰyt3]</li><li><span style="font-weight: bold">同音字：</span>徹, 黢, 設 <a href="entry://cyut2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]撤退</li></ul>
+</>
+撥
+【撥（拨）】bot6 [pot2]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P263 附：[pot2]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://bot6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]～剌[lot2]子[tʃi33]：小蝌蚪</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
 </>
 撥
 【撥（拨）】but2 [put3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P235 附：[put3]</li><li><span style="font-weight: bold">同音字：</span>鉢, 缽 <a href="entry://but2">更多</a></li></ul>
@@ -16235,7 +16235,7 @@ boeng4
 <span style="font-weight: bold">音節：</span>boeng4 [pœŋ21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://棚">棚</a>」,「<a href="entry://蓬">蓬</a>」,「<a href="entry://篷">篷</a>」
 </>
 bot6
-<span style="font-weight: bold">音節：</span>bot6 [pot2]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://囗(bot6)">囗(bot6)</a>」
+<span style="font-weight: bold">音節：</span>bot6 [pot2]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://撥">撥</a>」
 </>
 bu2
 <span style="font-weight: bold">音節：</span>bu2 [pu33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://補">補</a>」,「<a href="entry://輔">輔</a>」

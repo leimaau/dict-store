@@ -224,7 +224,7 @@
 【䋎】naan3 [nan33]<a href="sound://M-naan3.spx"><img src="/sound.png"></a><a href="sound://F-naan3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P44；[B]1994年謝建猷《南寧白話同音字彙》P296 附：[nan33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[nan33]</li><li><span style="font-weight: bold">同音字：</span>㫱, 赧 <a href="entry://naan3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]絎[B]縫[E]～被，縫被臥</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。白宛如《廣州方言詞典》P311写作「𦍀」字[B]原文有音無字[E]原文有音無字。詞表中</li></ul>
 </>
 䍇
-【䍇】taap3 [tʰap3]<a href="sound://M-taap3.spx"><img src="/sound.png"></a><a href="sound://F-taap3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2007年謝建猷《廣西漢語方言研究》P1178 附：[tʰap3]</li><li><span style="font-weight: bold">同音字：</span>錔, 溻, 榻 [4..] <a href="entry://taap3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]罈子</li><li><span style="font-weight: bold">備註：</span>[C]原文作「塔」字</li></ul>
+【䍇】taap3 [tʰap3]<a href="sound://M-taap3.spx"><img src="/sound.png"></a><a href="sound://F-taap3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P154；[C]2007年謝建猷《廣西漢語方言研究》P1178 附：[tʰap3]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P36 附：[tʰap3]</li><li><span style="font-weight: bold">同音字：</span>錔, 溻, 榻 [4..] <a href="entry://taap3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]罈子[C]罈子[E]罐子</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文作「塔」字[C]原文作「塔」字[E]詞表中。原文作「塔」字</li></ul>
 </>
 䎺
 【䎺】zai3 [tʃɐi33]<a href="sound://M-zai3.spx"><img src="/sound.png"></a><a href="sound://F-zai3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P197；[B]1994年謝建猷《南寧白話同音字彙》P291 附：[tsɐi33]</li><li><span style="font-weight: bold">同音字：</span>際, 製, 穄 [3..] <a href="entry://zai3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]答應；冇～，不答應[B]毋～：不願意</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文作「濟」字[B]原文有音無字</li></ul>
@@ -396,6 +396,12 @@
 </>
 主
 【主】zyu2 [tʃy35]<a href="sound://M-zyu2.spx"><img src="/sound.png"></a><a href="sound://F-zyu2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P39；[B]1994年謝建猷《南寧白話同音字彙》P291 附：[tsy35]；[C]2007年謝建猷《廣西漢語方言研究》P404 附：[tʃy35]；[D]1997年楊煥典《南寧話音檔》P73 附：[tsy35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P644 附：[tsy35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P51 附：[tsy35]</li><li><span style="font-weight: bold">同音字：</span>煮, 煑, 拄 <a href="entry://zyu2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]主人，地主</li></ul>
+</>
+丼
+【丼】bam2 [pɐm35]<a href="sound://M-bam2.spx"><img src="/sound.png"></a><a href="sound://F-bam2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P294 附：[pɐm35]</li><li><span style="font-weight: bold">同音字：</span>韸 <a href="entry://bam2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]重物落水聲</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
+</>
+丼
+【丼】pam2 [pʰɐm35]<a href="sound://M-pam2.spx"><img src="/sound.png"></a><a href="sound://F-pam2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P294 附：[pʰɐm35]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://pam2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]輕物落水聲</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 乃
 【乃】naai5 [nai24]<a href="sound://M-naai5.spx"><img src="/sound.png"></a><a href="sound://F-naai5.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P42；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P647 附：[nai24]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P59 附：[nai24]</li><li><span style="font-weight: bold">同音字：</span>奶 <a href="entry://naai5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]人名用字</li></ul>
@@ -758,7 +764,7 @@
 【佊】me2 [mɛ35]<a href="sound://M-me2.spx"><img src="/sound.png"></a><a href="sound://F-me2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P53；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[mɛ35]；[D]1997年楊煥典《南寧話音檔》P65 附：[mɛ35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P14，61 附：[mɛ35]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://me2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]歪[B]歪斜[D]歪斜</li><li><span style="font-weight: bold">備註：</span>[A]原文作「乜」字[B]原文有音無字[D]原文有音無字[E]原文作「乜」字</li></ul>
 </>
 位
-【位】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>諉, 萎, 緯 [3..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]一～客人</li></ul>
+【位】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>諉, 萎, 緯 [4..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]一～客人</li></ul>
 </>
 位
 【位】wai6 [wɐi22]<a href="sound://M-wai6.spx"><img src="/sound.png"></a><a href="sound://F-wai6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi22]；[C]2007年謝建猷《廣西漢語方言研究》P538 附：[∅uɐi22]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi22]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P681 附：[wɐi22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P121 附：[wɐi22]</li><li><span style="font-weight: bold">同音字：</span>謂, 諱, 衛 [10..] <a href="entry://wai6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]～置[E]地位，位子</li></ul>
@@ -1040,7 +1046,7 @@
 【倫（伦）】lyun4 [lyn21]<a href="sound://M-lyun4.spx"><img src="/sound.png"></a><a href="sound://F-lyun4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P30</li><li><span style="font-weight: bold">同音字：</span>麟, 鸞, 鱗 [6..] <a href="entry://lyun4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔老派讀音〕</li></ul>
 </>
 倭
-【倭】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[wɔ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[wɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P622 附：[wɔ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P8 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>踒, 蝸, 萵 [1..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]倭寇</li></ul>
+【倭】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[wɔ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[wɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P622 附：[wɔ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P8 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>踒, 蝸, 萵 [2..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]倭寇</li></ul>
 </>
 倭
 【倭】wo2 [wɔ35]<a href="sound://M-wo2.spx"><img src="/sound.png"></a><a href="sound://F-wo2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2007年謝建猷《廣西漢語方言研究》P322 附：[∅uɔ35]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://wo2">更多</a></li></ul>
@@ -1064,7 +1070,7 @@
 【偈】gai2 [kɐi35]<a href="sound://M-gai2.spx"><img src="/sound.png"></a><a href="sound://F-gai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[kɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P1628 附：[kɐi35]；[D]1997年楊煥典《南寧話音檔》P76 附：[kɐi35]</li><li><span style="font-weight: bold">同音字：</span>計 <a href="entry://gai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]大～：小火輪上地位次於船長的總管[C]傾～，聊天[D]傾～：聊天</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
 </>
 偉
-【偉（伟）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P544 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P683 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P119 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [3..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]偉大，雄偉</li></ul>
+【偉（伟）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P544 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P683 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P119 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [4..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]偉大，雄偉</li></ul>
 </>
 偏
 【偏】pin1 [pʰin55]<a href="sound://M-pin1.spx"><img src="/sound.png"></a><a href="sound://F-pin1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P33；[B]1994年謝建猷《南寧白話同音字彙》P296 附：[pʰin55]；[C]2007年謝建猷《廣西漢語方言研究》P728 附：[pʰin55]；[D]1997年楊煥典《南寧話音檔》P100 附：[pʰin55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P734 附：[pʰin55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P211 附：[pʰin55]</li><li><span style="font-weight: bold">同音字：</span>蝙, 編, 篇 <a href="entry://pin1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]偏偏，偏僻</li></ul>
@@ -2117,6 +2123,9 @@
 【參（参）】sam1 [ʃɐm55]<a href="sound://M-sam1.spx"><img src="/sound.png"></a><a href="sound://F-sam1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P49；[B]1994年謝建猷《南寧白話同音字彙》P294 附：[sɐm55]；[C]2007年謝建猷《廣西漢語方言研究》P692 附：[ʃɐm55]；[D]1997年楊煥典《南寧話音檔》P91 附：[sɐm55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P723 附：[sɐm55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P192 附：[sɐm55]</li><li><span style="font-weight: bold">同音字：</span>深, 森 <a href="entry://sam1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]人參[B]人～[C]人參[D]人～[E]人蔘[F]人參</li></ul>
 </>
 又
+【又】a6 [∅ɐ22]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P33，34 附：[ɐ22]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://a6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]菸～好，茶～好，我都冇愛</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字，例句40中標作[a22]，但從錄音材料聽實際上是[ɐ22]，此處按照錄音</li></ul>
+</>
+又
 【又】jau6 [jɐu22]<a href="sound://M-jau6.spx"><img src="/sound.png"></a><a href="sound://F-jau6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P49；[B]1994年謝建猷《南寧白話同音字彙》P293 附：[jɐu22]；[C]2007年謝建猷《廣西漢語方言研究》P638 附：[∅iɐu22]；[D]1997年楊煥典《南寧話音檔》P85 附：[jɐu22]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P709 附：[jɐu22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P170 附：[jɐu22]</li><li><span style="font-weight: bold">同音字：</span>佑, 鼬, 釉 [4..] <a href="entry://jau6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]又來了，欲言又止</li></ul>
 </>
 叉
@@ -2375,6 +2384,9 @@
 【呀】jaa1 [ja55]<a href="sound://M-jaa1.spx"><img src="/sound.png"></a><a href="sound://F-jaa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P289 附：[ja55]；[D]1997年楊煥典《南寧話音檔》P63 附：[ja55]</li><li><span style="font-weight: bold">同音字：</span>丫, 鴉, 渣 [1..] <a href="entry://jaa1">更多</a></li></ul>
 </>
 呀
+【呀】jaa4 [ja21]<a href="sound://M-jaa4.spx"><img src="/sound.png"></a><a href="sound://F-jaa4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P58 附：[ja21]</li><li><span style="font-weight: bold">同音字：</span>喳 <a href="entry://jaa4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]嘆詞，表示不滿</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字</li></ul>
+</>
+呀
 【呀】ngaa1 [ŋa55]<a href="sound://M-ngaa1.spx"><img src="/sound.png"></a><a href="sound://F-ngaa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P289 附：[ŋa55]；[D]1997年楊煥典《南寧話音檔》P62 附：[ŋa55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P14 附：[ŋa55]</li><li><span style="font-weight: bold">同音字：</span>椏 <a href="entry://ngaa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]哭～～：哇哇地哭[D]哭～～：大哭</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字[D]原文有音無字</li></ul>
 </>
 呀
@@ -2408,7 +2420,7 @@
 【呔】taai1 [tʰai55]<a href="sound://M-taai1.spx"><img src="/sound.png"></a><a href="sound://F-taai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P74 附：[tʰai55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P15 附：[tʰai55]</li><li><span style="font-weight: bold">同音字：</span>𧘹, 殆 <a href="entry://taai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]車胎</li></ul>
 </>
 呢
-【呢】ne1 [nɛ55]<a href="sound://M-ne1.spx"><img src="/sound.png"></a><a href="sound://F-ne1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P289 附：[nɛ55]</li><li><span style="font-weight: bold">同音字：</span>𪐀 <a href="entry://ne1">更多</a></li></ul>
+【呢】ne1 [nɛ55]<a href="sound://M-ne1.spx"><img src="/sound.png"></a><a href="sound://F-ne1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P289 附：[nɛ55]；[D]1997年楊煥典《南寧話音檔》P58 附：[nɛ55]</li><li><span style="font-weight: bold">同音字：</span>𪐀 <a href="entry://ne1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]語氣助詞，表示停頓</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字</li></ul>
 </>
 呢
 【呢】ne2 [nɛ35]<a href="sound://M-ne2.spx"><img src="/sound.png"></a><a href="sound://F-ne2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P16，53；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[nɛ35]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ne2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]提示語氣詞[B]表示打招呼：～，你有一封信</li><li><span style="font-weight: bold">備註：</span>[A]原文P53有音無字，P16（單字音表）寫作「呢」[B]原文有音無字</li></ul>
@@ -2553,6 +2565,9 @@
 </>
 咬
 【咬】ngeu5 [ŋɛu24]<a href="sound://M-ngeu5.spx"><img src="/sound.png"></a><a href="sound://F-ngeu5.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P54；[B]1994年謝建猷《南寧白話同音字彙》P294 附：[ŋɛu13]；[C]2007年謝建猷《廣西漢語方言研究》P576 附：[ŋɛu23]；[D]1997年楊煥典《南寧話音檔》P86 附：[ŋɛu24]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P692 附：[ŋɛu24]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P137 附：[ŋɛu24]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ngeu5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕[D]〔白讀〕</li></ul>
+</>
+咯
+【咯】lo3 [lɔ33]<a href="sound://M-lo3.spx"><img src="/sound.png"></a><a href="sound://F-lo3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P58 附：[lɔ33]</li><li><span style="font-weight: bold">同音字：</span>摞 <a href="entry://lo3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]語氣助詞，表示已然</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字</li></ul>
 </>
 咳
 【咳】kat1 [kʰɐt5]<a href="sound://M-kat1.spx"><img src="/sound.png"></a><a href="sound://F-kat1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P52；[B]1994年謝建猷《南寧白話同音字彙》P300 附：[kʰɐt5]；[C]2007年謝建猷《廣西漢語方言研究》P422 附：[kʰɐt5]；[D]1997年楊煥典《南寧話音檔》P121 附：[kʰɐt5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P649 附：[kʰɐt5]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P62 附：[kʰɐt5]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://kat1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]咳嗽[C]咳嗽[E]咳嗽[F]咳嗽</li></ul>
@@ -2804,7 +2819,7 @@
 【商】soeng1 [ʃœŋ55]<a href="sound://M-soeng1.spx"><img src="/sound.png"></a><a href="sound://F-soeng1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P60；[B]1994年謝建猷《南寧白話同音字彙》P298 附：[sœŋ55]；[C]2007年謝建猷《廣西漢語方言研究》P900 附：[ʃøŋ55]；[D]1997年楊煥典《南寧話音檔》P112 附：[sœŋ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P781 附：[sœŋ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P291 附：[sœŋ55]</li><li><span style="font-weight: bold">同音字：</span>傷, 霜, 雙 [1..] <a href="entry://soeng1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]商量，商業</li></ul>
 </>
 啊
-【啊】aa1 [∅a55]<a href="sound://M-aa1.spx"><img src="/sound.png"></a><a href="sound://F-aa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P15；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[∅a55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P14 附：[a55]</li><li><span style="font-weight: bold">同音字：</span>一, 鴉, 丫 <a href="entry://aa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]表示驚訝：～，你連飯都毋識煮</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
+【啊】aa1 [∅a55]<a href="sound://M-aa1.spx"><img src="/sound.png"></a><a href="sound://F-aa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P15；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[∅a55]；[D]1997年楊煥典《南寧話音檔》P58 附：[a55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P14 附：[a55]</li><li><span style="font-weight: bold">同音字：</span>一, 鴉, 丫 <a href="entry://aa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]表示驚訝：～，你連飯都毋識煮[D]語氣助詞，表示徵求意見</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字[D]字表外。原文有音無字</li></ul>
 </>
 啊
 【啊】aa4 [∅a21]<a href="sound://M-aa4.spx"><img src="/sound.png"></a><a href="sound://F-aa4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P289 附：[∅a21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://aa4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]表示惋惜：～，阿公臨死都毋得見過孫仔</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
@@ -2867,7 +2882,7 @@
 【啲】di1 [ti55]<a href="sound://M-di1.spx"><img src="/sound.png"></a><a href="sound://F-di1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P31；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[ti55]；[C]2007年謝建猷《廣西漢語方言研究》P1508，1916，1922，1932 附：[ti55]；[D]1997年楊煥典《南寧話音檔》P68 附：[ti55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P14 附：[ti55]</li><li><span style="font-weight: bold">同音字：</span>姼 <a href="entry://di1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B](1)阿[a33]～嚕[lu33]～：這裏那裏；(2)一～：一點兒；(3)～咑[ta33]：鎖吶；(4)公～婆～：老頭子老太太[C]病好～了，病輕了；～男人，爺兒們，～女人，娘兒們；阿～，這裏，嚕～，那裏；有～，有點兒[D]邊[pin55]～：哪兒</li><li><span style="font-weight: bold">備註：</span>[A]2017年洪波、郭鑫、覃鳳餘《廣西部分漢語、壯語方言不定量詞兼表處所名詞語義模式研究》認爲不定量詞兼表處所名詞是複製壯語的用法[B]原文有音無字。此處併入「啲」字。義項(4)有不少方言區讀「公低婆低」，一說爲爹之音轉，一說本字姼，一說爲壯語，古壯字「𡛕」，音dai[taːi1]，外祖母、岳母之意，南寧現已極罕用[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
 </>
 啲
-【啲】di2 [ti35]<a href="sound://M-di2.spx"><img src="/sound.png"></a><a href="sound://F-di2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P241</li><li><span style="font-weight: bold">同音字：</span>弟 <a href="entry://di2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]後加成分，表程度輕</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。有兩讀</li></ul>
+【啲】di2 [ti35]<a href="sound://M-di2.spx"><img src="/sound.png"></a><a href="sound://F-di2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P241</li><li><span style="font-weight: bold">同音字：</span>弟 <a href="entry://di2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]後加成分，表程度輕</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。有兩讀，見原文P259詳細解釋</li></ul>
 </>
 啲
 【啲】dit1 [tit5]<a href="sound://M-dit1.spx"><img src="/sound.png"></a><a href="sound://F-dit1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P35，241；[B]1994年謝建猷《南寧白話同音字彙》P301 附：[tit5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P20 附：[tit5]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://dit1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]一點兒；後加成分，表程度輕[B]汽車喇叭聲</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
@@ -2897,6 +2912,12 @@
 【喀】kaak3 [kʰak3]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P226</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://kaak3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]方～嘞[lak3]，方貌</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文有音無字</li></ul>
 </>
 喂
+【喂】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P58 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>麾, 輝, 爲 [3..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]嘆詞，表示反感</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字</li></ul>
+</>
+喂
+【喂】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P58 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [4..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]語氣助詞，表示詢問；嘆詞，表示出乎意料</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字</li></ul>
+</>
+喂
 【喂】wai3 [wɐi33]<a href="sound://M-wai3.spx"><img src="/sound.png"></a><a href="sound://F-wai3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi33]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi33]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi33]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P119 附：[wɐi33]</li><li><span style="font-weight: bold">同音字：</span>餵, 餧, 諱 [7..] <a href="entry://wai3">更多</a></li><li><span style="font-weight: bold">備註：</span>[E]原文誤作[wɐi35]</li></ul>
 </>
 喃
@@ -2922,6 +2943,9 @@
 </>
 喋
 【喋】slep6 [ɬɛp2]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P26，56，227；[B]1994年謝建猷《南寧白話同音字彙》P300 附：[ɬɛp2]</li><li><span style="font-weight: bold">同音字：</span>霫, 趿 <a href="entry://slep6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]詞綴，拖～～，爛～～[B]鴨吃食聲</li><li><span style="font-weight: bold">備註：</span>[A]原文P26有音無字，且「趿、霅」置於同一音節，此處分開，P56寫作「喋」，並非本字[B]原文有音無字</li></ul>
+</>
+喎
+【喎（㖞）】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P58 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>倭, 踒, 蝸 [2..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]語氣助詞，表示叮嚀</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字</li></ul>
 </>
 喏
 【喏】no3 [nɔ33]<a href="sound://M-no3.spx"><img src="/sound.png"></a><a href="sound://F-no3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P290 附：[nɔ33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://no3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]語氣詞：今日我做東～</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
@@ -2975,7 +2999,7 @@
 【單（单）】sin6 [ʃin22]<a href="sound://M-sin6.spx"><img src="/sound.png"></a><a href="sound://F-sin6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P33；[C]2007年謝建猷《廣西漢語方言研究》P742 附：[ʃin22]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P737 附：[sin22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P218 附：[sin22]</li><li><span style="font-weight: bold">同音字：</span>善, 膳, 禪 <a href="entry://sin6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]姓[C]姓[E]姓[F]姓</li></ul>
 </>
 喲
-【喲（哟）】jo1 [jɔ55]<a href="sound://M-jo1.spx"><img src="/sound.png"></a><a href="sound://F-jo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[jɔ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[jɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P14 附：[jɔ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://jo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]表示驚訝：～，日日都見你</li></ul>
+【喲（哟）】jo1 [jɔ55]<a href="sound://M-jo1.spx"><img src="/sound.png"></a><a href="sound://F-jo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[jɔ55]；[D]1997年楊煥典《南寧話音檔》P58，65 附：[jɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P14 附：[jɔ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://jo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]表示驚訝：～，日日都見你[D]嘆詞，表示驚訝</li></ul>
 </>
 喲
 【喲（哟）】jo2 [jɔ35]<a href="sound://M-jo2.spx"><img src="/sound.png"></a><a href="sound://F-jo2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P290 附：[jɔ35]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://jo2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]表示非常意外</li></ul>
@@ -2987,7 +3011,7 @@
 【喲（哟）】joe4 [jœ21]<a href="sound://M-joe4.spx"><img src="/sound.png"></a><a href="sound://F-joe4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P290 附：[jœ21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://joe4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]叫～～：無病呻吟</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 喳
-【喳】jaa4 [ja21]<a href="sound://M-jaa4.spx"><img src="/sound.png"></a><a href="sound://F-jaa4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P289 附：[ja21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://jaa4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]叫～～：嗷嗷叫</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
+【喳】jaa4 [ja21]<a href="sound://M-jaa4.spx"><img src="/sound.png"></a><a href="sound://F-jaa4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P289 附：[ja21]</li><li><span style="font-weight: bold">同音字：</span>呀 <a href="entry://jaa4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]叫～～：嗷嗷叫</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 喳
 【喳】zaa4 [tʃa21]<a href="sound://M-zaa4.spx"><img src="/sound.png"></a><a href="sound://F-zaa4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P16，41；[D]1997年楊煥典《南寧話音檔》P62 附：[tsa21]</li><li><span style="font-weight: bold">同音字：</span>𧨊 <a href="entry://zaa4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]疊音詞綴，嘈～～：鬧哄哄，嘈雜貌[D]走～～</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字[D]原文有音無字</li></ul>
@@ -3161,6 +3185,9 @@
 【嘅】e3 [∅ɛ33]<a href="sound://M-e3.spx"><img src="/sound.png"></a><a href="sound://F-e3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P220，318；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P38，66 附：[ɛ33]</li><li><span style="font-weight: bold">同音字：</span>擠, 屎 <a href="entry://e3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]助詞，的[E]你～仔、我～仔、你～女、我～女</li><li><span style="font-weight: bold">備註：</span>[A]词表中[E]詞表中</li></ul>
 </>
 嘅
+【嘅】ge2 [kɛ35]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P295</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ge2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]語氣詞，佢間屋裝修得幾靚～</li><li><span style="font-weight: bold">備註：</span>[A]詞法研究關於「幾2」的例句</li></ul>
+</>
+嘅
 【嘅】ge3 [kɛ33]<a href="sound://M-ge3.spx"><img src="/sound.png"></a><a href="sound://F-ge3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P220，318；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[kɛ33]；[C]2007年謝建猷《廣西漢語方言研究》P1910，1912 附：[kɛ33]；[D]1997年楊煥典《南寧話音檔》P66 附：[kɛ33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P66 附：[kɛ33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ge3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]助詞，的[B]助詞；的[C]我～，我的，你～，你的，他～，他的[D]的[E]我～，我的，你～，你的，佢～，他的</li><li><span style="font-weight: bold">備註：</span>[A]词表中[C]原文有音無字。詞表中[E]詞表中</li></ul>
 </>
 嘆
@@ -3188,7 +3215,7 @@
 【嘗（尝）】coeng4 [tʃʰœŋ21]<a href="sound://M-coeng4.spx"><img src="/sound.png"></a><a href="sound://F-coeng4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P60；[B]1994年謝建猷《南寧白話同音字彙》P298 附：[tsʰœŋ21]；[C]2007年謝建猷《廣西漢語方言研究》P900 附：[tʃʰøŋ21]；[D]1997年楊煥典《南寧話音檔》P111 附：[tsʰœŋ21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P781 附：[tsʰœŋ21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P291 附：[tsʰœŋ21]</li><li><span style="font-weight: bold">同音字：</span>償, 長, 詳 [10..] <a href="entry://coeng4">更多</a></li></ul>
 </>
 嘛
-【嘛】maa1 [ma55]<a href="sound://M-maa1.spx"><img src="/sound.png"></a><a href="sound://F-maa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P228</li><li><span style="font-weight: bold">同音字：</span>貌, 蟆, 螞 [3..] <a href="entry://maa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]黑～～</li><li><span style="font-weight: bold">備註：</span>[A]詞表中</li></ul>
+【嘛】maa1 [ma55]<a href="sound://M-maa1.spx"><img src="/sound.png"></a><a href="sound://F-maa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P228；[D]1997年楊煥典《南寧話音檔》P56 附：[ma55]</li><li><span style="font-weight: bold">同音字：</span>貌, 蟆, 螞 [3..] <a href="entry://maa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]黑～～[D]黑～～</li><li><span style="font-weight: bold">備註：</span>[A]詞表中[D]字表外。原文有音無字</li></ul>
 </>
 嘛
 【嘛】maa2 [ma35]<a href="sound://M-maa2.spx"><img src="/sound.png"></a><a href="sound://F-maa2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P365</li><li><span style="font-weight: bold">同音字：</span>嗎 <a href="entry://maa2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]是非疑問句</li></ul>
@@ -3197,7 +3224,7 @@
 【嘛】maa3 [ma33]<a href="sound://M-maa3.spx"><img src="/sound.png"></a><a href="sound://F-maa3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P288 附：[ma33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://maa3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]表示提示性的語氣：你應該自覺～</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 嘛
-【嘛】maa4 [ma21]<a href="sound://M-maa4.spx"><img src="/sound.png"></a><a href="sound://F-maa4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P288 附：[ma21]</li><li><span style="font-weight: bold">同音字：</span>麻, 蟆, 痲 [1..] <a href="entry://maa4">更多</a></li></ul>
+【嘛】maa4 [ma21]<a href="sound://M-maa4.spx"><img src="/sound.png"></a><a href="sound://F-maa4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P288 附：[ma21]；[D]1997年楊煥典《南寧話音檔》P58 附：[ma21]</li><li><span style="font-weight: bold">同音字：</span>麻, 蟆, 痲 [1..] <a href="entry://maa4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]語氣助詞，表示同意</li><li><span style="font-weight: bold">備註：</span>[D]字表外。原文有音無字</li></ul>
 </>
 嘜
 【嘜（唛）】mak1 [mɐk5]<a href="sound://M-mak1.spx"><img src="/sound.png"></a><a href="sound://F-mak1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P29，52；[B]1994年謝建猷《南寧白話同音字彙》P302 附：[mɐk5]；[C]2007年謝建猷《廣西漢語方言研究》P1386 附：[mɐk5]；[D]1997年楊煥典《南寧話音檔》P125 附：[mɐk5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P21 附：[mɐk5]</li><li><span style="font-weight: bold">同音字：</span>墨 <a href="entry://mak1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]米筒；罐頭盒，方言字作「嘜」[B]～頭：模樣[C]～頭，相貌[D]～頭：相貌</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字。此處根據麥耘、譚步雲《實用廣州話分類詞典》P277補充[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
@@ -3263,7 +3290,7 @@
 【嘻】hi4 [hi21]<a href="sound://M-hi4.spx"><img src="/sound.png"></a><a href="sound://F-hi4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P290 附：[hi21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://hi4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]笑～～：傻笑</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 嘿
-【嘿】hai1 [hɐi55]<a href="sound://M-hai1.spx"><img src="/sound.png"></a><a href="sound://F-hai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[hɐi55]</li><li><span style="font-weight: bold">同音字：</span>㞓 <a href="entry://hai1">更多</a></li><li><span style="font-weight: bold">備註：</span>[A]詞表中實爲「㞓」的替代字</li></ul>
+【嘿】hai1 [hɐi55]<a href="sound://M-hai1.spx"><img src="/sound.png"></a><a href="sound://F-hai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[hɐi55]；[D]1997年楊煥典《南寧話音檔》P58 附：[hɐi55]</li><li><span style="font-weight: bold">同音字：</span>㞓 <a href="entry://hai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]嘆詞，表示強調，引起聽話者注意</li><li><span style="font-weight: bold">備註：</span>[A]詞表中實爲「㞓」的替代字[D]字表外。原文有音無字</li></ul>
 </>
 嘿
 【嘿】hui1 [hui55]<a href="sound://M-hui1.spx"><img src="/sound.png"></a><a href="sound://F-hui1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P293 附：[hui55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://hui1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]用於喚人：～，叫你來</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
@@ -3368,7 +3395,7 @@
 【嚓】caat6 [tʃʰat2]<a href="sound://M-caat6.spx"><img src="/sound.png"></a><a href="sound://F-caat6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P301 附：[tsʰat2]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://caat6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]磨刀～～：磨刀霍霍</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 嚕
-【嚕（噜）】lu1 [lu55]<a href="sound://M-lu1.spx"><img src="/sound.png"></a><a href="sound://F-lu1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P36；[B]1994年謝建猷《南寧白話同音字彙》P291 附：[lu55]；[C]2007年謝建猷《廣西漢語方言研究》P1920，1922 附：[lu55]；[D]1997年楊煥典《南寧話音檔》P71 附：[lu55]</li><li><span style="font-weight: bold">同音字：</span>黸, 癆, 擼 [1..] <a href="entry://lu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]那[B]～個人：那個人[C]～個，那個；～啲，這裏[D]那(指示代詞)</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
+【嚕（噜）】lu1 [lu55]<a href="sound://M-lu1.spx"><img src="/sound.png"></a><a href="sound://F-lu1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P36；[B]1994年謝建猷《南寧白話同音字彙》P291 附：[lu55]；[C]2007年謝建猷《廣西漢語方言研究》P1920，1922 附：[lu55]；[D]1997年楊煥典《南寧話音檔》P71 附：[lu55]</li><li><span style="font-weight: bold">同音字：</span>黸, 癆, 擼 [1..] <a href="entry://lu1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]那[B]～個人：那個人[C]～個，那個；～啲，那裏[D]那(指示代詞)</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
 </>
 嚗
 【嚗】bok1 [pɔk5]<a href="sound://M-bok1.spx"><img src="/sound.png"></a><a href="sound://F-bok1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P126 附：[pɔk5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[pɔk5]</li><li><span style="font-weight: bold">同音字：</span>㩧, 𦢊, 泡 [1..] <a href="entry://bok1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]～佬：土包子[E]～佬，土包子</li><li><span style="font-weight: bold">備註：</span>[D]原文有音無字。此處根據白宛如《廣州方言詞典》P491補充。彭娟《湘方言本字研究》給出湘語的用法有「儤/𢖔」字[E]詞表中。原文有音無字</li></ul>
@@ -3407,7 +3434,7 @@
 【囉（啰）】lo4 [lɔ21]<a href="sound://M-lo4.spx"><img src="/sound.png"></a><a href="sound://F-lo4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2007年謝建猷《廣西漢語方言研究》P316 附：[lɔ21]</li><li><span style="font-weight: bold">同音字：</span>騾, 鑼, 邏 [5..] <a href="entry://lo4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]囉嗦</li></ul>
 </>
 囊
-【囊】nang1 [nɐŋ55]<a href="sound://M-nang1.spx"><img src="/sound.png"></a><a href="sound://F-nang1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P24，51；[B]1994年謝建猷《南寧白話同音字彙》P297 附：[nɐŋ55]；[D]1997年楊煥典《南寧話音檔》P106 附：[nɐŋ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P18，44 附：[nɐŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://nang1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]～肌[kɐi55]，疤，疤痕[B]～肌[kɐi55]：疤痕[D]～肌[kɐi55]：疤[E]～肌[kɐi55]，疤、疤痕</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。「雞」爲同音替代字。壯語有naengq表示疤痕。古壯字有「⿰皮生」，音naeng[naŋ1]表示皮，邢公畹《漢台語比較手冊》P377、陳孝玲《侗臺語核心詞研究》P59認爲民族語對音與「囊」可比較[B]原文有音無字[D]原文有音無字[E]原文作「𤹍雞」</li></ul>
+【囊】nang1 [nɐŋ55]<a href="sound://M-nang1.spx"><img src="/sound.png"></a><a href="sound://F-nang1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P24，51；[B]1994年謝建猷《南寧白話同音字彙》P297 附：[nɐŋ55]；[D]1997年楊煥典《南寧話音檔》P106 附：[nɐŋ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P18，44 附：[nɐŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://nang1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]～肌[kɐi55]，疤，疤痕[B]～肌[kɐi55]：疤痕[D]～肌[kɐi55]：疤[E]～肌[kɐi55]，疤、疤痕</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。「雞」爲同音替代字。壯語有naengq表示疤痕。古壯字有「⿰皮生」，音naeng[naŋ1]表示皮，邢公畹《漢台語比較手冊》P377、陳孝玲《侗台語核心詞研究》P59認爲民族語對音與「囊」可比較[B]原文有音無字[D]原文有音無字[E]原文作「𤹍雞」</li></ul>
 </>
 囊
 【囊】nong1 [nɔŋ55]<a href="sound://M-nong1.spx"><img src="/sound.png"></a><a href="sound://F-nong1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P180</li><li><span style="font-weight: bold">同音字：</span>䑋, 襠 <a href="entry://nong1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]泡[pʰau55]囊肉</li><li><span style="font-weight: bold">備註：</span>[A]詞表中</li></ul>
@@ -4151,7 +4178,7 @@
 【姓】sling3 [ɬeŋ33]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P34；[B]1994年謝建猷《南寧白話同音字彙》P299 附：[ɬiŋ33]；[C]2007年謝建猷《廣西漢語方言研究》P986 附：[ɬiŋ33]；[D]1997年楊煥典《南寧話音檔》P113 附：[ɬeŋ33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P805 附：[ɬeŋ33]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P339 附：[ɬing33]</li><li><span style="font-weight: bold">同音字：</span>鉎, 性 <a href="entry://sling3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]姓名</li></ul>
 </>
 委
-【委】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P118 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [3..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]委託，常委</li></ul>
+【委】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P118 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [4..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]委託，常委</li></ul>
 </>
 姘
 【姘】ping3 [pʰeŋ33]<a href="sound://M-ping3.spx"><img src="/sound.png"></a><a href="sound://F-ping3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2007年謝建猷《廣西漢語方言研究》P996 附：[pʰiŋ33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P807 附：[pʰeŋ33]</li><li><span style="font-weight: bold">同音字：</span>聘, 拼, 拚 <a href="entry://ping3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]姘頭[E]姘頭</li></ul>
@@ -4196,7 +4223,7 @@
 【姿】zy1 [tsɿ55]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P30；[B]1994年謝建猷《南寧白話同音字彙》P288 附：[tsɿ55]；[D]1997年楊煥典《南寧話音檔》P60 附：[tsɿ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P670 附：[tsɿ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P92 附：[tsɿ55]</li><li><span style="font-weight: bold">同音字：</span>咨, 資, 茲 [1..] <a href="entry://zy1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔老派讀音〕[E]姿勢</li></ul>
 </>
 威
-【威】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi55]；[C]2007年謝建猷《廣西漢語方言研究》P544 附：[∅uɐi55]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P683 附：[wɐi55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P117 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>麾, 輝, 爲 [2..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]威風，發威</li></ul>
+【威】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi55]；[C]2007年謝建猷《廣西漢語方言研究》P544 附：[∅uɐi55]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P683 附：[wɐi55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P117 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>喂, 麾, 輝 [3..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]威風，發威</li></ul>
 </>
 娃
 【娃】waa1 [wa55]<a href="sound://M-waa1.spx"><img src="/sound.png"></a><a href="sound://F-waa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P42；[D]1997年楊煥典《南寧話音檔》P63 附：[wa55]</li><li><span style="font-weight: bold">同音字：</span>划, 蛙, 花 [1..] <a href="entry://waa1">更多</a></li></ul>
@@ -4766,7 +4793,7 @@
 【尼】ni4 [ni21]<a href="sound://M-ni4.spx"><img src="/sound.png"></a><a href="sound://F-ni4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P16，31；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[ni21]；[C]2007年謝建猷《廣西漢語方言研究》P496 附：[ni21]；[D]1997年楊煥典《南寧話音檔》P68 附：[ni21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P669 附：[ni21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P92 附：[ni21]</li><li><span style="font-weight: bold">同音字：</span>倪, 誼, 疑 [2..] <a href="entry://ni4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔又音〕尼龍[B]專用於人名[E]尼姑[F]用於人名</li></ul>
 </>
 尾
-【尾】me1 [mɛ55]<a href="sound://M-me1.spx"><img src="/sound.png"></a><a href="sound://F-me1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P147；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[mɛ55]；[C]2007年謝建猷《廣西漢語方言研究》P1300 附：[mɛ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[mɛ55]</li><li><span style="font-weight: bold">同音字：</span>咩, 孭, 孖 <a href="entry://me1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]塘～，蜻蜓[B]塘～：蜻蜒[C]塘～，蜻蜓[D]塘～：蜻蜓</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文作「塘咩」[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
+【尾】me1 [mɛ55]<a href="sound://M-me1.spx"><img src="/sound.png"></a><a href="sound://F-me1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P147；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[mɛ55]；[C]2007年謝建猷《廣西漢語方言研究》P1300 附：[mɛ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[mɛ55]</li><li><span style="font-weight: bold">同音字：</span>咩, 孭, 孖 <a href="entry://me1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]塘～，蜻蜓[B]塘～：蜻蜓[C]塘～，蜻蜓[D]塘～：蜻蜓</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文作「塘咩」[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
 </>
 尾
 【尾】mi5 [mi24]<a href="sound://M-mi5.spx"><img src="/sound.png"></a><a href="sound://F-mi5.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P31；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[mi13]；[C]2007年謝建猷《廣西漢語方言研究》P542 附：[mi23]；[D]1997年楊煥典《南寧話音檔》P68 附：[mi24]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P682 附：[mi24]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P118 附：[mi24]</li><li><span style="font-weight: bold">同音字：</span>靡, 美 <a href="entry://mi5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]末尾，尾巴</li></ul>
@@ -7031,7 +7058,7 @@
 【揮（挥）】fai1 [fɐi55]<a href="sound://M-fai1.spx"><img src="/sound.png"></a><a href="sound://F-fai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47</li><li><span style="font-weight: bold">同音字：</span>麾, 輝 <a href="entry://fai1">更多</a></li></ul>
 </>
 揮
-【揮（挥）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi55]；[C]2007年謝建猷《廣西漢語方言研究》P542 附：[∅uɐi55]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P682 附：[wɐi55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P116 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>威, 麾, 輝 [2..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕[E]指揮，揮手</li></ul>
+【揮（挥）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi55]；[C]2007年謝建猷《廣西漢語方言研究》P542 附：[∅uɐi55]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P682 附：[wɐi55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P116 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>喂, 麾, 輝 [3..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕[E]指揮，揮手</li></ul>
 </>
 援
 【援】jyun4 [jyn21]<a href="sound://M-jyun4.spx"><img src="/sound.png"></a><a href="sound://F-jyun4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P40；[B]1994年謝建猷《南寧白話同音字彙》P297 附：[jyn21]；[C]2007年謝建猷《廣西漢語方言研究》P802 附：[∅yn21]；[D]1997年楊煥典《南寧話音檔》P104 附：[yn21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P754 附：[yn21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P243 附：[jyn21]</li><li><span style="font-weight: bold">同音字：</span>丸, 鉛, 轅 [14..] <a href="entry://jyun4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]援救[E]援助，救援</li></ul>
@@ -7163,7 +7190,7 @@
 【摎】laau5 [lau24]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2007年謝建猷《廣西漢語方言研究》P1946 附：[lau23]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://laau5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]～時，隨便</li><li><span style="font-weight: bold">備註：</span>[C]原文有音無字。詞表中，應作「～事」，此處誤作「時」</li></ul>
 </>
 摒
-【摒】fing3 [feŋ33]<a href="sound://M-fing3.spx"><img src="/sound.png"></a><a href="sound://F-fing3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P23；[B]1994年謝建猷《南寧白話同音字彙》P299 附：[fiŋ33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P19 附：[feŋ33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://fing3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]甩[B]甩[E]甩</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字[B]原文有音無字[E]原文有音無字</li></ul>
+【摒】fing3 [feŋ33]<a href="sound://M-fing3.spx"><img src="/sound.png"></a><a href="sound://F-fing3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P23；[B]1994年謝建猷《南寧白話同音字彙》P299 附：[fiŋ33]；[D]1997年楊煥典《南寧話音檔》P52 附：[feŋ33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P19 附：[feŋ33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://fing3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]甩[B]甩[D]搖（頭）[E]甩</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字[B]原文有音無字[D]字表外。原文有音無字[E]原文有音無字</li></ul>
 </>
 摒
 【摒】fing4 [feŋ21]<a href="sound://M-fing4.spx"><img src="/sound.png"></a><a href="sound://F-fing4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P299 附：[fiŋ21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://fing4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]扔</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
@@ -7196,7 +7223,7 @@
 【摝】nguk6 [ŋʊk2]<a href="sound://M-nguk6.spx"><img src="/sound.png"></a><a href="sound://F-nguk6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P28；[D]1997年楊煥典《南寧話音檔》P129 附：[ŋuk2]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P21 附：[ŋok2]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://nguk6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]用力搖動[D]用力搖[E]用力搖動</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字[D]原文有音無字[E]原文有音無字</li></ul>
 </>
 摞
-【摞】lo3 [lɔ33]<a href="sound://M-lo3.spx"><img src="/sound.png"></a><a href="sound://F-lo3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P620 附：[lɔ33]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://lo3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]摞起來，把東西整齊地重疊往上放</li></ul>
+【摞】lo3 [lɔ33]<a href="sound://M-lo3.spx"><img src="/sound.png"></a><a href="sound://F-lo3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P620 附：[lɔ33]</li><li><span style="font-weight: bold">同音字：</span>咯 <a href="entry://lo3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]摞起來，把東西整齊地重疊往上放</li></ul>
 </>
 摟
 【摟（搂）】lau1 [lɐu55]<a href="sound://M-lau1.spx"><img src="/sound.png"></a><a href="sound://F-lau1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P19，48；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[lɐu55]</li><li><span style="font-weight: bold">同音字：</span>騮, 褸, 流 <a href="entry://lau1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]邀請；挑逗；（蒼蠅等）趴[E]～住，披上</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。此處根據覃遠雄等《南寧平話詞典》P153補充，白宛如《廣州方言詞典》P190作「褸」字[E]詞表中。原文有音無字</li></ul>
@@ -9317,7 +9344,7 @@
 【殿】din6 [tin22]<a href="sound://M-din6.spx"><img src="/sound.png"></a><a href="sound://F-din6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P33；[B]1994年謝建猷《南寧白話同音字彙》P296 附：[tin22]；[C]2007年謝建猷《廣西漢語方言研究》P754 附：[tin22]；[D]1997年楊煥典《南寧話音檔》P101 附：[tin22]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P740 附：[tin22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P225 附：[tin22]</li><li><span style="font-weight: bold">同音字：</span>佃, 電, 簟 [1..] <a href="entry://din6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]佛殿，殿堂</li></ul>
 </>
 毀
-【毀（毁）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P118 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [3..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]毀滅[F]毀壞</li></ul>
+【毀（毁）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P118 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [4..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]毀滅[F]毀壞</li></ul>
 </>
 毅
 【毅】ngai6 [ŋɐi22]<a href="sound://M-ngai6.spx"><img src="/sound.png"></a><a href="sound://F-ngai6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[ŋɐi22]；[C]2007年謝建猷《廣西漢語方言研究》P526 附：[ŋɐi22]；[D]1997年楊煥典《南寧話音檔》P77 附：[ŋɐi22]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P678 附：[ŋɐi22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P113 附：[ŋɐi22]</li><li><span style="font-weight: bold">同音字：</span>偽, 魏, 藝 [2..] <a href="entry://ngai6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]毅力</li></ul>
@@ -9881,16 +9908,7 @@
 【渡】du6 [tu22]<a href="sound://M-du6.spx"><img src="/sound.png"></a><a href="sound://F-du6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P36；[B]1994年謝建猷《南寧白話同音字彙》P291 附：[tu22]；[C]2007年謝建猷《廣西漢語方言研究》P360 附：[tu22]；[D]1997年楊煥典《南寧話音檔》P70 附：[tu22]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P632 附：[tu22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P36 附：[tu22]</li><li><span style="font-weight: bold">同音字：</span>妒, 鍍, 道 [6..] <a href="entry://du6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]擺渡，渡船，偷渡</li></ul>
 </>
 渢
-【渢（沨）】bam2 [pɐm35]<a href="sound://M-bam2.spx"><img src="/sound.png"></a><a href="sound://F-bam2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P294 附：[pɐm35]</li><li><span style="font-weight: bold">同音字：</span>韸 <a href="entry://bam2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]重物落水聲</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
-</>
-渢
-【渢（沨）】bam4 [pɐm21]<a href="sound://M-bam4.spx"><img src="/sound.png"></a><a href="sound://F-bam4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P294 附：[pɐm21]</li><li><span style="font-weight: bold">同音字：</span>韸 <a href="entry://bam4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]響～～：轟轟響</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字。麥耘、譚步雲《實用廣州話分類詞典》P380併入「乒」字</li></ul>
-</>
-渢
 【渢（沨）】bung2 [pʊŋ35]<a href="sound://M-bung2.spx"><img src="/sound.png"></a><a href="sound://F-bung2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P299 附：[puŋ35]</li><li><span style="font-weight: bold">同音字：</span>捧 <a href="entry://bung2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]重物落水聲</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
-</>
-渢
-【渢（沨）】pam2 [pʰɐm35]<a href="sound://M-pam2.spx"><img src="/sound.png"></a><a href="sound://F-pam2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P294 附：[pʰɐm35]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://pam2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]輕物落水聲</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 渣
 【渣】jaa1 [ja55]<a href="sound://M-jaa1.spx"><img src="/sound.png"></a><a href="sound://F-jaa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P85，231；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[ja55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P67 附：[ja55]</li><li><span style="font-weight: bold">同音字：</span>丫, 鴉, 抓 [1..] <a href="entry://jaa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕食～米，白活[B]食～米：窩囊廢[E]食～米，不行（那傢伙～）</li><li><span style="font-weight: bold">備註：</span>[A]原文P231詞表中有音無字[B]原文有音無字。此處應是「渣」白讀[E]詞表中。原文[ja55]有音無字</li></ul>
@@ -10427,7 +10445,7 @@
 【炸】zeu3 [tʃɛu33]<a href="sound://M-zeu3.spx"><img src="/sound.png"></a><a href="sound://F-zeu3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P19，54；[C]2007年謝建猷《廣西漢語方言研究》P660 附：[tʃɛu33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P714 附：[tsɛu33]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P181 附：[tsɛu33]</li><li><span style="font-weight: bold">同音字：</span>㷹, 罩, 笊 <a href="entry://zeu3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕〔又音〕炸油條，油炸[C]用油炸[E]用油炸[F]油炸</li><li><span style="font-weight: bold">備註：</span>[A]本字「㷹」[C]本字「㷹」[E]本字「㷹」[F]本字「㷹」</li></ul>
 </>
 為
-【為（为）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P87</li><li><span style="font-weight: bold">同音字：</span>威, 麾, 輝 [2..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕難為</li></ul>
+【為（为）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P87</li><li><span style="font-weight: bold">同音字：</span>喂, 麾, 輝 [3..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕難為</li></ul>
 </>
 為
 【為（为）】wai4 [wɐi21]<a href="sound://M-wai4.spx"><img src="/sound.png"></a><a href="sound://F-wai4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47，87；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi21]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi21]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P114 附：[wɐi21]</li><li><span style="font-weight: bold">同音字：</span>唯, 韋, 遺 [9..] <a href="entry://wai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]作為，為難[B]作～[C]作為[E]作爲[F]作為</li><li><span style="font-weight: bold">備註：</span>[E]原文作「爲」字</li></ul>
@@ -10712,7 +10730,7 @@
 【爭（争）】zaang1 [tʃaŋ55]<a href="sound://M-zaang1.spx"><img src="/sound.png"></a><a href="sound://F-zaang1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P45；[B]1994年謝建猷《南寧白話同音字彙》P297 附：[tsaŋ55]；[C]2007年謝建猷《廣西漢語方言研究》P968 附：[tʃaŋ55]；[D]1997年楊煥典《南寧話音檔》P105 附：[tsaŋ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P800 附：[tsaŋ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P326 附：[tsaŋ55]</li><li><span style="font-weight: bold">同音字：</span>㬹, 踭, 掙 <a href="entry://zaang1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]爭吵，戰爭</li></ul>
 </>
 爲
-【爲（为）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P87</li><li><span style="font-weight: bold">同音字：</span>威, 麾, 輝 [2..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕難爲</li></ul>
+【爲（为）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P87</li><li><span style="font-weight: bold">同音字：</span>喂, 麾, 輝 [3..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕難爲</li></ul>
 </>
 爲
 【爲（为）】wai4 [wɐi21]<a href="sound://M-wai4.spx"><img src="/sound.png"></a><a href="sound://F-wai4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47，87；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi21]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi21]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P114 附：[wɐi21]</li><li><span style="font-weight: bold">同音字：</span>唯, 韋, 遺 [9..] <a href="entry://wai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]作爲，爲難[B]作～[C]作爲[E]作爲[F]作爲</li></ul>
@@ -11213,7 +11231,7 @@
 【甲】gep3 [kɛp3]<a href="sound://M-gep3.spx"><img src="/sound.png"></a><a href="sound://F-gep3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P26；[D]1997年楊煥典《南寧話音檔》P14，51 附：[kɛp3]</li><li><span style="font-weight: bold">同音字：</span>挾 <a href="entry://gep3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[D]〔白讀〕指甲</li><li><span style="font-weight: bold">備註：</span>[D]P14白讀中收錄「甲班」一詞，P51中將其刪除</li></ul>
 </>
 甲
-【甲】lep3 [lɛp3]<a href="sound://M-lep3.spx"><img src="/sound.png"></a><a href="sound://F-lep3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P26，56；[B]1994年謝建猷《南寧白話同音字彙》P300 附：[lɛp3]；[C]2007年謝建猷《廣西漢語方言研究》P1186 附：[lɛp3]；[D]1997年楊煥典《南寧話音檔》P118 附：[lɛp3]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://lep3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]穀～：穀殼[B]穀～：穀殼[C]穀～，穀殼[D]穀～：秕穀皮兒</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。平話亦有，見覃遠雄等《南寧平話詞典》P387。漢壯同源詞，見歐陽覺亞《兩廣粵方言與壯語的種種關係》。古壯字「⿰谷列」，音reb[ɣeːp8]。邢公畹《漢台語比較手冊》P292認爲民族語對音的義，從「孚甲」而來，陳孝玲《侗臺語核心詞研究》P60-61補充，《釋名·釋天》甲，孚甲也，萬物解孚甲而生也。故本字應爲「甲」，上古葉部，又可見藍慶元《壯漢同源詞借詞研究》P150[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
+【甲】lep3 [lɛp3]<a href="sound://M-lep3.spx"><img src="/sound.png"></a><a href="sound://F-lep3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P26，56；[B]1994年謝建猷《南寧白話同音字彙》P300 附：[lɛp3]；[C]2007年謝建猷《廣西漢語方言研究》P1186 附：[lɛp3]；[D]1997年楊煥典《南寧話音檔》P118 附：[lɛp3]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://lep3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]穀～：穀殼[B]穀～：穀殼[C]穀～，穀殼[D]穀～：秕穀皮兒</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。平話亦有，見覃遠雄等《南寧平話詞典》P387。漢壯同源詞，見歐陽覺亞《兩廣粵方言與壯語的種種關係》。古壯字「⿰谷列」，音reb[ɣeːp8]。邢公畹《漢台語比較手冊》P292認爲民族語對音的義，從「孚甲」而來，陳孝玲《侗台語核心詞研究》P60-61補充，《釋名·釋天》甲，孚甲也，萬物解孚甲而生也。故本字應爲「甲」，上古葉部，又可見藍慶元《壯漢同源詞借詞研究》P150[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字</li></ul>
 </>
 申
 【申】san1 [ʃɐn55]<a href="sound://M-san1.spx"><img src="/sound.png"></a><a href="sound://F-san1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P50；[B]1994年謝建猷《南寧白話同音字彙》P295 附：[sɐn55]；[C]2007年謝建猷《廣西漢語方言研究》P820 附：[ʃɐn55]；[D]1997年楊煥典《南寧話音檔》P98 附：[sɐn55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P759 附：[sɐn55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P253 附：[sɐn55]</li><li><span style="font-weight: bold">同音字：</span>伸, 身 <a href="entry://san1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]地支，申請</li></ul>
@@ -12545,7 +12563,7 @@
 【窨】jam3 [jɐm33]<a href="sound://M-jam3.spx"><img src="/sound.png"></a><a href="sound://F-jam3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P49；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P726 附：[jɐm33]</li><li><span style="font-weight: bold">同音字：</span>滲, 飲, 蔭 <a href="entry://jam3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]窨井[E]陰溝，地窖</li></ul>
 </>
 窩
-【窩（窝）】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[wɔ55]；[C]2007年謝建猷《廣西漢語方言研究》P322 附：[∅uɔ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[wɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P622 附：[wɔ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P8 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>倭, 踒, 蝸 [1..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]窩藏，窩囊，窩火</li></ul>
+【窩（窝）】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[wɔ55]；[C]2007年謝建猷《廣西漢語方言研究》P322 附：[∅uɔ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[wɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P622 附：[wɔ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P8 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>倭, 踒, 蝸 [2..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]窩藏，窩囊，窩火</li></ul>
 </>
 窪
 【窪（洼）】waa1 [wa55]<a href="sound://M-waa1.spx"><img src="/sound.png"></a><a href="sound://F-waa1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P42；[C]2007年謝建猷《廣西漢語方言研究》P352 附：[∅ua55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P630 附：[wa55]</li><li><span style="font-weight: bold">同音字：</span>划, 蛙, 花 [1..] <a href="entry://waa1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]窪地，低窪</li></ul>
@@ -13349,7 +13367,7 @@
 【緬（缅）】min5 [min24]<a href="sound://M-min5.spx"><img src="/sound.png"></a><a href="sound://F-min5.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P33；[B]1994年謝建猷《南寧白話同音字彙》P296 附：[min13]；[C]2007年謝建猷《廣西漢語方言研究》P732 附：[min23]；[D]1997年楊煥典《南寧話音檔》P101 附：[min24]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P734 附：[min24]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P215 附：[min24]</li><li><span style="font-weight: bold">同音字：</span>免, 澠, 娩 [1..] <a href="entry://min5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]緬甸，緬懷</li></ul>
 </>
 緯
-【緯（纬）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P546 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P122 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [3..] <a href="entry://wai2">更多</a></li></ul>
+【緯（纬）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P546 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P122 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 萎 [4..] <a href="entry://wai2">更多</a></li></ul>
 </>
 緯
 【緯（纬）】wai5 [wɐi24]<a href="sound://M-wai5.spx"><img src="/sound.png"></a><a href="sound://F-wai5.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P683 附：[wɐi24]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://wai5">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]經緯，緯線</li></ul>
@@ -14780,7 +14798,7 @@
 【萍】ping4 [pʰeŋ21]<a href="sound://M-ping4.spx"><img src="/sound.png"></a><a href="sound://F-ping4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P34；[C]2007年謝建猷《廣西漢語方言研究》P996 附：[pʰiŋ21]；[D]1997年楊煥典《南寧話音檔》P112 附：[pʰeŋ21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P808 附：[pʰeŋ21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P344 附：[pʰing21]</li><li><span style="font-weight: bold">同音字：</span>坪, 評, 瓶 [2..] <a href="entry://ping4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]萍水相逢，萍鄉</li></ul>
 </>
 萎
-【萎】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P114 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 緯 [3..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]氣萎[E]枯萎，萎靡，氣萎</li></ul>
+【萎】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[C]2007年謝建猷《廣西漢語方言研究》P532 附：[∅uɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P114 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 諉, 緯 [4..] <a href="entry://wai2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]氣萎[E]枯萎，萎靡，氣萎</li></ul>
 </>
 萬
 【萬（万）】maan6 [man22]<a href="sound://M-maan6.spx"><img src="/sound.png"></a><a href="sound://F-maan6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P44；[B]1994年謝建猷《南寧白話同音字彙》P296 附：[man22]；[C]2007年謝建猷《廣西漢語方言研究》P798 附：[man22]；[D]1997年楊煥典《南寧話音檔》P94 附：[man22]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P752 附：[man22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P246 附：[man22]</li><li><span style="font-weight: bold">同音字：</span>幔, 饅, 蔓 [3..] <a href="entry://maan6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]數字，麻將中的萬子</li></ul>
@@ -14789,7 +14807,7 @@
 【萵（莴）】o1 [∅ɔ55]<a href="sound://M-o1.spx"><img src="/sound.png"></a><a href="sound://F-o1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P137</li><li><span style="font-weight: bold">同音字：</span>屙, 阿, 痾 <a href="entry://o1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]萵筍</li><li><span style="font-weight: bold">備註：</span>[A]詞表中</li></ul>
 </>
 萵
-【萵（莴）】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P137</li><li><span style="font-weight: bold">同音字：</span>倭, 踒, 蝸 [1..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]萵筍</li><li><span style="font-weight: bold">備註：</span>[A]詞表中</li></ul>
+【萵（莴）】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P137</li><li><span style="font-weight: bold">同音字：</span>倭, 踒, 蝸 [2..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]萵筍</li><li><span style="font-weight: bold">備註：</span>[A]詞表中</li></ul>
 </>
 落
 【落】lok3 [lɔk3]<a href="sound://M-lok3.spx"><img src="/sound.png"></a><a href="sound://F-lok3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P151；[C]2007年謝建猷《廣西漢語方言研究》P1902 附：[lɔk3]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P66 附：[lɔk3]</li><li><span style="font-weight: bold">同音字：</span>洛, 駱, 鉻 [4..] <a href="entry://lok3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]陰溝角落[C]角落頭[E]角落頭</li><li><span style="font-weight: bold">備註：</span>[A]詞表中[C]詞表中[E]詞表中</li></ul>
@@ -15386,7 +15404,7 @@
 【蝶】dip6 [tip2]<a href="sound://M-dip6.spx"><img src="/sound.png"></a><a href="sound://F-dip6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P34；[B]1994年謝建猷《南寧白話同音字彙》P300 附：[tip2]；[C]2007年謝建猷《廣西漢語方言研究》P682 附：[tip2]；[D]1997年楊煥典《南寧話音檔》P119 附：[tip2]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P721 附：[tip2]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P190 附：[tip2]</li><li><span style="font-weight: bold">同音字：</span>牒, 迭, 諜 [3..] <a href="entry://dip6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]蝴蝶</li></ul>
 </>
 蝸
-【蝸（蜗）】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[C]2007年謝建猷《廣西漢語方言研究》P348 附：[∅uɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P629 附：[wɔ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P24 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>倭, 踒, 萵 [1..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]蝸牛</li></ul>
+【蝸（蜗）】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[C]2007年謝建猷《廣西漢語方言研究》P348 附：[∅uɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P629 附：[wɔ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P24 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>倭, 踒, 萵 [2..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]蝸牛</li></ul>
 </>
 螂
 【螂】long4 [lɔŋ21]<a href="sound://M-long4.spx"><img src="/sound.png"></a><a href="sound://F-long4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P58；[C]2007年謝建猷《廣西漢語方言研究》P870 附：[lɔŋ21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P773 附：[lɔŋ21]</li><li><span style="font-weight: bold">同音字：</span>廊, 郎, 蜋 [1..] <a href="entry://long4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]蟑螂，螳螂</li><li><span style="font-weight: bold">備註：</span>[A]原文作「蜋」字[C]原文作「蜋」字</li></ul>
@@ -16085,7 +16103,7 @@
 【談（谈）】taam4 [tʰam21]<a href="sound://M-taam4.spx"><img src="/sound.png"></a><a href="sound://F-taam4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P43；[B]1994年謝建猷《南寧白話同音字彙》P294 附：[tʰam21]；[C]2007年謝建猷《廣西漢語方言研究》P652 附：[tʰam21]；[D]1997年楊煥典《南寧話音檔》P88 附：[tʰam21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P712 附：[tʰam21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P172 附：[tʰam21]</li><li><span style="font-weight: bold">同音字：</span>曇, 譚, 罈 [2..] <a href="entry://taam4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]談話，會談</li></ul>
 </>
 諉
-【諉（诿）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 萎, 緯 [3..] <a href="entry://wai2">更多</a></li></ul>
+【諉（诿）】wai2 [wɐi35]<a href="sound://M-wai2.spx"><img src="/sound.png"></a><a href="sound://F-wai2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi35]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi35]</li><li><span style="font-weight: bold">同音字：</span>位, 萎, 緯 [4..] <a href="entry://wai2">更多</a></li></ul>
 </>
 請
 【請（请）】ceng2 [tʃʰɛŋ35]<a href="sound://M-ceng2.spx"><img src="/sound.png"></a><a href="sound://F-ceng2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P55；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P19 附：[tsʰɛŋ35]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ceng2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕</li></ul>
@@ -16754,7 +16772,7 @@
 【踐（践）】zin2 [tʃin35]<a href="sound://M-zin2.spx"><img src="/sound.png"></a><a href="sound://F-zin2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P33；[C]2007年謝建猷《廣西漢語方言研究》P736 附：[tʃin35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P735 附：[tsin35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P217 附：[tsin35]</li><li><span style="font-weight: bold">同音字：</span>剪, 蹍, 趼 [3..] <a href="entry://zin2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]實踐</li></ul>
 </>
 踒
-【踒】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P622 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>倭, 蝸, 萵 [1..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]踒腳</li></ul>
+【踒】wo1 [wɔ55]<a href="sound://M-wo1.spx"><img src="/sound.png"></a><a href="sound://F-wo1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P622 附：[wɔ55]</li><li><span style="font-weight: bold">同音字：</span>倭, 蝸, 萵 [2..] <a href="entry://wo1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]踒腳</li></ul>
 </>
 踡
 【踡】kyun4 [kʰyn21]<a href="sound://M-kyun4.spx"><img src="/sound.png"></a><a href="sound://F-kyun4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[D]1997年楊煥典《南寧話音檔》P104 附：[kʰyn21]</li><li><span style="font-weight: bold">同音字：</span>乾, 顴, 蜷 [2..] <a href="entry://kyun4">更多</a></li></ul>
@@ -16955,7 +16973,7 @@
 【輝（辉）】fai1 [fɐi55]<a href="sound://M-fai1.spx"><img src="/sound.png"></a><a href="sound://F-fai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P84</li><li><span style="font-weight: bold">同音字：</span>揮, 麾 <a href="entry://fai1">更多</a></li></ul>
 </>
 輝
-【輝（辉）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi55]；[C]2007年謝建猷《廣西漢語方言研究》P544 附：[∅uɐi55]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P682 附：[wɐi55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P117 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>威, 麾, 爲 [2..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕[E]光輝，日頭輝，輝煌</li></ul>
+【輝（辉）】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P47；[B]1994年謝建猷《南寧白話同音字彙》P292 附：[wɐi55]；[C]2007年謝建猷《廣西漢語方言研究》P544 附：[∅uɐi55]；[D]1997年楊煥典《南寧話音檔》P78 附：[wɐi55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P682 附：[wɐi55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P117 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>喂, 麾, 爲 [3..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]〔白讀〕[E]光輝，日頭輝，輝煌</li></ul>
 </>
 輞
 【輞（辋）】mong5 [mɔŋ24]<a href="sound://M-mong5.spx"><img src="/sound.png"></a><a href="sound://F-mong5.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P786 附：[mɔŋ24]</li><li><span style="font-weight: bold">同音字：</span>網, 蟒, 莽 <a href="entry://mong5">更多</a></li></ul>
@@ -18200,7 +18218,7 @@
 【阻】zo2 [tʃɔ35]<a href="sound://M-zo2.spx"><img src="/sound.png"></a><a href="sound://F-zo2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[tsɔ35]；[C]2007年謝建猷《廣西漢語方言研究》P380 附：[tʃɔ35]；[D]1997年楊煥典《南寧話音檔》P65 附：[tsɔ35]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P638 附：[tsɔ35]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P47 附：[tsɔ35]</li><li><span style="font-weight: bold">同音字：</span>佐, 攞, 左 <a href="entry://zo2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]阻力，阻攔</li></ul>
 </>
 阿
-【阿】aa3 [∅a33]<a href="sound://M-aa3.spx"><img src="/sound.png"></a><a href="sound://F-aa3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P42；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[∅a33]；[C]2007年謝建猷《廣西漢語方言研究》P1920，1922 附：[∅a33]；[D]1997年楊煥典《南寧話音檔》P63 附：[a33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P618 附：[a33]</li><li><span style="font-weight: bold">同音字：</span>亞 <a href="entry://aa3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]阿爸[B]這：～個人[C]～個，這個；～啲，那裏[D]近指代詞(這)[E]阿哥</li><li><span style="font-weight: bold">備註：</span>[C]原文有音無字。詞表中[D]原文有音無字。近指代詞（這），又作亞字，本字箇。参看 1) 覃遠雄.桂南平話研究.暨南大學博士論文.2000年.[指示代詞一節]. 2) 覃遠雄.南寧平話的指示代詞.《欽州學院學報》.2017-08-20. 3) 覃遠雄.桂南平話古果假兩攝字的今讀音.《方言》.2011(01). 4) 呂嵩崧.壯語德靖土語近指指示詞的演變——基於語言接觸的視角.《廣西師範大學學報(哲學社會科學版)》.2019-07-15.</li></ul>
+【阿】aa3 [∅a33]<a href="sound://M-aa3.spx"><img src="/sound.png"></a><a href="sound://F-aa3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P42；[B]1994年謝建猷《南寧白話同音字彙》P289 附：[∅a33]；[C]2007年謝建猷《廣西漢語方言研究》P1920，1922 附：[∅a33]；[D]1997年楊煥典《南寧話音檔》P63 附：[a33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P618 附：[a33]</li><li><span style="font-weight: bold">同音字：</span>亞 <a href="entry://aa3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]阿爸[B]這：～個人[C]～個，這個；～啲，這裏[D]近指代詞(這)[E]阿哥</li><li><span style="font-weight: bold">備註：</span>[C]原文有音無字。詞表中[D]原文有音無字。近指代詞（這），又作亞字，本字箇。参看 1) 覃遠雄.桂南平話研究.暨南大學博士論文.2000年.[指示代詞一節]. 2) 覃遠雄.南寧平話的指示代詞.《欽州學院學報》.2017-08-20. 3) 覃遠雄.桂南平話古果假兩攝字的今讀音.《方言》.2011(01). 4) 呂嵩崧.壯語德靖土語近指指示詞的演變——基於語言接觸的視角.《廣西師範大學學報(哲學社會科學版)》.2019-07-15.</li></ul>
 </>
 阿
 【阿】o1 [∅ɔ55]<a href="sound://M-o1.spx"><img src="/sound.png"></a><a href="sound://F-o1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P57；[B]1994年謝建猷《南寧白話同音字彙》P290 附：[∅ɔ55]；[C]2007年謝建猷《廣西漢語方言研究》P310 附：[∅ɔ55]；[D]1997年楊煥典《南寧話音檔》P65 附：[ɔ55]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P618 附：[ɔ55]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P3 附：[∅ɔ55]</li><li><span style="font-weight: bold">同音字：</span>屙, 萵, 痾 <a href="entry://o1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]阿膠[B]～膠[C]阿膠[D]～膠[E]阿膠，阿彌陀佛</li><li><span style="font-weight: bold">備註：</span>[C]此處根據讀音歸入「阿膠」</li></ul>
@@ -18674,10 +18692,10 @@
 【韶】siu6 [ʃiu22]<a href="sound://M-siu6.spx"><img src="/sound.png"></a><a href="sound://F-siu6.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P32；[B]1994年謝建猷《南寧白話同音字彙》P294 附：[siu22]；[C]2007年謝建猷《廣西漢語方言研究》P590 附：[ʃiu22]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P142 附：[siu22]</li><li><span style="font-weight: bold">同音字：</span>紹, 邵 <a href="entry://siu6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]韶關</li></ul>
 </>
 韸
-【韸】bam2 [pɐm35]<a href="sound://M-bam2.spx"><img src="/sound.png"></a><a href="sound://F-bam2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P20，49</li><li><span style="font-weight: bold">同音字：</span>渢 <a href="entry://bam2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]鴨韸[pɐm21]～，鴨子的嗉胞，小孩吹著玩</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
+【韸】bam2 [pɐm35]<a href="sound://M-bam2.spx"><img src="/sound.png"></a><a href="sound://F-bam2.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P20，49</li><li><span style="font-weight: bold">同音字：</span>丼 <a href="entry://bam2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]鴨韸[pɐm21]～，鴨子的嗉胞，小孩吹著玩</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
 </>
 韸
-【韸】bam4 [pɐm21]<a href="sound://M-bam4.spx"><img src="/sound.png"></a><a href="sound://F-bam4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P20，49</li><li><span style="font-weight: bold">同音字：</span>渢 <a href="entry://bam4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]鴨～韸[pɐm35]，鴨子的嗉胞，小孩吹著玩</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
+【韸】bam4 [pɐm21]<a href="sound://M-bam4.spx"><img src="/sound.png"></a><a href="sound://F-bam4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P20，49；[B]1994年謝建猷《南寧白話同音字彙》P294 附：[pɐm21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://bam4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]鴨～韸[pɐm35]，鴨子的嗉胞，小孩吹著玩[B]響～～：轟轟響</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字[B]原文有音無字。麥耘、譚步雲《實用廣州話分類詞典》P380併入「乒」字</li></ul>
 </>
 韸
 【韸】bung1 [pʊŋ55]<a href="sound://M-bung1.spx"><img src="/sound.png"></a><a href="sound://F-bung1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P23，38；[B]1994年謝建猷《南寧白話同音字彙》P299 附：[puŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://bung1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]詞綴，脹～～，脹鼓鼓[B]蚊蠅～住囉：蒼蠅落在上面啦</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字[B]原文有音無字</li></ul>
@@ -19352,7 +19370,7 @@
 【鯿（鳊）】bin1 [pin55]<a href="sound://M-bin1.spx"><img src="/sound.png"></a><a href="sound://F-bin1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P148</li><li><span style="font-weight: bold">同音字：</span>蝙, 鞭, 邊 [1..] <a href="entry://bin1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]鯿魚</li><li><span style="font-weight: bold">備註：</span>[A]詞表中</li></ul>
 </>
 鰈
-【鰈（鲽）】dep1 [tɛp5]<a href="sound://M-dep1.spx"><img src="/sound.png"></a><a href="sound://F-dep1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P173；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P44 附：[tɛp5]</li><li><span style="font-weight: bold">同音字：</span>嗒, 蹀 <a href="entry://dep1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]魚～子，瘊子[E]魚～痣，瘊子</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文有音無字。2009年班弨《底層理論與漢臺語關係》認爲來源於「魚鱗痣」[E]詞表中。原文有音無字</li></ul>
+【鰈（鲽）】dep1 [tɛp5]<a href="sound://M-dep1.spx"><img src="/sound.png"></a><a href="sound://F-dep1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P173；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P44 附：[tɛp5]</li><li><span style="font-weight: bold">同音字：</span>嗒, 蹀 <a href="entry://dep1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]魚～子，瘊子[E]魚～痣，瘊子</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文有音無字。2009年班弨《底層理論與漢台語關係》認爲來源於「魚鱗痣」[E]詞表中。原文有音無字</li></ul>
 </>
 鰍
 【鰍（鳅）】cau1 [tʃʰɐu55]<a href="sound://M-cau1.spx"><img src="/sound.png"></a><a href="sound://F-cau1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P48</li><li><span style="font-weight: bold">同音字：</span>抽, 鞦, 秋 [2..] <a href="entry://cau1">更多</a></li></ul>
@@ -19595,7 +19613,7 @@
 【麾】fui1 [fui55]<a href="sound://M-fui1.spx"><img src="/sound.png"></a><a href="sound://F-fui1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2007年謝建猷《廣西漢語方言研究》P532 附：[fui55]</li><li><span style="font-weight: bold">同音字：</span>徽, 詼, 盔 [2..] <a href="entry://fui1">更多</a></li></ul>
 </>
 麾
-【麾】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>威, 輝, 爲 [2..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]麾下</li></ul>
+【麾】wai1 [wɐi55]<a href="sound://M-wai1.spx"><img src="/sound.png"></a><a href="sound://F-wai1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P679 附：[wɐi55]</li><li><span style="font-weight: bold">同音字：</span>喂, 輝, 爲 [3..] <a href="entry://wai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]麾下</li></ul>
 </>
 黃
 【黃（黄）】wong4 [wɔŋ21]<a href="sound://M-wong4.spx"><img src="/sound.png"></a><a href="sound://F-wong4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P59；[B]1994年謝建猷《南寧白話同音字彙》P298 附：[wɔŋ21]；[C]2007年謝建猷《廣西漢語方言研究》P914 附：[∅uɔŋ21]；[D]1997年楊煥典《南寧話音檔》P109 附：[wɔŋ21]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P785 附：[wɔŋ21]；[F]2009年陳海倫、林亦《粵語平話土話方音字彙》P303 附：[wɔŋ21]</li><li><span style="font-weight: bold">同音字：</span>王, 蟥, 蝗 [2..] <a href="entry://wong4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[E]姓，黃色</li></ul>
@@ -19823,7 +19841,7 @@
 【𢷕】mok1 [mɔk5]<a href="sound://M-mok1.spx"><img src="/sound.png"></a><a href="sound://F-mok1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P29，59；[B]1994年謝建猷《南寧白話同音字彙》P302 附：[mɔk5]；[D]1997年楊煥典《南寧話音檔》P126 附：[mɔk5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P21 附：[mɔk5]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://mok1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]敲打；～～：木魚，罐頭盒[B]～一下：敲一下[D]敲打[E]敲打</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。此處根據覃遠雄等《南寧平話詞典》P377補充，《集韻》覺韻墨角切，擊也[B]原文有音無字[D]原文有音無字[E]原文有音無字</li></ul>
 </>
 𣩢
-【𣩢】leu3 [lɛu33]<a href="sound://M-leu3.spx"><img src="/sound.png"></a><a href="sound://F-leu3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P19，54；[B]1994年謝建猷《南寧白話同音字彙》P293 附：[lɛu33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[lɛu33]</li><li><span style="font-weight: bold">同音字：</span>嫪, 髝 <a href="entry://leu3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]枯萎[B]乾枯[E]枯，蔫</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。平話亦有，見覃遠雄等《南寧平話詞典》P173。一說借自壯語，參見楊丕芳《南寧福建村官話詞彙中的非官話成分》P11和歐陽覺亞《兩廣粵方言與壯語的種種關係》。古壯字「𦼔」，音reuq[ɣɛːu5]，本字爲「𣩢」[B]原文有音無字[E]詞表中。原文有音無字</li></ul>
+【𣩢】leu3 [lɛu33]<a href="sound://M-leu3.spx"><img src="/sound.png"></a><a href="sound://F-leu3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P19，54；[B]1994年謝建猷《南寧白話同音字彙》P293 附：[lɛu33]；[D]1997年楊煥典《南寧話音檔》P52 附：[lɛu33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[lɛu33]</li><li><span style="font-weight: bold">同音字：</span>嫪, 髝 <a href="entry://leu3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]枯萎[B]乾枯[D]蔫[E]枯，蔫</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。平話亦有，見覃遠雄等《南寧平話詞典》P173。一說借自壯語，參見楊丕芳《南寧福建村官話詞彙中的非官話成分》P11和歐陽覺亞《兩廣粵方言與壯語的種種關係》。古壯字「𦼔」，音reuq[ɣɛːu5]，本字爲「𣩢」[B]原文有音無字[D]字表外。原文有音無字[E]詞表中。原文有音無字</li></ul>
 </>
 𣭲
 【𣭲】jung4 [jʊŋ21]<a href="sound://M-jung4.spx"><img src="/sound.png"></a><a href="sound://F-jung4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2007年謝建猷《廣西漢語方言研究》P1058 附：[∅iuŋ21]</li><li><span style="font-weight: bold">同音字：</span>冗, 鎔, 融 [13..] <a href="entry://jung4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]𣭲毛</li></ul>
@@ -19919,7 +19937,7 @@
 【𧬈】hap1 [hɐp5]<a href="sound://M-hap1.spx"><img src="/sound.png"></a><a href="sound://F-hap1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P26，52；[B]1994年謝建猷《南寧白話同音字彙》P300 附：[hɐp5]；[C]2007年謝建猷《廣西漢語方言研究》P1640 附：[hɐp5]；[D]1997年楊煥典《南寧話音檔》P118 附：[hɐp5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P20 附：[hɐp5]</li><li><span style="font-weight: bold">同音字：</span>瞌, 磕 <a href="entry://hap1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]欺負[B]欺負[C]欺負[D]欺負[E]欺負</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。白宛如《廣州方言詞典》P431寫作「𦡁」[B]原文有音無字[C]原文有音無字。詞表中[D]原文有音無字[E]原文有音無字</li></ul>
 </>
 𧰵
-【𧰵】duk1 [tʊk5]<a href="sound://M-duk1.spx"><img src="/sound.png"></a><a href="sound://F-duk1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P207；[C]2007年謝建猷《廣西漢語方言研究》P1808 附：[tuk5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[tok5]</li><li><span style="font-weight: bold">同音字：</span>䐁, 篤, 督 <a href="entry://duk1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]～卒，拱卒[C]戳[E]戳</li><li><span style="font-weight: bold">備註：</span>[A]词表中。原文作「督卒」[C]原文有音無字。詞表中[E]詞表中。原文作「督」字</li></ul>
+【𧰵】duk1 [tʊk5]<a href="sound://M-duk1.spx"><img src="/sound.png"></a><a href="sound://F-duk1.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P207；[C]2007年謝建猷《廣西漢語方言研究》P1808 附：[tuk5]；[D]1997年楊煥典《南寧話音檔》P52 附：[tuk5]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[tok5]</li><li><span style="font-weight: bold">同音字：</span>䐁, 篤, 督 <a href="entry://duk1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]～卒，拱卒[C]戳[D]戳[E]戳</li><li><span style="font-weight: bold">備註：</span>[A]词表中。原文作「督卒」[C]原文有音無字。詞表中[D]字表外。原文有音無字[E]詞表中。原文作「督」字</li></ul>
 </>
 𧽼
 【𧽼】dam4 [tɐm21]<br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P226</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://dam4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]圓～～、圓～陀[tœ21]，圓貌</li><li><span style="font-weight: bold">備註：</span>[A]詞表中。原文有音無字</li></ul>
@@ -19931,7 +19949,7 @@
 【𨂝】paan4 [pʰan21]<a href="sound://M-paan4.spx"><img src="/sound.png"></a><a href="sound://F-paan4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]1994年謝建猷《南寧白話同音字彙》P296 附：[pʰan21]</li><li><span style="font-weight: bold">同音字：</span>爿 <a href="entry://paan4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]爬</li><li><span style="font-weight: bold">備註：</span>[B]原文有音無字</li></ul>
 </>
 𨂾
-【𨂾】naam3 [nam33]<a href="sound://M-naam3.spx"><img src="/sound.png"></a><a href="sound://F-naam3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P20，44，240；[C]2007年謝建猷《廣西漢語方言研究》P1820 附：[nam33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P16，63 附：[nam33]</li><li><span style="font-weight: bold">同音字：</span>揇, 𨈇 <a href="entry://naam3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]跨[C]跨</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。此處根據覃遠雄等《南寧平話詞典》P15和詹伯慧《廣州話正音字典》P601補充[C]原文有音無字。詞表中[E]原文作「𨈇」字</li></ul>
+【𨂾】naam3 [nam33]<a href="sound://M-naam3.spx"><img src="/sound.png"></a><a href="sound://F-naam3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P20，44，240；[C]2007年謝建猷《廣西漢語方言研究》P1820 附：[nam33]；[D]1997年楊煥典《南寧話音檔》P52 附：[nam33]；[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P16，63 附：[nam33]</li><li><span style="font-weight: bold">同音字：</span>揇, 𨈇 <a href="entry://naam3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]跨[C]跨[D]跨</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字。此處根據覃遠雄等《南寧平話詞典》P15和詹伯慧《廣州話正音字典》P601補充[C]原文有音無字。詞表中[D]字表外。原文有音無字[E]原文作「𨈇」字</li></ul>
 </>
 𨈇
 【𨈇】naam3 [nam33]<a href="sound://M-naam3.spx"><img src="/sound.png"></a><a href="sound://F-naam3.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[E]1998年楊煥典主編《廣西通誌·漢語方言誌》P16，63 附：[nam33]</li><li><span style="font-weight: bold">同音字：</span>揇, 𨂾 <a href="entry://naam3">更多</a></li><li><span style="font-weight: bold">備註：</span>[E]應作「𨂾」字</li></ul>
@@ -19977,6 +19995,9 @@
 </>
 𱤜
 【𱤜】mang4 [mɐŋ21]<a href="sound://M-mang4.spx"><img src="/sound.png"></a><a href="sound://F-mang4.spx"><img src="/sound2.png"></a><br/><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]2008年林亦、覃鳳餘《廣西南寧白話研究》P91；[B]1994年謝建猷《南寧白話同音字彙》P297 附：[mɐŋ21]</li><li><span style="font-weight: bold">同音字：</span>盟, 萌 <a href="entry://mang4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]「未曾」的合音。天～光：天還沒亮，食飯～：吃飯没，～食：没吃[B]未曾</li><li><span style="font-weight: bold">備註：</span>[A]原文用「盟」作替代字。洪珏《南寧白話的變音現象》作「朆(㬟)」字。南寧平話亦有此用法，覃遠雄等《南寧平話詞典》P28，274作「⿰未曾」字。舊時廣州郊區也有類似用法，參見《廣州市誌（方言誌）》合音一節[B]原文有音無字，增補字字形「⿰未曾」</li></ul>
+</>
+a6
+<span style="font-weight: bold">音節：</span>a6 [∅ɐ22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://又">又</a>」
 </>
 aa1
 <span style="font-weight: bold">音節：</span>aa1 [∅a55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://一">一</a>」,「<a href="entry://鴉">鴉</a>」,「<a href="entry://啊">啊</a>」,「<a href="entry://丫">丫</a>」
@@ -20174,10 +20195,10 @@ bam1
 <span style="font-weight: bold">音節：</span>bam1 [pɐm55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://泵">泵</a>」
 </>
 bam2
-<span style="font-weight: bold">音節：</span>bam2 [pɐm35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://渢">渢</a>」,「<a href="entry://韸">韸</a>」
+<span style="font-weight: bold">音節：</span>bam2 [pɐm35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://丼">丼</a>」,「<a href="entry://韸">韸</a>」
 </>
 bam4
-<span style="font-weight: bold">音節：</span>bam4 [pɐm21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://渢">渢</a>」,「<a href="entry://韸">韸</a>」
+<span style="font-weight: bold">音節：</span>bam4 [pɐm21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://韸">韸</a>」
 </>
 bam6
 <span style="font-weight: bold">音節：</span>bam6 [pɐm22]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://𦝤">𦝤</a>」
@@ -21715,6 +21736,9 @@ gau6
 ge1
 <span style="font-weight: bold">音節：</span>ge1 [kɛ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://旮">旮</a>」,「<a href="entry://爹">爹</a>」
 </>
+ge2
+<span style="font-weight: bold">音節：</span>ge2 [kɛ35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://嘅">嘅</a>」
+</>
 ge3
 <span style="font-weight: bold">音節：</span>ge3 [kɛ33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://嘅">嘅</a>」
 </>
@@ -22562,7 +22586,7 @@ jaa1
 <span style="font-weight: bold">音節：</span>jaa1 [ja55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://丫">丫</a>」,「<a href="entry://鴉">鴉</a>」,「<a href="entry://渣">渣</a>」,「<a href="entry://抓">抓</a>」,「<a href="entry://呀">呀</a>」
 </>
 jaa4
-<span style="font-weight: bold">音節：</span>jaa4 [ja21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://喳">喳</a>」
+<span style="font-weight: bold">音節：</span>jaa4 [ja21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://呀">呀</a>」,「<a href="entry://喳">喳</a>」
 </>
 jaa5
 <span style="font-weight: bold">音節：</span>jaa5 [ja24]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://也">也</a>」
@@ -23702,7 +23726,7 @@ lo2
 <span style="font-weight: bold">音節：</span>lo2 [lɔ35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://攞">攞</a>」,「<a href="entry://裸">裸</a>」,「<a href="entry://瘰">瘰</a>」
 </>
 lo3
-<span style="font-weight: bold">音節：</span>lo3 [lɔ33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://摞">摞</a>」
+<span style="font-weight: bold">音節：</span>lo3 [lɔ33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://咯">咯</a>」,「<a href="entry://摞">摞</a>」
 </>
 lo4
 <span style="font-weight: bold">音節：</span>lo4 [lɔ21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://囉">囉</a>」,「<a href="entry://騾">騾</a>」,「<a href="entry://鑼">鑼</a>」,「<a href="entry://邏">邏</a>」,「<a href="entry://螺">螺</a>」,「<a href="entry://蘿">蘿</a>」,「<a href="entry://腡">腡</a>」,「<a href="entry://羅">羅</a>」,「<a href="entry://籮">籮</a>」
@@ -24905,7 +24929,7 @@ pam1
 <span style="font-weight: bold">音節：</span>pam1 [pʰɐm55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://嘣">嘣</a>」
 </>
 pam2
-<span style="font-weight: bold">音節：</span>pam2 [pʰɐm35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://渢">渢</a>」
+<span style="font-weight: bold">音節：</span>pam2 [pʰɐm35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://丼">丼</a>」
 </>
 pam4
 <span style="font-weight: bold">音節：</span>pam4 [pʰɐm21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://嘣">嘣</a>」
@@ -26207,10 +26231,10 @@ waat6
 <span style="font-weight: bold">音節：</span>waat6 [wat2]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://滑">滑</a>」,「<a href="entry://猾">猾</a>」
 </>
 wai1
-<span style="font-weight: bold">音節：</span>wai1 [wɐi55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://威">威</a>」,「<a href="entry://麾">麾</a>」,「<a href="entry://輝">輝</a>」,「<a href="entry://爲">爲</a>」,「<a href="entry://為">為</a>」,「<a href="entry://揮">揮</a>」
+<span style="font-weight: bold">音節：</span>wai1 [wɐi55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://喂">喂</a>」,「<a href="entry://麾">麾</a>」,「<a href="entry://輝">輝</a>」,「<a href="entry://爲">爲</a>」,「<a href="entry://為">為</a>」,「<a href="entry://揮">揮</a>」,「<a href="entry://威">威</a>」
 </>
 wai2
-<span style="font-weight: bold">音節：</span>wai2 [wɐi35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://位">位</a>」,「<a href="entry://諉">諉</a>」,「<a href="entry://萎">萎</a>」,「<a href="entry://緯">緯</a>」,「<a href="entry://毀">毀</a>」,「<a href="entry://委">委</a>」,「<a href="entry://偉">偉</a>」
+<span style="font-weight: bold">音節：</span>wai2 [wɐi35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://位">位</a>」,「<a href="entry://諉">諉</a>」,「<a href="entry://萎">萎</a>」,「<a href="entry://緯">緯</a>」,「<a href="entry://毀">毀</a>」,「<a href="entry://委">委</a>」,「<a href="entry://喂">喂</a>」,「<a href="entry://偉">偉</a>」
 </>
 wai3
 <span style="font-weight: bold">音節：</span>wai3 [wɐi33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://喂">喂</a>」,「<a href="entry://餵">餵</a>」,「<a href="entry://餧">餧</a>」,「<a href="entry://諱">諱</a>」,「<a href="entry://蝟">蝟</a>」,「<a href="entry://穢">穢</a>」,「<a href="entry://畏">畏</a>」,「<a href="entry://猥">猥</a>」,「<a href="entry://慰">慰</a>」,「<a href="entry://慧">慧</a>」,「<a href="entry://尉">尉</a>」
@@ -26294,7 +26318,7 @@ wing5
 <span style="font-weight: bold">音節：</span>wing5 [weŋ24]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://永">永</a>」,「<a href="entry://詠">詠</a>」,「<a href="entry://穎">穎</a>」,「<a href="entry://泳">泳</a>」
 </>
 wo1
-<span style="font-weight: bold">音節：</span>wo1 [wɔ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倭">倭</a>」,「<a href="entry://踒">踒</a>」,「<a href="entry://蝸">蝸</a>」,「<a href="entry://萵">萵</a>」,「<a href="entry://窩">窩</a>」
+<span style="font-weight: bold">音節：</span>wo1 [wɔ55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倭">倭</a>」,「<a href="entry://踒">踒</a>」,「<a href="entry://蝸">蝸</a>」,「<a href="entry://萵">萵</a>」,「<a href="entry://窩">窩</a>」,「<a href="entry://喎">喎</a>」
 </>
 wo2
 <span style="font-weight: bold">音節：</span>wo2 [wɔ35]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://倭">倭</a>」
@@ -26850,6 +26874,9 @@ zyut6
 </>
 㓥
 可能与之相关的繁体字：「<a href="entry://劏">劏</a>」
+</>
+㖞
+可能与之相关的繁体字：「<a href="entry://喎">喎</a>」
 </>
 㧟
 可能与之相关的繁体字：「<a href="entry://擓">擓</a>」
