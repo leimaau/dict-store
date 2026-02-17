@@ -71,8 +71,8 @@ select * from p_nbdict_201705_bw;
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_2021_bw.txt
 select * from p_nbdict_2021_bw;
 
-spool E:\LocalRepository\github\dict-store-txt\temp\v_1856yh_single_extend.txt
-select word||'chr(10)'||word||' '||old_jp||' '||old_tone||' '||jyutping||' '||ipa||' '||old_jp_type||' '||old_jp_note||' '||page||' '||expl||'chr(10)'||'</>' from v_1856yh_single_extend;
+--spool E:\LocalRepository\github\dict-store-txt\temp\v_1856yh_single_extend.txt
+--select word||'chr(10)'||word||' '||old_jp||' '||old_tone||' '||jyutping||' '||ipa||' '||old_jp_type||' '||old_jp_note||' '||page||' '||expl||'chr(10)'||'</>' from v_1856yh_single_extend;
 
 --詞彙表
 spool E:\LocalRepository\github\dict-store-txt\temp\tab_nbdict_1997_phrase.txt

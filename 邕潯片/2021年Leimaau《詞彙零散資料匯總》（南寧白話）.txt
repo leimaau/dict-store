@@ -2078,7 +2078,7 @@
 【扛】 kong4 [kʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɔŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>扛，káng（把鋤頭～在肩上）</li><li><span style="font-weight: bold">分類：</span>十七、動作/扛</li></ul>
 </>
 扛
-【扛】 kong4 [kʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɔŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>抬（～轎）</li><li><span style="font-weight: bold">分類：</span>十七、動作/抬</li></ul>
+【扛】 kong4 [kʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɔŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>擡（～轎）</li><li><span style="font-weight: bold">分類：</span>十七、動作/抬</li></ul>
 </>
 扣
 【扣】 kau3 [kʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>扣（～釦子）</li><li><span style="font-weight: bold">分類：</span>十、服飾/扣</li></ul>

@@ -2362,9 +2362,6 @@
 囗(ham4)
 【囗(ham4)】ham4 [hɐm21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P262 附：[hɐm21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://ham4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]時態助詞，相當於「了」</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
 </>
-囗(lo3)
-【囗(lo3)】lo3 [lo55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P260 附：[lo55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://lo3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]倒。～垃[lap24]圾[ɬap3]：倒垃圾</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
-</>
 囗(njang3)
 【囗(njang3)】njang3 [ȵɐŋ55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P265 附：[ȵɐŋ55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://njang3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]咬</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
 </>
@@ -5121,6 +5118,9 @@
 </>
 捫
 【捫（扪）】mon3 [mon55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P263 附：[mon55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://mon3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]～自[tʃi55]：怕羞</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
+</>
+捰
+【捰】lo3 [lo55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P260 附：[lo55]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://lo3">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]倒。～垃[lap24]圾[ɬap3]：倒垃圾</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
 </>
 捱
 【捱（挨）】ngaai4 [ŋai21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P653 附：[ŋai21]；[B]2000年李連進《平話音韻研究》P67 附：[ŋai21]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P65 附：[ŋai21]</li><li><span style="font-weight: bold">同音字：</span>呆, 磑, 獃 [3..] <a href="entry://ngaai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]捱打[B]捱打[C]捱打</li></ul>
@@ -18911,7 +18911,7 @@ lo2
 <span style="font-weight: bold">音節：</span>lo2 [lo33]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://裸">裸</a>」
 </>
 lo3
-<span style="font-weight: bold">音節：</span>lo3 [lo55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://囗(lo3)">囗(lo3)</a>」
+<span style="font-weight: bold">音節：</span>lo3 [lo55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://捰">捰</a>」
 </>
 lo4
 <span style="font-weight: bold">音節：</span>lo4 [lo21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://籮">籮</a>」,「<a href="entry://騾">騾</a>」,「<a href="entry://鑼">鑼</a>」,「<a href="entry://邏">邏</a>」,「<a href="entry://螺">螺</a>」,「<a href="entry://腡">腡</a>」,「<a href="entry://羅">羅</a>」

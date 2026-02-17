@@ -1409,7 +1409,7 @@
 【佬】 lu2 [lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P66 附：[lu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>爺兒們（男人通稱）</li><li><span style="font-weight: bold">分類：</span>十、親屬（4）其他/爺兒們</li></ul>
 </>
 佮
-【佮】 gap3 [kɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[kɐp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮合</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/佮合</li></ul>
+【佮】 gap3 [kɐp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[kɐp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮合</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/佮合</li></ul>
 </>
 佮伙
 @@@LINK=佮夥
@@ -1568,7 +1568,7 @@
 @@@LINK=做隊
 </>
 做隊
-【做隊（做队）】 zu3 dui6 [tʃu33 tui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tsu33 tui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮伴兒1</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/與</li></ul>
+【做隊（做队）】 zu3 dui6 [tʃu33 tui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tsu33 tui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮伴兒1</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/佮伴兒</li></ul>
 </>
 做隊
 【做隊（做队）】 zu3 dui6 [tʃu33 tui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[tsu33 tui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>一塊兒3</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/一塊兒</li></ul>
@@ -2792,7 +2792,7 @@
 @@@LINK=同夥
 </>
 同埋
-【同埋】 tung4 maai4 [tʰʊŋ21 mai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tʰoŋ21 mai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮伴兒2</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/與</li></ul>
+【同埋】 tung4 maai4 [tʰʊŋ21 mai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tʰoŋ21 mai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮伴兒2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/佮伴兒</li></ul>
 </>
 同夥
 【同夥（同伙）】 tung4 fo2 [tʰʊŋ21 fɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P53 附：[tʰoŋ21 fɔ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>同謀2</li><li><span style="font-weight: bold">分類：</span>十七、訟事/同謀</li></ul>
@@ -8327,7 +8327,7 @@
 【湊（凑）】 cau3 [tʃʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P69 附：[tsʰɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>和、向2</li><li><span style="font-weight: bold">備註：</span>原文作變調[33-21]，疑誤</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/給</li></ul>
 </>
 湊埋
-【湊埋（凑埋）】 cau3 maai4 [tʃʰɐu33 mai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tsʰɐu33 mai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮伴兒3</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/與</li></ul>
+【湊埋（凑埋）】 cau3 maai4 [tʃʰɐu33 mai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P64 附：[tsʰɐu33 mai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>佮伴兒3</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/佮伴兒</li></ul>
 </>
 湓水
 【湓水】 man3 sui2 [mɐn33 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P23 附：[mɐn33 sui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>泉</li><li><span style="font-weight: bold">備註：</span>原文[mɐn33]有音無字</li><li><span style="font-weight: bold">分類：</span>二、地理（3）江、河、湖、海、水/泉水</li></ul>

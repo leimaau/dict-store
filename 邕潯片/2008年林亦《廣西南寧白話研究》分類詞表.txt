@@ -2606,7 +2606,7 @@
 【丫頭（丫头）】 jaa1 tau4 [ja55 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P162 附：[ja55 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>丫環2</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/丫環</li></ul>
 </>
 中
-【中】 zung3 [tʃʊŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P236 附：[tʃʊŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>同（我同你～一個班）</li><li><span style="font-weight: bold">備註：</span>原文作「衆」字</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/同</li></ul>
+【中】 zung3 [tʃʊŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P236 附：[tʃʊŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>同（我同你～一個班）</li><li><span style="font-weight: bold">備註：</span>原文作「衆」字，當爲「中」字，原文劃爲連詞不對，當劃爲副詞</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/同</li></ul>
 </>
 中介
 【中介】 zung1 gaai3 [tʃʊŋ55 kai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P159 附：[tʃʊŋ55 kai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>薦頭3</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/薦頭</li></ul>
@@ -6791,7 +6791,7 @@
 【唐裝褲（唐装裤）】 tong4 zong1 fu3 [tʰɔŋ21 tʃɔŋ55 fu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P175 附：[tʰɔŋ21 tʃɔŋ55 fu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>褲子1（中式的）</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（1）服裝/褲子（中式的）</li></ul>
 </>
 唓咧
-【唓咧】 ce1 le1 [tʃʰɛ55 lɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P229 附：[tʃʰɛ55 lɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>話多1</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「車囗[lɛ55]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/話多</li></ul>
+【唓咧（𪠳咧）】 ce1 le1 [tʃʰɛ55 lɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P229 附：[tʃʰɛ55 lɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>話多1</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「車囗[lɛ55]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/話多</li></ul>
 </>
 唔該
 【唔該（唔该）】 m4 goi1 [m̩21 kɔi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P195 附：[m̩21 kɔi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>謝謝2</li><li><span style="font-weight: bold">分類：</span>十八、交際/謝謝</li></ul>
@@ -27518,7 +27518,7 @@
 【蝦皮（虾皮）】 haa1 pi4 [ha55 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P149 附：[ha55 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝦皮</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/蝦皮</li></ul>
 </>
 蝦眼水
-【蝦眼水（虾眼水）】 haa1 ngen5 sui2 [ha55 ŋɛn24 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P124 附：[ha55 ŋɛn24 ʃui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝦眼水，將沸的水</li><li><span style="font-weight: bold">備註：</span>因鍋底出現的小水泡形如蝦眼得名。明陳鑒著《虎丘茶經注補》：「湯之候，初曰蝦眼，次曰蟹眼，次日魚眼。若松風鳴，漸至無聲。」</li><li><span style="font-weight: bold">分類：</span>二、地理（3）江、河、湖、海、水/蝦眼水</li></ul>
+【蝦眼水（虾眼水）】 haa1 ngen5 sui2 [ha55 ŋɛn24 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P124 附：[ha55 ŋɛn24 ʃui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蝦眼水，將沸的水</li><li><span style="font-weight: bold">分類：</span>二、地理（3）江、河、湖、海、水/蝦眼水</li></ul>
 </>
 蝦米
 【蝦米（虾米）】 haa1 mai5 [ha55 mɐi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P149 附：[ha55 mɐi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>（乾）蝦米</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/（乾）蝦米</li></ul>
@@ -35673,6 +35673,9 @@
 </>
 𪙛牙
 【𪙛牙】 nak1 ngaa4 [nɐk5 ŋa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P173 附：[nɐk5 ŋa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>結巴</li><li><span style="font-weight: bold">備註：</span>原文[nɐk5]有音無字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（4）殘疾等/結巴</li></ul>
+</>
+𪠳咧
+@@@LINK=唓咧
 </>
 𪮶尿𧊅
 @@@LINK=攋尿𧊅

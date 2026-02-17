@@ -829,11 +829,14 @@
 啊
 【啊】 aa6 [∅a22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[∅a22]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示輕微驚異</li></ul>
 </>
-啐
-【啐】 slot6 [ɬot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[ɬot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：吃麵條吃得～～聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 啖
 【啖】 daam6 [tam22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P14，15 附：[tam22]</li><li><span style="font-weight: bold">詞例、解釋：</span>量詞，一口的數量：飲一～湯</li></ul>
+</>
+啜
+【啜】 slot6 [ɬot2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[ɬot2]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：吃麵條吃得～～聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+啜
+【啜】 sot3 [ʃot5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[sot5]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：嗽牛奶嗽得～～聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 啧
 @@@LINK=嘖
@@ -1120,9 +1123,6 @@
 囗(liang2)
 【囗(liang2)】 liang2 [liɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P18 附：[liɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>囗[pʰo33]囗[lo33]囗[pʰiɐŋ33]～：模模糊糊不清楚</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-囗(lo3)
-【囗(lo3)】 lo3 [lo55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[lo55]</li><li><span style="font-weight: bold">詞例、解釋：</span>倒。～垃[lap24]圾[ɬap3]：倒垃圾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 囗(lut2)
 【囗(lut2)】 lut2 [lut3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[lut3]</li><li><span style="font-weight: bold">詞例、解釋：</span>撮：擰(拿)鏟箕來～垃圾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -1173,9 +1173,6 @@
 </>
 囗(slung5)
 【囗(slung5)】 slung5 [ɬoŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P19 附：[ɬoŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～～囗[ɬaŋ24]囗[ɬaŋ24]：穿着、辦事不利索</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-囗(sot3)
-【囗(sot3)】 sot3 [ʃot5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[sot5]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：嗽牛奶嗽得～～聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 囗(zung5)
 【囗(zung5)】 zung5 [tʃoŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P19 附：[tsoŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>柴～：裝柴的工具，用兩條竹片彎成</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1944,6 +1941,9 @@
 </>
 捫
 【捫（扪）】 mon3 [mon55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P668 附：[mon55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～自[tʃi55]：怕羞</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+捰
+【捰】 lo3 [lo55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[lo55]</li><li><span style="font-weight: bold">詞例、解釋：</span>倒。～垃[lap24]圾[ɬap3]：倒垃圾</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 捹
 【捹】 ban3 [pɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P16 附：[pən55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～螺[lo55]螺[lo55]：滴溜溜轉</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>

@@ -2543,7 +2543,7 @@
 【托】 tok3 [tʰɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[thɔk3]</li></ul>
 </>
 扛
-【扛】 kong4 [kʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɔŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>抬（～轎）；扛，káng（把鋤頭～在肩上）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
+【扛】 kong4 [kʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɔŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>擡（～轎）；扛，káng（把鋤頭～在肩上）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
 扣
 【扣】 kau3 [kʰɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>扣（～釦子）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
