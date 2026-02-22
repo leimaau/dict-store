@@ -8981,7 +8981,7 @@
 【拼】南寧平話：ping3「拼湊，拼合；拼命，打拼」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)ping1</li><li><span style="font-weight: bold">廣州話：</span>ping1；(又)ping3</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 拽
-【拽】南寧平話：jai6「同抴/曳字，拖、牽引」,zui6「用力拉，本字𢶀」,zaai6「投擲，本字㨁」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)jit6「同抴字」</li><li><span style="font-weight: bold">廣州話：</span>jai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【拽】南寧平話：jai6「同抴/曳字，拖、牽引」,zui6「用力拉，本字𢶀」,zaai1「俗字，投擲，本字㨁」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)jit6「同抴字」</li><li><span style="font-weight: bold">廣州話：</span>jai6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 拾
 【拾】南寧平話：sap6「拾取」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sap6</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
@@ -16124,7 +16124,7 @@
 【當（当）】南寧平話：daang3「典當，當作，適當」,daang1「應當，當時」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>1)dong1:當局 2)dong3:妥當；(古)通擋</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 畸
-【畸】南寧平話：ki1<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)gi1</li><li><span style="font-weight: bold">廣州話：</span>kei1；(又)gei1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
+【畸】南寧平話：ki1「畸形，畸重」<ul type="square"><li><span style="font-weight: bold">又音：</span>(又)gi4「讀同奇」</li><li><span style="font-weight: bold">廣州話：</span>kei1；(又)gei1</li><li><span style="font-weight: bold">字表等級：</span>1級字</li></ul>
 </>
 畹
 【畹】南寧平話：jyun2<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jyun2</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -27974,7 +27974,7 @@
 【霪】南寧平話：jam4<ul type="square"><li><span style="font-weight: bold">廣州話：</span>jam4</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
 </>
 霫
-【霫】南寧平話：zap6「霫霫」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)slap6「詞綴，爛～～，衣服破爛貌，俗字霅」,(白)sep6「詞綴，溼～～，溼淋淋」</li><li><span style="font-weight: bold">廣州話：</span>zap6</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
+【霫】南寧平話：zap6「霫霫」<ul type="square"><li><span style="font-weight: bold">又音：</span>(白)slap6「詞綴，爛～～，衣服破爛貌」,(白)sep6「詞綴，溼～～，溼淋淋」</li><li><span style="font-weight: bold">廣州話：</span>zap6</li><li><span style="font-weight: bold">字表等級：</span>4級字</li></ul>
 </>
 霰
 【霰】南寧平話：slin3「雨霰，雪霰；霰彈（口語稱散[ɬan33]彈）」<ul type="square"><li><span style="font-weight: bold">廣州話：</span>sin3</li><li><span style="font-weight: bold">字表等級：</span>2級字</li></ul>
@@ -32747,7 +32747,7 @@ geu6
 <span style="font-weight: bold">音節：</span>geu6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://撬">撬</a>」
 </>
 gi1
-<span style="font-weight: bold">音節：</span>gi1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://乩">乩</a>」,「<a href="entry://饑">饑</a>」,「<a href="entry://飢">飢</a>」,「<a href="entry://鞿">鞿</a>」,「<a href="entry://鐖">鐖</a>」,「<a href="entry://錤">錤</a>」,「<a href="entry://譏">譏</a>」,「<a href="entry://觭">觭</a>」,「<a href="entry://虮">虮</a>」,「<a href="entry://萁">萁</a>」,「<a href="entry://肌">肌</a>」,「<a href="entry://羈">羈</a>」,「<a href="entry://箕">箕</a>」,「<a href="entry://禨">禨</a>」,「<a href="entry://磯">磯</a>」,「<a href="entry://畿">畿</a>」,「<a href="entry://畸">畸</a>」,「<a href="entry://璣">璣</a>」,「<a href="entry://犄">犄</a>」,「<a href="entry://機">機</a>」,「<a href="entry://机">机</a>」,「<a href="entry://期">期</a>」,「<a href="entry://幾">幾</a>」,「<a href="entry://姬">姬</a>」,「<a href="entry://奇">奇</a>」,「<a href="entry://基">基</a>」,「<a href="entry://嘰">嘰</a>」,「<a href="entry://咭">咭</a>」,「<a href="entry://剞">剞</a>」,「<a href="entry://刏">刏</a>」,「<a href="entry://刉">刉</a>」,「<a href="entry://几">几</a>」,「<a href="entry://其">其</a>」
+<span style="font-weight: bold">音節：</span>gi1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://乩">乩</a>」,「<a href="entry://饑">饑</a>」,「<a href="entry://飢">飢</a>」,「<a href="entry://鞿">鞿</a>」,「<a href="entry://鐖">鐖</a>」,「<a href="entry://錤">錤</a>」,「<a href="entry://譏">譏</a>」,「<a href="entry://觭">觭</a>」,「<a href="entry://虮">虮</a>」,「<a href="entry://萁">萁</a>」,「<a href="entry://肌">肌</a>」,「<a href="entry://羈">羈</a>」,「<a href="entry://箕">箕</a>」,「<a href="entry://禨">禨</a>」,「<a href="entry://磯">磯</a>」,「<a href="entry://畿">畿</a>」,「<a href="entry://璣">璣</a>」,「<a href="entry://犄">犄</a>」,「<a href="entry://機">機</a>」,「<a href="entry://机">机</a>」,「<a href="entry://期">期</a>」,「<a href="entry://幾">幾</a>」,「<a href="entry://姬">姬</a>」,「<a href="entry://奇">奇</a>」,「<a href="entry://基">基</a>」,「<a href="entry://嘰">嘰</a>」,「<a href="entry://咭">咭</a>」,「<a href="entry://剞">剞</a>」,「<a href="entry://刏">刏</a>」,「<a href="entry://刉">刉</a>」,「<a href="entry://几">几</a>」,「<a href="entry://其">其</a>」
 </>
 gi2
 <span style="font-weight: bold">音節：</span>gi2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://己">己</a>」,「<a href="entry://麂">麂</a>」,「<a href="entry://魢">魢</a>」,「<a href="entry://踦">踦</a>」,「<a href="entry://蟣">蟣</a>」,「<a href="entry://虮">虮</a>」,「<a href="entry://紀">紀</a>」,「<a href="entry://杞">杞</a>」,「<a href="entry://掎">掎</a>」,「<a href="entry://庋">庋</a>」,「<a href="entry://幾">幾</a>」
@@ -32756,7 +32756,7 @@ gi3
 <span style="font-weight: bold">音節：</span>gi3<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://冀">冀</a>」,「<a href="entry://鱀">鱀</a>」,「<a href="entry://驥">驥</a>」,「<a href="entry://記">記</a>」,「<a href="entry://計">計</a>」,「<a href="entry://覬">覬</a>」,「<a href="entry://繼">繼</a>」,「<a href="entry://洎">洎</a>」,「<a href="entry://檵">檵</a>」,「<a href="entry://暨">暨</a>」,「<a href="entry://旣">旣</a>」,「<a href="entry://既">既</a>」,「<a href="entry://悸">悸</a>」,「<a href="entry://寄">寄</a>」,「<a href="entry://妓">妓</a>」,「<a href="entry://塈">塈</a>」
 </>
 gi4
-<span style="font-weight: bold">音節：</span>gi4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://䓫">䓫</a>」,「<a href="entry://𨙸">𨙸</a>」,「<a href="entry://𤪌">𤪌</a>」,「<a href="entry://麒">麒</a>」,「<a href="entry://鰭">鰭</a>」,「<a href="entry://鯕">鯕</a>」,「<a href="entry://鬾">鬾</a>」,「<a href="entry://騏">騏</a>」,「<a href="entry://騎">騎</a>」,「<a href="entry://頎">頎</a>」,「<a href="entry://隑">隑</a>」,「<a href="entry://錡">錡</a>」,「<a href="entry://軝">軝</a>」,「<a href="entry://跂">跂</a>」,「<a href="entry://衹">衹</a>」,「<a href="entry://蟣">蟣</a>」,「<a href="entry://蜞">蜞</a>」,「<a href="entry://蘄">蘄</a>」,「<a href="entry://萁">萁</a>」,「<a href="entry://茄">茄</a>」,「<a href="entry://芪">芪</a>」,「<a href="entry://耆">耆</a>」,「<a href="entry://綦">綦</a>」,「<a href="entry://祺">祺</a>」,「<a href="entry://祈">祈</a>」,「<a href="entry://祇">祇</a>」,「<a href="entry://祁">祁</a>」,「<a href="entry://碕">碕</a>」,「<a href="entry://碁">碁</a>」,「<a href="entry://琪">琪</a>」,「<a href="entry://琦">琦</a>」,「<a href="entry://淇">淇</a>」,「<a href="entry://歧">歧</a>」,「<a href="entry://棋">棋</a>」,「<a href="entry://棊">棊</a>」,「<a href="entry://期">期</a>」,「<a href="entry://旗">旗</a>」,「<a href="entry://旂">旂</a>」,「<a href="entry://愭">愭</a>」,「<a href="entry://忯">忯</a>」,「<a href="entry://崎">崎</a>」,「<a href="entry://岐">岐</a>」,「<a href="entry://奇">奇</a>」,「<a href="entry://埼">埼</a>」,「<a href="entry://圻">圻</a>」,「<a href="entry://其">其</a>」,「<a href="entry://俟">俟</a>」,「<a href="entry://伎">伎</a>」,「<a href="entry://亓">亓</a>」
+<span style="font-weight: bold">音節：</span>gi4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://䓫">䓫</a>」,「<a href="entry://𨙸">𨙸</a>」,「<a href="entry://𤪌">𤪌</a>」,「<a href="entry://麒">麒</a>」,「<a href="entry://鰭">鰭</a>」,「<a href="entry://鯕">鯕</a>」,「<a href="entry://鬾">鬾</a>」,「<a href="entry://騏">騏</a>」,「<a href="entry://騎">騎</a>」,「<a href="entry://頎">頎</a>」,「<a href="entry://隑">隑</a>」,「<a href="entry://錡">錡</a>」,「<a href="entry://軝">軝</a>」,「<a href="entry://跂">跂</a>」,「<a href="entry://衹">衹</a>」,「<a href="entry://蟣">蟣</a>」,「<a href="entry://蜞">蜞</a>」,「<a href="entry://蘄">蘄</a>」,「<a href="entry://萁">萁</a>」,「<a href="entry://茄">茄</a>」,「<a href="entry://芪">芪</a>」,「<a href="entry://耆">耆</a>」,「<a href="entry://綦">綦</a>」,「<a href="entry://祺">祺</a>」,「<a href="entry://祈">祈</a>」,「<a href="entry://祇">祇</a>」,「<a href="entry://祁">祁</a>」,「<a href="entry://碕">碕</a>」,「<a href="entry://碁">碁</a>」,「<a href="entry://畸">畸</a>」,「<a href="entry://琪">琪</a>」,「<a href="entry://琦">琦</a>」,「<a href="entry://淇">淇</a>」,「<a href="entry://歧">歧</a>」,「<a href="entry://棋">棋</a>」,「<a href="entry://棊">棊</a>」,「<a href="entry://期">期</a>」,「<a href="entry://旗">旗</a>」,「<a href="entry://旂">旂</a>」,「<a href="entry://愭">愭</a>」,「<a href="entry://忯">忯</a>」,「<a href="entry://崎">崎</a>」,「<a href="entry://岐">岐</a>」,「<a href="entry://奇">奇</a>」,「<a href="entry://埼">埼</a>」,「<a href="entry://圻">圻</a>」,「<a href="entry://其">其</a>」,「<a href="entry://俟">俟</a>」,「<a href="entry://伎">伎</a>」,「<a href="entry://亓">亓</a>」
 </>
 gi5
 <span style="font-weight: bold">音節：</span>gi5<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://徛">徛</a>」
@@ -37142,7 +37142,7 @@ zaa6
 <span style="font-weight: bold">音節：</span>zaa6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://槎">槎</a>」,「<a href="entry://𧨊">𧨊</a>」
 </>
 zaai1
-<span style="font-weight: bold">音節：</span>zaai1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㨁">㨁</a>」,「<a href="entry://齋">齋</a>」,「<a href="entry://菑">菑</a>」,「<a href="entry://甾">甾</a>」,「<a href="entry://災">災</a>」,「<a href="entry://栽">栽</a>」,「<a href="entry://哉">哉</a>」
+<span style="font-weight: bold">音節：</span>zaai1<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㨁">㨁</a>」,「<a href="entry://齋">齋</a>」,「<a href="entry://菑">菑</a>」,「<a href="entry://甾">甾</a>」,「<a href="entry://災">災</a>」,「<a href="entry://栽">栽</a>」,「<a href="entry://拽">拽</a>」,「<a href="entry://哉">哉</a>」
 </>
 zaai2
 <span style="font-weight: bold">音節：</span>zaai2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://䍉">䍉</a>」,「<a href="entry://載">載</a>」,「<a href="entry://滓">滓</a>」,「<a href="entry://崽">崽</a>」,「<a href="entry://宰">宰</a>」,「<a href="entry://囝">囝</a>」,「<a href="entry://仔">仔</a>」
@@ -37154,7 +37154,7 @@ zaai4
 <span style="font-weight: bold">音節：</span>zaai4<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://儕">儕</a>」,「<a href="entry://財">財</a>」,「<a href="entry://豺">豺</a>」,「<a href="entry://裁">裁</a>」,「<a href="entry://茈">茈</a>」,「<a href="entry://纔">纔</a>」,「<a href="entry://材">材</a>」,「<a href="entry://才">才</a>」
 </>
 zaai6
-<span style="font-weight: bold">音節：</span>zaai6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㩟">㩟</a>」,「<a href="entry://豸">豸</a>」,「<a href="entry://砦">砦</a>」,「<a href="entry://拽">拽</a>」,「<a href="entry://廌">廌</a>」,「<a href="entry://寨">寨</a>」,「<a href="entry://在">在</a>」
+<span style="font-weight: bold">音節：</span>zaai6<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://㩟">㩟</a>」,「<a href="entry://豸">豸</a>」,「<a href="entry://砦">砦</a>」,「<a href="entry://廌">廌</a>」,「<a href="entry://寨">寨</a>」,「<a href="entry://在">在</a>」
 </>
 zaak2
 <span style="font-weight: bold">音節：</span>zaak2<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://作">作</a>」

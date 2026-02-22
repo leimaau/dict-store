@@ -85,6 +85,9 @@ Call機
 ···又好···又好
 【···又好···又好】 ···jau6 hu2···jau6 hu2 [···jɐu22 hu35···jɐu22 hu35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···也好···也好1（粉肝又好，沙肝又好，切哂以後要水洗過），「又」字常弱讀爲[ɐ22/ə22]</li><li><span style="font-weight: bold">分類：</span>二十七、連詞/···也好···也好</li></ul>
 </>
+···吖喇
+【···吖喇】 aa1 laa3 [a55 la33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···吖喇（絹紡廠招工，佢矮矮嘅四肢又冇高大，人哋冇想要佢～，但係絹紡廠主任留佢落來），一般弱讀爲[ə55 lə33]，又寫作「吖嘞」，表示對事情轉折的感嘆</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···吖喇</li></ul>
+</>
 ···吖嘛
 【···吖嘛】 aa1 maa3 [a55 ma33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···的嘛（要講道理～），表說理或解釋原因</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···的嘛</li></ul>
 </>
@@ -112,6 +115,12 @@ Call機
 ···哂㖞
 @@@LINK=···哂喎
 </>
+···哂吖喇
+【···哂吖喇】 laai3 aa1 laa3 [lai33 a55 la33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···了喇1.2（佢啲膝頭哥冇得～、隻推櫳門釘死～），表惋惜，常變調爲[lai35 la33]，其中[lai35]爲「哂吖」的合音音變</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···了喇</li></ul>
+</>
+···哂吖喇
+【···哂吖喇】 slaai3 aa1 laa3 [ɬai33 a55 la33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···了喇1.1（佢啲膝頭哥冇得～、隻推櫳門釘死～），表惋惜，常弱讀合音變調爲[lai35 la33]，其中[lai35]爲「哂吖」的弱讀合音音變</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···了喇</li></ul>
+</>
 ···哂呢
 【···哂呢】 laai3 ne1 [lai33 nɛ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···了呢1.2（煮好～，送去畀佢），用於承上句啓下句，相當於「完了之後呢」</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···了呢</li></ul>
 </>
@@ -123,12 +132,6 @@ Call機
 </>
 ···哂啊
 【···哂啊】 slaai3 aa3 [ɬai33 a33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···了啊1.1（佢四點鐘就起來～、好多人冇記得～），用於已然體標記</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···了啊</li></ul>
-</>
-···哂喇
-【···哂喇】 laai3 laa3 [lai33 la33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···了喇1.2（佢啲膝頭哥冇得～、隻推櫳門釘死～），表惋惜，常變調爲[lai35 la33]，可能爲「哂啊喇」的省略</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···了喇</li></ul>
-</>
-···哂喇
-【···哂喇】 slaai3 laa3 [ɬai33 la33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···了喇1.1（佢啲膝頭哥冇得～、隻推櫳門釘死～），表惋惜，常弱讀變調爲[lai35 la33]，可能爲「哂啊喇」的省略</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···了喇</li></ul>
 </>
 ···哂喎
 【···哂喎（···哂㖞）】 laai3 wo3 [lai33 wɔ33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>···了喔1.2（阿隻老牛突然識講話～），用於表示出人意料</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P272，原文作「哂嚄」</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（1）後加成分/···了喔</li></ul>
@@ -5992,6 +5995,9 @@ Call機
 你媽
 【你媽（你妈）】 ni5 maa1 [ni24 ma55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>令堂1</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/令堂</li></ul>
 </>
+你恁住啊
+【你恁住啊】 ni5 nam2 zyu6 aa3 [ni24 nɐm35 tʃy22 a33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>你以爲啊，「啊」常弱讀爲[ɐ33/ə33]</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/你以爲啊</li></ul>
+</>
 你我
 【你我】 ni5 ngo5 [ni24 ŋɔ24]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>地牛2，擬地牛叫聲爲名</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/地牛</li></ul>
 </>
@@ -6185,7 +6191,7 @@ Call機
 【來（来）】 lai4 [lɐi21]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>來（佢調～南寧哂）</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P313</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/來</li></ul>
 </>
 來冇及
-【來冇及（来冇及）】 loi4 mu5 gap6 [lɔi21 mu24 kɐp2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>來不及</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/來不及</li></ul>
+【來冇及（来冇及）】 loi4 mu5 gap6 [lɔi21 mu24 kɐp2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>來不及</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/來不及</li></ul>
 </>
 來年
 【來年（来年）】 loi4 nin4 [lɔi21 nin21]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>明年2</li><li><span style="font-weight: bold">分類：</span>三、時令時間（3）年/明年</li></ul>
@@ -6194,7 +6200,7 @@ Call機
 【來往（来往）】 loi4 wong5 [lɔi21 wɔŋ24]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>來往1</li><li><span style="font-weight: bold">分類：</span>十八、交際/來往</li></ul>
 </>
 來得及
-【來得及（来得及）】 loi4 dak1 gap6 [lɔi21 tɐk5 kɐp2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>來得及</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/來得及</li></ul>
+【來得及（来得及）】 loi4 dak1 gap6 [lɔi21 tɐk5 kɐp2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>來得及</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/來得及</li></ul>
 </>
 來路貨
 【來路貨（来路货）】 loi4 lu6 fo3 [lɔi21 lu22 fɔ33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>洋貨2</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/洋貨</li></ul>
@@ -7585,6 +7591,9 @@ Call機
 冇几何
 @@@LINK=冇幾何
 </>
+冇几够
+@@@LINK=冇幾夠
+</>
 冇几耐
 @@@LINK=冇幾耐
 </>
@@ -7680,6 +7689,9 @@ Call機
 </>
 冇幾何
 【冇幾何（冇几何）】 mu5 gi2 ho4 [mu24 ki35 hɔ21]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>不常2</li><li><span style="font-weight: bold">分類：</span>三、時令時間（6）其他時間概念/不常</li></ul>
+</>
+冇幾夠
+【冇幾夠（冇几够）】 mu5 gi2 gau3 [mu24 ki35 kɐu33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>不很夠（連交學費都～）</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/不很夠</li></ul>
 </>
 冇幾耐
 【冇幾耐（冇几耐）】 mu5 gi2 noi6 [mu24 ki35 nɔi22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>沒多久1</li><li><span style="font-weight: bold">分類：</span>三、時令時間（6）其他時間概念/沒多久</li></ul>
@@ -8361,6 +8373,9 @@ Call機
 </>
 几多日
 @@@LINK=幾多日
+</>
+几够
+@@@LINK=幾夠
 </>
 几好
 @@@LINK=幾好
@@ -10916,7 +10931,7 @@ Call機
 【吹機（吹机）】 cui1 gai1 [tʃʰui55 kɐi55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹哨子2</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/吹哨子</li></ul>
 </>
 吹水
-【吹水】 cui1 sui2 [tʃʰui55 ʃui35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛5</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
+【吹水】 cui1 sui2 [tʃʰui55 ʃui35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛5，說大話</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
 </>
 吹泡
 【吹泡】 cui1 bok1 [tʃʰui55 pɔk5]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹胰子泡</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（1）遊戲、玩具/吹胰子泡</li></ul>
@@ -16072,6 +16087,9 @@ Call機
 就准
 @@@LINK=就準
 </>
+就呢···
+【就呢···】 zau6 ne1··· [tʃɐu22 nɛ55···]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>就呢···（就會呢···）</li><li><span style="font-weight: bold">分類：</span>二十九、附加成分（2）前加成分/就呢···</li></ul>
+</>
 就手
 【就手】 zau6 sau2 [tʃɐu22 ʃɐu35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>順便兒2，方便、順手</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P304</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/順便兒</li></ul>
 </>
@@ -16322,10 +16340,10 @@ Call機
 @@@LINK=屌你個老乸
 </>
 屌你個㞓窿
-【屌你個㞓窿（屌你个㞓窿）】 diu2 ni5 go3 hai1 lung1 [tiu35 ni24 kɔ33 hɐi55 lʊŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語9，此處「屌」也讀高降調[tiu53]</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
+【屌你個㞓窿（屌你个㞓窿）】 diu2 ni5 go3 hai1 lung1 [tiu35 ni24 kɔ33 hɐi55 lʊŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語9，此處「屌」常變調爲陰平</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
 </>
 屌你個老乸
-【屌你個老乸（屌你个老乸）】 diu2 ni5 go3 lu5 naa2 [tiu35 ni24 kɔ33 lu24 na35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語8，此處「屌」也讀高降調[tiu53]</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
+【屌你個老乸（屌你个老乸）】 diu2 ni5 go3 lu5 naa2 [tiu35 ni24 kɔ33 lu24 na35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語8，此處「屌」常變調爲陰平</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
 </>
 屌你妈㞓
 @@@LINK=屌你媽㞓
@@ -16361,16 +16379,16 @@ Call機
 【屌屌咳咳】 diu2 diu2 kat1 kat1 [tiu35 tiu35 kʰɐt5 kʰɐt5]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>罵罵咧咧4</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/罵罵咧咧</li></ul>
 </>
 屌那㞓
-【屌那㞓】 diu2 naa5 hai1 [tiu35 na24 hɐi55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語10，此處「那」爲「你阿媽」的合音，也讀[nia33ma55]（只合音了前兩字「你阿」），此處「屌」也讀高降調[tiu53]</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
+【屌那㞓】 diu2 naa5 hai1 [tiu35 na24 hɐi55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語10，此處「那」爲「你阿媽」的合音，也讀[nia33ma55]（只合音了前兩字「你阿」），「屌」常變調爲陰平</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
+</>
+屌那㞓你
+【屌那㞓你】 diu2 naa5 hai1 ni5 [tiu35 na24 hɐi55 ni24]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語11，已虛化爲語氣詞，此處「那、你」常變調爲陰去，「屌」常變調爲陰平，或變讀爲「嗯[ŋ̍55]」，寫作「嗯那㞓你」</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
 </>
 屌那妈
 @@@LINK=屌那媽
 </>
 屌那媽
-【屌那媽（屌那妈）】 diu2 naa3 maa1 [tiu35 na33 ma55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語7.2，後起詞，從廣東借入，「那」爲「你阿」的合音</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
-</>
-屌那媽
-【屌那媽（屌那妈）】 diu2 naa5 maa1 [tiu35 na24 ma55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語7.1，後起詞，從廣東借入，「那」爲「你阿」的合音</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
+【屌那媽（屌那妈）】 diu2 naa5 maa1 [tiu35 na24 ma55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>詈語7，後起詞，從廣東借入，「那」爲「你阿」的合音，常變調爲陰去，「屌」常變調爲陰平</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/詈語</li></ul>
 </>
 屍
 【屍（尸）】 si1 [ʃi55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>屍體2</li><li><span style="font-weight: bold">分類：</span>十五、紅白大事（2）壽辰、喪葬/屍體</li></ul>
@@ -17418,6 +17436,9 @@ Call機
 </>
 幾多隻
 【幾多隻（几多只）】 gi2 do1 zek3 [ki35 tɔ55 tʃɛk3]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>幾個2</li><li><span style="font-weight: bold">分類：</span>三十、數字等/幾個</li></ul>
+</>
+幾夠
+【幾夠（几够）】 gi2 gau3 [ki35 kɐu33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>很夠</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/很夠</li></ul>
 </>
 幾好
 【幾好（几好）】 gi2 hu2 [ki35 hu35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>不錯5</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/不錯</li></ul>
@@ -20154,6 +20175,12 @@ Call機
 </>
 抆屎纸
 @@@LINK=抆屎紙
+</>
+抇两抇
+@@@LINK=抇兩抇
+</>
+抇兩抇
+【抇兩抇（抇两抇）】 wat6 loeng5 wat6 [wɐt2 lœŋ24 wɐt2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>繞兩下3</li><li><span style="font-weight: bold">分類：</span>二十八、量詞/繞兩下</li></ul>
 </>
 把尿
 【把尿】 baa2 niu6 [pa35 niu22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>把尿2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/把尿</li></ul>
@@ -23168,7 +23195,10 @@ Call機
 @@@LINK=料頭
 </>
 料酒
-【料酒】 liu6 zau2 [liu22 tʃɐu35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>料酒1，黃酒</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/料酒</li></ul>
+【料酒】 liu2 zau2 [liu35 tʃɐu35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>料酒1.2，黃酒</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/料酒</li></ul>
+</>
+料酒
+【料酒】 liu6 zau2 [liu22 tʃɐu35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>料酒1.1，黃酒</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/料酒</li></ul>
 </>
 料頭
 【料頭（料头）】 liu2 tau4 [liu35 tʰɐu21]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>主作料</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/主作料</li></ul>
@@ -26185,6 +26215,12 @@ Call機
 母夜叉
 【母夜叉】 mu5 je6 caa1 [mu24 jɛ22 tʃʰa55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>母老虎2</li><li><span style="font-weight: bold">分類：</span>六、動物（2）鳥獸/母老虎</li></ul>
 </>
+母猪湾
+@@@LINK=母豬灣
+</>
+母豬灣
+【母豬灣（母猪湾）】 mu5 zyu1 waan1 [mu24 tʃy55 wan55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>母豬灣，亭子渡口一帶的灣口</li><li><span style="font-weight: bold">分類：</span>二、地理（5）城鄉處所/母豬灣</li></ul>
+</>
 母馬
 【母馬（母马）】 mu5 maa5 [mu24 ma24]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>母馬2</li><li><span style="font-weight: bold">分類：</span>六、動物（1）牲畜/母馬</li></ul>
 </>
@@ -27435,6 +27471,9 @@ Call機
 </>
 浮標
 【浮標（浮标）】 fau4 biu1 [fɐu21 piu55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>浮子2</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/浮子</li></ul>
+</>
+浮滑
+【浮滑】 fau4 wet6 [fɐu21 wɛt2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>滑5，輕浮油滑，形容物或人</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/滑</li></ul>
 </>
 浮皮
 【浮皮】 fau4 pi4 [fɐu21 pʰi21]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>浮皮，沙炒的豬皮</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/浮皮</li></ul>
@@ -34172,7 +34211,7 @@ Call機
 【礊】 fak1 [fɐk5]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>甩4</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/甩</li></ul>
 </>
 礊大
-【礊大】 faak3 daai6 [fak3 tai22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛3</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
+【礊大】 faak3 daai6 [fak3 tai22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛3，說大話</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
 </>
 礼
 @@@LINK=禮
@@ -41710,6 +41749,9 @@ Call機
 虾子
 @@@LINK=蝦子
 </>
+虾生
+@@@LINK=蝦生
+</>
 虾皮
 @@@LINK=蝦皮
 </>
@@ -42045,6 +42087,12 @@ Call機
 </>
 蝦子
 【蝦子（虾子）】 haa1 zy2 [ha55 tsɿ35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>蝦子1.2</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/蝦子</li></ul>
+</>
+蝦生
+【蝦生（虾生）】 haa1 saang1 [ha55 ʃaŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>生醃蝦，類似魚生，生吃</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/生醃蝦</li></ul>
+</>
+蝦生
+【蝦生（虾生）】 haa1 saang1 [ha55 ʃaŋ55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>生醃蝦，類似魚生，生吃</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/生醃蝦</li></ul>
 </>
 蝦皮
 【蝦皮（虾皮）】 haa1 pi4 [ha55 pʰi21]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>蝦皮</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/蝦皮</li></ul>
@@ -42752,7 +42800,7 @@ Call機
 【裏便（里便）】 li5 bin6 [li24 pin22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>裏面4</li><li><span style="font-weight: bold">分類：</span>二十三、位置/裏面</li></ul>
 </>
 裏底
-【裏底（里底）】 li5 dai2 [li24 tɐi35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>裏面1</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P314</li><li><span style="font-weight: bold">分類：</span>二十三、位置/裏面</li></ul>
+【裏底（里底）】 li5 dai2 [li24 tɐi35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>裏面1，有時也變調爲[li24 tɐi55]，較罕讀</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P314</li><li><span style="font-weight: bold">分類：</span>二十三、位置/裏面</li></ul>
 </>
 裏底間
 【裏底間（里底间）】 li5 dai2 gen1 [li24 tɐi35 kɛn55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>裏間</li><li><span style="font-weight: bold">分類：</span>七、房舍（1）房子/裏間</li></ul>
@@ -43435,6 +43483,9 @@ Call機
 講來講去
 【講來講去（讲来讲去）】 gong2 lai4 gong2 hyu3 [kɔŋ35 lɐi21 kɔŋ35 hy33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>說來說去</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P336</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/說來說去</li></ul>
 </>
+講假
+【講假（讲假）】 gong2 gaa2 [kɔŋ35 ka35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>說假話</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/說假話</li></ul>
+</>
 講古
 【講古（讲古）】 gong2 gu2 [kɔŋ35 ku35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>說書</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（4）戲劇/說書</li></ul>
 </>
@@ -43454,7 +43505,7 @@ Call機
 【講夢話（讲梦话）】 gong2 mung6 waa6 [kɔŋ35 mʊŋ22 wa22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>說夢話1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/說夢話</li></ul>
 </>
 講大話
-【講大話（讲大话）】 gong2 daai6 waa6 [kɔŋ35 tai22 wa22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
+【講大話（讲大话）】 gong2 daai6 waa6 [kɔŋ35 tai22 wa22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛2，說大話</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
 </>
 講排場
 【講排場（讲排场）】 gong2 paai4 coeng4 [kɔŋ35 pʰai21 tʃʰœŋ21]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>講排場1</li><li><span style="font-weight: bold">分類：</span>十八、交際/講排場</li></ul>
@@ -43620,6 +43671,9 @@ Call機
 </>
 讲义
 @@@LINK=講義
+</>
+讲假
+@@@LINK=講假
 </>
 讲古
 @@@LINK=講古
@@ -45173,7 +45227,7 @@ Call機
 【車外底（车外底）】 ce1 ngoi6 dai2 [tʃʰɛ55 ŋɔi22 tɐi35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>車外（～落住雪）</li><li><span style="font-weight: bold">分類：</span>二十三、位置/車外</li></ul>
 </>
 車大炮
-【車大炮（车大炮）】 ce1 daai6 peu3 [tʃʰɛ55 tai22 pʰɛu33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛1</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
+【車大炮（车大炮）】 ce1 daai6 peu3 [tʃʰɛ55 tai22 pʰɛu33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛1，說大話</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
 </>
 車尾
 【車尾（车尾）】 ce1 mi5 [tʃʰɛ55 mi24]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>車尾巴</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（4）交通/車尾</li></ul>
@@ -46004,13 +46058,13 @@ Call機
 【逢之】 fung4 zi1 [fʊŋ21 tʃi55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>總是1（只要係朝早上課佢～遲到）</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P290</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/總是</li></ul>
 </>
 逢係
-【逢係（逢系）】 fung4 hai6 [fʊŋ21 hɐi22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>凡是</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P290</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/凡是</li></ul>
+【逢係（逢系）】 fung4 hai6 [fʊŋ21 hɐi22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>凡是，新派也說「凡係」</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P290</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/凡是</li></ul>
 </>
 逢指
 【逢指】 fung4 zi2 [fʊŋ21 tʃi35]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>總是2，「指」當爲「之」的變調，諧音「奉旨」</li><li><span style="font-weight: bold">備註：</span>林亦（2008）P290，原文作「之」的變調</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/總是</li></ul>
 </>
 逢有
-【逢有】 fung4 jau5 [fʊŋ21 jɐu24]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>凡有</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/凡有</li></ul>
+【逢有】 fung4 jau5 [fʊŋ21 jɐu24]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>凡有，新派也說「凡有」</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/凡有</li></ul>
 </>
 逢系
 @@@LINK=逢係
@@ -47414,7 +47468,7 @@ Call機
 【鑿（凿）】 zok6 [tʃɔk2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>鑿子</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/鑿子</li></ul>
 </>
 鑿大
-【鑿大（凿大）】 zok6 daai6 [tʃɔk2 tai22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛4</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
+【鑿大（凿大）】 zok6 daai6 [tʃɔk2 tai22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>吹牛4，說大話</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/吹牛</li></ul>
 </>
 钁地
 【钁地（镢地）】 kwak1 di6 [kʷʰɐk5 ti22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>鋤地1</li><li><span style="font-weight: bold">分類：</span>四、農業（1）農事/鋤地</li></ul>
@@ -48575,7 +48629,7 @@ Call機
 【阿太】 aa3 taai3 [a33 tʰai33]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>曾祖母2，敘稱</li><li><span style="font-weight: bold">分類：</span>十、親屬（1）長輩/曾祖母</li></ul>
 </>
 阿奶
-【阿奶】 aa3 naai1 [a33 nai55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>祖母2</li><li><span style="font-weight: bold">分類：</span>十、親屬（1）長輩/祖母</li></ul>
+【阿奶】 aa3 naai1 [a33 nai55]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>祖母2，也稱「老奶[nai55]」</li><li><span style="font-weight: bold">分類：</span>十、親屬（1）長輩/祖母</li></ul>
 </>
 阿妈
 @@@LINK=阿媽
@@ -50122,8 +50176,14 @@ Call機
 顧住
 【顧住（顾住）】 gu3 zyu6 [ku33 tʃy22]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>留神8</li><li><span style="font-weight: bold">分類：</span>二十二、動作（2）心理活動/留神</li></ul>
 </>
+顧冇及
+【顧冇及（顾冇及）】 gu3 mu5 gap6 [ku33 mu24 kɐp2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>顧不及</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/顧不及</li></ul>
+</>
 顧客
 【顧客（顾客）】 gu3 haak3 [ku33 hak3]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>顧客</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/顧客</li></ul>
+</>
+顧得及
+【顧得及（顾得及）】 gu3 dak1 gap6 [ku33 tɐk5 kɐp2]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>顧得及</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/顧得及</li></ul>
 </>
 顴骨
 【顴骨（颧骨）】 kyun4 gwat1 [kʰyn21 kʷɐt5]<ul type="square"><li><span style="font-weight: bold">根據：</span>2020年Leimaau《南寧白話審詞表》</li><li><span style="font-weight: bold">詞例、解釋：</span>顴骨2</li><li><span style="font-weight: bold">分類：</span>十一、身體（1）五官/顴骨</li></ul>
@@ -50182,8 +50242,14 @@ Call機
 顾住
 @@@LINK=顧住
 </>
+顾冇及
+@@@LINK=顧冇及
+</>
 顾客
 @@@LINK=顧客
+</>
+顾得及
+@@@LINK=顧得及
 </>
 顿
 @@@LINK=頓
