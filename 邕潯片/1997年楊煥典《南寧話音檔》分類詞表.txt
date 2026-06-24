@@ -451,8 +451,11 @@
 哭呀呀
 【哭呀呀】 huk1 nge1 nge1 [hʊk5 ŋɛ55 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[hʊk5 ŋɛ55 ŋɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>哭</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ŋɛ55 ŋɛ55]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/哭</li></ul>
 </>
-哭霫霫
-【哭霫霫】 huk1 slap6 slap6 [hʊk5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[huk5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>小聲哭</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ɬɐp2 ɬɐp2]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/哭</li></ul>
+哭袭袭
+@@@LINK=哭襲襲
+</>
+哭襲襲
+【哭襲襲（哭袭袭）】 huk1 slap6 slap6 [hʊk5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P55 附：[huk5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>小聲哭</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[ɬɐp2 ɬɐp2]有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/動詞/哭</li></ul>
 </>
 啰哩啰嗦
 @@@LINK=囉哩囉嗦
@@ -1439,7 +1442,7 @@
 【高哐哐】 gu1 kwang4 kwang4 [ku55 kʷʰɐŋ21 kʷʰɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ku55 kʷʰɐŋ21 kʷʰɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高1</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kʷʰɐŋ21 kʷʰɐŋ21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
 </>
 高嫋嫋
-【高嫋嫋】 gu1 neu4 neu4 [ku55 nɛu21 nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[ku55 nɛu21 nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高得瘦而單薄</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[nɛu21 nɛu21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
+【高嫋嫋（高袅袅）】 gu1 neu4 neu4 [ku55 nɛu21 nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[ku55 nɛu21 nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高得瘦而單薄</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[nɛu21 nɛu21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
 </>
 高层层
 @@@LINK=高層層
@@ -1452,6 +1455,9 @@
 </>
 高竇
 【高竇（高窦）】 gu1 dau3 [ku55 tɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ku55 tɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>擺架子</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/擺架子</li></ul>
+</>
+高袅袅
+@@@LINK=高嫋嫋
 </>
 鬼头鬼脑
 @@@LINK=鬼頭鬼腦

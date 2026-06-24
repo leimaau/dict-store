@@ -1832,7 +1832,7 @@
 【冇啱】 mu5 ngaam1 [mu24 ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P55 附：[mu24 ŋam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>不和1</li><li><span style="font-weight: bold">分類：</span>十八、交際/不和</li></ul>
 </>
 冇啱瓦
-【冇啱瓦】 mu5 ngaam1 ngaa5 [mu24 ŋam55 ŋa24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P55 附：[mu24 ŋam55 ŋa24]</li><li><span style="font-weight: bold">詞例、解釋：</span>不和2</li><li><span style="font-weight: bold">備註：</span>廣州話作「唔啱牙[ŋa21-35]」</li><li><span style="font-weight: bold">分類：</span>十八、交際/不和</li></ul>
+【冇啱瓦】 mu5 ngaam1 ngaa5 [mu24 ŋam55 ŋa24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P55 附：[mu24 ŋam55 ŋa24]</li><li><span style="font-weight: bold">詞例、解釋：</span>不和2</li><li><span style="font-weight: bold">備註：</span>廣州話作「唔啱牙[ŋa21-35]」，同時有「滑牙」一詞</li><li><span style="font-weight: bold">分類：</span>十八、交際/不和</li></ul>
 </>
 冇在行
 【冇在行】 mu5 zoi6 hong4 [mu24 tʃɔi22 hɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[mu24 tsɔi22 hɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>力巴頭</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/外行</li></ul>
@@ -15670,8 +15670,8 @@
 鞋底针
 @@@LINK=鞋底針
 </>
-鞋抽
-【鞋抽】 haai4 cau1 [hai21 tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P46 附：[hai21 tsʰɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞋拔子</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/鞋拔子</li></ul>
+鞋搊
+【鞋搊】 haai4 cau1 [hai21 tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P46 附：[hai21 tsʰɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞋拔子</li><li><span style="font-weight: bold">備註：</span>原文作「鞋抽」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「鞋搊」</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/鞋拔子</li></ul>
 </>
 韌
 【韌（韧）】 jang3 [jɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[jɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>肉不爛2</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/肉不爛</li></ul>

@@ -1508,7 +1508,7 @@
 【北】bak2 [pɐk3]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P790 附：[pɐk3]；[B]2000年李連進《平話音韻研究》P315 附：[pɐk3]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P315 附：[pək3]</li><li><span style="font-weight: bold">同音字：</span>檗, 擘, 掰 <a href="entry://bak2">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]南北，北方</li></ul>
 </>
 匙
-【匙】si4 [ʃi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]2000年李連進《平話音韻研究》P92 附：[ɕi21]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P89 附：[si21]</li><li><span style="font-weight: bold">同音字：</span>鰣, 時 <a href="entry://si4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[B]湯匙，鑰匙[C]鑰匙</li></ul>
+【匙】si4 [ʃi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]2000年李連進《平話音韻研究》P92 附：[ɕi21]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P89 附：[si21]</li><li><span style="font-weight: bold">同音字：</span>鰣, 時 <a href="entry://si4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[C]鑰匙</li></ul>
 </>
 匙
 【匙】zi4 [tʃi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P667 附：[tʃi21]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P89 附：[tsi21]</li><li><span style="font-weight: bold">同音字：</span>馳, 餈, 遲 [10..] <a href="entry://zi4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]鑰匙，湯匙[C]匙羹</li></ul>
@@ -10657,6 +10657,9 @@
 纔
 【纔（才）】zaai4 [tʃai21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P648 附：[tʃai21]；[B]2000年李連進《平話音韻研究》P59 附：[tɕai21]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P58 附：[tsai21]</li><li><span style="font-weight: bold">同音字：</span>才, 財, 豺 [3..] <a href="entry://zaai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]剛纔，纔來[B]剛纔</li></ul>
 </>
+纚
+【纚（𫄥）】slai4 [ɬɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P261 附：[ɬɐi21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://slai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]眼[ȵan24]眯[mɐi55]～～：眼睏，眼皮眯成縫</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
+</>
 纜
 【纜（缆）】laam6 [lam22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P713 附：[lam22]；[B]2000年李連進《平話音韻研究》P176 附：[lam223]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P176 附：[lam22]</li><li><span style="font-weight: bold">同音字：</span>濫, 艦 <a href="entry://laam6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]粗索，纜繩</li></ul>
 </>
@@ -14417,7 +14420,7 @@
 【閉（闭）】bi3 [pi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P74 附：[pi55]</li><li><span style="font-weight: bold">同音字：</span>庇, 蔽, 臂 [5..] <a href="entry://bi3">更多</a></li></ul>
 </>
 閉
-【閉（闭）】mai3 [mɐi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]2000年李連進《平話音韻研究》P70 附：[mEi55]</li><li><span style="font-weight: bold">同音字：</span>眯, 米, 瞇 <a href="entry://mai3">更多</a></li><li><span style="font-weight: bold">備註：</span>[B]訓讀「瞇/眯/睸」</li></ul>
+【閉（闭）】mai3 [mɐi55]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[B]2000年李連進《平話音韻研究》P70 附：[mEi55]</li><li><span style="font-weight: bold">同音字：</span>眯, 米, 瞇 <a href="entry://mai3">更多</a></li><li><span style="font-weight: bold">備註：</span>[B]可能訓讀「瞇/眯/睸」，林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》認爲本字即「閉」，幫組白讀</li></ul>
 </>
 開
 【開（开）】haai1 [hai53]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P649 附：[hai53]；[B]2000年李連進《平話音韻研究》P60 附：[hai41]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P58 附：[hai53]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://haai1">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]開門，打開</li></ul>
@@ -15681,9 +15684,6 @@
 </>
 齈
 【齈】noeng6 [nœŋ22]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P815 附：[nœŋ22]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://noeng6">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]多涕</li></ul>
-</>
-齊
-【齊（齐）】slai4 [ɬɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P261 附：[ɬɐi21]</li><li><span style="font-weight: bold">同音字：</span> <a href="entry://slai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]眼[ȵan24]眯[mɐi55]～～：眼睏，眼皮眯成縫</li><li><span style="font-weight: bold">備註：</span>[A]原文有音無字</li></ul>
 </>
 齊
 【齊（齐）】zai4 [tʃɐi21]</a><ul type="square"><li><span style="font-weight: bold">根據：</span>[A]1998年楊煥典主編《廣西通誌·漢語方言誌》P657 附：[tʃɐi21]；[B]2000年李連進《平話音韻研究》P74 附：[tɕEi21]；[C]2009年陳海倫、林亦《粵語平話土話方音字彙》P72 附：[tsəi21]</li><li><span style="font-weight: bold">同音字：</span>臍, 薺 <a href="entry://zai4">更多</a></li><li><span style="font-weight: bold">詞例、解釋：</span>[A]整齊，齊了</li></ul>
@@ -20498,7 +20498,7 @@ slai3
 <span style="font-weight: bold">音節：</span>slai3 [ɬɐi55]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://壻">壻</a>」,「<a href="entry://細">細</a>」,「<a href="entry://婿">婿</a>」
 </>
 slai4
-<span style="font-weight: bold">音節：</span>slai4 [ɬɐi21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://齊">齊</a>」
+<span style="font-weight: bold">音節：</span>slai4 [ɬɐi21]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://纚">纚</a>」
 </>
 slak2
 <span style="font-weight: bold">音節：</span>slak2 [ɬɐk3]<br/><span style="font-weight: bold">同音字：</span>「<a href="entry://塞">塞</a>」,「<a href="entry://瑟">瑟</a>」
@@ -25845,4 +25845,7 @@ zyut6
 </>
 𪷽
 可能与之相关的繁体字：「<a href="entry://濽">濽</a>」,「<a href="entry://灒">灒</a>」
+</>
+𫄥
+可能与之相关的繁体字：「<a href="entry://纚">纚</a>」
 </>

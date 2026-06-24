@@ -2848,14 +2848,14 @@
 乱噏
 @@@LINK=亂噏
 </>
+乱袭袭
+@@@LINK=亂襲襲
+</>
 乱讲
 @@@LINK=亂講
 </>
 乱讲三场
 @@@LINK=亂講三場
-</>
-乱霫霫
-@@@LINK=亂霫霫
 </>
 乳猪
 @@@LINK=乳豬
@@ -2923,6 +2923,9 @@
 亂噏
 【亂噏（乱噏）】 lyun6 ngap1 [lyn22 ŋɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[lyn22 ŋɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>胡說2</li><li><span style="font-weight: bold">備註：</span>原文[ŋɐp5]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/胡說</li></ul>
 </>
+亂襲襲
+【亂襲襲（乱袭袭）】 lyun6 slap6 slap6 [lyn22 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P225 附：[lyn22 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>零亂2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɐp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/零亂</li></ul>
+</>
 亂講
 【亂講（乱讲）】 lyun6 gong2 [lyn22 kɔŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P217 附：[lyn22 kɔŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>胡說1</li><li><span style="font-weight: bold">分類：</span>二十二、動作（3）語言動作/胡說</li></ul>
 </>
@@ -2931,9 +2934,6 @@
 </>
 亂講三場
 【亂講三場（乱讲三场）】 lyun6 gong2 slaam1 coeng4 [lyn22 kɔŋ35 ɬam55 tʃʰœŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[lyn22 kɔŋ35 ɬam55 tʃʰœŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>胡謅亂說，胡說</li><li><span style="font-weight: bold">備註：</span>原文未與現代成語對應</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/胡謅亂說</li></ul>
-</>
-亂霫霫
-【亂霫霫（乱霫霫）】 lyun6 slap6 slap6 [lyn22 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P225 附：[lyn22 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>零亂2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɐp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/零亂</li></ul>
 </>
 争
 @@@LINK=爭
@@ -4547,7 +4547,7 @@
 【冇啱】 mu5 ngaam1 [mu24 ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P196 附：[mu24 ŋam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>合不來2</li><li><span style="font-weight: bold">分類：</span>十八、交際/合不來</li></ul>
 </>
 冇嘢做
-【冇嘢做】 mu5 je5 zu3 [mu24 jɛ24 tʃu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P161 附：[mu24 jɛ24 tʃu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>沒活幹</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/沒活幹</li></ul>
+【冇嘢做】 mu5 je5 zu3 [mu24 jɛ24 tʃu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P161 附：[mu24 jɛ24 tʃu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>沒活幹</li><li><span style="font-weight: bold">備註：</span>這個句子不合法，應當是「冇有嘢做」</li><li><span style="font-weight: bold">分類：</span>九、稱謂（2）職業稱謂/沒活幹</li></ul>
 </>
 冇在行
 【冇在行】 mu5 zoi6 hong4 [mu24 tʃɔi22 hɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P159 附：[mu24 tʃɔi22 hɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>外行2</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/外行</li></ul>
@@ -6763,8 +6763,11 @@
 哭星
 【哭星】 huk1 sling1 [hʊk5 ɬeŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P160 附：[hʊk5 ɬeŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>愛哭鬧的孩子</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/愛哭鬼</li></ul>
 </>
-哭霫霫
-【哭霫霫】 huk1 slep6 slep6 [hʊk5 ɬɛp2 ɬɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P210 附：[hʊk5 ɬɛp2 ɬɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>啜泣貌2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɛp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/啜泣貌</li></ul>
+哭袭袭
+@@@LINK=哭襲襲
+</>
+哭襲襲
+【哭襲襲（哭袭袭）】 huk1 slep6 slep6 [hʊk5 ɬɛp2 ɬɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P210 附：[hʊk5 ɬɛp2 ɬɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>啜泣貌2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɛp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/啜泣貌</li></ul>
 </>
 哮喘
 【哮喘】 haau1 cyun2 [hau55 tʃʰyn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P171 附：[hau55 tʃʰyn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>哮喘1</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（2）內科/哮喘</li></ul>
@@ -12124,9 +12127,6 @@
 手心
 【手心】 sau2 slam1 [ʃɐu35 ɬɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P168 附：[ʃɐu35 ɬɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>手心</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/手心</li></ul>
 </>
-手抽
-【手抽】 sau2 cau1 [ʃɐu35 tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P158 附：[ʃɐu35 tʃʰɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>手提籃，買菜用的一種提籃</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（5）其他生活用品/手提籃</li></ul>
-</>
 手指
 【手指】 sau2 zi2 [ʃɐu35 tʃi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P168 附：[ʃɐu35 tʃi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>手指</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/手指</li></ul>
 </>
@@ -12150,6 +12150,9 @@
 </>
 手提袋
 【手提袋】 sau2 tai4 doi6 [ʃɐu35 tʰɐi21 tɔi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P158 附：[ʃɐu35 tʰɐi21 tɔi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>手提包1</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（5）其他生活用品/手提包</li></ul>
+</>
+手搊
+【手搊】 sau2 cau1 [ʃɐu35 tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P158 附：[ʃɐu35 tʃʰɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>手提籃，買菜用的一種提籃</li><li><span style="font-weight: bold">備註：</span>原文作「手抽」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「手搊」</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（5）其他生活用品/手提籃</li></ul>
 </>
 手板
 【手板】 sau2 baan2 [ʃɐu35 pan35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P168 附：[ʃɐu35 pan35]</li><li><span style="font-weight: bold">詞例、解釋：</span>手掌</li><li><span style="font-weight: bold">分類：</span>十一、身體（2）手、腳、胸、背/手掌</li></ul>
@@ -12955,12 +12958,6 @@
 抽筋
 【抽筋】 cau1 gan1 [tʃʰɐu55 kɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P192 附：[tʃʰɐu55 kɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>抽筋</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/抽筋</li></ul>
 </>
-抽裤
-@@@LINK=抽褲
-</>
-抽褲
-【抽褲（抽裤）】 cau1 fu3 [tʃʰɐu55 fu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P188 附：[tʃʰɐu55 fu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>提褲子1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/提褲子</li></ul>
-</>
 拂
 【拂】 fat1 [fɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P212 附：[fɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>甩1</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/甩</li></ul>
 </>
@@ -13686,6 +13683,9 @@
 </>
 搊裤
 @@@LINK=搊褲
+</>
+搊褲
+【搊褲（搊裤）】 cau1 fu3 [tʃʰɐu55 fu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P188 附：[tʃʰɐu55 fu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>提褲子1</li><li><span style="font-weight: bold">備註：</span>原文作「抽褲」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「搊褲」</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/提褲子</li></ul>
 </>
 搊褲
 【搊褲（搊裤）】 jau1 fu3 [jɐu55 fu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P188 附：[jɐu55 fu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>提褲子2</li><li><span style="font-weight: bold">備註：</span>原文作「抽」字</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/提褲子</li></ul>
@@ -16339,9 +16339,6 @@
 横
 @@@LINK=橫
 </>
-横乓乓
-@@@LINK=橫乓乓
-</>
 横条
 @@@LINK=橫條
 </>
@@ -16353,6 +16350,9 @@
 </>
 横直
 @@@LINK=橫直
+</>
+横绷绷
+@@@LINK=橫繃繃
 </>
 樸碌
 【樸碌（朴碌）】 bo1 luk1 [pɔ55 lʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P141 附：[pɔ55 lʊk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>柚子1.2</li><li><span style="font-weight: bold">備註：</span>原文作「礴」字</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/柚子</li></ul>
@@ -16438,9 +16438,6 @@
 橫
 【橫（横）】 waang4 [waŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P229 附：[waŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>蠻橫1</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/蠻橫</li></ul>
 </>
-橫乓乓
-【橫乓乓（横乓乓）】 waang4 baang1 baang3 [waŋ21 paŋ55 paŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P229 附：[waŋ21 paŋ55 paŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>蠻橫2</li><li><span style="font-weight: bold">備註：</span>原文「乓乓」爲替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/蠻橫</li></ul>
-</>
 橫條
 【橫條（横条）】 waang4 tiu4 [waŋ21 tʰiu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P150 附：[waŋ21 tʰiu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>檁1</li><li><span style="font-weight: bold">分類：</span>七、房舍（2）房屋結構/檁</li></ul>
 </>
@@ -16452,6 +16449,9 @@
 </>
 橫直
 【橫直（横直）】 waang4 zik6 [waŋ21 tʃek2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P234 附：[waŋ21 tʃek2]</li><li><span style="font-weight: bold">詞例、解釋：</span>反正1</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/反正</li></ul>
+</>
+橫繃繃
+【橫繃繃（横绷绷）】 waang4 baang1 baang3 [waŋ21 paŋ55 paŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P229 附：[waŋ21 paŋ55 paŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>蠻橫2</li><li><span style="font-weight: bold">備註：</span>原文「乓乓」爲替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/蠻橫</li></ul>
 </>
 橱柜
 @@@LINK=櫥櫃
@@ -16668,6 +16668,9 @@
 </>
 殼
 【殼（壳）】 hok3 [hɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P155 附：[hɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>瓢1</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（3）炊事用具/瓢</li></ul>
+</>
+毈蛋
+【毈蛋】 wo5 daan6 [wɔ24 tan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P145 附：[wɔ24 tan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～蛋，散黃、要壞的蛋</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（1）牲畜/散黃蛋</li></ul>
 </>
 母馬
 【母馬（母马）】 mu5 maa5 [mu24 ma24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P144 附：[mu24 ma24]</li><li><span style="font-weight: bold">詞例、解釋：</span>母馬2</li><li><span style="font-weight: bold">分類：</span>六、動物（1）牲畜/母馬</li></ul>
@@ -17668,9 +17671,6 @@
 涩
 @@@LINK=澀
 </>
-涴蛋
-【涴蛋】 wo5 daan6 [wɔ24 tan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P145 附：[wɔ24 tan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>涴蛋，散黃、要壞的蛋</li><li><span style="font-weight: bold">分類：</span>六、動物（1）牲畜/散黃蛋</li></ul>
-</>
 涸
 【涸】 kok3 [kʰɔk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[kʰɔk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>涸，特指喉嚨乾</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/涸</li></ul>
 </>
@@ -18550,11 +18550,11 @@
 烂湴田
 @@@LINK=爛湴田
 </>
+烂袭袭
+@@@LINK=爛襲襲
+</>
 烂贱
 @@@LINK=爛賤
-</>
-烂霫霫
-@@@LINK=爛霫霫
 </>
 烂饭
 @@@LINK=爛飯
@@ -19312,14 +19312,14 @@
 爛湴田
 【爛湴田（烂湴田）】 laan6 baan6 tin4 [lan22 pan22 tʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P122 附：[lan22 pan22 tʰin21]</li><li><span style="font-weight: bold">詞例、解釋：</span>爛泥田</li><li><span style="font-weight: bold">分類：</span>二、地理（1）地/爛泥田</li></ul>
 </>
+爛襲襲
+【爛襲襲（烂袭袭）】 laan6 slep6 slep6 [lan22 ɬɛp2 ɬɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P225 附：[lan22 ɬɛp2 ɬɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>破破爛爛</li><li><span style="font-weight: bold">備註：</span>原文[ɬɛp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/破破爛爛</li></ul>
+</>
 爛賤
 【爛賤（烂贱）】 laan6 zin6 [lan22 tʃin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P199 附：[lan22 tʃin22]</li><li><span style="font-weight: bold">詞例、解釋：</span>太便宜，不值錢</li><li><span style="font-weight: bold">分類：</span>十九、商業、交通（2）經營、交易/不值錢</li></ul>
 </>
 爛賤
 【爛賤（烂贱）】 laan6 zin6 [lan22 tʃin22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P222 附：[lan22 tʃin22]</li><li><span style="font-weight: bold">詞例、解釋：</span>不值錢2</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/不值錢</li></ul>
-</>
-爛霫霫
-【爛霫霫（烂霫霫）】 laan6 slep6 slep6 [lan22 ɬɛp2 ɬɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P225 附：[lan22 ɬɛp2 ɬɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>破破爛爛</li><li><span style="font-weight: bold">備註：</span>原文[ɬɛp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/破破爛爛</li></ul>
 </>
 爛頭粥
 【爛頭粥（烂头粥）】 laan6 tau4 zuk1 [lan22 tʰɐu21 tʃʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P178 附：[lan22 tʰɐu21 tʃʊk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>稠粥3</li><li><span style="font-weight: bold">備註：</span>原文「爛」字誤作[lan2]</li><li><span style="font-weight: bold">分類：</span>十四、飲食（2）米食/稠粥</li></ul>
@@ -20206,9 +20206,6 @@
 甜
 【甜】 tim4 [tʰim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[tʰim21]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜1</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/甜</li></ul>
 </>
-甜㩄㩄
-【甜㩄㩄】 tim4 slaai4 slaai4 [tʰim21 ɬai21 ɬai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[tʰim21 ɬai21 ɬai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜2</li><li><span style="font-weight: bold">備註：</span>原文[ɬai21]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/甜</li></ul>
-</>
 甜头
 @@@LINK=甜頭
 </>
@@ -20227,6 +20224,9 @@
 甜筍
 【甜筍（甜笋）】 tim4 slan2 [tʰim21 ɬɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P140 附：[tʰim21 ɬɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜筍</li><li><span style="font-weight: bold">分類：</span>五、植物（3）樹木/甜筍</li></ul>
 </>
+甜纚纚
+【甜纚纚（甜𫄥𫄥）】 tim4 slaai4 slaai4 [tʰim21 ɬai21 ɬai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[tʰim21 ɬai21 ɬai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜2</li><li><span style="font-weight: bold">備註：</span>原文[ɬai21]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/甜</li></ul>
+</>
 甜酒
 【甜酒】 tim4 zau2 [tʰim21 tʃɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P184 附：[tʰim21 tʃɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>江米酒2</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/江米酒</li></ul>
 </>
@@ -20244,6 +20244,9 @@
 </>
 甜麪醬
 【甜麪醬（甜面酱）】 tim4 min6 zoeng3 [tʰim21 min22 tʃœŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P184 附：[tʰim21 min22 tʃœŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>甜麪醬</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/甜麪醬</li></ul>
+</>
+甜𫄥𫄥
+@@@LINK=甜纚纚
 </>
 生
 【生】 saang1 [ʃaŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P190 附：[ʃaŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>（飯）生1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/（飯）生</li></ul>
@@ -20792,7 +20795,7 @@
 @@@LINK=癡癡戇戇
 </>
 瘀血
-【瘀血】 jyu2 hyut3 [jy35 hyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[jy35 hyt3]</li><li><span style="font-weight: bold">詞例、解釋：</span>淤血1</li><li><span style="font-weight: bold">備註：</span>原文作「淤血」，應作「瘀血」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/淤血</li></ul>
+【瘀血】 jyu2 hyut3 [jy35 hyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[jy35 hyt3]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘀血1</li><li><span style="font-weight: bold">備註：</span>原文作「淤血」，應作「瘀血」，釋義同</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/瘀血</li></ul>
 </>
 瘦
 【瘦】 sau3 [ʃɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P224 附：[ʃɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘦1，指人或動物</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/瘦</li></ul>
@@ -20839,8 +20842,8 @@
 癐
 【癐（𤶊）】 gui6 [kui22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[kui22]</li><li><span style="font-weight: bold">詞例、解釋：</span>累1</li><li><span style="font-weight: bold">備註：</span>原文作[kwui22]</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/累</li></ul>
 </>
-癐䧒䧒
-【癐䧒䧒（𤶊䧒䧒）】 gui6 laai4 laai4 [kui22 lai21 lai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[kui22 lai21 lai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>累2，乏力</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「癐[kwui22]囗[lai21]囗[lai21]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/累</li></ul>
+癐來來
+【癐來來（𤶊来来）】 gui6 laai4 laai4 [kui22 lai21 lai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[kui22 lai21 lai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>累2，乏力</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「癐[kwui22]囗[lai21]囗[lai21]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/累</li></ul>
 </>
 癞渣
 @@@LINK=癩渣
@@ -21151,6 +21154,12 @@
 白蠟魚
 【白蠟魚（白蜡鱼）】 baak6 laap6 jyu4 [pak2 lap2 jy21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P148 附：[pak2 lap2 jy21]</li><li><span style="font-weight: bold">詞例、解釋：</span>白蠟魚</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/白蠟魚</li></ul>
 </>
+白袭袭
+@@@LINK=白襲襲
+</>
+白襲襲
+【白襲襲（白袭袭）】 baak6 slep6 slep6 [pak2 ɬɛp2 ɬɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P227 附：[pak2 ɬɛp2 ɬɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>雪白2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɛp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/雪白</li></ul>
+</>
 白豉油
 【白豉油】 baak6 si6 jau4 [pak2 ʃi22 jɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P184 附：[pak2 ʃi22 jɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>醬油4</li><li><span style="font-weight: bold">分類：</span>十四、飲食（6）油鹽作料/醬油</li></ul>
 </>
@@ -21165,9 +21174,6 @@
 </>
 白雪雪
 【白雪雪】 baak6 slyut1 slyut1 [pak2 ɬyt5 ɬyt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P227 附：[pak2 ɬyt5 ɬyt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>雪白1</li><li><span style="font-weight: bold">備註：</span>原文[ɬyt5]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/雪白</li></ul>
-</>
-白霫霫
-【白霫霫】 baak6 slep6 slep6 [pak2 ɬɛp2 ɬɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P227 附：[pak2 ɬɛp2 ɬɛp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>雪白2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɛp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/雪白</li></ul>
 </>
 白露
 【白露】 baak6 lu6 [pak2 lu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P127 附：[pak2 lu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>白露</li><li><span style="font-weight: bold">分類：</span>三、時令時間（1）季節/白露</li></ul>
@@ -21424,8 +21430,11 @@
 盲腸炎
 【盲腸炎（盲肠炎）】 maang4 coeng4 jim4 [maŋ21 tʃʰœŋ21 jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[maŋ21 tʃʰœŋ21 jim21]</li><li><span style="font-weight: bold">詞例、解釋：</span>盲腸炎</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（2）內科/盲腸炎</li></ul>
 </>
-盲趿趿
-【盲趿趿】 maang4 slap6 slap6 [maŋ21 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[maŋ21 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>眼力不好2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɐp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/眼力不好</li></ul>
+盲袭袭
+@@@LINK=盲襲襲
+</>
+盲襲襲
+【盲襲襲（盲袭袭）】 maang4 slap6 slap6 [maŋ21 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P232 附：[maŋ21 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>眼力不好2</li><li><span style="font-weight: bold">備註：</span>原文[ɬɐp2]有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/眼力不好</li></ul>
 </>
 盲頭蟲
 【盲頭蟲（盲头虫）】 maang4 tau4 cung4 [maŋ21 tʰɐu21 tʃʰʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P160 附：[maŋ21 tʰɐu21 tʃʰʊŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>沒有主見的人</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/無頭蒼蠅</li></ul>
@@ -21812,7 +21821,7 @@
 【瞢】 mung4 [mʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[mʊŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>模糊1</li><li><span style="font-weight: bold">備註：</span>原文作「矇（蒙）」字，《西遊記》作「夢夢查查」，「夢」與「瞢」同源</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/模糊</li></ul>
 </>
 瞢查查
-【瞢查查】 mung4 caa4 caa4 [mʊŋ21 tʃʰa21 tʃʰa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[mʊŋ21 tʃʰa21 tʃʰa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>模糊3</li><li><span style="font-weight: bold">備註：</span>原文[tʃʰa21]有音無字，作「「矇（蒙）囗[tʃʰa21]囗[tʃʰa21]」。明代小說作「夢夢查查」，「夢」與「瞢」通</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/模糊</li></ul>
+【瞢查查】 mung4 caa4 caa4 [mʊŋ21 tʃʰa21 tʃʰa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[mʊŋ21 tʃʰa21 tʃʰa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>模糊3</li><li><span style="font-weight: bold">備註：</span>原文[tʃʰa21]有音無字，作「「矇（蒙）囗[tʃʰa21]囗[tʃʰa21]」。明代小說《西遊記》作「夢夢查查」，「夢」與「瞢」通</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/模糊</li></ul>
 </>
 瞢查查
 【瞢查查】 mung4 slaa4 slaa4 [mʊŋ21 ɬa21 ɬa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P228 附：[mʊŋ21 ɬa21 ɬa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>模糊2</li><li><span style="font-weight: bold">備註：</span>原文[ɬa21]有音無字，作「「矇（蒙）囗[ɬa21]囗[ɬa21]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/模糊</li></ul>
@@ -22270,8 +22279,11 @@
 磨耳
 【磨耳】 mo6 ji5 [mɔ22 ji24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P133 附：[mɔ22 ji24]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨耳，插磨欛的地方</li><li><span style="font-weight: bold">分類：</span>四、農業（2）農具/磨耳</li></ul>
 </>
-磨趿趿
-【磨趿趿】 mo1 slap6 slap6 [mɔ55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[mɔ55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨磳2</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「摸囗[ɬɐp2]囗[ɬɐp2]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/磨磳</li></ul>
+磨袭袭
+@@@LINK=磨襲襲
+</>
+磨襲襲
+【磨襲襲（磨袭袭）】 mo1 slap6 slap6 [mɔ55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P231 附：[mɔ55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨磳2</li><li><span style="font-weight: bold">備註：</span>原文有音無字，作「摸囗[ɬɐp2]囗[ɬɐp2]」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/磨磳</li></ul>
 </>
 磨頂
 【磨頂（磨顶）】 mo6 deng2 [mɔ22 tɛŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P133 附：[mɔ22 tɛŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>磨頂，磨盤上的圓石盤</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>四、農業（2）農具/磨頂</li></ul>
@@ -23278,8 +23290,8 @@
 粈
 【粈】 neu1 [nɛu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[nɛu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>黏1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/黏</li></ul>
 </>
-粈𪐌𪐌
-【粈𪐌𪐌】 neu1 nak1 nak1 [nɛu55 nɐk5 nɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[nɛu55 nɐk5 nɐk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>黏2，黏乎乎</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/黏</li></ul>
+粈得得
+【粈得得】 neu1 nak1 nak1 [nɛu55 nɐk5 nɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[nɛu55 nɐk5 nɐk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>黏2，黏乎乎</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/黏</li></ul>
 </>
 粉
 【粉】 fan2 [fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P177 附：[fɐn35]</li><li><span style="font-weight: bold">詞例、解釋：</span>粉</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（3）裝飾品/粉</li></ul>
@@ -26827,8 +26839,11 @@
 落雨天
 【落雨天】 lok6 jyu5 tin1 [lɔk2 jy24 tʰin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P122 附：[lɔk2 jy24 tʰin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>雨天</li><li><span style="font-weight: bold">分類：</span>一、天文（4）氣候/雨天</li></ul>
 </>
-落雨霫霫
-【落雨霫霫】 lok6 jyu5 slap6 slap6 [lɔk2 jy24 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P121 附：[lɔk2 jy24 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>連陰雨3，雨下個不停</li><li><span style="font-weight: bold">備註：</span>原文作「落雨霅霅」</li><li><span style="font-weight: bold">分類：</span>一、天文（2）風、雲、雷、雨/連陰雨</li></ul>
+落雨袭袭
+@@@LINK=落雨襲襲
+</>
+落雨襲襲
+【落雨襲襲（落雨袭袭）】 lok6 jyu5 slap6 slap6 [lɔk2 jy24 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P121 附：[lɔk2 jy24 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>連陰雨3，雨下個不停</li><li><span style="font-weight: bold">備註：</span>原文作「落雨霅霅」</li><li><span style="font-weight: bold">分類：</span>一、天文（2）風、雲、雷、雨/連陰雨</li></ul>
 </>
 落雪
 【落雪】 lok6 slyut3 [lɔk2 ɬyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P122 附：[lɔk2 ɬyt3]</li><li><span style="font-weight: bold">詞例、解釋：</span>下雪</li><li><span style="font-weight: bold">分類：</span>一、天文（3）冰、雪、霜、露/下雪</li></ul>
@@ -28417,8 +28432,8 @@
 諧
 【諧（谐）】 haai4 [hai21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[hai21]</li><li><span style="font-weight: bold">詞例、解釋：</span>粗糙1</li><li><span style="font-weight: bold">備註：</span>原文作「磑（硙）」字，其實本字「諧」，避諱糙/躁</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/粗糙</li></ul>
 </>
-諧霫霫
-【諧霫霫（谐霫霫）】 haai4 slap6 slap6 [hai21 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[hai21 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>粗糙2</li><li><span style="font-weight: bold">備註：</span>原文作「磑（硙）[ɬɐp2][ɬɐp2]」有音無字，連方框都未標，其實本字「諧」，避諱糙/躁</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/粗糙</li></ul>
+諧襲襲
+【諧襲襲（谐袭袭）】 haai4 slap6 slap6 [hai21 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P226 附：[hai21 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>粗糙2</li><li><span style="font-weight: bold">備註：</span>原文作「磑（硙）[ɬɐp2][ɬɐp2]」有音無字，連方框都未標，其實本字「諧」，避諱糙/躁</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/粗糙</li></ul>
 </>
 講古
 【講古（讲古）】 gong2 gu2 [kɔŋ35 ku35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P209 附：[kɔŋ35 ku35]</li><li><span style="font-weight: bold">詞例、解釋：</span>說書</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（4）戲劇/說書</li></ul>
@@ -28693,8 +28708,8 @@
 谐
 @@@LINK=諧
 </>
-谐霫霫
-@@@LINK=諧霫霫
+谐袭袭
+@@@LINK=諧襲襲
 </>
 谷
 @@@LINK=穀
@@ -32896,11 +32911,11 @@
 鞋底针
 @@@LINK=鞋底針
 </>
-鞋抽
-【鞋抽】 haai4 cau1 [hai21 tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P176 附：[hai21 tʃʰɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞋拔子2</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/鞋拔子</li></ul>
-</>
 鞋拔
 【鞋拔】 haai4 baat6 [hai21 pat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P176 附：[hai21 pat2]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞋拔子1</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/鞋拔子</li></ul>
+</>
+鞋搊
+【鞋搊】 haai4 cau1 [hai21 tʃʰɐu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P176 附：[hai21 tʃʰɐu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>鞋拔子2</li><li><span style="font-weight: bold">備註：</span>原文作「鞋抽」，此處據林亦《廣西粵方言塞音、塞擦音鼻音化小規律所轄字的考察》改作「鞋搊」</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（2）鞋帽/鞋拔子</li></ul>
 </>
 鞋柜
 @@@LINK=鞋櫃
@@ -32926,26 +32941,26 @@
 韌
 【韌（韧）】 jang3 [jɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P230 附：[jɐŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>頑強1</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/頑強</li></ul>
 </>
-韌乓乓
-【韌乓乓（韧乓乓）】 jang3 baang1 baang1 [jɐŋ33 paŋ55 paŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[jɐŋ33 paŋ55 paŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>韌4</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/韌</li></ul>
-</>
 韌根
 【韌根（韧根）】 jang3 gan1 [jɐŋ33 kɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P140 附：[jɐŋ33 kɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>韌根，草窠，權木叢</li><li><span style="font-weight: bold">備註：</span>原文[jɐŋ33]有音無字</li><li><span style="font-weight: bold">分類：</span>五、植物（3）樹木/韌根</li></ul>
 </>
 韌皮
 【韌皮（韧皮）】 jang3 pi4 [jɐŋ33 pʰi21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P229 附：[jɐŋ33 pʰi21]</li><li><span style="font-weight: bold">詞例、解釋：</span>皮3</li><li><span style="font-weight: bold">備註：</span>原文作「因[jɐn55]皮」，「因」爲同音替代字，應作「韌[jɐŋ33]皮」</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/皮</li></ul>
 </>
+韌繃繃
+【韌繃繃（韧绷绷）】 jang3 baang1 baang1 [jɐŋ33 paŋ55 paŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P223 附：[jɐŋ33 paŋ55 paŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>韌4</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/韌</li></ul>
+</>
 韧
 @@@LINK=韌
-</>
-韧乓乓
-@@@LINK=韌乓乓
 </>
 韧根
 @@@LINK=韌根
 </>
 韧皮
 @@@LINK=韌皮
+</>
+韧绷绷
+@@@LINK=韌繃繃
 </>
 韭黃
 【韭黃（韭黄）】 gau2 wong4 [kɐu35 wɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P137 附：[kɐu35 wɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>韭黃</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/韭黃</li></ul>
@@ -35363,7 +35378,7 @@
 【黝】 au2 [ɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P227 附：[ɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>深紫1</li><li><span style="font-weight: bold">備註：</span>原文「嘔」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/深紫</li></ul>
 </>
 黝血
-【黝血】 au2 hyut3 [ɐu35 hyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[ɐu35 hyt3]</li><li><span style="font-weight: bold">詞例、解釋：</span>淤血2</li><li><span style="font-weight: bold">備註：</span>原文「嘔」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/淤血</li></ul>
+【黝血】 au2 hyut3 [ɐu35 hyt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P172 附：[ɐu35 hyt3]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘀血2</li><li><span style="font-weight: bold">備註：</span>原文「嘔」爲同音替代字，原文釋義作「淤血」，應作「瘀血」</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（3）外科/瘀血</li></ul>
 </>
 黝黑黝黑
 【黝黑黝黑】 au2 hak1 au2 hak1 [ɐu35 hɐk5 ɐu35 hɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P227 附：[ɐu35 hɐk5 ɐu35 hɐk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>深紫2</li><li><span style="font-weight: bold">備註：</span>原文「嘔」爲同音替代字</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/深紫</li></ul>
@@ -35614,8 +35629,8 @@
 𤶊
 @@@LINK=癐
 </>
-𤶊䧒䧒
-@@@LINK=癐䧒䧒
+𤶊来来
+@@@LINK=癐來來
 </>
 𧊅
 【𧊅】 kwe2 [kʷʰɛ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P149 附：[kʷʰɛ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>小青蛙</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、動物（4）魚蝦類/小青蛙</li></ul>
@@ -35648,7 +35663,7 @@
 【𪐀】 ne1 [nɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P212 附：[nɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>粘（貼）1，～郵票</li><li><span style="font-weight: bold">備註：</span>原文有音無字，分類詞誤作「帖」</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/粘（貼）</li></ul>
 </>
 𪐀牙𪐀齒
-【𪐀牙𪐀齒（𪐀牙𪐀齿）】 ni1 ngaa4 ni1 ci2 [ni55 ŋa21 ni55 tʃʰi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[ni55 ŋa21 ni55 tʃʰi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容食物黏牙齒</li><li><span style="font-weight: bold">備註：</span>原文[ni55]有音無字</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/𪐀牙𪐀齒</li></ul>
+【𪐀牙𪐀齒（𪐀牙𪐀齿）】 ni1 ngaa4 ni1 ci2 [ni55 ŋa21 ni55 tʃʰi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2008年林亦、覃鳳餘《廣西南寧白話研究》P245 附：[ni55 ŋa21 ni55 tʃʰi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容食物粘牙齒</li><li><span style="font-weight: bold">備註：</span>原文[ni55]有音無字</li><li><span style="font-weight: bold">分類：</span>三十一、四字詞語/𪐀牙𪐀齒</li></ul>
 </>
 𪐀牙𪐀齿
 @@@LINK=𪐀牙𪐀齒

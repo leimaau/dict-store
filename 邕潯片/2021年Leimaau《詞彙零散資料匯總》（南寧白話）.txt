@@ -940,8 +940,11 @@
 哭呀呀
 【哭呀呀】 huk1 nge1 nge1 [hʊk5 ŋɛ55 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[huk5 ŋɛ55 ŋɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，小孩子哭。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哭</li></ul>
 </>
-哭霫霫
-【哭霫霫】 huk1 slap6 slap6 [hʊk5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[huk5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，小聲哭。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哭</li></ul>
+哭袭袭
+@@@LINK=哭襲襲
+</>
+哭襲襲
+【哭襲襲（哭袭袭）】 huk1 slap6 slap6 [hʊk5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[huk5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，小聲哭。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/哭</li></ul>
 </>
 哽
 【哽】 kang2 [kʰɐŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[khɐŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>噎（吃飯～着了）</li><li><span style="font-weight: bold">備註：</span>原文誤作「啃」字，唐七元調查點誤作[khɐŋ33]，林亦調查點對</li><li><span style="font-weight: bold">分類：</span>十一、飲食/噎</li></ul>
@@ -2125,6 +2128,9 @@
 抓巾崽
 【抓巾崽】 zaa1 gan1 zai2 [tʃa55 kɐn55 tʃɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[tʃa55 kɐn55 tʃɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>手絹</li><li><span style="font-weight: bold">備註：</span>原文作「抓巾仔」，未標音</li><li><span style="font-weight: bold">分類：</span>十、服飾/手絹</li></ul>
 </>
+折
+@@@LINK=摺
+</>
 折本
 【折本】 sit6 bun2 [ʃit2 pun35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[ʃit2 pun35]</li><li><span style="font-weight: bold">詞例、解釋：</span>賠本</li><li><span style="font-weight: bold">備註：</span>原文作「蝕本」，未標音</li><li><span style="font-weight: bold">分類：</span>十五、商業/虧本</li></ul>
 </>
@@ -2161,8 +2167,11 @@
 拍卟卟
 【拍卟卟】 paak3 bap6 bap6 [pʰak3 pɐp2 pɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[pʰak3 pɐp2 pɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，「卟卟」地拍。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/拍</li></ul>
 </>
-拖趿趿
-【拖趿趿】 to1 slap6 slap6 [tʰɔ55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[tʰɔ55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，不利索的拖走。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/拖着走</li></ul>
+拖袭袭
+@@@LINK=拖襲襲
+</>
+拖襲襲
+【拖襲襲（拖袭袭）】 to1 slap6 slap6 [tʰɔ55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[tʰɔ55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，不利索的拖走。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/拖着走</li></ul>
 </>
 拗
 【拗】 eu2 [ɛu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿɛu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>折（把樹枝～斷）</li><li><span style="font-weight: bold">分類：</span>十七、動作/折</li></ul>
@@ -2182,8 +2191,11 @@
 拜眼睏
 【拜眼睏（拜眼困）】 baai3 ngen5 han3 [pai33 ŋɛn24 hɐn33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pai33 ŋɛn24 hɐn33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>打瞌睡</li><li><span style="font-weight: bold">備註：</span>唐七元調查點</li><li><span style="font-weight: bold">分類：</span>十七、動作/打瞌睡</li></ul>
 </>
-拜趿趿
-【拜趿趿】 baai3 slap6 slap6 [pai33 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[pai33 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，虔誠地拜。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/拜</li></ul>
+拜袭袭
+@@@LINK=拜襲襲
+</>
+拜襲襲
+【拜襲襲（拜袭袭）】 baai3 slap6 slap6 [pai33 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[pai33 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，虔誠地拜。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/拜</li></ul>
 </>
 拣
 @@@LINK=揀
@@ -2299,6 +2311,9 @@
 摸
 【摸】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɔ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>摸（～頭）</li><li><span style="font-weight: bold">備註：</span>林亦調查點誤作[mɔ22]，唐七元調查點對</li><li><span style="font-weight: bold">分類：</span>十七、動作/摸</li></ul>
 </>
+摺
+【摺（折）】 jep3 [jɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>挽（～袖子）</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/挽</li></ul>
+</>
 摻
 【摻（掺）】 cam1 [tʃʰɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[tʃhɐm55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>摻（～水）</li><li><span style="font-weight: bold">備註：</span>原文作「侵」字</li><li><span style="font-weight: bold">分類：</span>十七、動作/摻</li></ul>
 </>
@@ -2373,9 +2388,6 @@
 </>
 擤
 【擤】 slang3 [ɬɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ɬɐŋ33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>擤（～鼻涕）</li><li><span style="font-weight: bold">分類：</span>八、人體/擤</li></ul>
-</>
-擪
-【擪】 jep3 [jɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>挽（～袖子）</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/挽</li></ul>
 </>
 擰
 【擰（拧）】 ning1 [neŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[neŋ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>拿（用手把蘋果～過來）</li><li><span style="font-weight: bold">分類：</span>十七、動作/拿</li></ul>
@@ -3013,8 +3025,8 @@
 湿
 @@@LINK=溼
 </>
-湿霫霫
-@@@LINK=溼霫霫
+湿袭袭
+@@@LINK=溼襲襲
 </>
 溶
 【溶】 jung4 [jʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>爛（肉煮得～）</li><li><span style="font-weight: bold">備註：</span>原文作「融」字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/爛</li></ul>
@@ -3028,8 +3040,8 @@
 溼
 【溼（湿）】 sap1 [ʃɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>溼，潮溼（衣服淋～了）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/溼</li></ul>
 </>
-溼霫霫
-【溼霫霫（湿霫霫）】 sap1 slap6 slap6 [ʃɐp5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐp5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，溼淋淋的。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/溼淋淋</li></ul>
+溼襲襲
+【溼襲襲（湿袭袭）】 sap1 slap6 slap6 [ʃɐp5 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[sɐp5 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，溼淋淋的。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/溼淋淋</li></ul>
 </>
 滚水
 @@@LINK=滾水
@@ -3907,8 +3919,8 @@
 米粥
 【米粥】 mai5 zuk1 [mɐi24 tʃʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[mɐi35 ʧuk5]</li><li><span style="font-weight: bold">詞例、解釋：</span>稀飯，用米熬的，統稱</li><li><span style="font-weight: bold">分類：</span>十一、飲食/稀飯</li></ul>
 </>
-粈𪐌𪐌
-【粈𪐌𪐌】 neu1 nak6 nak6 [nɛu55 nɐk2 nɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[nɛu55 nɐk2 nɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，黏得很。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/黏乎乎</li></ul>
+粈得得
+【粈得得】 neu1 nak6 nak6 [nɛu55 nɐk2 nɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[nɛu55 nɐk2 nɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，黏得很。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/黏乎乎</li></ul>
 </>
 粉
 【粉】 fan2 [fɐn35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[fɐn35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>面兒（玉米～，辣椒～）</li><li><span style="font-weight: bold">分類：</span>十一、飲食/面兒</li></ul>
@@ -4678,11 +4690,14 @@
 行哂
 【行哂】 haang4 slaai3 [haŋ21 ɬai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[haŋ21 ɬai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>死，婉稱，最常用的幾種，指老人（他～了）</li><li><span style="font-weight: bold">分類：</span>十四、婚喪/壽辰、喪葬/死</li></ul>
 </>
+行袭袭
+@@@LINK=行襲襲
+</>
+行襲襲
+【行襲襲（行袭袭）】 haang4 slap6 slap6 [haŋ21 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[haŋ21 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，溜溜噠噠地走。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/走</li></ul>
+</>
 行親戚
 【行親戚（行亲戚）】 haang4 can1 cik1 [haŋ21 tʃʰɐn55 tʃʰek5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[haŋ21 tʃhɐn55 tʃhek5]</li><li><span style="font-weight: bold">詞例、解釋：</span>走親戚</li><li><span style="font-weight: bold">分類：</span>十三、交際/走親戚</li></ul>
-</>
-行趿趿
-【行趿趿】 haang4 slap6 slap6 [haŋ21 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634 附：[haŋ21 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>動詞後附加成分，溜溜噠噠地走。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/走</li></ul>
 </>
 街
 【街】 gaai1 [kai55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[kai55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>街道</li><li><span style="font-weight: bold">分類：</span>六、房舍/房屋/街道</li></ul>
@@ -5014,8 +5029,11 @@
 跛佬
 【跛佬】 bai1 lu2 [pɐi55 lu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pɐi55 lu35 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>瘸子，統稱，非貶稱(無統稱則記成年男的)</li><li><span style="font-weight: bold">分類：</span>七、稱謂/一般稱謂/瘸子</li></ul>
 </>
-跛趿趿
-【跛趿趿】 bai1 slap6 slap6 [pɐi55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[pɐi55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，瘸得很。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘸</li></ul>
+跛袭袭
+@@@LINK=跛襲襲
+</>
+跛襲襲
+【跛襲襲（跛袭袭）】 bai1 slap6 slap6 [pɐi55 ɬɐp2 ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[pɐi55 ɬɐp2 ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，瘸得很。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/瘸</li></ul>
 </>
 跳
 【跳】 tiu3 [tʰiu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[thiu33 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>跳（青蛙～起來）</li><li><span style="font-weight: bold">分類：</span>十七、動作/跳</li></ul>

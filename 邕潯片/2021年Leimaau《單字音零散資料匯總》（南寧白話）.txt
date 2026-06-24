@@ -124,6 +124,9 @@
 丟
 【丟（丢）】 diu1 [tiu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[tiu55]</li></ul>
 </>
+丟
+【丟（丢）】 neu4 [nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P645 附：[nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高～～：高而單薄</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 丢
 @@@LINK=丟
 </>
@@ -1780,9 +1783,6 @@
 嫂
 【嫂】 slu2 [ɬu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ɬu35]</li></ul>
 </>
-嫋
-【嫋（袅）】 neu4 [nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P645 附：[nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高～～：高而單薄</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
 嫌
 【嫌】 jim4 [jim21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[Ǿim21]</li></ul>
 </>
@@ -2292,6 +2292,9 @@
 </>
 得
 【得】 dak1 [tɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[tɐk5]</li></ul>
+</>
+得
+【得】 nak6 [nɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[nɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>粈[nɛu5]～～，黏得很</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 徛
 【徛】 ki5 [kʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P636 附：[kʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>站</li><li><span style="font-weight: bold">備註：</span>詞表，原文誤作「倚」字</li></ul>
@@ -2843,6 +2846,9 @@
 【摸】 mo1 [mɔ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[mɔ55]</li></ul>
 </>
 摺
+【摺（折）】 jep3 [jɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>挽（～袖子）</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
+</>
+摺
 【摺（折）】 zip3 [tʃip3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧip3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～疊</li><li><span style="font-weight: bold">備註：</span>唐七元調查點誤作[ʧit3]</li></ul>
 </>
 摻
@@ -2952,9 +2958,6 @@
 </>
 擦
 【擦】 caat3 [tʃʰat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧhat3]</li></ul>
-</>
-擪
-【擪】 jep3 [jɛp3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[Ǿiɛp3]</li><li><span style="font-weight: bold">詞例、解釋：</span>挽（～袖子）</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 擰
 【擰（拧）】 ning1 [neŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P655 附：[niŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>提，拿</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -5686,9 +5689,6 @@
 衰
 【衰】 sui1 [ʃui55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʃui55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>壞（人～）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
 </>
-袅
-@@@LINK=嫋
-</>
 袋
 【袋】 doi6 [tɔi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[tɔi22]</li></ul>
 </>
@@ -5703,6 +5703,9 @@
 </>
 被
 【被】 pi5 [pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[phi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>～子</li></ul>
+</>
+袭
+@@@LINK=襲
 </>
 裂
 【裂】 lit6 [lit2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[lit2]</li><li><span style="font-weight: bold">詞例、解釋：</span>裂（木板～開了）</li><li><span style="font-weight: bold">備註：</span>詞表</li></ul>
@@ -5736,6 +5739,9 @@
 </>
 襪
 【襪（袜）】 mat6 [mɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[mɐt2]</li></ul>
+</>
+襲
+【襲（袭）】 slap6 [ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634，635，647，648 附：[ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>拖～～，不利索的拖走；行～～，溜溜噠噠地走；跛～～，瘸得很；拜～～：虔誠地拜；哭～～，小聲哭；溼～～，溼淋淋的</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 西
 【西】 slai1 [ɬɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ɬɐi55]</li><li><span style="font-weight: bold">備註：</span>林亦調查點誤作[ʃɐi55]，唐七元調查點對</li></ul>
@@ -6096,9 +6102,6 @@
 </>
 足
 【足】 zuk1 [tʃʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧuk5]</li></ul>
-</>
-趿
-【趿】 slap6 [ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634，635，647，648 附：[ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>拖～～，不利索的拖走；行～～，溜溜噠噠地走；跛～～，瘸得很；拜～～：虔誠地拜</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 跋
 【跋】 paat6 [pʰat2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P649 附：[pʰat2]</li><li><span style="font-weight: bold">詞例、解釋：</span>仰～躠[ɬat2]：(跌了個)四仰八叉</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -6829,9 +6832,6 @@
 霧
 【霧（雾）】 mu6 [mu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[mu22]</li></ul>
 </>
-霫
-【霫】 slap6 [ɬɐp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P634，635 附：[ɬɐp2]</li><li><span style="font-weight: bold">詞例、解釋：</span>哭～～，小聲哭；溼～～，溼淋淋的</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
-</>
 青
 【青】 ceng1 [tʃʰɛŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʧhɛŋ55]</li></ul>
 </>
@@ -7353,9 +7353,6 @@
 </>
 𪐀
 【𪐀】 ne1 [nɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P642 附：[nɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>貼</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𪐌
-【𪐌】 nak6 [nɐk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[nɐk2]</li><li><span style="font-weight: bold">詞例、解釋：</span>粈[nɛu5]～～，黏得很</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 𪨊
 @@@LINK=㞞
