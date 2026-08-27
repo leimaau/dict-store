@@ -3869,7 +3869,7 @@
 【恃】 cy4 [tsʰɿ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P214 附：[tsʰɿ21]</li></ul>
 </>
 恆
-【恆（恒）】 hang4 [hɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P267 附：[hɐŋ21]</li><li><span style="font-weight: bold">備註：</span>原文作「恒」字</li></ul>
+【恆（恒）】 hang4 [hɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P267 附：[hɐŋ21]</li></ul>
 </>
 恋
 @@@LINK=戀
@@ -3879,9 +3879,6 @@
 </>
 恒
 @@@LINK=恆
-</>
-恒
-【恒】 hang4 [hɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P267 附：[hɐŋ21]</li></ul>
 </>
 恕
 【恕】 syu3 [ʃy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P198 附：[sy33]</li></ul>
@@ -9181,9 +9178,6 @@
 羡
 @@@LINK=羨
 </>
-羡
-【羡】 slin3 [ɬin33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P242 附：[ɬin33]</li><li><span style="font-weight: bold">備註：</span>原文作「羨」字</li></ul>
-</>
 羣
 【羣（群）】 kwan4 [kʷʰɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P257 附：[kʰuɐn21]</li></ul>
 </>
@@ -9194,7 +9188,7 @@
 【群】 kwan4 [kʷʰɐn21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P257 附：[kʰuɐn21]</li></ul>
 </>
 羨
-【羨（羡）】 slin3 [ɬin33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P242 附：[ɬin33]</li></ul>
+【羨（羡）】 slin3 [ɬin33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P242 附：[ɬin33]</li><li><span style="font-weight: bold">備註：</span>原文作「羨」字</li></ul>
 </>
 義
 【義（义）】 ji6 [ji22] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年李彬《左江土白話研究》P211 附：[ji22]</li></ul>

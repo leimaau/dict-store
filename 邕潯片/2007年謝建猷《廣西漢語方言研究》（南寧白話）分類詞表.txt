@@ -3163,6 +3163,9 @@
 滩
 @@@LINK=灘
 </>
+滭羹
+【滭羹】 bat1 gang1 [pɐt5 kɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1812 附：[pɐt5 kɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀湯</li><li><span style="font-weight: bold">備註：</span>原文[pɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/舀湯</li></ul>
+</>
 滾水
 【滾水（滚水）】 gwan2 sui2 [kʷɐn35 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1572 附：[kʷɐn35 ʃui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>開水</li><li><span style="font-weight: bold">分類：</span>十一、飲食/開水</li></ul>
 </>
@@ -3656,7 +3659,7 @@
 【白日】 baak6 jat6 [pak2 jɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1146 附：[pak2 iɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>白天</li><li><span style="font-weight: bold">分類：</span>二、時令/白天</li></ul>
 </>
 白果
-【白果】 baak6 go2 [pak2 kɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1232 附：[pak2 kɔ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>白果</li><li><span style="font-weight: bold">分類：</span>四、植物/白果</li></ul>
+【白果】 baak6 go2 [pak2 kɔ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1232 附：[pak2 kɔ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>白果</li><li><span style="font-weight: bold">分類：</span>四、植物/銀杏</li></ul>
 </>
 白糖
 【白糖】 baak6 tong4 [pak2 tʰɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1564 附：[pak2 tʰɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>白糖</li><li><span style="font-weight: bold">分類：</span>十一、飲食/白糖</li></ul>
@@ -6465,9 +6468,6 @@
 </>
 𠍲嘅
 【𠍲嘅】 kyu5 ge3 [kʰy24 kɛ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1912 附：[kʰy23 kɛ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>他的</li><li><span style="font-weight: bold">備註：</span>原文[kɛ33]有音無字</li><li><span style="font-weight: bold">分類：</span>二十、指代/他的</li></ul>
-</>
-𢳂羹
-【𢳂羹】 bat1 gang1 [pɐt5 kɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2007年謝建猷《廣西漢語方言研究》P1812 附：[pɐt5 kɐŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀湯</li><li><span style="font-weight: bold">備註：</span>原文[pɐt5]有音無字</li><li><span style="font-weight: bold">分類：</span>十七、動作/舀湯</li></ul>
 </>
 𤶊
 @@@LINK=癐

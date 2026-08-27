@@ -79,6 +79,9 @@
 㸺
 【㸺】 saa1 [ʃa53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P276 附：[sa53]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃牛：～牛</li><li><span style="font-weight: bold">備註：</span>本字即「沙牛」</li></ul>
 </>
+㿺
+【㿺】 buk3 [pok5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[pok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>包；大疙瘩：頭撞起一隻～</li></ul>
+</>
 䁅
 【䁅】 mang3 [mɐŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P279 附：[məŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>暴躁：渠好～，有啲事冇順意（順心）就發脾氣</li><li><span style="font-weight: bold">備註：</span>本字「繃」</li></ul>
 </>
@@ -378,9 +381,6 @@
 </>
 恒
 @@@LINK=恆
-</>
-恒
-【恒】 hang4 [hɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[həŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>（液體或含水分的東西）遇冷凝結：亞啲豬腳湯～成凍喇</li><li><span style="font-weight: bold">備註：</span>同音替代</li></ul>
 </>
 愠
 @@@LINK=慍
@@ -682,6 +682,9 @@
 满
 @@@LINK=滿
 </>
+滭
+【滭】 bat2 [pɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[pət3]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀：～水</li><li><span style="font-weight: bold">備註：</span>原文作「筆」字</li></ul>
+</>
 滮
 【滮】 biu1 [piu53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[piu53]</li><li><span style="font-weight: bold">詞例、解釋：</span>迸射：小心啲，冇許水～出來</li><li><span style="font-weight: bold">備註：</span>原文作「瀌」字</li></ul>
 </>
@@ -808,9 +811,6 @@
 窿
 【窿】 loeng1 [lœŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[løŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘈雜：昨夜亞隻貓吆（叫）得滿村都～喇</li><li><span style="font-weight: bold">備註：</span>同音替代，參見「𡃡」字。釋文中錯用「嚒」字，應用「吆」字，此處據覃遠雄《南寧平話詞典》P304勘誤</li></ul>
 </>
-笔
-@@@LINK=筆
-</>
 笡
 【笡】 ce3 [tʃʰe55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P278 附：[tsʰe55]</li><li><span style="font-weight: bold">詞例、解釋：</span>陡，斜：亞隻嶺冇識幾～（不知有多麼陡峭）</li></ul>
 </>
@@ -819,9 +819,6 @@
 </>
 笼
 @@@LINK=籠
-</>
-筆
-【筆（笔）】 bat2 [pɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[pət3]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀：～水</li><li><span style="font-weight: bold">備註：</span>同音替代，見「𢳂」字</li></ul>
 </>
 等
 【等】 dang2 [tɐŋ33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[təŋ33]</li><li><span style="font-weight: bold">詞例、解釋：</span>用容器去接：牛踩穀要鏟箕～牛屎</li></ul>
@@ -1144,9 +1141,6 @@
 𢲼
 【𢲼】 dat3 [tɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[tət5]</li><li><span style="font-weight: bold">詞例、解釋：</span>猛的用力摘取：～果</li></ul>
 </>
-𢳂
-【𢳂】 bat2 [pɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P284 附：[pət3]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀：～水</li><li><span style="font-weight: bold">備註：</span>原文作「筆」字</li></ul>
-</>
 𢳆
 【𢳆】 ngaau4 [ŋau21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P280 附：[ŋau21]</li><li><span style="font-weight: bold">詞例、解釋：</span>搖動</li></ul>
 </>
@@ -1176,9 +1170,6 @@
 </>
 𦊏
 【𦊏】 mu5 [mu24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P283 附：[mu24]</li><li><span style="font-weight: bold">詞例、解釋：</span>將地分成較小塊的畦：起～</li></ul>
-</>
-𦢊
-【𦢊】 buk3 [pok5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P282 附：[pok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>包；大疙瘩：頭撞起一隻～</li></ul>
 </>
 𦻐
 【𦻐】 zaau3 [tʃau55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2017年教育部《漢語方言用字規範》P281 附：[tsau55]</li><li><span style="font-weight: bold">詞例、解釋：</span>用油煠：～魚</li><li><span style="font-weight: bold">備註：</span>又作「㷹」字</li></ul>

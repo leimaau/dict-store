@@ -3014,7 +3014,7 @@
 @@@LINK=啄木鳥
 </>
 啱先
-【啱先】 ngaam1 slin1 [ŋam55 ɬin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[ŋam55 ɬin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛纔2</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/先（暫時）</li></ul>
+【啱先】 ngaam1 slin1 [ŋam55 ɬin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[ŋam55 ɬin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛纔2</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/剛纔</li></ul>
 </>
 啱啱
 【啱啱】 ngaam1 ngaam1 [ŋam55 ŋam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[ŋam55 ŋam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛纔、剛好</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/剛</li></ul>
@@ -3029,7 +3029,7 @@
 【啱心水】 ngaam1 slam1 sui2 [ŋam55 ɬɐm55 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[ŋam55 ɬɐm55 sui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>稱心2</li><li><span style="font-weight: bold">分類：</span>二十五、形容詞/稱心</li></ul>
 </>
 啱頭
-【啱頭（啱头）】 ngaam1 tau4 [ŋam55 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[ŋam55 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛纔3</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/先（暫時）</li></ul>
+【啱頭（啱头）】 ngaam1 tau4 [ŋam55 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[ŋam55 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛纔3</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/剛纔</li></ul>
 </>
 啼哭
 【啼哭】 tai4 huk1 [tʰɐi21 hʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P51 附：[tʰɐi21 hok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>（小孩）哭1</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/哭</li></ul>
@@ -5093,7 +5093,7 @@
 【後胛（后胛）】 hau6 gaap3 [hɐu22 kap3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P49 附：[hɐu22 kap3]</li><li><span style="font-weight: bold">詞例、解釋：</span>後腿肉1</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/後腿肉</li></ul>
 </>
 後腳
-【後腳（后脚）】 hau6 goek3 [hɐu22 kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P49 附：[hɐu22 kœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>豬腳3</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/腿後腿</li></ul>
+【後腳（后脚）】 hau6 goek3 [hɐu22 kœk3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P49 附：[hɐu22 kœk3]</li><li><span style="font-weight: bold">詞例、解釋：</span>豬腳3</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/豬後腿</li></ul>
 </>
 後腿肉
 【後腿肉（后腿肉）】 hau6 tui2 juk6 [hɐu22 tʰui35 jʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P49 附：[hɐu22 tʰui35 jok2]</li><li><span style="font-weight: bold">詞例、解釋：</span>後腿肉2</li><li><span style="font-weight: bold">分類：</span>十四、飲食（4）肉、蛋/後腿肉</li></ul>
@@ -5465,7 +5465,7 @@
 【房】 fong4 [fɔŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P34 附：[fɔŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>臥房</li><li><span style="font-weight: bold">分類：</span>七、房舍（1）房子/（單間）屋子</li></ul>
 </>
 扁柑
-【扁柑】 ben2 gam1 [pɛn35 kɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[pɛn35 kɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>橘子2</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/橘子</li></ul>
+【扁柑】 ben2 gam1 [pɛn35 kɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[pɛn35 kɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>扁柑</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/扁柑</li></ul>
 </>
 扁菜
 【扁菜】 ben2 coi3 [pɛn35 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P28 附：[pɛn35 tsʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>韭菜</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/韭菜</li></ul>
@@ -7304,7 +7304,7 @@
 【枸杞菜】 gau2 gi2 coi3 [kɐu35 ki35 tʃʰɔi33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P28 附：[kɐu35 ki35 tsʰɔi33]</li><li><span style="font-weight: bold">詞例、解釋：</span>枸杞葉</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/枸杞葉</li></ul>
 </>
 柑
-【柑】 gam1 [kɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[kɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>橘子1</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/橘子</li></ul>
+【柑】 gam1 [kɐm55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[kɐm55]</li><li><span style="font-weight: bold">詞例、解釋：</span>柑</li><li><span style="font-weight: bold">備註：</span>原文無釋義</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/柑</li></ul>
 </>
 柜台
 @@@LINK=櫃檯
@@ -7709,7 +7709,7 @@
 【樽窒】 zyun1 zat1 [tʃyn55 tʃɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P36 附：[tsyn55 tsɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>瓶塞兒1.2</li><li><span style="font-weight: bold">備註：</span>原文作「樽枳」</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（3）炊事用具/瓶蓋兒</li></ul>
 </>
 橘
-【橘】 gat1 [kɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[kɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>橘子（小、酸）</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/橘子</li></ul>
+【橘】 gat1 [kɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[kɐt5]</li><li><span style="font-weight: bold">詞例、解釋：</span>橘子（小、酸）</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/（小、酸）</li></ul>
 </>
 橙
 【橙】 caang2 [tʃʰaŋ35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[tsʰaŋ35]</li><li><span style="font-weight: bold">詞例、解釋：</span>橙子</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/橙子</li></ul>
@@ -8042,7 +8042,7 @@
 【沙牛】 saa1 ngau4 [ʃa55 ŋɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P31 附：[sa55 ŋɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>黃牛</li><li><span style="font-weight: bold">分類：</span>六、動物（1）牲畜/黃牛</li></ul>
 </>
 沙甜柚
-【沙甜柚】 saa1 tim4 jau2 [ʃa55 tʰim21 jɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[sa55 tʰim21 jɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>沙田柚</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/沙田柚</li></ul>
+【沙甜柚】 saa1 tim4 jau2 [ʃa55 tʰim21 jɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P30 附：[sa55 tʰim21 jɐu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>沙田柚</li><li><span style="font-weight: bold">分類：</span>五、植物（4）瓜果/沙甜柚</li></ul>
 </>
 沙薑
 【沙薑（沙姜）】 saa1 goeng1 [ʃa55 kœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P28 附：[sa55 kœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>洋薑</li><li><span style="font-weight: bold">分類：</span>五、植物（2）豆類、菜蔬/沙薑</li></ul>
@@ -8379,6 +8379,21 @@
 </>
 满面
 @@@LINK=滿面
+</>
+滭水
+【滭水】 bat1 sui2 [pɐt5 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[pɐt5 sui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀水</li><li><span style="font-weight: bold">備註：</span>原文作「𢳂水」</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/舀水</li></ul>
+</>
+滭汤
+@@@LINK=滭湯
+</>
+滭湯
+【滭湯（滭汤）】 bat1 tong1 [pɐt5 tʰɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[pɐt5 tʰɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀湯</li><li><span style="font-weight: bold">備註：</span>原文作「𢳂湯」</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/舀湯</li></ul>
+</>
+滭飯
+【滭飯（滭饭）】 bat1 faan6 [pɐt5 fan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[pɐt5 fan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>盛飯1</li><li><span style="font-weight: bold">備註：</span>原文作「𢳂飯」</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/盛飯</li></ul>
+</>
+滭饭
+@@@LINK=滭飯
 </>
 滯
 【滯（滞）】 zai6 [tʃɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P44 附：[tsɐi22]</li><li><span style="font-weight: bold">詞例、解釋：</span>不消化</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（2）內科/積滯</li></ul>
@@ -11036,7 +11051,7 @@
 【細鬼（细鬼）】 slai3 gwai2 [ɬɐi33 kʷɐi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[ɬɐi33 kʷɐi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>小孩兒1</li><li><span style="font-weight: bold">分類：</span>九、稱謂（1）一般稱謂/小孩兒</li></ul>
 </>
 終歸
-【終歸（终归）】 zung1 gwai1 [tʃʊŋ55 kʷɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P69 附：[tsoŋ55 kʷɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>終於</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/終歸</li></ul>
+【終歸（终归）】 zung1 gwai1 [tʃʊŋ55 kʷɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P69 附：[tsoŋ55 kʷɐi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>終於</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/終於</li></ul>
 </>
 絎被
 【絎被（绗被）】 hong4 pi5 [hɔŋ21 pʰi24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P38 附：[hɔŋ21 pʰi24]</li><li><span style="font-weight: bold">詞例、解釋：</span>縫被臥1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（1）衣/做被臥</li></ul>
@@ -14165,7 +14180,7 @@
 【輩分（辈分）】 bui3 fan6 [pui33 fɐn22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P41 附：[pui33 fɐn22]</li><li><span style="font-weight: bold">詞例、解釋：</span>輩分</li><li><span style="font-weight: bold">分類：</span>十、親屬（4）其他/輩分</li></ul>
 </>
 輸賭
-【輸賭（输赌）】 syu1 du2 [ʃy55 tu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[sy55 tu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>打賭</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（4）戲劇/打賭</li></ul>
+【輸賭（输赌）】 syu1 du2 [ʃy55 tu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[sy55 tu35]</li><li><span style="font-weight: bold">詞例、解釋：</span>打賭</li><li><span style="font-weight: bold">分類：</span>二十一、文體活動（2）體育/打賭</li></ul>
 </>
 轉頭
 【轉頭（转头）】 zyun2 tau4 [tʃyn35 tʰɐu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[tsyn35 tʰɐu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>回頭2</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/回頭</li></ul>
@@ -15731,7 +15746,7 @@
 【頭一名（头一名）】 tau4 aa1 meng4 [tʰɐu21 a55 mɛŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P59 附：[tʰɐu21 a55 mɛŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>頭名1</li><li><span style="font-weight: bold">分類：</span>二十、文化教育（3）讀書識字/頭名</li></ul>
 </>
 頭先
-【頭先（头先）】 tau4 slin1 [tʰɐu21 ɬin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[tʰɐu21 ɬin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛纔1</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/先（暫時）</li></ul>
+【頭先（头先）】 tau4 slin1 [tʰɐu21 ɬin55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P68 附：[tʰɐu21 ɬin55]</li><li><span style="font-weight: bold">詞例、解釋：</span>剛纔1</li><li><span style="font-weight: bold">分類：</span>二十六、副詞、介詞等/剛纔</li></ul>
 </>
 頭巾
 【頭巾（头巾）】 tau4 gan1 [tʰɐu21 kɐn55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P46 附：[tʰɐu21 kɐn55]</li><li><span style="font-weight: bold">詞例、解釋：</span>圍巾2</li><li><span style="font-weight: bold">分類：</span>十三、衣服、穿戴（4）其他穿戴用品/圍巾</li></ul>
@@ -15871,11 +15886,11 @@
 風穀
 【風穀（风谷）】 fung1 guk1 [fʊŋ55 kʊk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P26 附：[foŋ55 kok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>揚場</li><li><span style="font-weight: bold">分類：</span>四、農業（1）農事/風穀</li></ul>
 </>
+風穙
+【風穙（风穙）】 fung1 buk6 [fʊŋ55 pʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P45 附：[foŋ55 pok2]</li><li><span style="font-weight: bold">詞例、解釋：</span>蕁痲疹</li><li><span style="font-weight: bold">備註：</span>原文[pok2]有音無字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（2）內科/蕁痲疹</li></ul>
+</>
 風箱
 【風箱（风箱）】 fung1 sloeng1 [fʊŋ55 ɬœŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P36 附：[foŋ55 ɬœŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>風箱</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（3）炊事用具/風箱</li></ul>
-</>
-風𦢊
-【風𦢊（风𦢊）】 fung1 buk6 [fʊŋ55 pʊk2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P45 附：[foŋ55 pok2]</li><li><span style="font-weight: bold">詞例、解釋：</span>蕁痲疹</li><li><span style="font-weight: bold">備註：</span>原文[pok2]有音無字</li><li><span style="font-weight: bold">分類：</span>十二、疾病、醫療（2）內科/蕁痲疹</li></ul>
 </>
 风停哂
 @@@LINK=風停哂
@@ -15886,14 +15901,14 @@
 风炉
 @@@LINK=風爐
 </>
+风穙
+@@@LINK=風穙
+</>
 风箱
 @@@LINK=風箱
 </>
 风谷
 @@@LINK=風穀
-</>
-风𦢊
-@@@LINK=風𦢊
 </>
 飛剪
 【飛剪（飞剪）】 fi1 zin2 [fi55 tʃin35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P58 附：[fi55 tsin35]</li><li><span style="font-weight: bold">詞例、解釋：</span>推子</li><li><span style="font-weight: bold">分類：</span>八、器具、用品（4）工匠用具/推子</li></ul>
@@ -17049,21 +17064,6 @@
 </>
 𠖫
 【𠖫】 kam2 [kʰɐm35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P62 附：[kʰɐm35]</li><li><span style="font-weight: bold">詞例、解釋：</span>蓋</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/蓋</li></ul>
-</>
-𢳂水
-【𢳂水】 bat1 sui2 [pɐt5 ʃui35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[pɐt5 sui35]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀水</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（3）住/舀水</li></ul>
-</>
-𢳂汤
-@@@LINK=𢳂湯
-</>
-𢳂湯
-【𢳂湯（𢳂汤）】 bat1 tong1 [pɐt5 tʰɔŋ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[pɐt5 tʰɔŋ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>舀湯</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/舀湯</li></ul>
-</>
-𢳂飯
-【𢳂飯（𢳂饭）】 bat1 faan6 [pɐt5 fan22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P54 附：[pɐt5 fan22]</li><li><span style="font-weight: bold">詞例、解釋：</span>盛飯1</li><li><span style="font-weight: bold">分類：</span>十六、日常生活（2）食/盛飯</li></ul>
-</>
-𢳂饭
-@@@LINK=𢳂飯
 </>
 𢴬交
 【𢴬交】 baan3 geu1 [pan33 kɛu55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年楊煥典主編《廣西通誌·漢語方言誌》P63 附：[pan33 kɛu55]</li><li><span style="font-weight: bold">詞例、解釋：</span>摔了2</li><li><span style="font-weight: bold">備註：</span>原文[pan33]有音無字</li><li><span style="font-weight: bold">分類：</span>二十二、動作（1）一般動作/摔倒</li></ul>

@@ -1438,11 +1438,14 @@
 髀
 【髀】 bi2 [pi35] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P20 附：[pi35]</li><li><span style="font-weight: bold">詞例、解釋：</span>腿2</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>六、身體/腿</li></ul>
 </>
+高丟丟
+【高丟丟（高丢丢）】 gu1 neu4 neu4 [ku55 nɛu21 nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[ku55 nɛu21 nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高得瘦而單薄</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[nɛu21 nɛu21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
+</>
+高丢丢
+@@@LINK=高丟丟
+</>
 高哐哐
 【高哐哐】 gu1 kwang4 kwang4 [ku55 kʷʰɐŋ21 kʷʰɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P27 附：[ku55 kʷʰɐŋ21 kʷʰɐŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高1</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[kʷʰɐŋ21 kʷʰɐŋ21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
-</>
-高嫋嫋
-【高嫋嫋（高袅袅）】 gu1 neu4 neu4 [ku55 nɛu21 nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P56 附：[ku55 nɛu21 nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>高得瘦而單薄</li><li><span style="font-weight: bold">備註：</span>詞表外。原文[nɛu21 nɛu21]有音無字</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/高</li></ul>
 </>
 高层层
 @@@LINK=高層層
@@ -1455,9 +1458,6 @@
 </>
 高竇
 【高竇（高窦）】 gu1 dau3 [ku55 tɐu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年楊煥典《南寧話音檔》P52 附：[ku55 tɐu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>擺架子</li><li><span style="font-weight: bold">備註：</span>詞表外。原文未標音</li><li><span style="font-weight: bold">分類：</span>十四、形容詞/擺架子</li></ul>
-</>
-高袅袅
-@@@LINK=高嫋嫋
 </>
 鬼头鬼脑
 @@@LINK=鬼頭鬼腦

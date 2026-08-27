@@ -29,7 +29,7 @@
 【㗚】 lot2 [lot3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[lot3]</li><li><span style="font-weight: bold">詞例、解釋：</span>～人：騙人</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 㗾
-【㗾】 he4 [he21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8，16 附：[he21]</li><li><span style="font-weight: bold">詞例、解釋：</span>唏[hi21]梨～咧[le21]：氣管有毛病時的呼吸聲</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字，誤作「唏梨～～」，據P16校正</li></ul>
+【㗾】 he4 [he21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8，16 附：[he21]</li><li><span style="font-weight: bold">詞例、解釋：</span>唏[hi21]梨～咧[le21]：氣管有毛病時的呼吸聲</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字，誤作「唏梨～～」，據正文P16校正</li></ul>
 </>
 㘆
 【㘆】 taai2 [tʰai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P10，11 附：[tʰai33]</li><li><span style="font-weight: bold">詞例、解釋：</span>語言不純粹，不地道：渠講普通話～多（太不地道）</li></ul>
@@ -126,6 +126,9 @@
 </>
 㽉
 【㽉】 bam6 [pɐm22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[pɐm22]</li><li><span style="font-weight: bold">詞例、解釋：</span>裝米的小口罈</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
+㿺
+【㿺】 buk3 [pok5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24，25 附：[pok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>包；大疙瘩：頭撞起一隻～</li></ul>
 </>
 䁬
 【䁬】 slang4 [ɬɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P18，19 附：[ɬəŋ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>懵～～：糊糊塗塗</li><li><span style="font-weight: bold">備註：</span>原文作「䒏」字</li></ul>
@@ -647,7 +650,7 @@
 【吽】 ngau6 [ŋɐu22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P665 附：[ŋɐu22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～哣[tɐu22]：迷糊，不清醒。也可以讀作～～哣[tɐu22]哣[tɐu22]</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 呀
-【呀】 jaa4 [ja21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[∅ia21]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示輕微的驚異</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字</li></ul>
+【呀】 jaa4 [ja21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[∅ia21]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示輕微的驚異</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字</li></ul>
 </>
 呀
 【呀】 jaa4 [ja21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[ja21]</li><li><span style="font-weight: bold">詞例、解釋：</span>呀，語氣詞</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -704,7 +707,7 @@
 【咑】 daa3 [ta55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ta55]</li><li><span style="font-weight: bold">詞例、解釋：</span>剁轤～喇[la55]：東西掉落聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字。應作「嘟嚕咑喇」</li></ul>
 </>
 咔
-【咔】 gaa4 [ka21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ka21]</li><li><span style="font-weight: bold">詞例、解釋：</span>卡：魚骨～頸啊</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【咔】 gaa4 [ka21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[ka21]</li><li><span style="font-weight: bold">詞例、解釋：</span>卡：魚骨～頸啊</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 咕
 【咕】 gu4 [ku21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ku21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～咕[ku24]～：稱男童生殖器</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -743,7 +746,7 @@
 【哆】 de1 [te53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[te53]</li><li><span style="font-weight: bold">詞例、解釋：</span>嗬[ho21]～：嗩吶</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 哈
-【哈】 haa6 [ha22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[ha22]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示驚嘆</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字</li></ul>
+【哈】 haa6 [ha22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[ha22]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示驚嘆</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字</li></ul>
 </>
 哈
 【哈】 ngaap3 [ŋap5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[ŋap5]</li><li><span style="font-weight: bold">詞例、解釋：</span>開口～～，開口發呆，看傻了</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -824,10 +827,10 @@
 【啊】 aa4 [∅a21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[∅a21]</li><li><span style="font-weight: bold">詞例、解釋：</span>吆～～：哇哇叫</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 啊
-【啊】 aa5 [∅a24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[∅a24]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示驚異</li></ul>
+【啊】 aa5 [∅a24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[∅a24]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示驚異</li></ul>
 </>
 啊
-【啊】 aa6 [∅a22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[∅a22]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示輕微驚異</li></ul>
+【啊】 aa6 [∅a22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[∅a22]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示輕微驚異</li></ul>
 </>
 啖
 【啖】 daam6 [tam22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P14，15 附：[tam22]</li><li><span style="font-weight: bold">詞例、解釋：</span>量詞，一口的數量：飲一～湯</li></ul>
@@ -1163,7 +1166,7 @@
 【囗(saa3)】 saa3 [ʃa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P662 附：[ʃa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>抽打</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 囗(saa6)
-【囗(saa6)】 saa6 [ʃa22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[sa22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～蟲：給農作物噴藥殺死害蟲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【囗(saa6)】 saa6 [ʃa22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[sa22]</li><li><span style="font-weight: bold">詞例、解釋：</span>～蟲：給農作物噴藥殺死害蟲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 囗(slaang5)
 【囗(slaang5)】 slaang5 [ɬaŋ24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P18 附：[ɬaŋ24]</li><li><span style="font-weight: bold">詞例、解釋：</span>穿着不整齊：渠～一世</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -1442,7 +1445,7 @@
 【屯】 lan5 [lɐn24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P669 附：[lɐn24]</li><li><span style="font-weight: bold">詞例、解釋：</span>(水)滿溢</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 岔
-【岔】 caa3 [tʃʰa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[tsʰa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打～：打斷別人的談話</li></ul>
+【岔】 caa3 [tʃʰa55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[tsʰa55]</li><li><span style="font-weight: bold">詞例、解釋：</span>打～：打斷別人的談話</li></ul>
 </>
 岳
 @@@LINK=嶽
@@ -2504,7 +2507,7 @@
 【杧】 maang1 [maŋ53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P670 附：[maŋ53]</li><li><span style="font-weight: bold">詞例、解釋：</span>芒果</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 杵
-【杵】 cyu5 [tʃʰy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[tsʰy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>舂～</li><li><span style="font-weight: bold">備註：</span>但《廣西通誌·漢語方言誌》P271寫作「舂柱」，「柱」不送氣</li></ul>
+【杵】 cyu5 [tʃʰy24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[tsʰy24]</li><li><span style="font-weight: bold">詞例、解釋：</span>舂～</li><li><span style="font-weight: bold">備註：</span>但《廣西通誌·漢語方言誌》P271寫作「舂柱」，「柱」不送氣</li></ul>
 </>
 板
 【板】 paan2 [pʰan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》P161，361 附：[pʰan33]</li><li><span style="font-weight: bold">詞例、解釋：</span>手～心，手掌心；腳～心，腳掌心</li></ul>
@@ -2693,7 +2696,7 @@
 【欸】 e1 [∅e53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[∅e53]</li><li><span style="font-weight: bold">詞例、解釋：</span>嘆詞，表示驚異</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 欻
-【欻】 caa6 [tʃʰa22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[tsʰa22]</li><li><span style="font-weight: bold">詞例、解釋：</span>鍋燒熱後將菜放入時發出的聲音</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【欻】 caa6 [tʃʰa22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[tsʰa22]</li><li><span style="font-weight: bold">詞例、解釋：</span>鍋燒熱後將菜放入時發出的聲音</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 欽
 【欽（钦）】 ham1 [hɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P14 附：[həm53]</li></ul>
@@ -2723,7 +2726,7 @@
 【毅】 ngai6 [ŋɐi22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P10 附：[ŋəi22]</li></ul>
 </>
 毅
-【毅】 nji3 [ȵi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[ɲi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>用於人名：陳～</li></ul>
+【毅】 nji3 [ȵi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[ɲi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>用於人名：陳～</li></ul>
 </>
 母
 【母】 mu2 [mu33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2000年李連進《南寧近郊平話方言島》P66 附：[mu33]</li><li><span style="font-weight: bold">詞例、解釋：</span>姨～，母親的姐姐</li></ul>
@@ -2763,9 +2766,6 @@
 </>
 沓
 【沓】 nep6 [nɛp2] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P21 附：[nep2]</li><li><span style="font-weight: bold">詞例、解釋：</span>軟～～：身體困軟而無力</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-沕
-【沕】 mi3 [mi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[mi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>倒(液體)：～啲茶出來</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 没
 @@@LINK=沒
@@ -2914,6 +2914,9 @@
 滑
 【滑】 waat3 [wat5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[βat5]</li><li><span style="font-weight: bold">詞例、解釋：</span>生～～：(鷄、魚等)活蹦亂跳的</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
+滗
+@@@LINK=潷
+</>
 滲
 【滲（渗）】 jaam3 [jam55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P14 附：[∅iam55]</li><li><span style="font-weight: bold">詞例、解釋：</span>～水：水滲出</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -2953,6 +2956,9 @@
 潰
 【潰（溃）】 kwai3 [kʷʰɐi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P10 附：[kʰuəi55]</li></ul>
 </>
+潷
+【潷（滗）】 mi3 [mi55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[mi55]</li><li><span style="font-weight: bold">詞例、解釋：</span>倒(液體)：～啲茶出來</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+</>
 澇
 【澇（涝）】 laau6 [lau22] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P664 附：[lau22]</li><li><span style="font-weight: bold">詞例、解釋：</span>溣[lɐn22]溣[lɐn22]～～：田水滿溢</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
@@ -2975,7 +2981,7 @@
 【瀰（弥）】 me4 [me21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2000年李連進《南寧近郊平話方言島》P66 附：[mE21]</li><li><span style="font-weight: bold">詞例、解釋：</span>乳房</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 灑
-【灑（洒）】 slaa4 [ɬa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7 附：[ɬa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：落雨～～(雨唰唰地下)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
+【灑（洒）】 slaa4 [ɬa21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[ɬa21]</li><li><span style="font-weight: bold">詞例、解釋：</span>象聲詞：落雨～～(雨唰唰地下)</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 灒
 【灒（𪷽）】 zaat3 [tʃat5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[tsat5]</li><li><span style="font-weight: bold">詞例、解釋：</span>濺：捱汽車～得一身泥水</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -3203,7 +3209,7 @@
 【痞】 be5 [pe24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[pe24]</li><li><span style="font-weight: bold">詞例、解釋：</span>發羊～：患羊角風</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 瘀
-【瘀】 jyu2 [jy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[∅y33]</li><li><span style="font-weight: bold">詞例、解釋：</span>(青菜等)被長時間抓拿而不鮮</li><li><span style="font-weight: bold">備註：</span>原文作「菸」字</li></ul>
+【瘀】 jyu2 [jy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[∅y33]</li><li><span style="font-weight: bold">詞例、解釋：</span>(青菜等)被長時間抓拿而不鮮</li><li><span style="font-weight: bold">備註：</span>原文作「菸」字</li></ul>
 </>
 瘀
 【瘀】 jyu2 [jy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P663 附：[jy33]</li><li><span style="font-weight: bold">詞例、解釋：</span>蔫</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -3482,7 +3488,7 @@
 【笠】 lap3 [lɐp5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[lɐp5]</li><li><span style="font-weight: bold">詞例、解釋：</span>竹簍</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
 笡
-【笡】 ce3 [tʃʰe55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[tsʰe55]</li><li><span style="font-weight: bold">詞例、解釋：</span>陡：亞隻嶺好～</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字</li></ul>
+【笡】 ce3 [tʃʰe55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[tsʰe55]</li><li><span style="font-weight: bold">詞例、解釋：</span>陡：亞隻嶺好～</li><li><span style="font-weight: bold">備註：</span>原文P8有音無字</li></ul>
 </>
 笪
 【笪】 daat2 [tat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22，23 附：[tat3]</li><li><span style="font-weight: bold">詞例、解釋：</span>洞～：用於搭蓋棚子等的竹蓆</li></ul>
@@ -3953,7 +3959,7 @@
 【菴（庵）】 em1 [∅ɛm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P15 附：[∅em53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～根：蕨菜</li><li><span style="font-weight: bold">備註：</span>原文有音無字，參見1994年閉克朝《廣西橫縣平話詞彙（二）》有「菴茅、簸菴」</li></ul>
 </>
 菸
-【菸（烟）】 jyu2 [jy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[∅y33]</li><li><span style="font-weight: bold">詞例、解釋：</span>(青菜等)被長時間抓拿而不鮮</li><li><span style="font-weight: bold">備註：</span>又作「瘀」字</li></ul>
+【菸（烟）】 jyu2 [jy33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[∅y33]</li><li><span style="font-weight: bold">詞例、解釋：</span>(青菜等)被長時間抓拿而不鮮</li><li><span style="font-weight: bold">備註：</span>又作「瘀」字</li></ul>
 </>
 落
 【落】 laak5 [lak24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24，25 附：[lak23]</li><li><span style="font-weight: bold">詞例、解釋：</span>～雨：下雨</li></ul>
@@ -4283,7 +4289,7 @@
 【趲（趱）】 zaan2 [tʃan33] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》P154 附：[tsan33]</li><li><span style="font-weight: bold">詞例、解釋：</span>走～，錯位</li><li><span style="font-weight: bold">備註：</span>原文作「搌」字</li></ul>
 </>
 趴
-【趴】 paa1 [pʰa53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P7，8 附：[pʰa53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～落歸：趴下來</li></ul>
+【趴】 paa1 [pʰa53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P8 附：[pʰa53]</li><li><span style="font-weight: bold">詞例、解釋：</span>～落歸：趴下來</li></ul>
 </>
 趿
 【趿】 tat2 [tʰɐt3] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P22 附：[tʰət3]</li><li><span style="font-weight: bold">詞例、解釋：</span>走動；逛：渠成日到處～</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
@@ -5124,9 +5130,6 @@
 </>
 𦛚
 【𦛚】 nam1 [nɐm53] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P666 附：[nɐm53]</li><li><span style="font-weight: bold">詞例、解釋：</span>眼瞼浮腫</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
-</>
-𦢊
-【𦢊】 buk3 [pok5] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P24，25 附：[pok5]</li><li><span style="font-weight: bold">詞例、解釋：</span>包；大疙瘩：頭撞起一隻～</li></ul>
 </>
 𦤣
 【𦤣】 bot5 [pot24] <ul type="square"><li><span style="font-weight: bold">根據：</span>1997年李榮主編《南寧平話詞典》引論P23 附：[pot23]</li><li><span style="font-weight: bold">詞例、解釋：</span>放屁聲</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>

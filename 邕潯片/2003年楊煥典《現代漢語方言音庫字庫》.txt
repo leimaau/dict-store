@@ -392,7 +392,7 @@
 【刷】 caat3 [tʃʰat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P16，17 附：[tsʰat3]</li></ul>
 </>
 刹
-【刹】 saat3 [ʃat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P10，11 附：[sat3]</li></ul>
+@@@LINK=剎
 </>
 刻
 【刻】 kak1 [kʰɐk5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P30，31 附：[kʰɐk5]</li></ul>
@@ -405,6 +405,9 @@
 </>
 前
 【前】 cin4 [tʃʰin21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P210，211 附：[tsʰin21]</li></ul>
+</>
+剎
+【剎（刹）】 saat3 [ʃat3] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P10，11 附：[sat3]</li></ul>
 </>
 剖
 【剖】 pau2 [pʰɐu35] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P347，348 附：[pʰɐu35]</li></ul>
@@ -1356,9 +1359,6 @@
 </>
 恒
 @@@LINK=恆
-</>
-恒
-【恒】 hang4 [hɐŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P280，281 附：[hɐŋ21]</li></ul>
 </>
 恤
 【恤】 slat1 [ɬɐt5] <ul type="square"><li><span style="font-weight: bold">根據：</span>2003年侯精一《現代漢語方言音庫(字庫)》P395，396 附：[ɬɐt5]</li></ul>

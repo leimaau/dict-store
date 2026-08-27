@@ -1075,12 +1075,6 @@
 呀
 【呀】 nge1 [ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P642 附：[ŋɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>哭～～：小孩哭貌</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li></ul>
 </>
-呀
-【呀】 nge1 [ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>呀[ŋɛ21]～，二胡</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
-</>
-呀
-【呀】 nge4 [ŋɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～呀[ŋɛ55]，二胡</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
-</>
 呂
 【呂（吕）】 lyu5 [ly24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ly24]</li></ul>
 </>
@@ -3133,9 +3127,6 @@
 晒
 @@@LINK=曬
 </>
-晒
-【晒】 saai3 [ʃai33] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[ʃai33]</li></ul>
-</>
 晚
 【晚】 maan5 [man24] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[man24]</li></ul>
 </>
@@ -3273,6 +3264,12 @@
 </>
 极
 @@@LINK=極
+</>
+枒
+【枒】 nge1 [ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ55]</li><li><span style="font-weight: bold">詞例、解釋：</span>枒[ŋɛ21]～，二胡</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
+</>
+枒
+【枒】 nge4 [ŋɛ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ21]</li><li><span style="font-weight: bold">詞例、解釋：</span>～枒[ŋɛ55]，二胡</li><li><span style="font-weight: bold">備註：</span>詞表，原文有音無字</li></ul>
 </>
 林
 【林】 lam4 [lɐm21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(單字) 附：[lɐm21]</li></ul>

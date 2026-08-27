@@ -883,9 +883,6 @@
 吱喳蟲
 【吱喳蟲（吱喳虫）】 zi1 zaa1 cung4 [tʃi55 tʃa55 tʃʰʊŋ21] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ʧi55 ʧa55 ʧhuŋ21 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>知了，統稱</li><li><span style="font-weight: bold">分類：</span>五、動物/知了</li></ul>
 </>
-呀呀
-【呀呀】 nge4 nge1 [ŋɛ21 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ21 ŋɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>二胡</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/二胡</li></ul>
-</>
 呕
 @@@LINK=嘔
 </>
@@ -2679,6 +2676,9 @@
 </>
 板栗
 【板栗】 baan2 lat6 [pan35 lɐt2] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[pan35 lɐt2]</li><li><span style="font-weight: bold">詞例、解釋：</span>栗子</li><li><span style="font-weight: bold">分類：</span>四、植物/栗子</li></ul>
+</>
+枒枒
+【枒枒】 nge4 nge1 [ŋɛ21 ŋɛ55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ŋɛ21 ŋɛ55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>二胡</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十六、文化/二胡</li></ul>
 </>
 枕头
 @@@LINK=枕頭
@@ -5905,8 +5905,11 @@
 高
 【高】 gu1 [ku55] <ul type="square"><li><span style="font-weight: bold">根據：</span>2015年語保工程(詞彙) 附：[ku55 ]</li><li><span style="font-weight: bold">詞例、解釋：</span>高（飛機飛得～ ）</li><li><span style="font-weight: bold">分類：</span>十八、性狀/高</li></ul>
 </>
-高嫋嫋
-【高嫋嫋】 gu1 neu4 neu4 [ku55 nɛu21 nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[ku55 nɛu21 nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，高得很單薄。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/高</li></ul>
+高丟丟
+【高丟丟（高丢丢）】 gu1 neu4 neu4 [ku55 nɛu21 nɛu21] <ul type="square"><li><span style="font-weight: bold">根據：</span>1998年陳謨志總纂《南寧市誌·文化卷》P635 附：[ku55 nɛu21 nɛu21]</li><li><span style="font-weight: bold">詞例、解釋：</span>形容詞後附加成分，高得很單薄。</li><li><span style="font-weight: bold">備註：</span>原文有音無字</li><li><span style="font-weight: bold">分類：</span>十八、性狀/高</li></ul>
+</>
+高丢丢
+@@@LINK=高丟丟
 </>
 高层层
 @@@LINK=高層層
